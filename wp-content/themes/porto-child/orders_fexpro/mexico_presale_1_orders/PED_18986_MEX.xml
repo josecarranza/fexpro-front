@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="18986" Cliente="0463" Nombre="PATRICIA OLIVO" Fecha="23/04/2021" Tipo="1" Fecha_Entrega="23/04/2021" Direccion="CERRADA LOMA BONITA NO. 33 INT. 204 COL. LOMAS ALTAS DEL. MIGUEL HIDALGO " Direccion2="Mexico Ciudad de México DISTRITO FEDERAL 11950" Vendedor="01" AgenteEmbarcador="" Observaciones="FW21 - TYPHOON MX" ResponsablePedido="" ResponsableImportacion="" Contacto="PATRICIA OLIVO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBSL52110NVY" Color="NVY" Cantidad="150" size_7="600" size_8="900" size_9="1200" size_10="600" size_11="300" Unit_Box_Qty="24" Total_Box_Qty="3600" Precio="206.54"></Linea>
+    <Linea Producto="NBASL52056BLK1" Color="BLK1" Cantidad="20" size_7="80" size_8="120" size_9="160" size_10="80" size_11="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="183.54"></Linea>
+    <Linea Producto="NBASL52056BLK2" Color="BLK2" Cantidad="90" size_7="360" size_8="540" size_9="720" size_10="360" size_11="180" Unit_Box_Qty="24" Total_Box_Qty="2160" Precio="183.54"></Linea>
+    <Linea Producto="MLBSL52100NVY" Color="NVY" Cantidad="20" size_7="80" size_8="120" size_9="160" size_10="80" size_11="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="183.54"></Linea>
+    <Linea Producto="MLBSL52101NVY1" Color="NVY1" Cantidad="40" size_7="160" size_8="240" size_9="320" size_10="160" size_11="80" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="183.54"></Linea>
+    <Linea Producto="MLBSL52101BLU" Color="BLU" Cantidad="40" size_7="160" size_8="240" size_9="320" size_10="160" size_11="80" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="183.54"></Linea>
+    <Linea Producto="MLBHD52001NVY" Color="NVY" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="413.54"></Linea>
+    <Linea Producto="MLBHD52001BLU" Color="BLU" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="413.54"></Linea>
+    <Linea Producto="NBAHD521001BLK" Color="BLK" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="413.54"></Linea>
+    <Linea Producto="NBAHD521001RED" Color="RED" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="413.54"></Linea>
+    <Linea Producto="NBAHD521001GRY" Color="GRY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="413.54"></Linea>
+    <Linea Producto="MLBBBJ521177NVY" Color="NVY" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="643.54"></Linea>
+    <Linea Producto="MLBBBJ521177BLU" Color="BLU" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="643.54"></Linea>
+  </Encabezado>
+</Sagemobile>

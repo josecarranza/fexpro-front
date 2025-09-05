@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="59207" Cliente="0000" Nombre="Joira Anderson" Fecha="20/08/2021" Tipo="1" Fecha_Entrega="20/08/2021" Direccion="Pacific Center " Direccion2="Panama  Panama 00000" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Joira Anderson" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="" Color="" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="14"></Linea>
+    <Linea Producto="" Color="" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="18" size_XS="72" size_S="144" size_M="144" size_L="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="20" size_XS="80" size_S="160" size_M="160" size_L="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="18" size_XS="72" size_S="144" size_M="144" size_L="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="23" size_XS="92" size_S="184" size_M="184" size_L="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="19" size_XS="76" size_S="152" size_M="152" size_L="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="13" size_XS="52" size_S="104" size_M="104" size_L="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="12"></Linea>
+    <Linea Producto="" Color="" Cantidad="21" size_XS="84" size_S="168" size_M="168" size_L="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="12"></Linea>
+    <Linea Producto="" Color="" Cantidad="12" size_XS="48" size_S="96" size_M="96" size_L="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="12"></Linea>
+    <Linea Producto="" Color="" Cantidad="13" size_XS="52" size_S="104" size_M="104" size_L="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="12"></Linea>
+    <Linea Producto="" Color="" Cantidad="21" size_XS="84" size_S="168" size_M="168" size_L="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="12"></Linea>
+    <Linea Producto="" Color="" Cantidad="13" size_XS="52" size_S="104" size_M="104" size_L="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="12"></Linea>
+    <Linea Producto="" Color="" Cantidad="25" size_4="50" size_6="100" size_8="100" size_10="100" size_12="100" size_14="100" size_16="50" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="5"></Linea>
+    <Linea Producto="" Color="" Cantidad="14" size_4="28" size_6="56" size_8="56" size_10="56" size_12="56" size_14="56" size_16="28" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="5"></Linea>
+    <Linea Producto="" Color="" Cantidad="21" size_4="42" size_6="84" size_8="84" size_10="84" size_12="84" size_14="84" size_16="42" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="5"></Linea>
+    <Linea Producto="" Color="" Cantidad="26" size_4="52" size_6="104" size_8="104" size_10="104" size_12="104" size_14="104" size_16="52" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="5"></Linea>
+    <Linea Producto="" Color="" Cantidad="26" size_4="52" size_6="104" size_8="104" size_10="104" size_12="104" size_14="104" size_16="52" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="5"></Linea>
+    <Linea Producto="" Color="" Cantidad="26" size_4="52" size_6="104" size_8="104" size_10="104" size_12="104" size_14="104" size_16="52" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="5.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="17" size_4="34" size_6="68" size_8="68" size_10="68" size_12="68" size_14="68" size_16="34" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="10.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="17" size_4="34" size_6="68" size_8="68" size_10="68" size_12="68" size_14="68" size_16="34" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="10.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="17" size_4="34" size_6="68" size_8="68" size_10="68" size_12="68" size_14="68" size_16="34" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="10.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8"></Linea>
+    <Linea Producto="" Color="" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8"></Linea>
+    <Linea Producto="" Color="" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8"></Linea>
+    <Linea Producto="" Color="" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8"></Linea>
+    <Linea Producto="" Color="" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8"></Linea>
+    <Linea Producto="" Color="" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8"></Linea>
+    <Linea Producto="" Color="" Cantidad="18" size_4="36" size_6="72" size_8="72" size_10="72" size_12="72" size_14="72" size_16="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="10.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="22" size_4="44" size_6="88" size_8="88" size_10="88" size_12="88" size_14="88" size_16="44" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="10.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="10.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="21" size_4="42" size_6="84" size_8="84" size_10="84" size_12="84" size_14="84" size_16="42" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="10.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="21" size_4="42" size_6="84" size_8="84" size_10="84" size_12="84" size_14="84" size_16="42" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="10.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="10.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="18" size_4="36" size_6="72" size_8="72" size_10="72" size_12="72" size_14="72" size_16="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="11.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="11.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="18" size_4="36" size_6="72" size_8="72" size_10="72" size_12="72" size_14="72" size_16="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="11.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="11.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="22" size_4="44" size_6="88" size_8="88" size_10="88" size_12="88" size_14="88" size_16="44" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="21" size_4="42" size_6="84" size_8="84" size_10="84" size_12="84" size_14="84" size_16="42" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="10.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="5"></Linea>
+    <Linea Producto="" Color="" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="5"></Linea>
+    <Linea Producto="" Color="" Cantidad="18" size_4="36" size_6="72" size_8="72" size_10="72" size_12="72" size_14="72" size_16="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="5.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="5.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="5.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="18" size_4="36" size_6="72" size_8="72" size_10="72" size_12="72" size_14="72" size_16="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="5.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="18" size_4="36" size_6="72" size_8="72" size_10="72" size_12="72" size_14="72" size_16="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="5.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="21" size_4="42" size_6="84" size_8="84" size_10="84" size_12="84" size_14="84" size_16="42" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="20" size_4="40" size_6="80" size_8="80" size_10="80" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="5"></Linea>
+    <Linea Producto="" Color="" Cantidad="20" size_4="40" size_6="80" size_8="80" size_10="80" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="5"></Linea>
+    <Linea Producto="" Color="" Cantidad="20" size_4="40" size_6="80" size_8="80" size_10="80" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="5"></Linea>
+    <Linea Producto="" Color="" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7"></Linea>
+    <Linea Producto="" Color="" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="7"></Linea>
+    <Linea Producto="" Color="" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="13"></Linea>
+    <Linea Producto="" Color="" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="16"></Linea>
+    <Linea Producto="" Color="" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="16"></Linea>
+    <Linea Producto="" Color="" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="14"></Linea>
+    <Linea Producto="" Color="" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="13"></Linea>
+    <Linea Producto="" Color="" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="13"></Linea>
+    <Linea Producto="" Color="" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="13"></Linea>
+    <Linea Producto="" Color="" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="13"></Linea>
+    <Linea Producto="" Color="" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="7"></Linea>
+    <Linea Producto="" Color="" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="27" size_S="108" size_M="216" size_L="216" size_XL="108" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="13"></Linea>
+    <Linea Producto="" Color="" Cantidad="25" size_XS="100" size_S="200" size_M="200" size_L="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="25" size_XS="100" size_S="200" size_M="200" size_L="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="12"></Linea>
+    <Linea Producto="" Color="" Cantidad="25" size_XS="100" size_S="200" size_M="200" size_L="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="12"></Linea>
+    <Linea Producto="" Color="" Cantidad="25" size_XS="100" size_S="200" size_M="200" size_L="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="12"></Linea>
+    <Linea Producto="" Color="" Cantidad="25" size_XS="100" size_S="200" size_M="200" size_L="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="12"></Linea>
+    <Linea Producto="" Color="" Cantidad="14" size_XS="56" size_S="112" size_M="112" size_L="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="198991" Cliente="0451" Nombre="ALFONSO NAVARRO" Fecha="04/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="MANUEL RODRIGUEZ NORTE 730, SANTIAGO CENTRO " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="ALFONSO NAVARRO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCNSO524201-BK1" Color="BK1" Cantidad="29" size_OS="696" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="2.5"></Linea>
+    <Linea Producto="RMDSO524201-BK2" Color="BK2" Cantidad="32" size_OS="768" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="2.5"></Linea>
+    <Linea Producto="RMDSO524201-WH1" Color="WH1" Cantidad="32" size_OS="768" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="2.5"></Linea>
+    <Linea Producto="BCNSO524201-BL1" Color="BL1" Cantidad="29" size_OS="696" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="2.5"></Linea>
+  </Encabezado>
+</Sagemobile>

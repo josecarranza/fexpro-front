@@ -1,0 +1,11 @@
+[13-Oct-2021 09:34:49 UTC] 2 headers were NOT sent before
+[02-Nov-2021 12:21:14 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/fexpro/public_html/shop/wp-content/themes/porto-child/fexpro_ss22_products_xml/mexico/only_sku_price_mexico.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/fexpro/public_html/shop/wp-content/themes/porto-child/fexpro_ss22_products_xml/mexico/only_sku_price_mexico.php on line 80
+[02-Nov-2021 12:21:14 UTC] 2 headers were NOT sent before
+[02-Nov-2021 12:21:16 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/fexpro/public_html/shop/wp-content/themes/porto-child/fexpro_ss22_products_xml/mexico/only_sku_price_mexico.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/fexpro/public_html/shop/wp-content/themes/porto-child/fexpro_ss22_products_xml/mexico/only_sku_price_mexico.php on line 80
+[02-Nov-2021 12:22:44 UTC] 2 headers were NOT sent before

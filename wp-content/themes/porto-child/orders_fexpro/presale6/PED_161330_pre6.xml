@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="161330" Cliente="0458" Nombre="Maria de Los Angeles Lira" Fecha="09/02/2023" Tipo="1" Fecha_Entrega="09/02/2023" Direccion="V. KENNEDY 9001, LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 7560356" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS CHILE - FOOTWEAR MLB Q4 TIENDA FW23&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Maria de Los Angeles Lira" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBFS523202-BL2" Color="BL2" Cantidad="27" size_7="108" size_8="162" size_9="216" size_10="108" size_11="54" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="3.5"></Linea>
+    <Linea Producto="MLBFS523202-BK1" Color="BK1" Cantidad="18" size_7="72" size_8="108" size_9="144" size_10="72" size_11="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="3.5"></Linea>
+    <Linea Producto="MLBSL523204-NV1" Color="NV1" Cantidad="27" size_7="108" size_8="162" size_9="216" size_10="108" size_11="54" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="7"></Linea>
+    <Linea Producto="MLBSL523204-BK1" Color="BK1" Cantidad="27" size_7="108" size_8="162" size_9="216" size_10="108" size_11="54" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="7"></Linea>
+  </Encabezado>
+</Sagemobile>

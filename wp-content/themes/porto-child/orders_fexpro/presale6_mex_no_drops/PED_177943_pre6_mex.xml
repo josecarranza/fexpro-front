@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="177943" Cliente="0INN" Nombre="Angel Quezada" Fecha="29/06/2023" Tipo="1" Fecha_Entrega="29/06/2023" Direccion="Humberto Lobo 540-A, Col. Del Valle 540-A" Direccion2="Mexico Nuevo León San Pedro Garza García 66220" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Angel Quezada" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="CAASO324103NV1" Color="NV1" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="72.844827583333"></Linea>
+    <Linea Producto="CAASO324104NV1" Color="NV1" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="72.844827583333"></Linea>
+    <Linea Producto="CAASO324105NV1" Color="NV1" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="115.948275875"></Linea>
+    <Linea Producto="CAASO324106BL1" Color="BL1" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="115.948275875"></Linea>
+  </Encabezado>
+</Sagemobile>

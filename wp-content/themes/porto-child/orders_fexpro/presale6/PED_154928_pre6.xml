@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="154928" Cliente="0036" Nombre="Jaime Alfaro" Fecha="07/12/2022" Tipo="1" Fecha_Entrega="07/12/2022" Direccion="Avenida Samuel Lewis, Calle 54, Edif. Afra " Direccion2="Panama Panamá Panamá City 62557" Vendedor="01" AgenteEmbarcador="" Observaciones="LIGAS Y SOCCER ROPA - Q4 GT" ResponsablePedido="" ResponsableImportacion="" Contacto="Jaime Alfaro" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCNJS523201-NV1" Color="NV1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="9"></Linea>
+    <Linea Producto="RMDJS523201-OW1" Color="OW1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="9"></Linea>
+    <Linea Producto="RMDJS523203-WH1" Color="WH1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="9"></Linea>
+    <Linea Producto="BCNJS523203-NV1" Color="NV1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="9"></Linea>
+    <Linea Producto="RMDPL523202-WH1" Color="WH1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="9.5"></Linea>
+    <Linea Producto="BCNPL523202-NV1" Color="NV1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="9.5"></Linea>
+    <Linea Producto="BCNTS523210-BK1" Color="BK1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7"></Linea>
+  </Encabezado>
+</Sagemobile>

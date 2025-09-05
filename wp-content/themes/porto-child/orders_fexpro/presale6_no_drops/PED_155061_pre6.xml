@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="155061" Cliente="0451" Nombre="Claudio Ruiz" Fecha="20/12/2022" Tipo="1" Direccion="MANUEL RODRIGUEZ 730, SANTIAGO CENTRO " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Claudio Ruiz" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASB521201-BK1" Color="BK1" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521204-BK16" Color="BK16" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521204-BK13" Color="BK13" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521204-BK15" Color="BK15" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521204-BK14" Color="BK14" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521204-BK9" Color="BK9" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521206-YL1" Color="YL1" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521206-BU1" Color="BU1" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="NBACA523206-PR1" Color="PR1" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="9"></Linea>
+    <Linea Producto="NBACA523206-RD1" Color="RD1" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="9"></Linea>
+    <Linea Producto="NBACA523206-BU1" Color="BU1" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="9"></Linea>
+    <Linea Producto="NBACA523206-GY1" Color="GY1" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="9"></Linea>
+    <Linea Producto="NBACA523206-BL1" Color="BL1" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="9"></Linea>
+    <Linea Producto="NBACA523207-BK1" Color="BK1" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="9"></Linea>
+    <Linea Producto="NBACA523207-BK2" Color="BK2" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="9"></Linea>
+    <Linea Producto="NBACA523207-BK3" Color="BK3" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="9"></Linea>
+    <Linea Producto="NBACA523208-BK1" Color="BK1" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="9"></Linea>
+    <Linea Producto="NBACA523208-BK2" Color="BK2" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="9"></Linea>
+  </Encabezado>
+</Sagemobile>

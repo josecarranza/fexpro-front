@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="198615" Cliente="0453" Nombre="Ruperto Gallegos" Fecha="23/02/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="GALO PLAZA LASSO N60-122 Y SANTA LUCIA " Direccion2="Ecuador Pichincha QUITO 170512" AgenteEmbarcador="" Observaciones="ETATEX INTER MIAMI KIDS Q4 FW24" ResponsablePedido="" ResponsableImportacion="" Contacto="Ruperto Gallegos" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLSTS324205-BK1" Color="BK1" Cantidad="17" size_4="34" size_6="68" size_8="68" size_10="68" size_12="68" size_14="68" size_16="34" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="5.5"></Linea>
+    <Linea Producto="MLSTS324205-PK1" Color="PK1" Cantidad="17" size_4="34" size_6="68" size_8="68" size_10="68" size_12="68" size_14="68" size_16="34" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="5.5"></Linea>
+    <Linea Producto="MLSTS324207-BK1" Color="BK1" Cantidad="17" size_4="34" size_6="68" size_8="68" size_10="68" size_12="68" size_14="68" size_16="34" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="5.5"></Linea>
+    <Linea Producto="MLSSH324201-BK1" Color="BK1" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7"></Linea>
+    <Linea Producto="MLSHD324201-BK1" Color="BK1" Cantidad="17" size_4="34" size_6="68" size_8="68" size_10="68" size_12="68" size_14="68" size_16="34" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="13"></Linea>
+    <Linea Producto="MLSPT324201-BK1" Color="BK1" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="14"></Linea>
+  </Encabezado>
+</Sagemobile>

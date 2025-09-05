@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="26579" Cliente="LAMARINA" Nombre="Rocio Lizarda rodriguez" Fecha="31/05/2021" Tipo="1" Fecha_Entrega="31/05/2021" Direccion="AV. J. MERCED CABRERA, 1200 COL. LA COMARCA LA COMARCA" Direccion2="Mexico Colima VILLA DE ALVAREZ 28989" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Rocio Lizarda rodriguez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NIRTS62102WHT" Color="WHT" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="202.95"></Linea>
+    <Linea Producto="NIRTS62103WHT" Color="WHT" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="202.95"></Linea>
+    <Linea Producto="NIRHD62102BLK" Color="BLK" Cantidad="3" size_XS="12" size_S="24" size_M="24" size_L="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="494.45"></Linea>
+    <Linea Producto="SMTS621201PUR" Color="PUR" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="274.45"></Linea>
+    <Linea Producto="SMTS621205NVY" Color="NVY" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="202.95"></Linea>
+    <Linea Producto="ACCT62101WHT" Color="WHT" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="202.95"></Linea>
+    <Linea Producto="ACCT62101BLK" Color="BLK" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="202.95"></Linea>
+    <Linea Producto="KITS62104GRY" Color="GRY" Cantidad="3" size_XS="12" size_S="24" size_M="24" size_L="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="202.95"></Linea>
+    <Linea Producto="JLTS62101PNK" Color="PNK" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="246.95"></Linea>
+    <Linea Producto="CBTS62106WHT" Color="WHT" Cantidad="3" size_XS="12" size_S="24" size_M="24" size_L="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="202.95"></Linea>
+    <Linea Producto="ACTS62102BLK" Color="BLK" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="202.95"></Linea>
+    <Linea Producto="KIHD62101BLK" Color="BLK" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="494.45"></Linea>
+    <Linea Producto="NIRCT62108WHT" Color="WHT" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="191.95"></Linea>
+    <Linea Producto="COCCT62113WHT" Color="WHT" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="191.95"></Linea>
+    <Linea Producto="NIRTS62102PNK" Color="PNK" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="202.95"></Linea>
+  </Encabezado>
+</Sagemobile>

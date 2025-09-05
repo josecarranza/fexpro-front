@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="240020" Cliente="0001" Nombre="Samy Eskenazi" Fecha="12/12/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="0000 " Direccion2="Panama Panamá PANAMA 0000" AgenteEmbarcador="" Observaciones="REEMPLAZOS MADISON Q3 FW25" ResponsablePedido="" ResponsableImportacion="" Contacto="Samy Eskenazi" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="RMDST425201-WH1" Color="WH1" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="12.5"></Linea>
+    <Linea Producto="MLSTS325207-PK1" Color="PK1" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="5.5"></Linea>
+    <Linea Producto="NBPTS325202-RD1" Color="RD1" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6"></Linea>
+    <Linea Producto="MLBTS325207-BK2" Color="BK2" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="5.5"></Linea>
+  </Encabezado>
+</Sagemobile>

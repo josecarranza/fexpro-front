@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="161154" Cliente="0494" Nombre="Nelson Zeballos" Fecha="30/01/2023" Tipo="1" Direccion="Ernesto Guevara y Gua’a Hovy 2483 " Direccion2="Paraguay Asunción Ita Enramada 2024" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Nelson Zeballos" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATT523211-WH2" Color="WH2" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6"></Linea>
+    <Linea Producto="NBATT523211-RD1" Color="RD1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6"></Linea>
+    <Linea Producto="NBATT523211-BK3" Color="BK3" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

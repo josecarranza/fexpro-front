@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="177913" Cliente="LIVER" Nombre="LAURA ELENA PEREZ DE LEON ESPINOSA" Fecha="29/06/2023" Tipo="1" Fecha_Entrega="29/06/2023" Direccion="mario pani 200 corporativo liverpool" Direccion2="Mexico Ciudad de México CDMX 05348" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="LAURA ELENA PEREZ DE LEON ESPINOSA" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASO500004WHT1" Color="WHT1" Cantidad="13" size_OS="312" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="151.25"></Linea>
+    <Linea Producto="NBASO500004WHT2" Color="WHT2" Cantidad="13" size_OS="312" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="151.25"></Linea>
+    <Linea Producto="NBASO524101WH1" Color="WH1" Cantidad="13" size_S-M="156" size_L-XL="156" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="189.1810345"></Linea>
+    <Linea Producto="NBASO524101GY1" Color="GY1" Cantidad="13" size_S-M="156" size_L-XL="156" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="189.1810345"></Linea>
+    <Linea Producto="BCNPT524102NV3" Color="NV3" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="473.66379308333"></Linea>
+    <Linea Producto="CAATS524107NV1" Color="NV1" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="203.40517241667"></Linea>
+    <Linea Producto="CAATS524107OW1" Color="OW1" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="203.40517241667"></Linea>
+    <Linea Producto="NBAPJ524102RD1" Color="RD1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="378.83620691667"></Linea>
+    <Linea Producto="NBAPJ524102GY1" Color="GY1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="378.83620691667"></Linea>
+    <Linea Producto="NBAPJ524102BK1" Color="BK1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="378.83620691667"></Linea>
+    <Linea Producto="NBABX500001GY1" Color="GY1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="284.00862070833"></Linea>
+    <Linea Producto="NBABX500001GY2" Color="GY2" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="284.00862070833"></Linea>
+    <Linea Producto="CAASO524103NV1" Color="NV1" Cantidad="13" size_OS="312" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="127.54310345833"></Linea>
+    <Linea Producto="CAASO524101BK1" Color="BK1" Cantidad="13" size_OS="312" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="80.129310333333"></Linea>
+    <Linea Producto="BCNPJ524101BL1" Color="BL1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="378.83620691667"></Linea>
+    <Linea Producto="PSGPJ524101WH1" Color="WH1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="5.21551725"></Linea>
+  </Encabezado>
+</Sagemobile>

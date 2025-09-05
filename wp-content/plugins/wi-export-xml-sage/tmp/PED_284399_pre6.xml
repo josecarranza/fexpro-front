@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="284399" Cliente="0445" Nombre="David Muñoz" Fecha="08/08/2025" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AVENIDA GALO PLAZA LASSO Y DE LOS CEREZOS # 13205" Direccion2="Ecuador Pichincha QUITO 170144" AgenteEmbarcador="" Observaciones="MARATHON ECUADOR - CAPS NIKE MLB SS26 Q2&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="David Muñoz" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NB21-00A-NK-3YB" Color="3YB" Cantidad="25" Almacen="" size_M-L="300" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="11"></Linea>
+    <Linea Producto="NB02-0GT5-NK-YPH" Color="YPH" Cantidad="17" Almacen="" size_OS="204" Unit_Box_Qty="12" Total_Box_Qty="204" Precio="11.5"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="91644" Cliente="0000" Nombre="Paula Soto" Fecha="11/12/2021" Tipo="1" Fecha_Entrega="11/12/2021" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES " Direccion2="Chile  SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS CHILE - MUJER MLB TIENDA FW22" ResponsablePedido="" ResponsableImportacion="" Contacto="Paula Soto" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBTS622201-WHT" Color="WHT" Cantidad="77" size_XS="308" size_S="616" size_M="616" size_L="308" Unit_Box_Qty="24" Total_Box_Qty="1848" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS622201-BLK" Color="BLK" Cantidad="77" size_XS="308" size_S="616" size_M="616" size_L="308" Unit_Box_Qty="24" Total_Box_Qty="1848" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS622201-WHT1" Color="WHT1" Cantidad="39" size_XS="156" size_S="312" size_M="312" size_L="156" Unit_Box_Qty="24" Total_Box_Qty="936" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS622201-BLU" Color="BLU" Cantidad="39" size_XS="156" size_S="312" size_M="312" size_L="156" Unit_Box_Qty="24" Total_Box_Qty="936" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS622201-WHT2" Color="WHT2" Cantidad="39" size_XS="156" size_S="312" size_M="312" size_L="156" Unit_Box_Qty="24" Total_Box_Qty="936" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS622201-NVY" Color="NVY" Cantidad="77" size_XS="308" size_S="616" size_M="616" size_L="308" Unit_Box_Qty="24" Total_Box_Qty="1848" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS622202-NVY" Color="NVY" Cantidad="77" size_XS="308" size_S="616" size_M="616" size_L="308" Unit_Box_Qty="24" Total_Box_Qty="1848" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS622202-BLU" Color="BLU" Cantidad="39" size_XS="156" size_S="312" size_M="312" size_L="156" Unit_Box_Qty="24" Total_Box_Qty="936" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS622202-NVY1" Color="NVY1" Cantidad="39" size_XS="156" size_S="312" size_M="312" size_L="156" Unit_Box_Qty="24" Total_Box_Qty="936" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS622202-GRY" Color="GRY" Cantidad="77" size_XS="308" size_S="616" size_M="616" size_L="308" Unit_Box_Qty="24" Total_Box_Qty="1848" Precio="6.5"></Linea>
+    <Linea Producto="MLBSW622201-GRY" Color="GRY" Cantidad="77" size_XS="308" size_S="616" size_M="616" size_L="308" Unit_Box_Qty="24" Total_Box_Qty="1848" Precio="14"></Linea>
+    <Linea Producto="MLBSW622201-BLK" Color="BLK" Cantidad="77" size_XS="308" size_S="616" size_M="616" size_L="308" Unit_Box_Qty="24" Total_Box_Qty="1848" Precio="14"></Linea>
+    <Linea Producto="MLBSW622201-BLU" Color="BLU" Cantidad="77" size_XS="308" size_S="616" size_M="616" size_L="308" Unit_Box_Qty="24" Total_Box_Qty="1848" Precio="14"></Linea>
+    <Linea Producto="MLBSW622201-NVY" Color="NVY" Cantidad="77" size_XS="308" size_S="616" size_M="616" size_L="308" Unit_Box_Qty="24" Total_Box_Qty="1848" Precio="14"></Linea>
+    <Linea Producto="MLBCT622201-WHT" Color="WHT" Cantidad="7" size_XS="28" size_S="56" size_M="56" size_L="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="MLBPT622201-GRY" Color="GRY" Cantidad="7" size_XS="28" size_S="56" size_M="56" size_L="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="14"></Linea>
+    <Linea Producto="MLBPT622201-BLK" Color="BLK" Cantidad="14" size_XS="56" size_S="112" size_M="112" size_L="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="14"></Linea>
+    <Linea Producto="MLBPTS622201-NVY" Color="NVY" Cantidad="7" size_XS="28" size_S="56" size_M="56" size_L="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="12"></Linea>
+    <Linea Producto="MLBSBR622201-BLK" Color="BLK" Cantidad="7" size_XS="28" size_S="56" size_M="56" size_L="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="MLBPT622202-BLK" Color="BLK" Cantidad="39" size_XS="156" size_S="312" size_M="312" size_L="156" Unit_Box_Qty="24" Total_Box_Qty="936" Precio="12"></Linea>
+    <Linea Producto="MLBPT622202-NVY" Color="NVY" Cantidad="39" size_XS="156" size_S="312" size_M="312" size_L="156" Unit_Box_Qty="24" Total_Box_Qty="936" Precio="12"></Linea>
+    <Linea Producto="MLBPT622202-GRY" Color="GRY" Cantidad="39" size_XS="156" size_S="312" size_M="312" size_L="156" Unit_Box_Qty="24" Total_Box_Qty="936" Precio="12"></Linea>
+    <Linea Producto="MLBSH622201-BLK" Color="BLK" Cantidad="64" size_XS="256" size_S="512" size_M="512" size_L="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="10"></Linea>
+    <Linea Producto="MLBSH622201-BLU" Color="BLU" Cantidad="39" size_XS="156" size_S="312" size_M="312" size_L="156" Unit_Box_Qty="24" Total_Box_Qty="936" Precio="10"></Linea>
+    <Linea Producto="MLBSH622201-AQA" Color="AQA" Cantidad="26" size_XS="104" size_S="208" size_M="208" size_L="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="10"></Linea>
+    <Linea Producto="MLBSH622201-RED" Color="RED" Cantidad="39" size_XS="156" size_S="312" size_M="312" size_L="156" Unit_Box_Qty="24" Total_Box_Qty="936" Precio="10"></Linea>
+    <Linea Producto="MLBSH622201-LHB" Color="LHB" Cantidad="26" size_XS="104" size_S="208" size_M="208" size_L="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="10"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="91452" Cliente="0001" Nombre="Samy Eskenazi" Fecha="09/12/2021" Tipo="1" Fecha_Entrega="09/12/2021" Direccion="0000 " Direccion2="Panama  PANAMA 0000" Vendedor="01" AgenteEmbarcador="" Observaciones="NBA Ninas" ResponsablePedido="" ResponsableImportacion="" Contacto="Samy Eskenazi" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS422223-YEL" Color="YEL" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6"></Linea>
+    <Linea Producto="NBATS422223-RED" Color="RED" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6"></Linea>
+    <Linea Producto="NBALG422229-PUR" Color="PUR" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9.5"></Linea>
+    <Linea Producto="NBALG422229-BLK" Color="BLK" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9.5"></Linea>
+    <Linea Producto="NBATT422220-PUR" Color="PUR" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9"></Linea>
+    <Linea Producto="NBATT422220-BLK" Color="BLK" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9"></Linea>
+    <Linea Producto="NBASH422220-PUR" Color="PUR" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9"></Linea>
+    <Linea Producto="NBASH422220-BLK" Color="BLK" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9"></Linea>
+  </Encabezado>
+</Sagemobile>

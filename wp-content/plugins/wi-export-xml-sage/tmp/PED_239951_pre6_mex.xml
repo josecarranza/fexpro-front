@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="239951" Cliente="0000" Nombre="Karla Malanco" Fecha="10/12/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Benito Juarez 1 Macrocentro 2 San mateo Cuautepec" Direccion2="Mexico Ciudad de México EDO de MEX 54948" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Karla Malanco" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="03AZ00A73A0M" Color="A0M" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="1232.28448275"></Linea>
+    <Linea Producto="03AZ00A7LA0M" Color="A0M" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="1232.28448275"></Linea>
+    <Linea Producto="03AZ41S7RDA0M" Color="A0M" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="1232.28448275"></Linea>
+    <Linea Producto="03AZ65N7GA0M" Color="A0M" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="1232.28448275"></Linea>
+    <Linea Producto="03AV00A732FB" Color="2FB" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="1327.112069"></Linea>
+    <Linea Producto="03AV00A7L2FB" Color="2FB" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="1327.112069"></Linea>
+    <Linea Producto="03AV41S7RD2FB" Color="2FB" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="1327.112069"></Linea>
+    <Linea Producto="03AV65N7G2FB" Color="2FB" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="1327.112069"></Linea>
+    <Linea Producto="N19900A7LCLH" Color="CLH" Cantidad="36" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="12" Total_Box_Qty="432" Precio="426.25"></Linea>
+    <Linea Producto="N19906G7RDCLH" Color="CLH" Cantidad="36" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="12" Total_Box_Qty="432" Precio="426.25"></Linea>
+    <Linea Producto="N19906G9BCLH" Color="CLH" Cantidad="36" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="12" Total_Box_Qty="432" Precio="426.25"></Linea>
+    <Linea Producto="N19965N7GCLH" Color="CLH" Cantidad="36" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="12" Total_Box_Qty="432" Precio="426.25"></Linea>
+  </Encabezado>
+</Sagemobile>

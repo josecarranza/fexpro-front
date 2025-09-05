@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="198598" Cliente="0002" Nombre="Tzaji Levy" Fecha="20/02/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="ALBROOK MALL " Direccion2="Panama Panamá panama 0801" AgenteEmbarcador="" Observaciones="NFL BASICOS MEN KIDS KADIMA Q4 FW24" ResponsablePedido="" ResponsableImportacion="" Contacto="Tzaji Levy" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NFLJS319101-NVY" Color="NVY" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="NFLJS319105-BLK" Color="BLK" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="NFLJS319108-BLK" Color="BLK" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="NFLJS321000-AQU" Color="AQU" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="11.5"></Linea>
+    <Linea Producto="NFLJS321000-NVY" Color="NVY" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="11.5"></Linea>
+    <Linea Producto="NFLJS321000-BLK" Color="BLK" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="11.5"></Linea>
+    <Linea Producto="NFLJS321000-BLK3" Color="BLK3" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="11.5"></Linea>
+    <Linea Producto="NFLJS321000-RED" Color="RED" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="11.5"></Linea>
+    <Linea Producto="NFLJS521000-RED" Color="RED" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-RED3" Color="RED3" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-AQU" Color="AQU" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-TEA" Color="TEA" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-PUR" Color="PUR" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-NVY" Color="NVY" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-BLK" Color="BLK" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-BLK2" Color="BLK2" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-BLK3" Color="BLK3" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-BLK5" Color="BLK5" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="12.5"></Linea>
+  </Encabezado>
+</Sagemobile>

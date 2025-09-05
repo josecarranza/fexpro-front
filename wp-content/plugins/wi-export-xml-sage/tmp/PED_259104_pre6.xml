@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="259104" Cliente="0453" Nombre="Ruperto Gallegos" Fecha="28/05/2025" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="GALO PLAZA LASSO N60-122 Y SANTA LUCIA " Direccion2="Ecuador Pichincha QUITO 170512" AgenteEmbarcador="" Observaciones="DAMA ETA Q1 2026" ResponsablePedido="" ResponsableImportacion="" Contacto="Ruperto Gallegos" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBCT626105-WH1" Color="WH1" Cantidad="16" Almacen="" size_XS="64" size_S="128" size_M="128" size_L="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="6"></Linea>
+    <Linea Producto="NBASH626103-BK1" Color="BK1" Cantidad="7" Almacen="" size_XS="28" size_S="56" size_M="56" size_L="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="9"></Linea>
+    <Linea Producto="NBACT626105-BK1" Color="BK1" Cantidad="7" Almacen="" size_XS="28" size_S="56" size_M="56" size_L="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6"></Linea>
+    <Linea Producto="MLBSH626101-RD1" Color="RD1" Cantidad="8" Almacen="" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="9"></Linea>
+    <Linea Producto="MLBHD626101-RD1" Color="RD1" Cantidad="10" Almacen="" size_XS="40" size_S="80" size_M="80" size_L="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="18"></Linea>
+    <Linea Producto="NBAJK626101-WH1" Color="WH1" Cantidad="10" Almacen="" size_XS="40" size_S="80" size_M="80" size_L="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="17"></Linea>
+    <Linea Producto="NBAHD626101-WH1" Color="WH1" Cantidad="8" Almacen="" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="14"></Linea>
+    <Linea Producto="NBAPT600001-DG1" Color="DG1" Cantidad="11" Almacen="" size_XS="44" size_S="88" size_M="88" size_L="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="10"></Linea>
+  </Encabezado>
+</Sagemobile>

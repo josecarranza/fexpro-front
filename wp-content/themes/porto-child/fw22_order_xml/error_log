@@ -1,0 +1,4 @@
+[27-Dec-2021 12:54:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WC_Order_Query' not found in /home/fexpro/public_html/shop/wp-content/themes/porto-child/fw22_order_xml/orders_xml-fw22.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fexpro/public_html/shop/wp-content/themes/porto-child/fw22_order_xml/orders_xml-fw22.php on line 9

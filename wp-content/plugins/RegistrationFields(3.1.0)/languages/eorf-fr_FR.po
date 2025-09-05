@@ -1,0 +1,706 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Extendons: Woocommerce Registration Plugin - Add Custom "
+"Registration Fields\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-02 11:32+0000\n"
+"PO-Revision-Date: 2018-05-02 11:33+0000\n"
+"Last-Translator: admin <usman.mehmood@unitedsol.net>\n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: extendons_registration_fields.php:481
+msgid "Question Woocommerece."
+msgstr "Question Woocommerece."
+
+#: extendons_registration_fields.php:486
+msgid "First Name:"
+msgstr "Prénom:"
+
+#: extendons_registration_fields.php:490
+msgid "Last Name:"
+msgstr "Nom de famille:"
+
+#: extendons_registration_fields.php:494
+msgid "Email:"
+msgstr "Email:"
+
+#: extendons_registration_fields.php:498
+msgid "Phone:"
+msgstr ""
+"Téléphone:\n"
+
+#: extendons_registration_fields.php:502
+msgid "Subject:"
+msgstr "Assujettir:"
+
+#: extendons_registration_fields.php:506
+msgid "Message:"
+msgstr "Message:"
+
+#: admin/class-eo-registration-fields-admin.php:63 admin/view/view.php:9
+msgid "Registration Fields"
+msgstr "Champs d'inscription"
+
+#: admin/class-eo-registration-fields-admin.php:66
+msgid "Enable Default Fields"
+msgstr "Activer les champs par défaut"
+
+#: admin/class-eo-registration-fields-admin.php:68
+msgid "Settings"
+msgstr ""
+"Paramètres\n"
+
+#: admin/class-eo-registration-fields-admin.php:69
+msgid "Support"
+msgstr ""
+"Soutien\n"
+
+#: admin/class-eo-registration-fields-admin.php:246 admin/view/view.php:67
+#: admin/view/view.php:75 admin/view/view.php:81 admin/view/view.php:150
+#: admin/view/view.php:158 admin/view/view.php:164 admin/view/view.php:244
+#: admin/view/view.php:252 admin/view/view.php:258 admin/view/view.php:336
+#: admin/view/view.php:344 admin/view/view.php:350 admin/view/view.php:416
+#: admin/view/view.php:424 admin/view/view.php:430 admin/view/view.php:497
+#: admin/view/view.php:505 admin/view/view.php:511 admin/view/view.php:594
+#: admin/view/view.php:602 admin/view/view.php:608 admin/view/view.php:675
+#: admin/view/view.php:683 admin/view/view.php:689 admin/view/view.php:756
+#: admin/view/view.php:764 admin/view/view.php:770 admin/view/view.php:837
+#: admin/view/view.php:845 admin/view/view.php:851 admin/view/view.php:918
+#: admin/view/view.php:926 admin/view/view.php:932 admin/view/view.php:1005
+#: admin/view/view.php:1013 admin/view/view.php:1019 admin/view/view.php:1088
+#: admin/view/view.php:1096 admin/view/view.php:1102 admin/view/view.php:1176
+#: admin/view/view.php:1184 admin/view/view.php:1190 admin/view/view.php:1422
+#: admin/view/view.php:1434 admin/view/view.php:1443 admin/view/view.php:1462
+#: admin/view/view.php:1474 admin/view/view.php:1483
+msgid "Select"
+msgstr "Sélectionner"
+
+#: admin/class-eo-registration-fields-admin.php:488
+msgid "Customer Profile"
+msgstr ""
+"Profil client\n"
+
+#: admin/view/settings.php:27
+msgid ")"
+msgstr ")"
+
+#: admin/view/settings.php:31 admin/view/settings.php:72
+#: admin/view/settings.php:404
+msgid "General Settings"
+msgstr "réglages généraux"
+
+#: admin/view/settings.php:32 admin/view/settings.php:127
+#: admin/view/settings.php:405
+msgid "Facebook Settings"
+msgstr "Paramètres Facebook"
+
+#: admin/view/settings.php:33 admin/view/settings.php:184
+#: admin/view/settings.php:406
+msgid "Twitter Settings"
+msgstr "Paramètres de Twitter"
+
+#: admin/view/settings.php:34 admin/view/settings.php:276
+#: admin/view/settings.php:407
+msgid "Google reCaptcha Settings"
+msgstr "Google reCaptcha Paramètres"
+
+#: admin/view/settings.php:38 admin/view/settings.php:408
+msgid "Collapse Menu"
+msgstr "Réduire le menu"
+
+#: admin/view/settings.php:50
+msgid "Extension configuration settings"
+msgstr "Paramètres de configuration de l'extension"
+
+#: admin/view/settings.php:52
+msgid ""
+"Configure basic settings to personalize the extension to your website "
+"specific requirements. With an enticing user interface, you can easily "
+"enable or disable an option or functionality. Try customization the "
+"extension and explore the useful features of this extension.\n"
+msgstr ""
+"Configurez les paramètres de base pour personnaliser l'extension aux "
+"exigences spécifiques de votre site Web. Avec une interface utilisateur "
+"attrayante, vous pouvez facilement activer ou désactiver une option ou une "
+"fonctionnalité. Essayez de personnaliser l'extension et d'explorer les "
+"fonctionnalités utiles de cette extension."
+
+#: admin/view/settings.php:55
+msgid "Settings Saved!"
+msgstr ""
+"Paramètres sauvegardés!\n"
+
+#: admin/view/settings.php:81
+msgid "Account Section Title"
+msgstr "Titre de la section de compte"
+
+#: admin/view/settings.php:84
+msgid "Main heading of the account section"
+msgstr "Titre principal de la section de compte"
+
+#: admin/view/settings.php:96
+msgid "Profile Section Title"
+msgstr "Profil Titre de la section"
+
+#: admin/view/settings.php:99
+msgid "Main heading of the profile section."
+msgstr "Titre principal de la section de profil."
+
+#: admin/view/settings.php:114 admin/view/view.php:1523
+#: admin/view/default_fields.php:86 front/view/edit_profile.php:42
+msgid "Save Changes"
+msgstr ""
+"Sauvegarder les modifications\n"
+
+#: admin/view/settings.php:134
+msgid "Login With Facebook"
+msgstr ""
+"Se connecter avec Facebook\n"
+
+#: admin/view/settings.php:137
+msgid "Enable or Disable login with facebook feature on registration page."
+msgstr ""
+"Activer ou désactiver la connexion avec la fonction facebook sur la page "
+"d'enregistrement."
+
+#: admin/view/settings.php:143 admin/view/settings.php:199
+#: admin/view/default_fields.php:52
+msgid "Enabled"
+msgstr ""
+"Activée\n"
+
+#: admin/view/settings.php:145 admin/view/settings.php:201
+#: admin/view/default_fields.php:51
+msgid "Disabled"
+msgstr ""
+"Désactivé\n"
+
+#: admin/view/settings.php:154
+msgid "Facebook App ID"
+msgstr "ID de l'application Facebook"
+
+#: admin/view/settings.php:157
+msgid ""
+"This is the facebook app id, you can get this id from your facebook app "
+"settings."
+msgstr ""
+"C'est l'identifiant de l'application Facebook, vous pouvez obtenir cet "
+"identifiant à partir des paramètres de votre application Facebook."
+
+#: admin/view/settings.php:168
+msgid "Facebook App Secret"
+msgstr "Secret de l'application Facebook"
+
+#: admin/view/settings.php:171
+msgid ""
+"This is the facebook app secret, you can get this id from your facebook app "
+"settings."
+msgstr ""
+"C'est le secret de l'application Facebook, vous pouvez obtenir cet "
+"identifiant à partir des paramètres de votre application Facebook."
+
+#: admin/view/settings.php:190
+msgid "Login With Twitter"
+msgstr "Connectez-vous avec Twitter"
+
+#: admin/view/settings.php:193
+msgid "Enable or Disable login with twitter feature on registration page."
+msgstr ""
+"Activer ou désactiver la connexion avec la fonctionnalité Twitter sur la "
+"page d'inscription."
+
+#: admin/view/settings.php:210
+msgid "Twitter App Consumer Key"
+msgstr "Clé du consommateur de l'application Twitter"
+
+#: admin/view/settings.php:213
+msgid ""
+"This is the twitter app consumer key, you can get this key from your twitter "
+"app keys and access token tab."
+msgstr ""
+"This is the twitter app consumer key, you can get this key from your twitter "
+"app keys and access token tab."
+
+#: admin/view/settings.php:224
+msgid "Twitter App Consumer Secret"
+msgstr "Twitter App Consumer Secret"
+
+#: admin/view/settings.php:227
+msgid ""
+"This is the twitter app consumer secret, you can get this key from your "
+"twitter app keys and access token tab."
+msgstr ""
+"C'est le secret du consommateur de l'application twitter, vous pouvez "
+"obtenir cette clé à partir de vos clés de l'application Twitter et de "
+"l'onglet token d'accès."
+
+#: admin/view/settings.php:238
+msgid "Twitter App Access Token"
+msgstr "Token d'accès à l'application Twitter"
+
+#: admin/view/settings.php:241
+msgid ""
+"This is the twitter app access token, you can get this key from your twitter "
+"app keys and access token tab."
+msgstr ""
+"Il s'agit du jeton d'accès à l'application Twitter, vous pouvez obtenir "
+"cette clé à partir de vos clés de l'application Twitter et de l'onglet token "
+"d'accès."
+
+#: admin/view/settings.php:252
+msgid "Twitter App Access Token Secret"
+msgstr "Twitter App Access Token Secret"
+
+#: admin/view/settings.php:255
+msgid ""
+"This is the twitter app access token secret, you can get this key from your "
+"twitter app keys and access token tab."
+msgstr ""
+"Il s'agit du secret de token d'accès à l'application Twitter, vous pouvez "
+"obtenir cette clé à partir de vos clés de l'application Twitter et de "
+"l'onglet token d'accès."
+
+#: admin/view/settings.php:265
+msgid ""
+"In your app permission you must check \"Request email addresses from users\" "
+"for getting user email, otherwise account will not be created."
+msgstr ""
+"Dans l'autorisation de votre application, vous devez vérifier «Demander des "
+"adresses de courrier électronique aux utilisateurs» pour obtenir le courrier "
+"électronique de l'utilisateur, sinon le compte ne sera pas créé."
+
+#: admin/view/settings.php:284
+msgid "Site Key"
+msgstr "Clé de site"
+
+#: admin/view/settings.php:287 admin/view/settings.php:301
+msgid ""
+"Go to <a href=\"https://www.google.com/recaptcha/intro/index.html\" "
+"target=\"_blank\">Google reCaptcha</a> site then click on top right "
+"reCaptcha button and follow the Instructions. Register you site by giving "
+"url path and get the secret key."
+msgstr ""
+"Accédez au <a href=\"https://www.google.com/recaptcha/intro/index.html\" "
+"target=\"_blank\"> site Google reCaptcha </a>, puis cliquez sur le bouton "
+"reCaptcha en haut à droite et suivez les instructions. Enregistrez votre "
+"site et obtenez la clé secrète."
+
+#: admin/view/settings.php:298
+msgid "Secret Key"
+msgstr "Clé secrète"
+
+#: admin/view/view.php:11
+msgid "Registration Form"
+msgstr ""
+"Formulaire d'inscription\n"
+
+#: admin/view/view.php:15
+msgid "Form Fields"
+msgstr "Champs de formulaire"
+
+#: admin/view/view.php:25
+msgid "Text"
+msgstr ""
+"Texte\n"
+
+#: admin/view/view.php:38 admin/view/view.php:120 admin/view/view.php:201
+#: admin/view/view.php:296 admin/view/view.php:388 admin/view/view.php:553
+#: admin/view/view.php:646 admin/view/view.php:726 admin/view/view.php:807
+#: admin/view/view.php:888 admin/view/view.php:976 admin/view/view.php:1061
+#: admin/view/view.php:1147 admin/view/view.php:1248
+#: admin/view/default_fields.php:32
+msgid "Label:"
+msgstr "Étiquette:"
+
+#: admin/view/view.php:41 admin/view/view.php:123 admin/view/view.php:204
+#: admin/view/view.php:299 admin/view/view.php:391 admin/view/view.php:479
+#: admin/view/view.php:556 admin/view/view.php:649 admin/view/view.php:729
+#: admin/view/view.php:810 admin/view/view.php:891 admin/view/view.php:979
+#: admin/view/view.php:1071 admin/view/view.php:1150 admin/view/view.php:1262
+#: admin/view/view.php:1274 admin/view/view.php:1285
+#: admin/view/default_fields.php:36
+msgid "Required:"
+msgstr ""
+"Champs obligatoires:\n"
+
+#: admin/view/view.php:44 admin/view/view.php:126 admin/view/view.php:207
+#: admin/view/view.php:302 admin/view/view.php:394 admin/view/view.php:559
+#: admin/view/view.php:652 admin/view/view.php:732 admin/view/view.php:813
+#: admin/view/view.php:894 admin/view/view.php:982 admin/view/view.php:1074
+#: admin/view/view.php:1153 admin/view/view.php:1266 admin/view/view.php:1278
+#: admin/view/view.php:1289
+msgid "Hide:"
+msgstr ""
+"Cacher:\n"
+
+#: admin/view/view.php:47 admin/view/view.php:129 admin/view/view.php:210
+#: admin/view/view.php:305 admin/view/view.php:397 admin/view/view.php:562
+#: admin/view/view.php:655 admin/view/view.php:735 admin/view/view.php:816
+#: admin/view/view.php:897 admin/view/view.php:985 admin/view/view.php:1077
+#: admin/view/view.php:1156 admin/view/view.php:1269 admin/view/view.php:1281
+#: admin/view/view.php:1292
+msgid "Read Only(Do not allow customers to edit in myaccount):"
+msgstr ""
+"Lecture seule (Ne pas autoriser les clients à modifier dans myaccount):"
+
+#: admin/view/view.php:50 admin/view/view.php:132 admin/view/view.php:658
+#: admin/view/view.php:738 admin/view/view.php:819 admin/view/view.php:900
+#: admin/view/view.php:988 admin/view/view.php:1159 admin/view/view.php:1400
+msgid "Placeholder:"
+msgstr "Placeholder:"
+
+#: admin/view/view.php:53 admin/view/view.php:135 admin/view/view.php:230
+#: admin/view/view.php:321 admin/view/view.php:401 admin/view/view.php:482
+#: admin/view/view.php:580 admin/view/view.php:661 admin/view/view.php:741
+#: admin/view/view.php:822 admin/view/view.php:903 admin/view/view.php:991
+#: admin/view/view.php:1064 admin/view/view.php:1162 admin/view/view.php:1406
+#: admin/view/default_fields.php:41
+msgid "Field Width:"
+msgstr "Largeur de champ:"
+
+#: admin/view/view.php:55 admin/view/view.php:137 admin/view/view.php:232
+#: admin/view/view.php:323 admin/view/view.php:403 admin/view/view.php:484
+#: admin/view/view.php:582 admin/view/view.php:663 admin/view/view.php:743
+#: admin/view/view.php:824 admin/view/view.php:905 admin/view/view.php:993
+#: admin/view/view.php:1066 admin/view/view.php:1164 admin/view/view.php:1408
+#: admin/view/default_fields.php:43
+msgid "Full Width"
+msgstr ""
+"Pleine largeur\n"
+
+#: admin/view/view.php:56 admin/view/view.php:138 admin/view/view.php:233
+#: admin/view/view.php:324 admin/view/view.php:404 admin/view/view.php:485
+#: admin/view/view.php:583 admin/view/view.php:664 admin/view/view.php:744
+#: admin/view/view.php:825 admin/view/view.php:906 admin/view/view.php:994
+#: admin/view/view.php:1067 admin/view/view.php:1165 admin/view/view.php:1409
+#: admin/view/default_fields.php:44
+msgid "Half Width"
+msgstr ""
+"Demi-largeur\n"
+
+#: admin/view/view.php:60 admin/view/view.php:142 admin/view/view.php:237
+#: admin/view/view.php:328 admin/view/view.php:408 admin/view/view.php:489
+#: admin/view/view.php:587 admin/view/view.php:668 admin/view/view.php:748
+#: admin/view/view.php:829 admin/view/view.php:910 admin/view/view.php:998
+#: admin/view/view.php:1080 admin/view/view.php:1169 admin/view/view.php:1413
+#: admin/view/default_fields.php:57
+msgid "Field Message:"
+msgstr "Message sur le terrain:"
+
+#: admin/view/view.php:64 admin/view/view.php:147 admin/view/view.php:241
+#: admin/view/view.php:333 admin/view/view.php:413 admin/view/view.php:494
+#: admin/view/view.php:591 admin/view/view.php:672 admin/view/view.php:753
+#: admin/view/view.php:834 admin/view/view.php:915 admin/view/view.php:1002
+#: admin/view/view.php:1085 admin/view/view.php:1173 admin/view/view.php:1419
+#: admin/view/view.php:1459
+msgid "Conditional Logic:"
+msgstr "Logique conditionnelle:"
+
+#: admin/view/view.php:68 admin/view/view.php:151 admin/view/view.php:245
+#: admin/view/view.php:337 admin/view/view.php:417 admin/view/view.php:498
+#: admin/view/view.php:595 admin/view/view.php:676 admin/view/view.php:757
+#: admin/view/view.php:838 admin/view/view.php:919 admin/view/view.php:1006
+#: admin/view/view.php:1089 admin/view/view.php:1177 admin/view/view.php:1423
+#: admin/view/view.php:1463
+msgid "Show"
+msgstr ""
+"Montrer\n"
+
+#: admin/view/view.php:69 admin/view/view.php:152 admin/view/view.php:246
+#: admin/view/view.php:338 admin/view/view.php:418 admin/view/view.php:499
+#: admin/view/view.php:596 admin/view/view.php:677 admin/view/view.php:758
+#: admin/view/view.php:839 admin/view/view.php:920 admin/view/view.php:1007
+#: admin/view/view.php:1090 admin/view/view.php:1178 admin/view/view.php:1424
+#: admin/view/view.php:1464
+msgid "Hide"
+msgstr ""
+"Cacher\n"
+
+#: admin/view/view.php:72 admin/view/view.php:155 admin/view/view.php:249
+#: admin/view/view.php:341 admin/view/view.php:421 admin/view/view.php:502
+#: admin/view/view.php:599 admin/view/view.php:680 admin/view/view.php:761
+#: admin/view/view.php:842 admin/view/view.php:923 admin/view/view.php:1010
+#: admin/view/view.php:1093 admin/view/view.php:1181 admin/view/view.php:1427
+#: admin/view/view.php:1467
+msgid "if value of"
+msgstr "si la valeur de"
+
+#: admin/view/view.php:82 admin/view/view.php:165 admin/view/view.php:259
+#: admin/view/view.php:351 admin/view/view.php:431 admin/view/view.php:512
+#: admin/view/view.php:609 admin/view/view.php:690 admin/view/view.php:771
+#: admin/view/view.php:852 admin/view/view.php:933 admin/view/view.php:1020
+#: admin/view/view.php:1103 admin/view/view.php:1191 admin/view/view.php:1444
+#: admin/view/view.php:1484
+msgid "is not empty"
+msgstr ""
+"n'est pas vide\n"
+
+#: admin/view/view.php:83 admin/view/view.php:166 admin/view/view.php:260
+#: admin/view/view.php:352 admin/view/view.php:432 admin/view/view.php:513
+#: admin/view/view.php:610 admin/view/view.php:691 admin/view/view.php:772
+#: admin/view/view.php:853 admin/view/view.php:934 admin/view/view.php:1021
+#: admin/view/view.php:1104 admin/view/view.php:1192 admin/view/view.php:1445
+#: admin/view/view.php:1485
+msgid "is equal to"
+msgstr ""
+"est égal à\n"
+
+#: admin/view/view.php:84 admin/view/view.php:167 admin/view/view.php:261
+#: admin/view/view.php:353 admin/view/view.php:433 admin/view/view.php:514
+#: admin/view/view.php:611 admin/view/view.php:692 admin/view/view.php:773
+#: admin/view/view.php:854 admin/view/view.php:935 admin/view/view.php:1022
+#: admin/view/view.php:1105 admin/view/view.php:1193 admin/view/view.php:1446
+#: admin/view/view.php:1486
+msgid "is not equal to"
+msgstr "n'est pas égal à"
+
+#: admin/view/view.php:85 admin/view/view.php:168 admin/view/view.php:262
+#: admin/view/view.php:354 admin/view/view.php:434 admin/view/view.php:515
+#: admin/view/view.php:612 admin/view/view.php:693 admin/view/view.php:774
+#: admin/view/view.php:855 admin/view/view.php:936 admin/view/view.php:1023
+#: admin/view/view.php:1106 admin/view/view.php:1194 admin/view/view.php:1447
+#: admin/view/view.php:1487
+msgid "is checked"
+msgstr ""
+"est vérifié\n"
+
+#: admin/view/view.php:111
+msgid "Textarea"
+msgstr "Textarea"
+
+#: admin/view/view.php:192
+msgid "Select Box"
+msgstr "Sélectionnez l'option"
+
+#: admin/view/view.php:215 admin/view/view.php:309 admin/view/view.php:566
+#: admin/view/view.php:1299 admin/view/view.php:1362
+msgid "Options:"
+msgstr "Options:"
+
+#: admin/view/view.php:219 admin/view/view.php:312 admin/view/view.php:570
+msgid "Option Value"
+msgstr "Valeur de l'option"
+
+#: admin/view/view.php:220 admin/view/view.php:313 admin/view/view.php:571
+msgid "Option Text"
+msgstr "Texte d'option"
+
+#: admin/view/view.php:222 admin/view/view.php:315 admin/view/view.php:573
+msgid "Add Option"
+msgstr "Ajouter une option"
+
+#: admin/view/view.php:287
+msgid "Multi Select Box"
+msgstr "Boîte Multi Select"
+
+#: admin/view/view.php:379
+msgid "Checkbox"
+msgstr "Case à cocher"
+
+#: admin/view/view.php:461
+msgid "Checkbox(User Acceptance)"
+msgstr "Case à cocher (acceptation par l'utilisateur)"
+
+#: admin/view/view.php:470 admin/view/view.php:1243
+msgid "Label(for internal use only):"
+msgstr "Étiquette (pour usage interne seulement):"
+
+#: admin/view/view.php:473 admin/view/view.php:1254
+msgid "Label(This will show on frontend. you can add html in this.):"
+msgstr ""
+"Label (Cela montrera sur le frontend, vous pouvez ajouter le html dans ceci.)"
+":"
+
+#: admin/view/view.php:475 admin/view/view.php:1255
+msgid ""
+"Note: This field is for just user acceptance like terms and conditions, this "
+"field will not be saved or sent in order or emails etc. You can add anchor "
+"tag to link with other page."
+msgstr ""
+"Notes: Ce champ sera utilisé comme commentaire et conditions, ce champ ne "
+"sera pas sauvegardé ou envoyé dans l'ordre ou par courriel etc. Vous pouvez "
+"ajouter une balise pour créer un lien avec une autre page."
+
+#: admin/view/view.php:544
+msgid "Radio Button"
+msgstr ""
+"Bouton radio\n"
+
+#: admin/view/view.php:637
+msgid "Date Picker"
+msgstr ""
+"Sélecteur de date\n"
+
+#: admin/view/view.php:717
+msgid "Time Picker"
+msgstr "Time Picker"
+
+#: admin/view/view.php:879
+msgid "File / Image Upload"
+msgstr "Fichier / Téléchargement d'image"
+
+#: admin/view/view.php:961
+msgid "Numeric Field"
+msgstr "Champ numérique"
+
+#: admin/view/view.php:974 admin/view/view.php:1234
+msgid "Note: Only Numbers are allowed in this field type."
+msgstr "Notes: Seuls les numéros sont autorisés dans ce type de champ."
+
+#: admin/view/view.php:1049
+msgid "Google Captcha"
+msgstr "Google Captcha"
+
+#: admin/view/view.php:1059 admin/view/view.php:1237
+msgid ""
+"Note: Before use this fields enter google captcha api Credentials in module "
+"setting tab."
+msgstr ""
+"Notes: Avant d'utiliser ces champs entrez google captcha api Informations "
+"d'identification dans l'onglet de configuration du module."
+
+#: admin/view/view.php:1133
+msgid "Color Picker Field"
+msgstr "Champ de sélection de couleur"
+
+#: admin/view/view.php:1218
+msgid "Registration Form Fields"
+msgstr "Champs de formulaire d'inscription"
+
+#: admin/view/default_fields.php:9
+msgid "Enable Default Registration Fields"
+msgstr "Activer les champs d'enregistrement par défaut"
+
+#: admin/view/default_fields.php:15
+msgid "Default Fields"
+msgstr "Champs par défaut"
+
+#: admin/view/default_fields.php:49
+msgid "Status:"
+msgstr "statut:"
+
+#: admin/view/support.php:3
+msgid "Welcome to Extendons Support – We are here to help"
+msgstr "Bienvenue chez Extendons Support - Nous sommes là pour vous aider"
+
+#: admin/view/support.php:5
+msgid ""
+"Our customer support team is powered with enthusiasm to serve you the best "
+"in solving a technical issue or answering your queries in time. If you have "
+"got a question, please do not hesitate to ask us in this easy to fill form, "
+"and we assure you a prompt reply."
+msgstr ""
+"Notre équipe de soutien à la clientèle est animée par l'enthousiasme pour "
+"vous servir le mieux pour résoudre un problème technique ou pour répondre à "
+"vos questions à temps. Si vous avez une question, n'hésitez pas à nous "
+"demander ce formulaire facile à compléter et nous vous assurons une réponse "
+"rapide."
+
+#: admin/view/support.php:42
+msgid "Extendon Active Plugin"
+msgstr "Extendon Active Plugin"
+
+#: admin/view/support.php:43
+msgid "Version"
+msgstr "Version"
+
+#: admin/view/support.php:44
+msgid "Company"
+msgstr ""
+"Compagnie\n"
+
+#: admin/view/support.php:61
+msgid "Visit plugin homepage"
+msgstr "Visiter la page d'accueil du plugin"
+
+#: admin/view/support.php:74
+#, php-format
+msgid "by %s"
+msgstr "par %s"
+
+#: admin/view/support.php:89
+msgid "Contact Extendon Support Team"
+msgstr "Contacter l'équipe de soutien Extendon"
+
+#: admin/view/support.php:91
+msgid "Your message has been successfully sent. We will contact you very soon!"
+msgstr ""
+"Votre message a été envoyé avec succès. Nous vous contacterons très bientôt!"
+
+#: admin/view/support.php:97
+msgid "First Name"
+msgstr ""
+"Prénom\n"
+
+#: admin/view/support.php:99
+msgid "Last Name"
+msgstr ""
+"Nom de famille\n"
+
+#: admin/view/support.php:104
+msgid "Your Email"
+msgstr "Votre Email"
+
+#: admin/view/support.php:114
+msgid "Select Plugin"
+msgstr "Sélectionnez le plugin"
+
+#: admin/view/support.php:121
+msgid "Message"
+msgstr "Message"
+
+#: admin/view/support.php:126
+msgid "Send Request"
+msgstr ""
+"Envoyer une demande\n"
+
+#: front/view/edit_profile.php:25
+msgid "Edit Profile"
+msgstr ""
+"Editer le profil\n"
+
+#. Name of the plugin
+msgid ""
+"Extendons: Woocommerce Registration Plugin - Add Custom Registration Fields"
+msgstr ""
+"Extendons: Woocommerce Registration Plugin - Add Custom Registration Fields"
+
+#. Description of the plugin
+msgid ""
+"Obtain additional information from customers on registration form with "
+"Woocommerce Custom Registration fields plugin. You can also allow customers "
+"to login using their social networks. This Plugin supports 10 different "
+"types of custom fields such as text box, text area, select box, multi select "
+"box, checkbox, radio button, etc."
+msgstr ""
+"Obtenez des informations supplémentaires auprès des clients sur le "
+"formulaire d'inscription avec le plugin Woocommerce Custom Registration "
+"plugin. Vous pouvez également autoriser les clients à se connecter en "
+"utilisant leurs réseaux sociaux. Ce plugin supporte 10 types différents de "
+"champs personnalisés tels que la zone de texte, la zone de texte, la boîte "
+"de sélection, la boîte de sélection multiple, la case à cocher, le bouton "
+"radio, etc."
+
+#. URI of the plugin
+msgid "http://extendons.com"
+msgstr "http://extendons.com"
+
+#. Author of the plugin
+msgid "Extendons"
+msgstr "Extendons"
+
+#. Author URI of the plugin
+msgid "http://www.extendons.com/"
+msgstr "http://www.extendons.com/"
+
+msgid "is required!"
+msgstr "est requis!"
+
+msgid "Invalid reCaptcha!"
+msgstr "ReCaptcha invalide!"

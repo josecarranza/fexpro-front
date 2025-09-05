@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="180557" Cliente="0001" Nombre="Abraham Sasporte" Fecha="15/08/2023" Tipo="1" Direccion="Panama " Direccion2="Panama Panamá Panama 00000" AgenteEmbarcador="" Observaciones="INTER MIAMI KIDS FW23 TOVA-STEVENS" ResponsablePedido="" ResponsableImportacion="" Contacto="Abraham Sasporte" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MIATS323201-BK1" Color="BK1" Cantidad="5" size_4="10" size_6="20" size_8="20" size_10="20" size_12="20" size_14="20" size_16="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="5"></Linea>
+    <Linea Producto="MIATS323201-WH1" Color="WH1" Cantidad="5" size_4="10" size_6="20" size_8="20" size_10="20" size_12="20" size_14="20" size_16="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="5"></Linea>
+    <Linea Producto="MIATS323201-PK1" Color="PK1" Cantidad="5" size_4="10" size_6="20" size_8="20" size_10="20" size_12="20" size_14="20" size_16="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="5"></Linea>
+    <Linea Producto="MIATS323202-BK1" Color="BK1" Cantidad="5" size_4="10" size_6="20" size_8="20" size_10="20" size_12="20" size_14="20" size_16="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="5"></Linea>
+    <Linea Producto="MIATS323202-WH1" Color="WH1" Cantidad="5" size_4="10" size_6="20" size_8="20" size_10="20" size_12="20" size_14="20" size_16="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="5"></Linea>
+    <Linea Producto="MIAHD323201-OW1" Color="OW1" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="11"></Linea>
+    <Linea Producto="MIAHD323201-BK1" Color="BK1" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="11"></Linea>
+    <Linea Producto="MIASH323201-BK1" Color="BK1" Cantidad="5" size_4="10" size_6="20" size_8="20" size_10="20" size_12="20" size_14="20" size_16="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9"></Linea>
+    <Linea Producto="MIASH323201-OW1" Color="OW1" Cantidad="5" size_4="10" size_6="20" size_8="20" size_10="20" size_12="20" size_14="20" size_16="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9"></Linea>
+    <Linea Producto="MIAPT323201-BK1" Color="BK1" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="11"></Linea>
+  </Encabezado>
+</Sagemobile>

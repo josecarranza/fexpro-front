@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="216480" Cliente="0633" Nombre="Francisco Corradini" Fecha="19/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Colectora Panamericana KM 25.600, B1611 " Direccion2="Argentina Buenos Aires Don Torcuato, 555555555" AgenteEmbarcador="" Observaciones="REEMPLAZO DROPS MOOV SS25 Q1" ResponsablePedido="" ResponsableImportacion="" Contacto="Francisco Corradini" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBACA500006-PR1" Color="PR1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="8"></Linea>
+    <Linea Producto="NBASB521201-GN1" Color="GN1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="8"></Linea>
+    <Linea Producto="NBACA500002-BK5" Color="BK5" Cantidad="1" size_S-M="12" size_L-XL="12" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500005-BK7" Color="BK7" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="8"></Linea>
+    <Linea Producto="NBACA500006-BK1" Color="BK1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="8"></Linea>
+    <Linea Producto="NBACA525111-BG4" Color="BG4" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="9"></Linea>
+    <Linea Producto="NBACA525112-RD1" Color="RD1" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500005-BK1" Color="BK1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="8"></Linea>
+    <Linea Producto="NBAPT525101-BK1" Color="BK1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="14"></Linea>
+    <Linea Producto="NBASW600001-OW1" Color="OW1" Cantidad="4" size_XS="16" size_S="32" size_M="32" size_L="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="10"></Linea>
+  </Encabezado>
+</Sagemobile>

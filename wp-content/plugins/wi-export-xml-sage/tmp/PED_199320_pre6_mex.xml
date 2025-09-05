@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="199320" Cliente="0000" Nombre="Frida Garcia" Fecha="15/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="BLV Atlixcoyotl 3246 " Direccion2="Mexico Puebla Puebla 72825" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Frida Garcia" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MSPTS524211BK1" Color="BK1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="215.08620691667"></Linea>
+    <Linea Producto="MSPTS524211PK1" Color="PK1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="215.08620691667"></Linea>
+    <Linea Producto="MSPTS524213BK1" Color="BK1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="215.08620691667"></Linea>
+    <Linea Producto="MSPTS524213PK1" Color="PK1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="215.08620691667"></Linea>
+    <Linea Producto="MSPTS524210BK3" Color="BK3" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="215.08620691667"></Linea>
+    <Linea Producto="MSPTS524210BK6" Color="BK6" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="215.08620691667"></Linea>
+    <Linea Producto="MSPTS524210PK1" Color="PK1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="215.08620691667"></Linea>
+    <Linea Producto="MSPHD524206BK1" Color="BK1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="473.70689654167"></Linea>
+  </Encabezado>
+</Sagemobile>

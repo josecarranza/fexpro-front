@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="181548" Cliente="TYPHOON" Nombre="PATRICIA OLIVO" Fecha="31/08/2023" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="CERRADA LOMA BONITA NO. 33 INT. 204 COL. LOMAS ALTAS DEL. MIGUEL HIDALGO " Direccion2="Mexico Ciudad de México DISTRITO FEDERAL 11950" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="PATRICIA OLIVO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MIATS523201PK1" Color="PK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="154.82758620833"></Linea>
+    <Linea Producto="MIATS523202BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="154.82758620833"></Linea>
+    <Linea Producto="MIATS323201PK1" Color="PK1" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="130.68965516667"></Linea>
+    <Linea Producto="MIATS523202WH1" Color="WH1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="154.82758620833"></Linea>
+    <Linea Producto="MIAHD523201OW1" Color="OW1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="378.96551725"></Linea>
+    <Linea Producto="MIAHD523201BK1" Color="BK1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="378.96551725"></Linea>
+    <Linea Producto="MIASW523201BK1" Color="BK1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="310"></Linea>
+    <Linea Producto="MIAPT523201BK1" Color="BK1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="310"></Linea>
+    <Linea Producto="MIATS323202BK1" Color="BK1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="130.68965516667"></Linea>
+    <Linea Producto="MIATS323202WH1" Color="WH1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="130.68965516667"></Linea>
+  </Encabezado>
+</Sagemobile>

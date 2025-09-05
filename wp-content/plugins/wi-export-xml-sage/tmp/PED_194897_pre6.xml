@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="194897" Cliente="0458" Nombre="Aurelie Manas" Fecha="29/01/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="V. KENNEDY 9001, LAS CONDES SANTIAGO " Direccion2="Chile Región Metropolitana de Santiago LAS CONDES 7560356" AgenteEmbarcador="" Observaciones="PARIS CHILE - MEN PROGRAM MESA SHORT FW24 Q4" ResponsablePedido="" ResponsableImportacion="" Contacto="Aurelie Manas" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBSH500001-NVY" Color="NVY" Cantidad="50" size_S="200" size_M="400" size_L="400" size_XL="200" Unit_Box_Qty="24" Total_Box_Qty="1200" Precio="9"></Linea>
+    <Linea Producto="NBASH500001-BK1" Color="BK1" Cantidad="80" size_S="320" size_M="640" size_L="640" size_XL="320" Unit_Box_Qty="24" Total_Box_Qty="1920" Precio="9"></Linea>
+    <Linea Producto="NBASH500001-BK2" Color="BK2" Cantidad="80" size_S="320" size_M="640" size_L="640" size_XL="320" Unit_Box_Qty="24" Total_Box_Qty="1920" Precio="9"></Linea>
+    <Linea Producto="NBASH500001-GY1" Color="GY1" Cantidad="60" size_S="240" size_M="480" size_L="480" size_XL="240" Unit_Box_Qty="24" Total_Box_Qty="1440" Precio="9"></Linea>
+  </Encabezado>
+</Sagemobile>

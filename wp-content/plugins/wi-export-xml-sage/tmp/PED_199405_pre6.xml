@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="199405" Cliente="0449" Nombre="Paola Galeano" Fecha="22/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="CALLE 99 #11A32 " Direccion2="Colombia Capital District BOGOTÁ " AgenteEmbarcador="" Observaciones="FALABELLA COLOMBIA - PIJAMAS COLECCIÓN MESSI FW24 Q4&#13;&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Paola Galeano" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MSPPJ524201-PK1" Color="PK1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="11"></Linea>
+    <Linea Producto="MSPPJ524201-BK1" Color="BK1" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="11"></Linea>
+  </Encabezado>
+</Sagemobile>

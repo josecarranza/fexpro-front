@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="92553" Cliente="SEAR" Nombre="Alejandro Servin" Fecha="17/12/2021" Tipo="1" Fecha_Entrega="17/12/2021" Direccion="LAGO ZURICH 245 EDIFICIO PRESA FALCON PISO 9 " Direccion2="Mexico Ciudad de México CIUDAD DE MÉXICO 11529" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Alejandro Servin" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASL522201-RED" Color="RED" Cantidad="15" size_40="60" size_41="90" size_43="120" size_44="60" size_45="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="309.82758620833"></Linea>
+    <Linea Producto="NBASL522201-PUR" Color="PUR" Cantidad="15" size_40="60" size_41="90" size_43="120" size_44="60" size_45="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="309.82758620833"></Linea>
+    <Linea Producto="MLBSL522201-NVY" Color="NVY" Cantidad="15" size_40="60" size_41="90" size_43="120" size_44="60" size_45="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="309.82758620833"></Linea>
+    <Linea Producto="PSGSL522202-BLU" Color="BLU" Cantidad="10" size_40="40" size_41="60" size_43="80" size_44="40" size_45="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="309.82758620833"></Linea>
+    <Linea Producto="PSGSL522201-BLK" Color="BLK" Cantidad="15" size_40="60" size_41="90" size_43="120" size_44="60" size_45="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="309.82758620833"></Linea>
+    <Linea Producto="NBASL52034-BLK" Color="BLK" Cantidad="15" size_7="60" size_8="90" size_9="120" size_10="60" size_11="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="294.31034483333"></Linea>
+    <Linea Producto="MLBFF20745-WHT2" Color="WHT2" Cantidad="15" size_40="60" size_41="90" size_43="120" size_44="60" size_45="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="294.31034483333"></Linea>
+    <Linea Producto="MLBSL52102-BLU" Color="BLU" Cantidad="15" size_40="60" size_41="90" size_43="120" size_44="60" size_45="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="258.10344829167"></Linea>
+    <Linea Producto="NBASL52035-BLK" Color="BLK" Cantidad="15" size_40="60" size_41="90" size_43="120" size_44="60" size_45="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="258.10344829167"></Linea>
+  </Encabezado>
+</Sagemobile>

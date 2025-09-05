@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="261889" Cliente="0463" Nombre="Humberto Sanchez" Fecha="19/06/2025" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AV. J. MERCED CABRERA, 1200 COL. LA COMARCA MEXICO COLIMA VILLA DE ALVAREZ 28989" Direccion2="Mexico Colima COLIMA 28989" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Humberto Sanchez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="RE260GZSWBXUFA" Color="UFA" Cantidad="1" Almacen="" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="1421.9396551667"></Linea>
+    <Linea Producto="RE260HDWWBXUFA" Color="UFA" Cantidad="1" Almacen="" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="1421.9396551667"></Linea>
+  </Encabezado>
+</Sagemobile>

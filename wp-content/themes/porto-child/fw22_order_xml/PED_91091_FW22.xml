@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="91091" Cliente="0449" Nombre="Julian Gutierrez" Fecha="07/12/2021" Tipo="1" Fecha_Entrega="07/12/2021" Direccion="CALLE 99 #11A32 " Direccion2="Colombia  BOGOTÁ " Vendedor="01" AgenteEmbarcador="" Observaciones="FALABELLA COLOMBIA MLB LIGAS FW22" ResponsablePedido="" ResponsableImportacion="" Contacto="Julian Gutierrez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PSGTS52214-BLU1" Color="BLU1" Cantidad="58" size_S="232" size_M="464" size_L="464" size_XL="232" Unit_Box_Qty="24" Total_Box_Qty="1392" Precio="6"></Linea>
+    <Linea Producto="MLBTS520200-NVY" Color="NVY" Cantidad="51" size_S="204" size_M="408" size_L="408" size_XL="204" Unit_Box_Qty="24" Total_Box_Qty="1224" Precio="6"></Linea>
+    <Linea Producto="MLBTS520200-WHT" Color="WHT" Cantidad="48" size_S="192" size_M="384" size_L="384" size_XL="192" Unit_Box_Qty="24" Total_Box_Qty="1152" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

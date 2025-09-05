@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="180561" Cliente="0001" Nombre="Samy Eskenazi" Fecha="15/08/2023" Tipo="1" Direccion="0000 " Direccion2="Panama Panamá PANAMA 0000" AgenteEmbarcador="" Observaciones="INTER MIAMI FW23 KIDS TOVA-MADISON CAMPEON" ResponsablePedido="" ResponsableImportacion="" Contacto="Samy Eskenazi" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MIATS323201-BK1" Color="BK1" Cantidad="14" size_4="28" size_6="56" size_8="56" size_10="56" size_12="56" size_14="56" size_16="28" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="5"></Linea>
+    <Linea Producto="MIATS323201-WH1" Color="WH1" Cantidad="9" size_4="18" size_6="36" size_8="36" size_10="36" size_12="36" size_14="36" size_16="18" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="5"></Linea>
+    <Linea Producto="MIATS323201-PK1" Color="PK1" Cantidad="9" size_4="18" size_6="36" size_8="36" size_10="36" size_12="36" size_14="36" size_16="18" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="5"></Linea>
+    <Linea Producto="MIATS323202-BK1" Color="BK1" Cantidad="9" size_4="18" size_6="36" size_8="36" size_10="36" size_12="36" size_14="36" size_16="18" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="5"></Linea>
+    <Linea Producto="MIATS323202-WH1" Color="WH1" Cantidad="9" size_4="18" size_6="36" size_8="36" size_10="36" size_12="36" size_14="36" size_16="18" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="5"></Linea>
+    <Linea Producto="MIAHD323201-OW1" Color="OW1" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="11"></Linea>
+    <Linea Producto="MIAHD323201-BK1" Color="BK1" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="11"></Linea>
+    <Linea Producto="MIAPT323201-BK1" Color="BK1" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="11"></Linea>
+  </Encabezado>
+</Sagemobile>

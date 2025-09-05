@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="181202" Cliente="0036" Nombre="Nathalie Gutierrez" Fecha="18/08/2023" Tipo="1" Direccion="Paseo General Escalon " Direccion2="El Salvador San Salvador San Salvador 0000000" AgenteEmbarcador="" Observaciones="SS24-Q2-RP-CAP-05-NATHALIE GUTIERREZ" ResponsablePedido="" ResponsableImportacion="" Contacto="Nathalie Gutierrez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MIATS523201-WH1" Color="WH1" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="6.5"></Linea>
+    <Linea Producto="MIATS523201-PK1" Color="PK1" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="6.5"></Linea>
+    <Linea Producto="MIATS523202-BK1" Color="BK1" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="6.5"></Linea>
+    <Linea Producto="MIACA523201-BK1" Color="BK1" Cantidad="11" size_OS="264" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7.5"></Linea>
+  </Encabezado>
+</Sagemobile>

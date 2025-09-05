@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="58505" Cliente="0450" Nombre="Bruno Chiappe" Fecha="12/08/2021" Tipo="1" Fecha_Entrega="12/08/2021" Direccion="AV. PASEO DE LA REPUBLICA 3220 " Direccion2="Peru Lima SAN ISIDRO 15047" Vendedor="01" AgenteEmbarcador="" Observaciones="FALABELLA PERU - SOCKS Y BOXER SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="Bruno Chiappe" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="" Color="" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="6.2"></Linea>
+    <Linea Producto="RMBX52201-BLK" Color="BLK" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="6.2"></Linea>
+    <Linea Producto="BCBX52201-NVY" Color="NVY" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="6.2"></Linea>
+    <Linea Producto="JVBX52201-BLK" Color="BLK" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="6.5"></Linea>
+    <Linea Producto="NBABX52208-BLK" Color="BLK" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="6.2"></Linea>
+    <Linea Producto="NBABX52209-BLK" Color="BLK" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="6.2"></Linea>
+    <Linea Producto="NBABX52211-GRN" Color="GRN" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="6.2"></Linea>
+    <Linea Producto="NBABX52213-BLK" Color="BLK" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="6.2"></Linea>
+    <Linea Producto="NBABX52203-BLK" Color="BLK" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="6.2"></Linea>
+    <Linea Producto="NBABX52205-PUR" Color="PUR" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="6.2"></Linea>
+    <Linea Producto="MLBBX52207-RED" Color="RED" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="6.5"></Linea>
+    <Linea Producto="NBABX52202-BLK" Color="BLK" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="6.2"></Linea>
+    <Linea Producto="MLBBX52203-NVY" Color="NVY" Cantidad="17" size_OS="408" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="3"></Linea>
+    <Linea Producto="RMSO52201-BLU" Color="BLU" Cantidad="17" size_OS="408" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="3"></Linea>
+    <Linea Producto="BCSO52201-NVY" Color="NVY" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="3"></Linea>
+    <Linea Producto="JVSO52201-BLK" Color="BLK" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="3"></Linea>
+    <Linea Producto="NBASO52202-RED" Color="RED" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="3"></Linea>
+    <Linea Producto="NBASO52203-BLK" Color="BLK" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="3"></Linea>
+    <Linea Producto="NBASO52205-BLK" Color="BLK" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="3"></Linea>
+    <Linea Producto="NBASO52206-GRN" Color="GRN" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="3"></Linea>
+    <Linea Producto="NBASO52207-BLU" Color="BLU" Cantidad="17" size_OS="408" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="3"></Linea>
+  </Encabezado>
+</Sagemobile>

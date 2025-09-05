@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="59178" Cliente="0000" Nombre="Antonio Godines" Fecha="19/08/2021" Tipo="1" Fecha_Entrega="19/08/2021" Direccion="Av. J. Merced Cabrera 1200 La Comarca, Villa de Alvarez" Direccion2="Mexico Sinaloa COLIMA 28989" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Antonio Godines" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBSL52101NVY1" Color="NVY1" Cantidad="2" size_7="8" size_8="12" size_9="16" size_10="8" size_11="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="263.45"></Linea>
+    <Linea Producto="NBASL52056BLK1" Color="BLK1" Cantidad="2" size_7="8" size_8="12" size_9="16" size_10="8" size_11="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="263.45"></Linea>
+    <Linea Producto="MLBSL52101NVY2" Color="NVY2" Cantidad="1" size_7="4" size_8="6" size_9="8" size_10="4" size_11="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="263.45"></Linea>
+    <Linea Producto="NBASL52204RED" Color="RED" Cantidad="4" size_7="16" size_8="24" size_9="32" size_10="16" size_11="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="274.45"></Linea>
+    <Linea Producto="NBASL52204BLK" Color="BLK" Cantidad="3" size_7="12" size_8="18" size_9="24" size_10="12" size_11="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="274.45"></Linea>
+    <Linea Producto="MLBSL52101BLU" Color="BLU" Cantidad="1" size_7="4" size_8="6" size_9="8" size_10="4" size_11="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="263.45"></Linea>
+    <Linea Producto="NBASL52203RED" Color="RED" Cantidad="2" size_7="8" size_8="12" size_9="16" size_10="8" size_11="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="274.45"></Linea>
+    <Linea Producto="MLBSL52201BLK" Color="BLK" Cantidad="1" size_7="4" size_8="6" size_9="8" size_10="4" size_11="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="274.45"></Linea>
+    <Linea Producto="NBASL52056PUR" Color="PUR" Cantidad="3" size_7="12" size_8="18" size_9="24" size_10="12" size_11="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="263.45"></Linea>
+    <Linea Producto="NBASL52204BLK2" Color="BLK2" Cantidad="1" size_7="4" size_8="6" size_9="8" size_10="4" size_11="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="274.45"></Linea>
+    <Linea Producto="NBASL52206BLK" Color="BLK" Cantidad="3" size_7="12" size_8="18" size_9="24" size_10="12" size_11="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="274.45"></Linea>
+  </Encabezado>
+</Sagemobile>

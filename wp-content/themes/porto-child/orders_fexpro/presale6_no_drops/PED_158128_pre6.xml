@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="158128" Cliente="0509" Nombre="Freddy Ramirez" Fecha="17/01/2023" Tipo="1" Direccion="CALLE 13 19 71 CC SABANA PLAZA OF M19 PISO 3 " Direccion2="Colombia Cundinamarca BOGOTÁ " AgenteEmbarcador="" Observaciones="SOCCER - NFL Y DAMA FW-23 / SPORTLINE MEDELLIN" ResponsablePedido="" ResponsableImportacion="" Contacto="Freddy Ramirez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NFLJS521000-AQU" Color="AQU" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-BLK3" Color="BLK3" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-BLK5" Color="BLK5" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-BLU2" Color="BLU2" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="12.5"></Linea>
+    <Linea Producto="PSGTT523201-BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="12"></Linea>
+    <Linea Producto="PSGSH523205-BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="12"></Linea>
+    <Linea Producto="PSGJK523206-BK1" Color="BK1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="22"></Linea>
+    <Linea Producto="PSGJK523205-BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="12"></Linea>
+    <Linea Producto="PSGCA523210-BK1" Color="BK1" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="8"></Linea>
+    <Linea Producto="PSGJS523215-BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="10"></Linea>
+    <Linea Producto="PSGTS523203-BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="8"></Linea>
+    <Linea Producto="MLBJS623101-NVY" Color="NVY" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="12"></Linea>
+    <Linea Producto="MLBJS623101-WHT" Color="WHT" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="12"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="138202" Cliente="0036" Nombre="Nathalie Gutierrez" Fecha="01/08/2022" Tipo="1" Fecha_Entrega="01/08/2022" Direccion="Paseo General Escalon " Direccion2="El Salvador San Salvador San Salvador 0000000" Vendedor="01" AgenteEmbarcador="" Observaciones="CAPS LIGAS Y SOCCER Q2" ResponsablePedido="" ResponsableImportacion="" Contacto="Nathalie Gutierrez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBACA523125-BLU1" Color="BLU1" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="NBACA523125-PUR" Color="PUR" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="NBACA523125-RED" Color="RED" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="NBACA523123-BLU1" Color="BLU1" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="NBACA523155-BLK" Color="BLK" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="9"></Linea>
+    <Linea Producto="NBACA523155-BLK1" Color="BLK1" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="9"></Linea>
+    <Linea Producto="NBACA523156-PUR" Color="PUR" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="NBACA523156-RED" Color="RED" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="NBACA523156-BUR" Color="BUR" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="NBACA523103-BLK1" Color="BLK1" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="NBACA523103-BLK2" Color="BLK2" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="NBACA523103-BLK4" Color="BLK4" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="BCCA523106-DGRY" Color="DGRY" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8.5"></Linea>
+    <Linea Producto="BCCA523106-NVY" Color="NVY" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8.5"></Linea>
+    <Linea Producto="BCCA523105-BLK" Color="BLK" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="BCCA523106-GRY" Color="GRY" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8.5"></Linea>
+    <Linea Producto="RMCA523103-WHT" Color="WHT" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="RMCA523107-NVY" Color="NVY" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="9"></Linea>
+    <Linea Producto="RMCA523107-BLK" Color="BLK" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="9"></Linea>
+    <Linea Producto="RMCA523102-NVY" Color="NVY" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="9"></Linea>
+    <Linea Producto="PSGCA523103-NVY" Color="NVY" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="PSGCA523109-NVY" Color="NVY" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="9"></Linea>
+    <Linea Producto="PSGCA523108-NVY" Color="NVY" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8.5"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="241220" Cliente="0517" Nombre="Luis Mercado" Fecha="03/01/2025" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Via España,Plaza Regency N0 177 Local N04-P/B " Direccion2="Panama Panamá Panama 0000" AgenteEmbarcador="" Observaciones="M&amp;amp;N-Q3-2025-COSTA RICA" ResponsablePedido="" ResponsableImportacion="" Contacto="Luis Mercado" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BMTRINTL1074-CBUDRBLCK" Color="CBUDRBLCK" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="13"></Linea>
+    <Linea Producto="BMTRINTL1074-GSWSCNAVY" Color="GSWSCNAVY" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13"></Linea>
+    <Linea Producto="BMTRINTL1074-TRAVCPURP" Color="TRAVCPURP" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13"></Linea>
+    <Linea Producto="BMTRINTL1074-LALMJYELL" Color="LALMJYELL" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13"></Linea>
+    <Linea Producto="BMTRINTL1074-P76AIBLCK" Color="P76AIBLCK" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13"></Linea>
+    <Linea Producto="BMTRINTL1074-CBUSPRED1" Color="CBUSPRED1" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="13"></Linea>
+    <Linea Producto="BMTRINTL1477-CBUDRBLCK" Color="CBUDRBLCK" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13"></Linea>
+    <Linea Producto="BMTRINTL1752-P76BLCKAI" Color="P76BLCKAI" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13"></Linea>
+    <Linea Producto="BMTRINTL1276-TRABLCKVC" Color="TRABLCKVC" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13"></Linea>
+  </Encabezado>
+</Sagemobile>

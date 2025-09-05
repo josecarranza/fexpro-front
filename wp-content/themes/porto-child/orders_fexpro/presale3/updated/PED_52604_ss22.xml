@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="52604" Cliente="0511" Nombre="Luis Mercado" Fecha="29/07/2021" Tipo="1" Fecha_Entrega="29/07/2021" Direccion="Via España,Plaza Regency N0 177 Local N04-P/B " Direccion2="Panama  CIUDAD DE PANAMÁ 00000" Vendedor="01" AgenteEmbarcador="" Observaciones="COMPRA REGIONAL EXCEPTO COLOMBIA" ResponsablePedido="" ResponsableImportacion="" Contacto="Luis Mercado" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="RMBX52201-BLK" Color="BLK" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="6.2"></Linea>
+    <Linea Producto="BCBX52201-NVY" Color="NVY" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="6.2"></Linea>
+    <Linea Producto="JVBX52201-BLK" Color="BLK" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="6.2"></Linea>
+    <Linea Producto="NBABX52203-BLK" Color="BLK" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="6.2"></Linea>
+    <Linea Producto="MLBBX52203-NVY" Color="NVY" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="6.2"></Linea>
+    <Linea Producto="RMSO52201-BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="3"></Linea>
+    <Linea Producto="BCSO52201-NVY" Color="NVY" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="3"></Linea>
+    <Linea Producto="JVSO52201-BLK" Color="BLK" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="3"></Linea>
+    <Linea Producto="NBASO52202-RED" Color="RED" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="3"></Linea>
+    <Linea Producto="NBASO52203-BLK" Color="BLK" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="3"></Linea>
+    <Linea Producto="NBASO52204-PUR" Color="PUR" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="3"></Linea>
+    <Linea Producto="NBASO52205-BLK" Color="BLK" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="3"></Linea>
+    <Linea Producto="NBASO52206-GRN" Color="GRN" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="3"></Linea>
+    <Linea Producto="NBASO52207-BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="3"></Linea>
+    <Linea Producto="MLBSO52201-NVY" Color="NVY" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="3"></Linea>
+    <Linea Producto="MLBSO52202-NVY" Color="NVY" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="3"></Linea>
+    <Linea Producto="MLBSO52203-BLU" Color="BLU" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="3"></Linea>
+    <Linea Producto="MLBSO52204-NVY" Color="NVY" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="3"></Linea>
+    <Linea Producto="NBASO52201-BLK" Color="BLK" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="3"></Linea>
+  </Encabezado>
+</Sagemobile>

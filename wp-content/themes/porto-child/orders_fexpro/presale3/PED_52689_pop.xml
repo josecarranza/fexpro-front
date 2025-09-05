@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="52689" Cliente="0511" Nombre="Diego Cabrera" Fecha="29/07/2021" Tipo="1" Fecha_Entrega="29/07/2021" Direccion="Parque Empresarial Siberia Bodegas 1 a 5 – Tenjo, Cund. – COLOMBIA " Direccion2="Colombia  BOGOTÁ " Vendedor="01" AgenteEmbarcador="" Observaciones="BARCELONA SS22 - SPORTLINE COLOMBIA" ResponsablePedido="" ResponsableImportacion="" Contacto="Diego Cabrera" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="" Color="" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="8"></Linea>
+    <Linea Producto="" Color="" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="7"></Linea>
+    <Linea Producto="BCSH52203-BLU" Color="BLU" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="8"></Linea>
+    <Linea Producto="" Color="" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="8.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="5.5"></Linea>
+    <Linea Producto="BCSH32203-BLU" Color="BLU" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6.5"></Linea>
+  </Encabezado>
+</Sagemobile>

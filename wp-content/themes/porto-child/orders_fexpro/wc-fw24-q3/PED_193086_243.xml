@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="193086" Cliente="0036" Nombre="CATCO CORP" Fecha="22/12/2023" Tipo="1" Fecha_Entrega="15/05/2024" Direccion="Paseo General Escalon " Direccion2="El Salvador San Salvador San Salvador 0000000" AgenteEmbarcador="" Observaciones="FW24-RP-05-UMBRO STANDARD-NATHALIE GUTIERREZ" ResponsablePedido="Nathalie Gutierrez" ResponsableImportacion="" Contacto="Nathalie Gutierrez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="UMBJS524201-LB1" Color="LB1" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="8.5"></Linea>
+    <Linea Producto="UMBJS524201-NV1" Color="NV1" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="8.5"></Linea>
+    <Linea Producto="UMBJS524201-BK1" Color="BK1" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="8.5"></Linea>
+    <Linea Producto="UMBJS524203-GN1" Color="GN1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="8"></Linea>
+    <Linea Producto="UMBJS524203-NV1" Color="NV1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="8"></Linea>
+    <Linea Producto="UMBJS524203-BK1" Color="BK1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="8"></Linea>
+    <Linea Producto="UMBSH524202-GN1" Color="GN1" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="9"></Linea>
+    <Linea Producto="UMBSH524202-BK1" Color="BK1" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="9"></Linea>
+    <Linea Producto="UMBJS524205-BL1" Color="BL1" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="8"></Linea>
+    <Linea Producto="UMBJS524205-PK1" Color="PK1" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="8"></Linea>
+    <Linea Producto="UMBJS524206-GY1" Color="GY1" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="7.5"></Linea>
+    <Linea Producto="UMBJS524206-BK1" Color="BK1" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="7.5"></Linea>
+    <Linea Producto="UMBPL524201-BL1" Color="BL1" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="9.5"></Linea>
+    <Linea Producto="UMBPL524201-GY1" Color="GY1" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="9.5"></Linea>
+    <Linea Producto="UMBSH524203-NV1" Color="NV1" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="8.5"></Linea>
+    <Linea Producto="UMBSH524203-BK1" Color="BK1" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="8.5"></Linea>
+    <Linea Producto="UMBJS524207-GN1" Color="GN1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="8"></Linea>
+    <Linea Producto="UMBJS524207-BK1" Color="BK1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="8"></Linea>
+    <Linea Producto="UMBJS524208-NV1" Color="NV1" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="8"></Linea>
+    <Linea Producto="UMBJS524208-WH1" Color="WH1" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="8"></Linea>
+    <Linea Producto="UMBLS524205-BK1" Color="BK1" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="11"></Linea>
+    <Linea Producto="UMBWR524201-GN1" Color="GN1" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="19.5"></Linea>
+    <Linea Producto="UMBPT524202-NV1" Color="NV1" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="17"></Linea>
+    <Linea Producto="UMBPT524202-BK1" Color="BK1" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="17"></Linea>
+    <Linea Producto="UMBSH524206-NV1" Color="NV1" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="8.5"></Linea>
+    <Linea Producto="UMBSH524206-BK1" Color="BK1" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="8.5"></Linea>
+    <Linea Producto="UMBSH524207-NV1" Color="NV1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="11"></Linea>
+    <Linea Producto="UMBSH524207-BK1" Color="BK1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="11"></Linea>
+  </Encabezado>
+</Sagemobile>

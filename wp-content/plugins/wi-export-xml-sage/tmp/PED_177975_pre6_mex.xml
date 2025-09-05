@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="177975" Cliente="TYPHOON" Nombre="PATRICIA OLIVO" Fecha="03/07/2023" Tipo="1" Direccion="CERRADA LOMA BONITA NO. 33 INT. 204 COL. LOMAS ALTAS DEL. MIGUEL HIDALGO " Direccion2="Mexico Ciudad de México DISTRITO FEDERAL 11950" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="PATRICIA OLIVO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASB321201-RED" Color="RED" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="137.58620691667"></Linea>
+    <Linea Producto="NBASB321201-BLK" Color="BLK" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="137.58620691667"></Linea>
+    <Linea Producto="NBASB321201-BLK2" Color="BLK2" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="137.58620691667"></Linea>
+    <Linea Producto="NBASB321201-BLK3" Color="BLK3" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="137.58620691667"></Linea>
+    <Linea Producto="NBASB321201-BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="137.58620691667"></Linea>
+    <Linea Producto="NBASB321201-GRN" Color="GRN" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="137.58620691667"></Linea>
+    <Linea Producto="NBASB321201-BLK6" Color="BLK6" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="137.58620691667"></Linea>
+    <Linea Producto="NBASB321204-BLK" Color="BLK" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="137.58620691667"></Linea>
+    <Linea Producto="NBASB321204-PUR" Color="PUR" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="137.58620691667"></Linea>
+    <Linea Producto="NBASB321204-BLU" Color="BLU" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="137.58620691667"></Linea>
+    <Linea Producto="NBASB321201-PUR" Color="PUR" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="137.58620691667"></Linea>
+    <Linea Producto="NBASB321204-RED" Color="RED" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="137.58620691667"></Linea>
+    <Linea Producto="NBASB321204-BLK2" Color="BLK2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="137.58620691667"></Linea>
+    <Linea Producto="NBASB321204-BLK3" Color="BLK3" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="137.58620691667"></Linea>
+  </Encabezado>
+</Sagemobile>

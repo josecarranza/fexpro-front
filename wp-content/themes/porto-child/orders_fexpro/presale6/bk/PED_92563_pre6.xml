@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="92563" Cliente="0000" Nombre="Catalina Cabrera" Fecha="18/12/2021" Tipo="1" Fecha_Entrega="18/12/2021" Direccion="KENNEDY 5413 PISO 6, LAS CONDES, SANTIAGO, CHILE Región Metropolitana" Direccion2="Chile  SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="RIPLEY CHILE - NBA NIÑOS FW22&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Catalina Cabrera" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="" Color="" Cantidad="20" size_4="40" size_6="80" size_8="80" size_10="80" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="7.5"></Linea>
+    <Linea Producto="NBATS322230-WHT" Color="WHT" Cantidad="20" size_4="40" size_6="80" size_8="80" size_10="80" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="7.5"></Linea>
+    <Linea Producto="NBASH322202-BLK" Color="BLK" Cantidad="20" size_4="40" size_6="80" size_8="80" size_10="80" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="9"></Linea>
+    <Linea Producto="NBASB322211-PUR" Color="PUR" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="7"></Linea>
+    <Linea Producto="NBASB322211-RED" Color="RED" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="7"></Linea>
+  </Encabezado>
+</Sagemobile>

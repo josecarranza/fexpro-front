@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="155164" Cliente="0501" Nombre="Marco Urquides" Fecha="21/12/2022" Tipo="1" Fecha_Entrega="21/12/2022" Direccion="503 SCARONI AVENUE " Direccion2="Mexico Ciudad de México CALEXICO, CA 92231" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Marco Urquides" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS521000-REDCOP" Color="REDCOP" Cantidad="1" size_S="2988" size_M="2880" size_L="2412" size_XL="2208" Unit_Box_Qty="10488" Total_Box_Qty="10488" Precio="4.7"></Linea>
+    <Linea Producto="NBATS523217-BK2COP" Color="BK2COP" Cantidad="1" size_S="2988" size_M="2880" size_L="2412" size_XL="2208" Unit_Box_Qty="10488" Total_Box_Qty="10488" Precio="4.7"></Linea>
+    <Linea Producto="MLBTS523208-WH2COP" Color="WH2COP" Cantidad="1" size_S="1476" size_M="1404" size_L="1176" size_XL="1068" Unit_Box_Qty="5124" Total_Box_Qty="5124" Precio="4.7"></Linea>
+    <Linea Producto="BABTS522201-GRYCOP" Color="GRYCOP" Cantidad="1" size_S="1452" size_M="1404" size_L="1176" size_XL="1068" Unit_Box_Qty="5100" Total_Box_Qty="5100" Precio="4.7"></Linea>
+    <Linea Producto="NBABN523113-BLKCOP" Color="BLKCOP" Cantidad="1" size_OS="10560" Unit_Box_Qty="10560" Total_Box_Qty="10560" Precio="2.05"></Linea>
+    <Linea Producto="NBABN523113-BLK1COP" Color="BLK1COP" Cantidad="1" size_OS="10608" Unit_Box_Qty="10608" Total_Box_Qty="10608" Precio="2.05"></Linea>
+    <Linea Producto="NBAHD521001-BLKCOP" Color="BLKCOP" Cantidad="1" size_S="492" size_M="648" size_L="564" size_XL="528" size_XXL="3792" Unit_Box_Qty="6024" Total_Box_Qty="6024" Precio="12.5"></Linea>
+    <Linea Producto="NBATT52205-BLK3COP" Color="BLK3COP" Cantidad="1" size_S="1668" size_M="1572" size_L="1248" size_XL="1056" size_XXL="2376" Unit_Box_Qty="7920" Total_Box_Qty="7920" Precio="7.9"></Linea>
+  </Encabezado>
+</Sagemobile>

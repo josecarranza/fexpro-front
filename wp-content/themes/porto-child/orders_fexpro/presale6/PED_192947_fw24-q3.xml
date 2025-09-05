@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="192947" Cliente="0036" Nombre="Nathalie Gutierrez" Fecha="14/12/2023" Tipo="1" Fecha_Entrega="14/12/2023" Direccion="Paseo General Escalon " Direccion2="El Salvador San Salvador San Salvador 0000000" Vendedor="01" AgenteEmbarcador="" Observaciones="FW24-Q3-RP-CAP-05-INTER MIAMI NATHALIE GUTIERREZ" ResponsablePedido="" ResponsableImportacion="" Contacto="Nathalie Gutierrez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLSCA500002-BK1" Color="BK1" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="8"></Linea>
+    <Linea Producto="MLSCA500003-BK1" Color="BK1" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="8"></Linea>
+    <Linea Producto="MLSTS524207-BK1" Color="BK1" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="7"></Linea>
+    <Linea Producto="MLSTS524207-PK1" Color="PK1" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="7"></Linea>
+    <Linea Producto="MLSTS524214-BK1" Color="BK1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="5.5"></Linea>
+    <Linea Producto="MLSTS524214-PK1" Color="PK1" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="5.5"></Linea>
+  </Encabezado>
+</Sagemobile>

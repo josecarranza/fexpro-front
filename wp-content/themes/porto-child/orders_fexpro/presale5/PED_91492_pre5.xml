@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="91492" Cliente="0001" Nombre="Oren Shabetay" Fecha="09/12/2021" Tipo="1" Fecha_Entrega="09/12/2021" Direccion="Grupo Tova Grupo Tova" Direccion2="Panama  Panama 9999" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Oren Shabetay" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="FIJS522204-RED4" Color="RED4" Cantidad="144" size_S="576" size_M="1152" size_L="1152" size_XL="576" Unit_Box_Qty="24" Total_Box_Qty="3456" Precio="9"></Linea>
+    <Linea Producto="FIJS522203-WHT5" Color="WHT5" Cantidad="72" size_S="288" size_M="576" size_L="576" size_XL="288" Unit_Box_Qty="24" Total_Box_Qty="1728" Precio="9"></Linea>
+    <Linea Producto="FIJS522207-RED4" Color="RED4" Cantidad="72" size_S="288" size_M="576" size_L="576" size_XL="288" Unit_Box_Qty="24" Total_Box_Qty="1728" Precio="9"></Linea>
+    <Linea Producto="" Color="" Cantidad="80" size_S="320" size_M="640" size_L="640" size_XL="320" Unit_Box_Qty="24" Total_Box_Qty="1920" Precio="6"></Linea>
+    <Linea Producto="FITS522202-RED5" Color="RED5" Cantidad="80" size_S="320" size_M="640" size_L="640" size_XL="320" Unit_Box_Qty="24" Total_Box_Qty="1920" Precio="6.5"></Linea>
+    <Linea Producto="FITS522201-RED5" Color="RED5" Cantidad="80" size_S="320" size_M="640" size_L="640" size_XL="320" Unit_Box_Qty="24" Total_Box_Qty="1920" Precio="6.5"></Linea>
+    <Linea Producto="FIJS522205-RED4" Color="RED4" Cantidad="144" size_S="576" size_M="1152" size_L="1152" size_XL="576" Unit_Box_Qty="24" Total_Box_Qty="3456" Precio="7"></Linea>
+  </Encabezado>
+</Sagemobile>

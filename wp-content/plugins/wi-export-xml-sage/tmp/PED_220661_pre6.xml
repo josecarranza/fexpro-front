@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="220661" Cliente="0000" Nombre="Michael Rizk" Fecha="12/09/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="EL SOCORRO #2, EXIT ROAD " Direccion2="Trinidad and Tobago  SAN JUAN TRINIDAD 0" AgenteEmbarcador="" Observaciones="MICLES Q2 SS25 KIDS ORDER" ResponsablePedido="" ResponsableImportacion="" Contacto="Michael Rizk" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCJS32203-BLU" Color="BLU" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="7.5"></Linea>
+    <Linea Producto="RMDCA700001-NV2" Color="NV2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7"></Linea>
+    <Linea Producto="RMDCA700001-WH1" Color="WH1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7"></Linea>
+    <Linea Producto="RMDCA700003-WH1" Color="WH1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7"></Linea>
+    <Linea Producto="BCNCA700003-NV2" Color="NV2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7"></Linea>
+    <Linea Producto="BCNJS300010-NV1" Color="NV1" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6.5"></Linea>
+    <Linea Producto="BCNJS300010-BK1" Color="BK1" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6.5"></Linea>
+    <Linea Producto="RMDJS300010-WH1" Color="WH1" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6.5"></Linea>
+    <Linea Producto="RMDJS300010-BK2" Color="BK2" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6.5"></Linea>
+    <Linea Producto="BCNPT300005-NV1" Color="NV1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="9"></Linea>
+    <Linea Producto="RMDPT300005-BK2" Color="BK2" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="9"></Linea>
+    <Linea Producto="BCTS323109-NVY" Color="NVY" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="5.5"></Linea>
+    <Linea Producto="BCHD323103-NVY" Color="NVY" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="12"></Linea>
+    <Linea Producto="BCHD323103-BLK" Color="BLK" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="12"></Linea>
+    <Linea Producto="RMHD323104-BLK" Color="BLK" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="12"></Linea>
+    <Linea Producto="BCNTS325109-BU1" Color="BU1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="BCNTS325109-NV1" Color="NV1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="RMDTS325109-NV2" Color="NV2" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="BCNJS325105-BU1" Color="BU1" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="9"></Linea>
+    <Linea Producto="BCNJS325105-NV1" Color="NV1" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="9"></Linea>
+    <Linea Producto="RMDJS325105-OW1" Color="OW1" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="9"></Linea>
+    <Linea Producto="RMDJS325105-NV2" Color="NV2" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="9"></Linea>
+    <Linea Producto="BCNJS325106-NV1" Color="NV1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="8.5"></Linea>
+    <Linea Producto="RMDJS325106-OW1" Color="OW1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="8.5"></Linea>
+    <Linea Producto="RMDPT325103-NV2" Color="NV2" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="13"></Linea>
+    <Linea Producto="BCNSH325104-NV1" Color="NV1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="8.5"></Linea>
+    <Linea Producto="RMDSH325104-NV2" Color="NV2" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="8.5"></Linea>
+    <Linea Producto="BCNJK325104-NV1" Color="NV1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="15.5"></Linea>
+    <Linea Producto="RMDJK325104-NV2" Color="NV2" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="15.5"></Linea>
+  </Encabezado>
+</Sagemobile>

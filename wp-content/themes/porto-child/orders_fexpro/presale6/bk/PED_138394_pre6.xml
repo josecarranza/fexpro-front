@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="138394" Cliente="0449" Nombre="Paola Galeano" Fecha="10/08/2022" Tipo="1" Fecha_Entrega="10/08/2022" Direccion="CALLE 99 #11A32 " Direccion2="Colombia Capital District BOGOTÁ " Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Paola Galeano" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS521000-YEL" Color="YEL" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="6"></Linea>
+    <Linea Producto="NBATS521000-PUR" Color="PUR" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="6"></Linea>
+    <Linea Producto="NBATS521000-BLK" Color="BLK" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="6"></Linea>
+    <Linea Producto="NBATS521000-RED" Color="RED" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6"></Linea>
+    <Linea Producto="NBATS521000-WHT" Color="WHT" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6"></Linea>
+    <Linea Producto="NBATS521000-BLK2" Color="BLK2" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6"></Linea>
+    <Linea Producto="NBATS521000-BLK3" Color="BLK3" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="6"></Linea>
+    <Linea Producto="NBATS521000-GRY" Color="GRY" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="6"></Linea>
+    <Linea Producto="NBATS521424-BLK" Color="BLK" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="92523" Cliente="0447" Nombre="Briggitte Cabello" Fecha="17/12/2021" Tipo="1" Fecha_Entrega="17/12/2021" Direccion="Avenida Ricardo Palma 141 (alt. Cuadra 54 Av. Arequipa) " Direccion2="Peru Lima Miraflores 15074" Vendedor="01" AgenteEmbarcador="" Observaciones="MARATHON GORRAS FW22" ResponsablePedido="" ResponsableImportacion="" Contacto="Briggitte Cabello" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBABC522201-BLK" Color="BLK" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="10.5"></Linea>
+    <Linea Producto="NBASB522209-RED" Color="RED" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="NBASB522211-RED" Color="RED" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="9"></Linea>
+    <Linea Producto="NBASB522216-BLK" Color="BLK" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="9"></Linea>
+    <Linea Producto="NBASB522222-BLK" Color="BLK" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8"></Linea>
+    <Linea Producto="NBASB522226-BLK1" Color="BLK1" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="9"></Linea>
+    <Linea Producto="NBASB522248-RED" Color="RED" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="9"></Linea>
+    <Linea Producto="NBASB522235-BLK" Color="BLK" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="9"></Linea>
+    <Linea Producto="NBASB522235-BLK1" Color="BLK1" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="9"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="219894" Cliente="0536" Nombre="NIZAR D" Fecha="21/08/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="CALLE IGUALDAD LOCAL S/N SECTOR CENTRO DE PORLAMAR NUEVA ESPARTA " Direccion2="Venezuela Nueva Esparta NUEVA ESPARTA 0000" AgenteEmbarcador="" Observaciones="SOCCER MEN KIDS Q2 SS25 CANAIMA" ResponsablePedido="" ResponsableImportacion="" Contacto="NIZAR D" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCNJS300010-BK1" Color="BK1" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="6.5"></Linea>
+    <Linea Producto="RMDJS300010-BK2" Color="BK2" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="6.5"></Linea>
+    <Linea Producto="MLSJS300010-BK3" Color="BK3" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="6.5"></Linea>
+    <Linea Producto="BCNJS300010-NV1" Color="NV1" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="6.5"></Linea>
+    <Linea Producto="MLSJS300010-PK1" Color="PK1" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="6.5"></Linea>
+    <Linea Producto="MLSTS325109-BK1" Color="BK1" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6"></Linea>
+    <Linea Producto="BCNTS325109-BU1" Color="BU1" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6"></Linea>
+    <Linea Producto="BCNTS325109-NV1" Color="NV1" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6"></Linea>
+    <Linea Producto="RMDTS325109-NV2" Color="NV2" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6"></Linea>
+    <Linea Producto="MLSJS325105-BK1" Color="BK1" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="8"></Linea>
+    <Linea Producto="BCNJS325105-NV1" Color="NV1" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="9"></Linea>
+    <Linea Producto="RMDJS325105-NV2" Color="NV2" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="9"></Linea>
+    <Linea Producto="RMDJS325105-OW1" Color="OW1" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="9"></Linea>
+    <Linea Producto="MLSJS325105-PK1" Color="PK1" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="8"></Linea>
+    <Linea Producto="MLSSH325104-BK1" Color="BK1" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="BCNSH325104-NV1" Color="NV1" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="RMDSH325104-NV2" Color="NV2" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="BCNJS500010-BK1" Color="BK1" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="7"></Linea>
+    <Linea Producto="MLSJS500010-BK3" Color="BK3" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="7"></Linea>
+    <Linea Producto="MLSJS500010-PK1" Color="PK1" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="7"></Linea>
+    <Linea Producto="MLSTS525109-BK1" Color="BK1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7"></Linea>
+    <Linea Producto="BCNTS525109-BU1" Color="BU1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7"></Linea>
+    <Linea Producto="RMDTS525109-NV2" Color="NV2" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7"></Linea>
+    <Linea Producto="RMDTS525109-OW1" Color="OW1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7"></Linea>
+    <Linea Producto="MLSJS525105-BK1" Color="BK1" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="9"></Linea>
+    <Linea Producto="BCNJS525105-BU1" Color="BU1" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="9.5"></Linea>
+    <Linea Producto="BCNJS525105-NV1" Color="NV1" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="9.5"></Linea>
+    <Linea Producto="BCNJS525106-NV1" Color="NV1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="9"></Linea>
+    <Linea Producto="RMDJS525105-NV2" Color="NV2" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="9.5"></Linea>
+    <Linea Producto="RMDJS525105-OW1" Color="OW1" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="9.5"></Linea>
+    <Linea Producto="MLSJS525105-PK1" Color="PK1" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="9"></Linea>
+    <Linea Producto="MLSSH525104-BK1" Color="BK1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="10"></Linea>
+    <Linea Producto="BCNSH525104-NV1" Color="NV1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="10"></Linea>
+    <Linea Producto="RMDSH525104-NV2" Color="NV2" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="10"></Linea>
+    <Linea Producto="BCNTS525112-BG1" Color="BG1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6"></Linea>
+    <Linea Producto="MLSTS525114-BK3" Color="BK3" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6"></Linea>
+    <Linea Producto="BCNTS525114-NV1" Color="NV1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6"></Linea>
+    <Linea Producto="RMDTS525114-NV2" Color="NV2" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6"></Linea>
+    <Linea Producto="RMDTS525114-OW1" Color="OW1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6"></Linea>
+    <Linea Producto="BCNTS525114-BK1" Color="BK1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

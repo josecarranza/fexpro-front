@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="156310" Cliente="0321" Nombre="Joel Mizrab" Fecha="04/01/2023" Tipo="1" Fecha_Entrega="04/01/2023" Direccion="0000 VIA ESPANA" Direccion2="Panama Panamá PANAMA 0000" Vendedor="01" AgenteEmbarcador="" Observaciones="GORRAS KIDS - FW23 / POPPYS" ResponsablePedido="" ResponsableImportacion="" Contacto="Joel Mizrab" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PSGCA323103-NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7"></Linea>
+    <Linea Producto="NBASB321201-RED" Color="RED" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7"></Linea>
+    <Linea Producto="NBASB321201-BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7"></Linea>
+    <Linea Producto="NBASB321201-YEL" Color="YEL" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7"></Linea>
+    <Linea Producto="NBASB321201-BLK2" Color="BLK2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7"></Linea>
+    <Linea Producto="NBASB321201-BLK3" Color="BLK3" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7"></Linea>
+    <Linea Producto="NBASB321201-BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7"></Linea>
+  </Encabezado>
+</Sagemobile>

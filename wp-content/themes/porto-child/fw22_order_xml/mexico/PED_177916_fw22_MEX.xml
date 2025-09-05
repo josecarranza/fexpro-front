@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="177916" Cliente="LIVER" Nombre="Eduardo Fernandez" Fecha="29/06/2023" Tipo="1" Fecha_Entrega="29/06/2023" Direccion="Av Centro Industrial 9 Buenavista" Direccion2="Mexico Estado de México Estado de México 54900" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Eduardo Fernandez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAHD521001RED" Color="RED" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="497.37068966667"></Linea>
+    <Linea Producto="NBAHD521001YEL" Color="YEL" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="497.37068966667"></Linea>
+    <Linea Producto="NBAHD521001YEL2" Color="YEL2" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="497.37068966667"></Linea>
+    <Linea Producto="NBAHD521001BLK11" Color="BLK11" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="497.37068966667"></Linea>
+    <Linea Producto="NBAHD520400BLK" Color="BLK" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="497.37068966667"></Linea>
+  </Encabezado>
+</Sagemobile>

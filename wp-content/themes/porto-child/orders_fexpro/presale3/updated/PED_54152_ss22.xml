@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="54152" Cliente="0514" Nombre="Gonzalo Escobar" Fecha="30/07/2021" Tipo="1" Fecha_Entrega="30/07/2021" Direccion="AV LO ESPEJO 01565 " Direccion2="Chile  SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="PIMPS FOOTWEAR - MEN SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="Gonzalo Escobar" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBSL52203-NVY" Color="NVY" Cantidad="18" size_7="72" size_8="108" size_9="144" size_10="72" size_11="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6.5"></Linea>
+    <Linea Producto="MLBSL52203-GRY" Color="GRY" Cantidad="18" size_7="72" size_8="108" size_9="144" size_10="72" size_11="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6.5"></Linea>
+    <Linea Producto="MLBSL52202-NVY" Color="NVY" Cantidad="18" size_7="72" size_8="108" size_9="144" size_10="72" size_11="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6.5"></Linea>
+    <Linea Producto="NBASL52205-GRY" Color="GRY" Cantidad="18" size_7="72" size_8="108" size_9="144" size_10="72" size_11="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="9"></Linea>
+    <Linea Producto="NBASL52205-BLK" Color="BLK" Cantidad="18" size_7="72" size_8="108" size_9="144" size_10="72" size_11="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="9"></Linea>
+    <Linea Producto="NBASL52205-RED" Color="RED" Cantidad="18" size_7="72" size_8="108" size_9="144" size_10="72" size_11="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="9"></Linea>
+    <Linea Producto="NBASL52201-PUR" Color="PUR" Cantidad="18" size_7="72" size_8="108" size_9="144" size_10="72" size_11="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6.5"></Linea>
+    <Linea Producto="NBASL52201-RED" Color="RED" Cantidad="18" size_7="72" size_8="108" size_9="144" size_10="72" size_11="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6.5"></Linea>
+    <Linea Producto="NBASL52056-BLK1" Color="BLK1" Cantidad="18" size_7="72" size_8="108" size_9="144" size_10="72" size_11="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6.5"></Linea>
+    <Linea Producto="NBASL52056-PUR" Color="PUR" Cantidad="18" size_7="72" size_8="108" size_9="144" size_10="72" size_11="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6.5"></Linea>
+    <Linea Producto="NBASL52056-BLK2" Color="BLK2" Cantidad="18" size_7="72" size_8="108" size_9="144" size_10="72" size_11="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6.5"></Linea>
+    <Linea Producto="MLBSL52101-NVY1" Color="NVY1" Cantidad="18" size_7="72" size_8="108" size_9="144" size_10="72" size_11="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6"></Linea>
+    <Linea Producto="MLBSL52101-BLU" Color="BLU" Cantidad="18" size_7="72" size_8="108" size_9="144" size_10="72" size_11="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

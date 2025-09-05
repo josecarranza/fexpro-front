@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="92540" Cliente="CALZZAPA" Nombre="Juan Carlos Collantes" Fecha="17/12/2021" Tipo="1" Fecha_Entrega="17/12/2021" Direccion="AV FRAY MARCOS DE NIZA, 3510 SUR INT. A COL SAN RAFAEL, CULUIACAN DE ROSALES " Direccion2="Mexico Sinaloa CULIACAN 80150" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Juan Carlos Collantes" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="ATRPJ522202GRY" Color="GRY" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="344.39655170833"></Linea>
+    <Linea Producto="NASTS522201BLK" Color="BLK" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="215.08620691667"></Linea>
+    <Linea Producto="NASTS522205BLK" Color="BLK" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="215.08620691667"></Linea>
+    <Linea Producto="SOUTS522204BLK" Color="BLK" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="215.08620691667"></Linea>
+    <Linea Producto="ATRTS522204BLK" Color="BLK" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="215.08620691667"></Linea>
+  </Encabezado>
+</Sagemobile>

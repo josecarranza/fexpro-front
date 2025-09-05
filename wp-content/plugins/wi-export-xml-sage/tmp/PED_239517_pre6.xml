@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="239517" Cliente="0000" Nombre="Thomas Franco" Fecha="02/12/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="UNIT 2022 2ND FLR HIGH ST. SOUTH CORPORATE PLAZA 26TH STREET, AVENUE, BGC TAGUIG 1634 PHILIPPINES " Direccion2="Philippines Metro Manila MANILA 1634" AgenteEmbarcador="" Observaciones="NBA MEN&amp;amp;WOMEN SM RETAIL PHILLIPPINES FW25 Q3" ResponsablePedido="" ResponsableImportacion="" Contacto="Thomas Franco" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAHD521001-ROY" Color="ROY" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="15"></Linea>
+    <Linea Producto="NBATT52205-BLK8" Color="BLK8" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="10"></Linea>
+    <Linea Producto="NBACA500001-BK1" Color="BK1" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8.5"></Linea>
+    <Linea Producto="NBPTS500002-LB1" Color="LB1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7.5"></Linea>
+    <Linea Producto="NBACA500015-PR1" Color="PR1" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8"></Linea>
+  </Encabezado>
+</Sagemobile>

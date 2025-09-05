@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="58424" Cliente="0450" Nombre="Cristian Portilla" Fecha="10/08/2021" Tipo="1" Fecha_Entrega="10/08/2021" Direccion="MANUEL RODRIGUEZ 730 " Direccion2="Chile  SANTIAGO CENTRO " Vendedor="01" AgenteEmbarcador="" Observaciones="FALABELLA CHILE - NBA BOYS SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="Cristian Portilla" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAJP32204-BLK4" Color="BLK4" Cantidad="33" size_4="66" size_6="132" size_8="132" size_10="132" size_12="132" size_14="132" size_16="66" Unit_Box_Qty="24" Total_Box_Qty="792" Precio="9"></Linea>
+    <Linea Producto="NBAJP32204-BLK5" Color="BLK5" Cantidad="45" size_4="90" size_6="180" size_8="180" size_10="180" size_12="180" size_14="180" size_16="90" Unit_Box_Qty="24" Total_Box_Qty="1080" Precio="9"></Linea>
+    <Linea Producto="NBAJP32204-BLK2" Color="BLK2" Cantidad="41" size_4="82" size_6="164" size_8="164" size_10="164" size_12="164" size_14="164" size_16="82" Unit_Box_Qty="24" Total_Box_Qty="984" Precio="9"></Linea>
+    <Linea Producto="NBAJP32204-BLK3" Color="BLK3" Cantidad="33" size_4="66" size_6="132" size_8="132" size_10="132" size_12="132" size_14="132" size_16="66" Unit_Box_Qty="24" Total_Box_Qty="792" Precio="9"></Linea>
+    <Linea Producto="" Color="" Cantidad="31" size_4="62" size_6="124" size_8="124" size_10="124" size_12="124" size_14="124" size_16="62" Unit_Box_Qty="24" Total_Box_Qty="744" Precio="8"></Linea>
+    <Linea Producto="" Color="" Cantidad="27" size_4="54" size_6="108" size_8="108" size_10="108" size_12="108" size_14="108" size_16="54" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="8"></Linea>
+    <Linea Producto="NBASW32202-RED" Color="RED" Cantidad="41" size_4="82" size_6="164" size_8="164" size_10="164" size_12="164" size_14="164" size_16="82" Unit_Box_Qty="24" Total_Box_Qty="984" Precio="9"></Linea>
+    <Linea Producto="NBASW32202-PUR" Color="PUR" Cantidad="41" size_4="82" size_6="164" size_8="164" size_10="164" size_12="164" size_14="164" size_16="82" Unit_Box_Qty="24" Total_Box_Qty="984" Precio="9"></Linea>
+    <Linea Producto="NBASW32202-GRN" Color="GRN" Cantidad="31" size_4="62" size_6="124" size_8="124" size_10="124" size_12="124" size_14="124" size_16="62" Unit_Box_Qty="24" Total_Box_Qty="744" Precio="9"></Linea>
+    <Linea Producto="NBASW32202-GRY" Color="GRY" Cantidad="31" size_4="62" size_6="124" size_8="124" size_10="124" size_12="124" size_14="124" size_16="62" Unit_Box_Qty="24" Total_Box_Qty="744" Precio="9"></Linea>
+    <Linea Producto="NBASW32202-BUR" Color="BUR" Cantidad="29" size_4="58" size_6="116" size_8="116" size_10="116" size_12="116" size_14="116" size_16="58" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="9"></Linea>
+    <Linea Producto="NBAJP32204-BLK" Color="BLK" Cantidad="25" size_4="50" size_6="100" size_8="100" size_10="100" size_12="100" size_14="100" size_16="50" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="9"></Linea>
+    <Linea Producto="NBATS32208-RED" Color="RED" Cantidad="31" size_4="62" size_6="124" size_8="124" size_10="124" size_12="124" size_14="124" size_16="62" Unit_Box_Qty="24" Total_Box_Qty="744" Precio="5"></Linea>
+    <Linea Producto="NBATS32209-BLK" Color="BLK" Cantidad="29" size_4="58" size_6="116" size_8="116" size_10="116" size_12="116" size_14="116" size_16="58" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="5"></Linea>
+    <Linea Producto="NBATS32209-YEL2" Color="YEL2" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="5"></Linea>
+    <Linea Producto="NBATS32209-PUR" Color="PUR" Cantidad="31" size_4="62" size_6="124" size_8="124" size_10="124" size_12="124" size_14="124" size_16="62" Unit_Box_Qty="24" Total_Box_Qty="744" Precio="5"></Linea>
+    <Linea Producto="NBATS32209-BLK3" Color="BLK3" Cantidad="27" size_4="54" size_6="108" size_8="108" size_10="108" size_12="108" size_14="108" size_16="54" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="5"></Linea>
+  </Encabezado>
+</Sagemobile>

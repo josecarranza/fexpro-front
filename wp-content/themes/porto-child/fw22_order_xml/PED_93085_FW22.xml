@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="93085" Cliente="0000" Nombre="Maria Jose Monzon" Fecha="27/12/2021" Tipo="1" Fecha_Entrega="27/12/2021" Direccion="C.C. Mall Aventura. Av. Carretera Central 111- Santa Anita. Piso 2, Lima, Perú 15008 Santa Anita. Piso 2, Lima, Perú 15008" Direccion2="Peru Lima PERU 15008" Vendedor="01" AgenteEmbarcador="" Observaciones="RIPLEY PERU - NBA HOMBRE FW22" ResponsablePedido="" ResponsableImportacion="" Contacto="Maria Jose Monzon" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCSL52012-NVY" Color="NVY" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6"></Linea>
+    <Linea Producto="NBATS521000-BLK6" Color="BLK6" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="6"></Linea>
+    <Linea Producto="NBATS521000-WHT" Color="WHT" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6"></Linea>
+    <Linea Producto="NBATS521000-BLK5" Color="BLK5" Cantidad="22" size_S="88" size_M="176" size_L="176" size_XL="88" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="6"></Linea>
+    <Linea Producto="NBATS521000-YEL" Color="YEL" Cantidad="26" size_S="104" size_M="208" size_L="208" size_XL="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="6"></Linea>
+    <Linea Producto="NBATS521000-ROY" Color="ROY" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

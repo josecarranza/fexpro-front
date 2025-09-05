@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="216045" Cliente="0509" Nombre="Freddy Ramirez" Fecha="05/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="CALLE 13 19 71 CC SABANA PLAZA OF M19 PISO 3 " Direccion2="Colombia Capital District MEDELLIN " AgenteEmbarcador="" Observaciones="UNIVERSAL SPORT - MEN NBA SS25 Q1&#13;&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Freddy Ramirez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS525102-OW1" Color="OW1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="7"></Linea>
+    <Linea Producto="NBATS525103-OW1" Color="OW1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="12.5"></Linea>
+    <Linea Producto="NBATS525103-BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="12.5"></Linea>
+    <Linea Producto="NBATT525101-BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="11"></Linea>
+    <Linea Producto="NBASH525101-BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="12"></Linea>
+    <Linea Producto="NBPTT525104-BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="13"></Linea>
+    <Linea Producto="NBPTT525104-PR1" Color="PR1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="13"></Linea>
+    <Linea Producto="NBASH525104-BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="13"></Linea>
+    <Linea Producto="NBASH525104-PR1" Color="PR1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="13"></Linea>
+    <Linea Producto="NBAHD525106-BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="15.5"></Linea>
+    <Linea Producto="NBAHD525106-GY1" Color="GY1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="15.5"></Linea>
+    <Linea Producto="NBAPT525105-BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="14"></Linea>
+    <Linea Producto="NBAPT525105-GY1" Color="GY1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="14"></Linea>
+  </Encabezado>
+</Sagemobile>

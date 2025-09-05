@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="92567" Cliente="0458" Nombre="Jose Fonseca" Fecha="18/12/2021" Tipo="1" Fecha_Entrega="18/12/2021" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES " Direccion2="Chile  SANTIAGO 7560356" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS CHILE - SOCCER TIENDA E2 FW22&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Jose Fonseca" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="JVJS522206-MUL" Color="MUL" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="9"></Linea>
+    <Linea Producto="JVJS522202-WHT" Color="WHT" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="9"></Linea>
+  </Encabezado>
+</Sagemobile>

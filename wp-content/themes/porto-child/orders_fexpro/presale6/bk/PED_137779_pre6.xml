@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="137779" Cliente="0001" Nombre="Samy Eskenazi" Fecha="15/07/2022" Tipo="1" Fecha_Entrega="15/07/2022" Direccion="0000 " Direccion2="Panama Panamá PANAMA 0000" Vendedor="01" AgenteEmbarcador="" Observaciones="PEDIDO MALETAS MADISON-CAMPEON" ResponsablePedido="" ResponsableImportacion="" Contacto="Samy Eskenazi" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCBK523103-NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="11"></Linea>
+    <Linea Producto="BCBK523101-NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="13"></Linea>
+    <Linea Producto="BCDB523102-BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="11"></Linea>
+    <Linea Producto="BCDB523102-BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="11"></Linea>
+    <Linea Producto="BCFB523101-BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="BCMB523101-BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6.5"></Linea>
+    <Linea Producto="BCMB523102-BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6.5"></Linea>
+    <Linea Producto="JVBK523101-BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="13"></Linea>
+    <Linea Producto="JVDB523102-BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="11"></Linea>
+    <Linea Producto="JVFB523101-BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="JVFB523101-GRY" Color="GRY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="JVMB523102-GRY" Color="GRY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6.5"></Linea>
+    <Linea Producto="MLBBK523101-NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="13"></Linea>
+    <Linea Producto="MLBBK523101-NVY2" Color="NVY2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="13"></Linea>
+    <Linea Producto="MLBBK523103-BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="11"></Linea>
+    <Linea Producto="MLBBK523103-NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="11"></Linea>
+    <Linea Producto="MLBBK523103-NVY2" Color="NVY2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="11"></Linea>
+    <Linea Producto="MLBDB523102-NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="11"></Linea>
+    <Linea Producto="MLBDB523102-NVY2" Color="NVY2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="11"></Linea>
+    <Linea Producto="MLBFB523102-NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="MLBFB523102-NVY2" Color="NVY2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="MLBMB523102-NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6.5"></Linea>
+    <Linea Producto="MLBMB523102-NVY2" Color="NVY2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6.5"></Linea>
+    <Linea Producto="NBABK523107-BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7.5"></Linea>
+    <Linea Producto="NBABK523107-BLK1" Color="BLK1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7.5"></Linea>
+    <Linea Producto="NBABK523104-MUL" Color="MUL" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7.5"></Linea>
+    <Linea Producto="NBABK523104-MUL1" Color="MUL1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7.5"></Linea>
+    <Linea Producto="NBABK523106-BLK1" Color="BLK1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7"></Linea>
+    <Linea Producto="NBABK523106-BLK2" Color="BLK2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7"></Linea>
+    <Linea Producto="NBABK523101-RED" Color="RED" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="13"></Linea>
+    <Linea Producto="NBABK523101-PUR" Color="PUR" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="13"></Linea>
+    <Linea Producto="NBABK523102-RED" Color="RED" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="13"></Linea>
+    <Linea Producto="NBABK523102-PUR" Color="PUR" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="13"></Linea>
+    <Linea Producto="NBABK523103-RED" Color="RED" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="11"></Linea>
+    <Linea Producto="NBABK523103-PUR" Color="PUR" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="11"></Linea>
+    <Linea Producto="NBADB523101-RED" Color="RED" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="11"></Linea>
+    <Linea Producto="NBADB523101-GRY" Color="GRY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="11"></Linea>
+    <Linea Producto="NBADB523101-PUR" Color="PUR" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="11"></Linea>
+    <Linea Producto="NBADB523101-GRY2" Color="GRY2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="11"></Linea>
+    <Linea Producto="NBADB523101-GRN" Color="GRN" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="11"></Linea>
+    <Linea Producto="NBAFB523104-PUR" Color="PUR" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="NBAFB523104-BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="NBAFB523104-DEN1" Color="DEN1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="NBAFB523101-BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="NBAFB523101-RED" Color="RED" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="NBAFB523101-BLK2" Color="BLK2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="NBAFB523101-PUR" Color="PUR" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="NBAFB523102-RED" Color="RED" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="NBAFB523102-BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="NBAFB523102-PUR" Color="PUR" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="NBAMB523104-BLK1" Color="BLK1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7"></Linea>
+    <Linea Producto="NBAMB523104-BLK2" Color="BLK2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7"></Linea>
+    <Linea Producto="NBAMB523102-RED" Color="RED" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6.5"></Linea>
+    <Linea Producto="NBAMB523102-GRY" Color="GRY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6.5"></Linea>
+    <Linea Producto="NBAMB523102-PUR" Color="PUR" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6.5"></Linea>
+    <Linea Producto="NBAMB523102-GRY2" Color="GRY2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6.5"></Linea>
+    <Linea Producto="RMDB523102-BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="11"></Linea>
+    <Linea Producto="RMFB523101-BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="RMMB523101-BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6.5"></Linea>
+    <Linea Producto="RMMB523102-NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6.5"></Linea>
+  </Encabezado>
+</Sagemobile>

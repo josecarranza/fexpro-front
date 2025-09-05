@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="216874" Cliente="SEAR" Nombre="Terpsicore Ramirez" Fecha="25/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Norte 45 #1014 Industrial Vallejo" Direccion2="Mexico Ciudad de México Azcapotzalco 02300" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Terpsicore Ramirez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="T7GMBQA1BQG23" Color="G23" Cantidad="12" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="12" Total_Box_Qty="144" Precio="1344.3103448333"></Linea>
+    <Linea Producto="T7GMBQHOBQG23" Color="G23" Cantidad="12" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="12" Total_Box_Qty="144" Precio="1344.3103448333"></Linea>
+    <Linea Producto="T7GMLDA2LDG23" Color="G23" Cantidad="12" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="12" Total_Box_Qty="144" Precio="1344.3103448333"></Linea>
+    <Linea Producto="T7GMLDHOLDG23" Color="G23" Cantidad="12" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="12" Total_Box_Qty="144" Precio="1344.3103448333"></Linea>
+    <Linea Producto="T7GMNKHONKG23" Color="G23" Cantidad="12" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="12" Total_Box_Qty="144" Precio="1344.3103448333"></Linea>
+    <Linea Producto="T7GMNKA2NKG23" Color="G23" Cantidad="12" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="12" Total_Box_Qty="144" Precio="1344.3103448333"></Linea>
+  </Encabezado>
+</Sagemobile>

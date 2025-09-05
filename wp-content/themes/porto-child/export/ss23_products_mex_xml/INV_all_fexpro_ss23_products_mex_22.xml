@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Linea Cia="08" Reference="MLBCT62209" Producto_reference="MLBCT62209GRY" Description="MLB W BASIC SCRIPT LOGO CROP TOP" Description_spanish="MLB W BASIC SCRIPT LOGO CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER - 160 G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="349.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="MLB" Group="AP " Sub_group="WT" Arancel="TW" Season="BASICS" LOB="SPO" Equipo="YAN" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="GRY" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBCT62209" Producto_reference="MLBCT62209WHT" Description="MLB W BASIC SCRIPT LOGO CROP TOP" Description_spanish="MLB W BASIC SCRIPT LOGO CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER - 160G" Compesp="" Price="349.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="MLB" Group="AP " Sub_group="WT" Arancel="TW" Season="BASICS" LOB="SPO" Equipo="DOD" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="WHT" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBCT62209" Producto_reference="MLBCT62209BLU" Description="MLB W BASIC SCRIPT LOGO CROP TOP" Description_spanish="MLB W BASIC SCRIPT LOGO CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER - 160G" Compesp="" Price="349.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="MLB" Group="AP " Sub_group="WT" Arancel="TW" Season="BASICS" LOB="SPO" Equipo="DOD" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLU" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBACT62213" Producto_reference="NBACT62213BLK" Description="NBA W BASIC PRIMARY LOGO CROP TOP" Description_spanish="NBA W BASIC PRIMARY LOGO CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="349.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="NBA" Group="AP " Sub_group="WT" Arancel="TW" Season="BASICS" LOB="SPO" Equipo="BUL" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLK" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBACT62213" Producto_reference="NBACT62213BLK2" Description="NBA W BASIC PRIMARY LOGO CROP TOP" Description_spanish="NBA W BASIC PRIMARY LOGO CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="349.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="NBA" Group="AP " Sub_group="WT" Arancel="TW" Season="BASIC" LOB="SPO" Equipo="NET" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLK2" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBACT62213" Producto_reference="NBACT62213BLK3" Description="NBA W BASIC PRIMARY LOGO CROP TOP" Description_spanish="NBA W BASIC PRIMARY LOGO CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="349.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="NBA" Group="AP " Sub_group="WT" Arancel="TW" Season="BASICS" LOB="SPO" Equipo="HEA" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLK3" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBACT62213" Producto_reference="NBACT62213BLK4" Description="NBA W BASIC PRIMARY LOGO CROP TOP" Description_spanish="NBA W BASIC PRIMARY LOGO CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="349.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="NBA" Group="AP " Sub_group="WT" Arancel="TW" Season="BASICS" LOB="SPO" Equipo="LAK" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLK4" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBACT62213" Producto_reference="NBACT62213PUR" Description="NBA W BASIC PRIMARY LOGO CROP TOP" Description_spanish="NBA W BASIC PRIMARY LOGO CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="349.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="NBA" Group="AP " Sub_group="WT" Arancel="TW" Season="BASICS" LOB="SPO" Equipo="LAK" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="PUR" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="PUR" Barcode="" Sizes="S"></Colors>
+    <Colors Color="PUR" Barcode="" Sizes="M"></Colors>
+    <Colors Color="PUR" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBACT62213" Producto_reference="NBACT62213RED" Description="NBA W BASIC PRIMARY LOGO CROP TOP" Description_spanish="NBA W BASIC PRIMARY LOGO CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="349.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="NBA" Group="AP " Sub_group="WT" Arancel="TW" Season="BASICS" LOB="SPO" Equipo="BUL" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="RED" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBACT62213" Producto_reference="NBACT62213RED2" Description="NBA W BASIC PRIMARY LOGO CROP TOP" Description_spanish="NBA W BASIC PRIMARY LOGO CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="349.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="NBA" Group="AP " Sub_group="WT" Arancel="TW" Season="BASICS" LOB="SPO" Equipo="HEA" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="RED2" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="RED2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED2" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBACT62213" Producto_reference="NBACT62213YEL" Description="NBA W BASIC PRIMARY LOGO CROP TOP" Description_spanish="NBA W BASIC PRIMARY LOGO CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="349.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="NBA" Group="AP " Sub_group="WT" Arancel="TW" Season="BASICS" LOB="SPO" Equipo="LAK" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="YEL" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="YEL" Barcode="" Sizes="S"></Colors>
+    <Colors Color="YEL" Barcode="" Sizes="M"></Colors>
+    <Colors Color="YEL" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBACT62213" Producto_reference="NBACT62213GRN" Description="NBA W BASIC PRIMARY LOGO CROP TOP" Description_spanish="NBA W BASIC PRIMARY LOGO CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER - 160 G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="349.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="NBA" Group="AP " Sub_group="WT" Arancel="TW" Season="BASICS" LOB="SPO" Equipo="CEL" Gender="06" Logo_specs="CVC 60% COTTON/ 40% POLYESTER 160G">
+    <Colors Color="GRN" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="GRN" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRN" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRN" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT52205" Producto_reference="NBATT52205BLU2" Description="NBA PLAYER NUMBER BASIC TANK TOP" Description_spanish="NBA PLAYER NUMBER BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="649.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="TT" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="MAV" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="BLU2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLU2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLU2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLU2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT52205" Producto_reference="NBATT52205RED" Description="NBA PLAYER NUMBER BASIC TANK TOP" Description_spanish="NBA PLAYER NUMBER BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="649.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="TT" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="RED" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="L"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBTS520201" Producto_reference="MLBTS520201WHT" Description="MLB SCRIPT LOGO T-SHIRT" Description_spanish="CAMISETA SCRIPT LOGO MLB" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="MLB" Group="AP " Sub_group="TS" Arancel="TS" Season="BASICS" LOB="SPO" Equipo="YAN" Gender="05" Logo_specs="Screen printing graphics">
+    <Colors Color="WHT" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="L"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBTS520201" Producto_reference="MLBTS520201BLK" Description="MLB SCRIPT LOGO T-SHIRT" Description_spanish="CAMISETA SCRIPT LOGO MLB" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="MLB" Group="AP " Sub_group="TS" Arancel="TS" Season="BASICS" LOB="SPO" Equipo="YAN" Gender="05" Logo_specs="Screen printing graphics">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBTS520201" Producto_reference="MLBTS520201GRY" Description="MLB SCRIPT LOGO T-SHIRT" Description_spanish="CAMISETA SCRIPT LOGO MLB" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="MLB" Group="AP " Sub_group="TS" Arancel="TS" Season="BASICS" LOB="SPO" Equipo="YAN" Gender="05" Logo_specs="Screen printing graphics">
+    <Colors Color="GRY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBHD62208" Producto_reference="MLBHD62208NVY" Description="MLB W BASIC PRIMARY LOGO HOODIE" Description_spanish="MLB W BASIC PRIMARY LOGO SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Compesp="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Price="999.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="MLB" Group="AP " Sub_group="HD" Arancel="HD" Season="BASICS" LOB="SPO" Equipo="YAN" Gender="06" Logo_specs="Front Logo: Placement With Sublimination / Glue Sleeve Logo: Rubber Print Back: woven label stitched">
+    <Colors Color="NVY" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBHD62208" Producto_reference="MLBHD62208NVY2" Description="MLB W BASIC PRIMARY LOGO HOODIE" Description_spanish="MLB W BASIC PRIMARY LOGO SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Compesp="" Price="999.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="MLB" Group="AP " Sub_group="HD" Arancel="HD" Season="BASICS" LOB="SPO" Equipo="RED" Gender="06" Logo_specs="Front Logo: Placement With Sublimination / Glue Sleeve Logo: Rubber Print Back: woven label stitched">
+    <Colors Color="NVY2" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="NVY2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY2" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBHD62208" Producto_reference="MLBHD62208BLU" Description="MLB W BASIC PRIMARY LOGO HOODIE" Description_spanish="MLB W BASIC PRIMARY LOGO SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Compesp="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Price="999.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="MLB" Group="AP " Sub_group="HD" Arancel="HD" Season="BASICS" LOB="SPO" Equipo="DOD" Gender="06" Logo_specs="Front Logo: Placement With Sublimination / Glue Sleeve Logo: Rubber Print Back: woven label stitched">
+    <Colors Color="BLU" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASW52209" Producto_reference="NBASW52209RED" Description="NBA WORDMARK LOGO SWEATSHIRT" Description_spanish="NBA WORDMARK LOGO SUDADERA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Compesp="CVC 60% ALGODON / 40% POLIESTER FLEECE 300G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="SW" Arancel="SW" Season="BASICS" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="RED" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="L"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASW52209" Producto_reference="NBASW52209YEL" Description="NBA WORDMARK LOGO SWEATSHIRT" Description_spanish="NBA WORDMARK LOGO SUDADERA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Compesp="CVC 60% ALGODON / 40% POLIESTER FLEECE 300G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="SW" Arancel="SW" Season="BASICS" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="YEL" Barcode="" Sizes="S"></Colors>
+    <Colors Color="YEL" Barcode="" Sizes="M"></Colors>
+    <Colors Color="YEL" Barcode="" Sizes="L"></Colors>
+    <Colors Color="YEL" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS52224" Producto_reference="NBATS52224BLK4" Description="NBA PLAYER NUMBER BASIC T-SHIRT" Description_spanish="NBA PLAYER NUMBER BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="499.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="TS" Arancel="TS" Season="BASICS" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="BLK4" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS52224" Producto_reference="NBATS52224RED2" Description="NBA PLAYER NUMBER BASIC T-SHIRT" Description_spanish="NBA PLAYER NUMBER BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="499.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="TS" Arancel="TS" Season="BASICS" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="RED2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="RED2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS52224" Producto_reference="NBATS52224BLK3" Description="NBA PLAYER NUMBER BASIC T-SHIRT" Description_spanish="NBA PLAYER NUMBER BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="499.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="TS" Arancel="TS" Season="BASICS" LOB="SPO" Equipo="HEA" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="BLK3" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS52224" Producto_reference="NBATS52224RED" Description="NBA PLAYER NUMBER BASIC T-SHIRT" Description_spanish="NBA PLAYER NUMBER BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER 160 G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="499.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="TS" Arancel="TS" Season="BASICS" LOB="SPO" Equipo="HEA" Gender="05" Logo_specs="Backside: Heat trasnfer, Front: Rubber print">
+    <Colors Color="RED" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="L"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS52224" Producto_reference="NBATS52224YEL2" Description="NBA PLAYER NUMBER BASIC T-SHIRT" Description_spanish="NBA PLAYER NUMBER BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="499.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="TS" Arancel="TS" Season="BASICS" LOB="SPO" Equipo="WAR" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="YEL2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="YEL2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="YEL2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="YEL2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS52224" Producto_reference="NBATS52224BLU2" Description="NBA PLAYER NUMBER BASIC T-SHIRT" Description_spanish="NBA PLAYER NUMBER BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="499.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="TS" Arancel="TS" Season="BASICS" LOB="SPO" Equipo="WAR" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="BLU2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLU2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLU2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLU2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS52224" Producto_reference="NBATS52224WHT" Description="NBA PLAYER NUMBER BASIC T-SHIRT" Description_spanish="NBA PLAYER NUMBER BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="499.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="TS" Arancel="TS" Season="BASICS" LOB="SPO" Equipo="NET" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="WHT" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="L"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS52224" Producto_reference="NBATS52224BLK" Description="NBA PLAYER NUMBER BASIC T-SHIRT" Description_spanish="NBA PLAYER NUMBER BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="499.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="TS" Arancel="TS" Season="BASICS" LOB="SPO" Equipo="NET" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS52224" Producto_reference="NBATS52224PUR" Description="NBA PLAYER NUMBER BASIC T-SHIRT" Description_spanish="NBA PLAYER NUMBER BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="499.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="TS" Arancel="TS" Season="BASICS" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="PUR" Barcode="" Sizes="S"></Colors>
+    <Colors Color="PUR" Barcode="" Sizes="M"></Colors>
+    <Colors Color="PUR" Barcode="" Sizes="L"></Colors>
+    <Colors Color="PUR" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS52224" Producto_reference="NBATS52224YEL" Description="NBA PLAYER NUMBER BASIC T-SHIRT" Description_spanish="NBA PLAYER NUMBER BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="499.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="TS" Arancel="TS" Season="BASICS" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="YEL" Barcode="" Sizes="S"></Colors>
+    <Colors Color="YEL" Barcode="" Sizes="M"></Colors>
+    <Colors Color="YEL" Barcode="" Sizes="L"></Colors>
+    <Colors Color="YEL" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASH52205" Producto_reference="NBASH52205BLK" Description="NBA COLOR BLOCK PRIMARY LOGO SHORT" Description_spanish="NBA COLOR BLOCK PRIMARY LOGO PANTAL?N CORTO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLIESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="649.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="SH" Arancel="SH5" Season="BASICS" LOB="SPO" Equipo="NET" Gender="05" Logo_specs="100% PL 150G HONEY MESH">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASH52205" Producto_reference="NBASH52205BLU" Description="NBA COLOR BLOCK PRIMARY LOGO SHORT" Description_spanish="NBA COLOR BLOCK PRIMARY LOGO PANTAL?N CORTO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="649.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="SH" Arancel="SH5" Season="BASICS" LOB="SPO" Equipo="WAR" Gender="05" Logo_specs="100% PL 150G HONEY MESH">
+    <Colors Color="BLU" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASH52205" Producto_reference="NBASH52205GRN" Description="NBA COLOR BLOCK PRIMARY LOGO SHORT" Description_spanish="NBA COLOR BLOCK PRIMARY LOGO PANTAL?N CORTO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="649.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="SH" Arancel="SH5" Season="BASICS" LOB="SPO" Equipo="CEL" Gender="05" Logo_specs="Front right and side: placement with embroidery">
+    <Colors Color="GRN" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRN" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRN" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GRN" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASH52205" Producto_reference="NBASH52205PUR" Description="NBA COLOR BLOCK PRIMARY LOGO SHORT" Description_spanish="NBA COLOR BLOCK PRIMARY LOGO PANTAL?N CORTO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLIESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="649.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="SH" Arancel="SH5" Season="BASICS" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="100% PL 150G HONEY MESH">
+    <Colors Color="PUR" Barcode="" Sizes="S"></Colors>
+    <Colors Color="PUR" Barcode="" Sizes="M"></Colors>
+    <Colors Color="PUR" Barcode="" Sizes="L"></Colors>
+    <Colors Color="PUR" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASH52205" Producto_reference="NBASH52205RED" Description="NBA COLOR BLOCK PRIMARY LOGO SHORT" Description_spanish="NBA COLOR BLOCK PRIMARY LOGO PANTAL?N CORTO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER" Compesp="100% POLYESTER" Price="649.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="SH" Arancel="SH5" Season="BASICS" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="Front right and side: placement with embroidery">
+    <Colors Color="RED" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="L"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT52205" Producto_reference="NBATT52205BLK8" Description="NBA PLAYER NUMBER BASIC TANK TOP" Description_spanish="NBA PLAYER NUMBER BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="649.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="TT" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="BCK" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="BLK8" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK8" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK8" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK8" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT52205" Producto_reference="NBATT52205BLK7" Description="NBA PLAYER NUMBER BASIC TANK TOP" Description_spanish="NBA PLAYER NUMBER BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="649.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="TT" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="SUN" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="BLK7" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK7" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK7" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK7" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT52205" Producto_reference="NBATT52205BLK6" Description="NBA PLAYER NUMBER BASIC TANK TOP" Description_spanish="NBA PLAYER NUMBER BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="649.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="TT" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="SUN" Gender="05" Logo_specs="100% PL 150G HONEY MESH">
+    <Colors Color="BLK6" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK6" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK6" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK6" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT52205" Producto_reference="NBATT52205BLK5" Description="NBA PLAYER NUMBER BASIC TANK TOP" Description_spanish="NBA PLAYER NUMBER BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="649.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="TT" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="CEL" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="BLK5" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK5" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK5" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK5" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT52205" Producto_reference="NBATT52205BLK4" Description="NBA PLAYER NUMBER BASIC TANK TOP" Description_spanish="NBA PLAYER NUMBER BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="649.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="TT" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="HEA" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="BLK4" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT52205" Producto_reference="NBATT52205BLU" Description="NBA PLAYER NUMBER BASIC TANK TOP" Description_spanish="NBA PLAYER NUMBER BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="649.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="TT" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="WAR" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="BLU" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT52205" Producto_reference="NBATT52205BLK3" Description="NBA PLAYER NUMBER BASIC TANK TOP" Description_spanish="NBA PLAYER NUMBER BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="649.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="TT" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="BLK3" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT52205" Producto_reference="NBATT52205YEL" Description="NBA PLAYER NUMBER BASIC TANK TOP" Description_spanish="NBA PLAYER NUMBER BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="649.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="TT" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="YEL" Barcode="" Sizes="S"></Colors>
+    <Colors Color="YEL" Barcode="" Sizes="M"></Colors>
+    <Colors Color="YEL" Barcode="" Sizes="L"></Colors>
+    <Colors Color="YEL" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT52205" Producto_reference="NBATT52205BLK2" Description="NBA PLAYER NUMBER BASIC TANK TOP" Description_spanish="NBA PLAYER NUMBER BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="649.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="TT" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="NET" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="BLK2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAPT52205" Producto_reference="NBAPT52205BLU" Description="NBA VERTICAL TEAM NAME JOGGER PANTS" Description_spanish="NBA VERTICAL TEAM NAME PANTAL?N DEPORTIVO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER FLEECE 300G" Compesp="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="PT" Arancel="PT" Season="BASICS" LOB="SPO" Equipo="WAR" Gender="05" Logo_specs="Body fabric: 60% Cotton / 40% Polyester. 280G French Terry">
+    <Colors Color="BLU" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAPT52205" Producto_reference="NBAPT52205BLK4" Description="NBA VERTICAL TEAM NAME JOGGER PANTS" Description_spanish="NBA VERTICAL TEAM NAME PANTAL?N DEPORTIVO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER FLEECE 300G" Compesp="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="PT" Arancel="PT" Season="BASICS" LOB="SPO" Equipo="NET" Gender="05" Logo_specs="Body fabric: 60% Cotton / 40% Polyester. 280G French Terry">
+    <Colors Color="BLK4" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAPT52205" Producto_reference="NBAPT52205BLK3" Description="NBA VERTICAL TEAM NAME JOGGER PANTS" Description_spanish="NBA VERTICAL TEAM NAME PANTAL?N DEPORTIVO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER FLEECE 300G" Compesp="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="PT" Arancel="PT" Season="BASICS" LOB="SPO" Equipo="CEL" Gender="05" Logo_specs="Body fabric: 60% Cotton / 40% Polyester. 280G French Terry">
+    <Colors Color="BLK3" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAPT52205" Producto_reference="NBAPT52205BLK2" Description="NBA VERTICAL TEAM NAME JOGGER PANTS" Description_spanish="NBA VERTICAL TEAM NAME PANTAL?N DEPORTIVO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER FLEECE 300G" Compesp="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="PT" Arancel="PT" Season="BASICS" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="Body fabric: 60% Cotton / 40% Polyester. 280G French Terry">
+    <Colors Color="BLK2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAPT52205" Producto_reference="NBAPT52205BLK" Description="NBA VERTICAL TEAM NAME JOGGER PANTS" Description_spanish="NBA VERTICAL TEAM NAME PANTAL?N DEPORTIVO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER FLEECE 300G" Compesp="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="PT" Arancel="PT" Season="BASICS" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="Body fabric: 60% Cotton / 40% Polyester. 280G French Terry">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASW52209" Producto_reference="NBASW52209BLK5" Description="NBA WORDMARK LOGO SWEATSHIRT" Description_spanish="NBA WORDMARK LOGO SUDADERA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER FLEECE 300G" Compesp="CVC 60% ALGODON / 40% POLIESTER FLEECE 300G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="SW" Arancel="SW" Season="BASICS" LOB="SPO" Equipo="BCK" Gender="05" Logo_specs="Body fabric: 60% Cotton / 40% Polyester. 280G French Terry">
+    <Colors Color="BLK5" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK5" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK5" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK5" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASW52209" Producto_reference="NBASW52209BLU" Description="NBA WORDMARK LOGO SWEATSHIRT" Description_spanish="NBA WORDMARK LOGO SUDADERA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Compesp="CVC 60% ALGODON / 40% POLIESTER FLEECE 300G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="SW" Arancel="SW" Season="BASICS" LOB="SPO" Equipo="WAR" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="BLU" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASW52209" Producto_reference="NBASW52209BLK3" Description="NBA WORDMARK LOGO SWEATSHIRT" Description_spanish="NBA WORDMARK LOGO SUDADERA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Compesp="CVC 60% ALGODON / 40% POLIESTER FLEECE 300G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="SW" Arancel="SW" Season="BASICS" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="BLK3" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASW52209" Producto_reference="NBASW52209BLK2" Description="NBA WORDMARK LOGO SWEATSHIRT" Description_spanish="NBA WORDMARK LOGO SUDADERA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Compesp="CVC 60% ALGODON / 40% POLIESTER FLEECE 300G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="SW" Arancel="SW" Season="BASICS" LOB="SPO" Equipo="CEL" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="BLK2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASW52209" Producto_reference="NBASW52209GRN" Description="NBA WORDMARK LOGO SWEATSHIRT" Description_spanish="NBA WORDMARK LOGO SUDADERA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Compesp="CVC 60% ALGODON / 40% POLIESTER FLEECE 300G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="SW" Arancel="SW" Season="BASICS" LOB="SPO" Equipo="CEL" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="GRN" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRN" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRN" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GRN" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASW52209" Producto_reference="NBASW52209BLK" Description="NBA WORDMARK LOGO SWEATSHIRT" Description_spanish="NBA WORDMARK LOGO SUDADERA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Compesp="CVC 60% ALGODON / 40% POLIESTER FLEECE 300G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="SW" Arancel="SW" Season="BASICS" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAJS552201" Producto_reference="NBAJS552201RED" Description="NBA PRIMARY TEAM LOGO BASIC JERSEY" Description_spanish="NBA PRIMARY TEAM LOGO BASIC CAMISA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="599.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="JS" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="Front and back: rubber print, Sleeve: Heat transfer">
+    <Colors Color="RED" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="L"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAJS552201" Producto_reference="NBAJS552201WHT2" Description="NBA PRIMARY TEAM LOGO BASIC JERSEY" Description_spanish="NBA PRIMARY TEAM LOGO BASIC CAMISA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="599.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="JS" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="Front and back: rubber print, Sleeve: Heat transfer">
+    <Colors Color="WHT2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="WHT2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAJS552201" Producto_reference="NBAJS552201BLK3" Description="NBA PRIMARY TEAM LOGO BASIC JERSEY" Description_spanish="NBA PRIMARY TEAM LOGO BASIC CAMISA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="599.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="JS" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="Front and back: rubber print, Sleeve: Heat transfer">
+    <Colors Color="BLK3" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAJS552201" Producto_reference="NBAJS552201BLK2" Description="NBA PRIMARY TEAM LOGO BASIC JERSEY" Description_spanish="NBA PRIMARY TEAM LOGO BASIC CAMISA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="599.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="JS" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="NET" Gender="05" Logo_specs="Front and back: rubber print, Sleeve: Heat transfer">
+    <Colors Color="BLK2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAJS552201" Producto_reference="NBAJS552201WHT" Description="NBA PRIMARY TEAM LOGO BASIC JERSEY" Description_spanish="NBA PRIMARY TEAM LOGO BASIC CAMISA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="599.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="JS" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="WAR" Gender="05" Logo_specs="Front and back: rubber print, Sleeve: Heat transfer">
+    <Colors Color="WHT" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="L"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAJS552201" Producto_reference="NBAJS552201BLU" Description="NBA PRIMARY TEAM LOGO BASIC JERSEY" Description_spanish="NBA PRIMARY TEAM LOGO BASIC CAMISA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="599.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="JS" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="WAR" Gender="05" Logo_specs="Front and back: rubber print, Sleeve: Heat transfer">
+    <Colors Color="BLU" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAJS552201" Producto_reference="NBAJS552201BLK" Description="NBA PRIMARY TEAM LOGO BASIC JERSEY" Description_spanish="NBA PRIMARY TEAM LOGO BASIC CAMISA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="599.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="JS" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="HEA" Gender="05" Logo_specs="Front and back: rubber print, Sleeve: Heat transfer">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAJS552201" Producto_reference="NBAJS552201GRN" Description="NBA PRIMARY TEAM LOGO BASIC JERSEY" Description_spanish="NBA PRIMARY TEAM LOGO BASIC CAMISA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="599.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="JS" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="CEL" Gender="05" Logo_specs="Front and back: rubber print, Sleeve: Heat transfer">
+    <Colors Color="GRN" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRN" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRN" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GRN" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAJS552201" Producto_reference="NBAJS552201YEL" Description="NBA PRIMARY TEAM LOGO BASIC JERSEY" Description_spanish="NBA PRIMARY TEAM LOGO BASIC CAMISA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="599.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="JS" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="Front and back: rubber print, Sleeve: Heat transfer">
+    <Colors Color="YEL" Barcode="" Sizes="S"></Colors>
+    <Colors Color="YEL" Barcode="" Sizes="M"></Colors>
+    <Colors Color="YEL" Barcode="" Sizes="L"></Colors>
+    <Colors Color="YEL" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASH32205" Producto_reference="NBASH32205BLU" Description="NBA COLOR BLOCK PRIMARY LOGO SHORT" Description_spanish="NBA COLOR BLOCK PRIMARY LOGO PANTAL?N CORTO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER 150G HONEY MESH" Compesp="" Price="499.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP " Sub_group="SH" Arancel="SH" Season="BASICS" LOB="SPO" Equipo="WAR" Gender="03" Logo_specs="Front right and side: placement with embroidery">
+    <Colors Color="BLU" Barcode="7453110000000" Sizes="4"></Colors>
+    <Colors Color="BLU" Barcode="7453110000000" Sizes="6"></Colors>
+    <Colors Color="BLU" Barcode="7453110000000" Sizes="8"></Colors>
+    <Colors Color="BLU" Barcode="7453110000000" Sizes="10"></Colors>
+    <Colors Color="BLU" Barcode="7453110000000" Sizes="12"></Colors>
+    <Colors Color="BLU" Barcode="7453110000000" Sizes="14"></Colors>
+    <Colors Color="BLU" Barcode="7453110000000" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASH32205" Producto_reference="NBASH32205RED" Description="NBA COLOR BLOCK PRIMARY LOGO SHORT" Description_spanish="NBA COLOR BLOCK PRIMARY LOGO PANTAL?N CORTO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="499.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP " Sub_group="SH" Arancel="SH" Season="BASICS" LOB="SPO" Equipo="BUL" Gender="03" Logo_specs="Front right and side: placement with embroidery">
+    <Colors Color="RED" Barcode="7453110000000" Sizes="4"></Colors>
+    <Colors Color="RED" Barcode="7453110000000" Sizes="6"></Colors>
+    <Colors Color="RED" Barcode="7453110000000" Sizes="8"></Colors>
+    <Colors Color="RED" Barcode="7453110000000" Sizes="10"></Colors>
+    <Colors Color="RED" Barcode="7453110000000" Sizes="12"></Colors>
+    <Colors Color="RED" Barcode="7453110000000" Sizes="14"></Colors>
+    <Colors Color="RED" Barcode="7453110000000" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAPT32205" Producto_reference="NBAPT32205BLK6" Description="NBA VERTICAL TEAM NAME JOGGER PANTS" Description_spanish="NBA VERTICAL TEAM NAME PANTAL?N DEPORTIVO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="699.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP " Sub_group="PT" Arancel="PT" Season="BASICS" LOB="SPO" Equipo="HEA" Gender="03" Logo_specs="Backside: Woven label, Front: Rubber print">
+    <Colors Color="BLK6" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BLK6" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BLK6" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BLK6" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BLK6" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BLK6" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BLK6" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAPT32205" Producto_reference="NBAPT32205BLK2" Description="NBA VERTICAL TEAM NAME JOGGER PANTS" Description_spanish="NBA VERTICAL TEAM NAME PANTAL?N DEPORTIVO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Compesp="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Price="699.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP " Sub_group="PT" Arancel="PT" Season="BASICS" LOB="SPO" Equipo="LAK" Gender="03" Logo_specs="Backside: Woven label, Front: Rubber prin">
+    <Colors Color="BLK2" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAPT32205" Producto_reference="NBAPT32205BLK" Description="NBA VERTICAL TEAM NAME JOGGER PANTS" Description_spanish="NBA VERTICAL TEAM NAME PANTAL?N DEPORTIVO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Compesp="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Price="699.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP " Sub_group="PT" Arancel="PT" Season="BASICS" LOB="SPO" Equipo="BUL" Gender="03" Logo_specs="Backside: Woven label, Front: Rubber prin">
+    <Colors Color="BLK" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASW32209" Producto_reference="NBASW32209BLK3" Description="NBA WORDMARK LOGO SWEATSHIRT" Description_spanish="NBA WORDMARK LOGO SUDADERA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="BODY FABRIC: 60% COTTON / 40% POLYESTER. 280G FRENCH TERRY" Compesp="" Price="749.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP " Sub_group="SW" Arancel="SW" Season="BASICS" LOB="SPO" Equipo="BUL" Gender="03" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="BLK3" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASW32209" Producto_reference="NBASW32209BLK" Description="NBA WORDMARK LOGO SWEATSHIRT" Description_spanish="NBA WORDMARK LOGO SUDADERA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="BODY FABRIC: 60% COTTON / 40% POLYESTER. 280G FRENCH TERRY" Compesp="" Price="749.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP " Sub_group="SW" Arancel="SW" Season="BASICS" LOB="SPO" Equipo="LAK" Gender="03" Logo_specs="Backside: Heat transfer, Front: Rubber print">
+    <Colors Color="BLK" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAJS532201" Producto_reference="NBAJS532201RED" Description="NBA PRIMARY TEAM LOGO BASIC JERSEY" Description_spanish="NBA PRIMARY TEAM LOGO BASIC CAMISA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="" Price="559.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP " Sub_group="JS" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="BUL" Gender="03" Logo_specs="Front and back: rubber print, Sleeve: Heat transfer">
+    <Colors Color="RED" Barcode="7453110000000" Sizes="4"></Colors>
+    <Colors Color="RED" Barcode="7453110000000" Sizes="6"></Colors>
+    <Colors Color="RED" Barcode="7453110000000" Sizes="8"></Colors>
+    <Colors Color="RED" Barcode="7453110000000" Sizes="10"></Colors>
+    <Colors Color="RED" Barcode="7453110000000" Sizes="12"></Colors>
+    <Colors Color="RED" Barcode="7453110000000" Sizes="14"></Colors>
+    <Colors Color="RED" Barcode="7453110000000" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAJS532201" Producto_reference="NBAJS532201WHT2" Description="NBA PRIMARY TEAM LOGO BASIC JERSEY" Description_spanish="NBA PRIMARY TEAM LOGO BASIC CAMISA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="559.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP " Sub_group="JS" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="BUL" Gender="03" Logo_specs="Front and back: rubber print, Sleeve: Heat transfer">
+    <Colors Color="WHT2" Barcode="" Sizes="4"></Colors>
+    <Colors Color="WHT2" Barcode="" Sizes="6"></Colors>
+    <Colors Color="WHT2" Barcode="" Sizes="8"></Colors>
+    <Colors Color="WHT2" Barcode="" Sizes="10"></Colors>
+    <Colors Color="WHT2" Barcode="" Sizes="12"></Colors>
+    <Colors Color="WHT2" Barcode="" Sizes="14"></Colors>
+    <Colors Color="WHT2" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAJS532201" Producto_reference="NBAJS532201BLK3" Description="NBA PRIMARY TEAM LOGO BASIC JERSEY" Description_spanish="NBA PRIMARY TEAM LOGO BASIC CAMISA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="" Price="559.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP " Sub_group="JS" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="BUL" Gender="03" Logo_specs="Front and back: rubber print, Sleeve: Heat transfer">
+    <Colors Color="BLK3" Barcode="7453110000000" Sizes="4"></Colors>
+    <Colors Color="BLK3" Barcode="7453110000000" Sizes="6"></Colors>
+    <Colors Color="BLK3" Barcode="7453110000000" Sizes="8"></Colors>
+    <Colors Color="BLK3" Barcode="7453110000000" Sizes="10"></Colors>
+    <Colors Color="BLK3" Barcode="7453110000000" Sizes="12"></Colors>
+    <Colors Color="BLK3" Barcode="7453110000000" Sizes="14"></Colors>
+    <Colors Color="BLK3" Barcode="7453110000000" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAJS532201" Producto_reference="NBAJS532201BLK2" Description="NBA PRIMARY TEAM LOGO BASIC JERSEY" Description_spanish="NBA PRIMARY TEAM LOGO BASIC CAMISA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="" Price="559.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP " Sub_group="JS" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="NET" Gender="03" Logo_specs="Front and back: rubber print, Sleeve: Heat transfer">
+    <Colors Color="BLK2" Barcode="7453110000000" Sizes="4"></Colors>
+    <Colors Color="BLK2" Barcode="7453110000000" Sizes="6"></Colors>
+    <Colors Color="BLK2" Barcode="7453110000000" Sizes="8"></Colors>
+    <Colors Color="BLK2" Barcode="7453110000000" Sizes="10"></Colors>
+    <Colors Color="BLK2" Barcode="7453110000000" Sizes="12"></Colors>
+    <Colors Color="BLK2" Barcode="7453110000000" Sizes="14"></Colors>
+    <Colors Color="BLK2" Barcode="7453110000000" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAJS532201" Producto_reference="NBAJS532201WHT" Description="NBA PRIMARY TEAM LOGO BASIC JERSEY" Description_spanish="NBA PRIMARY TEAM LOGO BASIC CAMISA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="" Price="559.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP " Sub_group="JS" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="WAR" Gender="03" Logo_specs="Front and back: rubber print, Sleeve: Heat transfer">
+    <Colors Color="WHT" Barcode="7453110000000" Sizes="4"></Colors>
+    <Colors Color="WHT" Barcode="7453110000000" Sizes="6"></Colors>
+    <Colors Color="WHT" Barcode="7453110000000" Sizes="8"></Colors>
+    <Colors Color="WHT" Barcode="7453110000000" Sizes="10"></Colors>
+    <Colors Color="WHT" Barcode="7453110000000" Sizes="12"></Colors>
+    <Colors Color="WHT" Barcode="7453110000000" Sizes="14"></Colors>
+    <Colors Color="WHT" Barcode="7453110000000" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAJS532201" Producto_reference="NBAJS532201BLU" Description="NBA PRIMARY TEAM LOGO BASIC JERSEY" Description_spanish="NBA PRIMARY TEAM LOGO BASIC CAMISA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="" Price="559.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP " Sub_group="JS" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="WAR" Gender="03" Logo_specs="Front and back: rubber print, Sleeve: Heat transfer">
+    <Colors Color="BLU" Barcode="7453110000000" Sizes="4"></Colors>
+    <Colors Color="BLU" Barcode="7453110000000" Sizes="6"></Colors>
+    <Colors Color="BLU" Barcode="7453110000000" Sizes="8"></Colors>
+    <Colors Color="BLU" Barcode="7453110000000" Sizes="10"></Colors>
+    <Colors Color="BLU" Barcode="7453110000000" Sizes="12"></Colors>
+    <Colors Color="BLU" Barcode="7453110000000" Sizes="14"></Colors>
+    <Colors Color="BLU" Barcode="7453110000000" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAJS532201" Producto_reference="NBAJS532201BLK" Description="NBA PRIMARY TEAM LOGO BASIC JERSEY" Description_spanish="NBA PRIMARY TEAM LOGO BASIC CAMISA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="559.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP " Sub_group="JS" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="HEA" Gender="03" Logo_specs="Front and back: rubber print, Sleeve: Heat transfer">
+    <Colors Color="BLK" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAJS532201" Producto_reference="NBAJS532201GRN" Description="NBA PRIMARY TEAM LOGO BASIC JERSEY" Description_spanish="NBA PRIMARY TEAM LOGO BASIC CAMISA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="" Price="559.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP " Sub_group="JS" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="CEL" Gender="03" Logo_specs="Front and back: rubber print, Sleeve: Heat transfer">
+    <Colors Color="GRN" Barcode="7453110000000" Sizes="4"></Colors>
+    <Colors Color="GRN" Barcode="7453110000000" Sizes="6"></Colors>
+    <Colors Color="GRN" Barcode="7453110000000" Sizes="8"></Colors>
+    <Colors Color="GRN" Barcode="7453110000000" Sizes="10"></Colors>
+    <Colors Color="GRN" Barcode="7453110000000" Sizes="12"></Colors>
+    <Colors Color="GRN" Barcode="7453110000000" Sizes="14"></Colors>
+    <Colors Color="GRN" Barcode="7453110000000" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAJS532201" Producto_reference="NBAJS532201YEL" Description="NBA PRIMARY TEAM LOGO BASIC JERSEY" Description_spanish="NBA PRIMARY TEAM LOGO BASIC CAMISA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER - 150G" Compesp="" Price="559.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP " Sub_group="JS" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="LAK" Gender="03" Logo_specs="Front and back: rubber print, Sleeve: Heat transfer">
+    <Colors Color="YEL" Barcode="7453110000000" Sizes="4"></Colors>
+    <Colors Color="YEL" Barcode="7453110000000" Sizes="6"></Colors>
+    <Colors Color="YEL" Barcode="7453110000000" Sizes="8"></Colors>
+    <Colors Color="YEL" Barcode="7453110000000" Sizes="10"></Colors>
+    <Colors Color="YEL" Barcode="7453110000000" Sizes="12"></Colors>
+    <Colors Color="YEL" Barcode="7453110000000" Sizes="14"></Colors>
+    <Colors Color="YEL" Barcode="7453110000000" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAJS552201" Producto_reference="NBAJS552201PUR" Description="NBA PRIMARY TEAM LOGO BASIC JERSEY" Description_spanish="NBA PRIMARY TEAM LOGO BASIC CAMISA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="599.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP " Sub_group="JS" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="Front and back: rubber print, Sleeve: Heat transfer">
+    <Colors Color="PUR" Barcode="" Sizes="S"></Colors>
+    <Colors Color="PUR" Barcode="" Sizes="M"></Colors>
+    <Colors Color="PUR" Barcode="" Sizes="L"></Colors>
+    <Colors Color="PUR" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBAJS532201" Producto_reference="NBAJS532201PUR" Description="NBA PRIMARY TEAM LOGO BASIC JERSEY" Description_spanish="NBA PRIMARY TEAM LOGO BASIC CAMISA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER (HONEY MESH 150G)" Compesp="100% POLYESTER (HONEY MESH 150G)" Price="559.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP " Sub_group="JS" Arancel="JS" Season="BASICS" LOB="SPO" Equipo="LAK" Gender="03" Logo_specs="Front and back: rubber print, Sleeve: Heat transfer">
+    <Colors Color="PUR" Barcode="" Sizes="4"></Colors>
+    <Colors Color="PUR" Barcode="" Sizes="6"></Colors>
+    <Colors Color="PUR" Barcode="" Sizes="8"></Colors>
+    <Colors Color="PUR" Barcode="" Sizes="10"></Colors>
+    <Colors Color="PUR" Barcode="" Sizes="12"></Colors>
+    <Colors Color="PUR" Barcode="" Sizes="14"></Colors>
+    <Colors Color="PUR" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="JVHD32204" Producto_reference="JVHD32204GRY" Description="JUVENTUS PRIMARY LOGO BASIC HOODIE" Description_spanish="JUVENTUS PRIMARY LOGO BASIC SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER FLEECE 300G" Compesp="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Price="" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="JUVENTUS" Group="AP " Sub_group="HD" Arancel="HD" Season="FALL WINTER 2022" LOB="SPO" Equipo="" Gender="03" Logo_specs="">
+    <Colors Color="GRY" Barcode="" Sizes="4"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="6"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="8"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="10"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="12"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="14"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NFLHD62201" Producto_reference="NFLHD62201BLK4" Description="NFL W BASIC PRIMARY LOGO HOODIE" Description_spanish="NFL W BASIC PRIMARY LOGO SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC: 60% COTTON/40% POLYESTER - FLEECE 300 GR" Compesp="" Price="" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="NFL" Group="AP " Sub_group="HD" Arancel="HD" Season="BASICS" LOB="SPO" Equipo="49E" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLK4" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NFLHD62201" Producto_reference="NFLHD62201NVY" Description="NFL W BASIC PRIMARY LOGO HOODIE" Description_spanish="NFL W BASIC PRIMARY LOGO SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC: 60% COTTON/40% POLYESTER - FLEECE 300 GR" Compesp="" Price="" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="NFL" Group="AP " Sub_group="HD" Arancel="HD" Season="BASICS" LOB="SPO" Equipo="PAT" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="NVY" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NFLHD62201" Producto_reference="NFLHD62201TUR" Description="NFL W BASIC PRIMARY LOGO HOODIE" Description_spanish="NFL W BASIC PRIMARY LOGO SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC: 60% COTTON/40% POLYESTER - FLEECE 300 GR" Compesp="" Price="" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="NFL" Group="AP " Sub_group="HD" Arancel="HD" Season="BASICS" LOB="SPO" Equipo="DOL" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="TUR" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="TUR" Barcode="" Sizes="S"></Colors>
+    <Colors Color="TUR" Barcode="" Sizes="M"></Colors>
+    <Colors Color="TUR" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NFLHD62201" Producto_reference="NFLHD62201BLK3" Description="NFL W BASIC PRIMARY LOGO HOODIE" Description_spanish="NFL W BASIC PRIMARY LOGO SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC: 60% COTTON/40% POLYESTER - FLEECE 300 GR" Compesp="" Price="" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="NFL" Group="AP " Sub_group="HD" Arancel="HD" Season="BASICS" LOB="SPO" Equipo="BUC" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLK3" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NFLTS62201" Producto_reference="NFLTS62201BLK2" Description="NFL W BASIC PRIMARY LOGO T-SHIRT" Description_spanish="NFL W BASIC PRIMARY LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC: 60% COTTON 40% POLYESTER - 160 G" Compesp="" Price="" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="NFL" Group="AP " Sub_group="TS" Arancel="WT" Season="BASICS" LOB="SPO" Equipo="49E" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLK2" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NFLTS62201" Producto_reference="NFLTS62201NVY" Description="NFL W BASIC PRIMARY LOGO T-SHIRT" Description_spanish="NFL W BASIC PRIMARY LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC: 60% COTTON 40% POLYESTER - 160 G" Compesp="" Price="" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="NFL" Group="AP " Sub_group="TS" Arancel="WT" Season="BASICS" LOB="SPO" Equipo="PAT" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="NVY" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NFLTS62201" Producto_reference="NFLTS62201TUR" Description="NFL W BASIC PRIMARY LOGO T-SHIRT" Description_spanish="NFL W BASIC PRIMARY LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC: 60% COTTON 40% POLYESTER - 160 G" Compesp="" Price="" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="NFL" Group="AP " Sub_group="TS" Arancel="WT" Season="BASICS" LOB="SPO" Equipo="DOL" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="TUR" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="TUR" Barcode="" Sizes="S"></Colors>
+    <Colors Color="TUR" Barcode="" Sizes="M"></Colors>
+    <Colors Color="TUR" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NFLTS62201" Producto_reference="NFLTS62201BLK3" Description="NFL W BASIC PRIMARY LOGO T-SHIRT" Description_spanish="NFL W BASIC PRIMARY LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC: 60% COTTON 40% POLYESTER - 160 G" Compesp="" Price="" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="NFL" Group="AP " Sub_group="TS" Arancel="WT" Season="BASICS" LOB="SPO" Equipo="BUC" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLK3" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBTS62208" Producto_reference="MLBTS62208GRY" Description="MLB W BASIC SCRIPT LOGO T-SHIRT" Description_spanish="MLB W BASIC SCRIPT LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="MLB" Group="AP " Sub_group="TS" Arancel="WT" Season="BASICS" LOB="SPO" Equipo="YAN" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="GRY" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBTS62208" Producto_reference="MLBTS62208BLU" Description="MLB W BASIC SCRIPT LOGO T-SHIRT" Description_spanish="MLB W BASIC SCRIPT LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="MLB" Group="AP " Sub_group="TS" Arancel="WT" Season="BASICS" LOB="SPO" Equipo="YAN" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLU" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBTS62208" Producto_reference="MLBTS62208NVY" Description="MLB W BASIC SCRIPT LOGO T-SHIRT" Description_spanish="MLB W BASIC SCRIPT LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="MLB" Group="AP " Sub_group="TS" Arancel="WT" Season="BASICS" LOB="SPO" Equipo="YAN" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="NVY" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBTS62208" Producto_reference="MLBTS62208NVY2" Description="MLB W BASIC SCRIPT LOGO T-SHIRT" Description_spanish="MLB W BASIC SCRIPT LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC: 60% COTTON 40% POLYESTER - 160 G" Compesp="" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="MLB" Group="AP " Sub_group="TS" Arancel="WT" Season="BASICS" LOB="SPO" Equipo="RED" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="NVY2" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="NVY2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY2" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBTS62208" Producto_reference="MLBTS62208WHT" Description="MLB W BASIC SCRIPT LOGO T-SHIRT" Description_spanish="MLB W BASIC SCRIPT LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC: 60% COTTON 40% POLYESTER - 160 G" Compesp="" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="MLB" Group="AP " Sub_group="TS" Arancel="WT" Season="BASICS" LOB="SPO" Equipo="RED" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="WHT" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBTS62208" Producto_reference="MLBTS62208BLU2" Description="MLB W BASIC SCRIPT LOGO T-SHIRT" Description_spanish="MLB W BASIC SCRIPT LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC: 60% COTTON 40% POLYESTER - 160 G" Compesp="" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="MLB" Group="AP " Sub_group="TS" Arancel="WT" Season="BASICS" LOB="SPO" Equipo="DOD" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLU2" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="BLU2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLU2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLU2" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBTS62207" Producto_reference="MLBTS62207WHT" Description="MLB W BASIC PRIMARY LOGO T-SHIRT" Description_spanish="MLB W BASIC PRIMARY LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC: 60% COTTON 40% POLYESTER - 160 G" Compesp="" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="MLB" Group="AP " Sub_group="TS" Arancel="WT" Season="BASICS" LOB="SPO" Equipo="YAN" Gender="06" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="WHT" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="L"></Colors>
+  </Linea>
+</Sagemobile>

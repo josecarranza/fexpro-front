@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="161289" Cliente="0447" Nombre="Briggitte Cabello" Fecha="06/02/2023" Tipo="1" Direccion="Avenida Ricardo Palma 141 (alt. Cuadra 54 Av. Arequipa) " Direccion2="Peru Lima Miraflores 15074" AgenteEmbarcador="" Observaciones="MARATHON PERU - TANK COTTON NBA Q4 FW23&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Briggitte Cabello" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATT523211-WH2" Color="WH2" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6"></Linea>
+    <Linea Producto="NBATT523211-RD1" Color="RD1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6"></Linea>
+    <Linea Producto="NBATT523211-BK3" Color="BK3" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

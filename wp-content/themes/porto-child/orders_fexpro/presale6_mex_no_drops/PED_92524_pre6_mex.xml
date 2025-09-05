@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="92524" Cliente="0463" Nombre="Maria Murillo" Fecha="17/12/2021" Tipo="1" Fecha_Entrega="17/12/2021" Direccion="Lago Zurich 245 edificio presa Falcon piso 9 piso 9" Direccion2="Mexico Ciudad de México cdmx 11529" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Maria Murillo" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="KISPJ522201-BLK" Color="BLK" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="387.5"></Linea>
+    <Linea Producto="ACPJ522202-BLK" Color="BLK" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="344.39655170833"></Linea>
+    <Linea Producto="MLBPJ522202-BLU" Color="BLU" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="387.5"></Linea>
+    <Linea Producto="MLBPJ522203-NVY" Color="NVY" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="344.39655170833"></Linea>
+    <Linea Producto="MLBPJ522203-BLU" Color="BLU" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="344.39655170833"></Linea>
+    <Linea Producto="NBAPJ522203-RED" Color="RED" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="344.39655170833"></Linea>
+    <Linea Producto="NBAPJ522203-PUR" Color="PUR" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="344.39655170833"></Linea>
+    <Linea Producto="NBAPJ522202-RED" Color="RED" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="387.5"></Linea>
+    <Linea Producto="NBAPJ522202-PUR" Color="PUR" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="387.5"></Linea>
+    <Linea Producto="PSGPJ522203-BLK" Color="BLK" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="344.39655170833"></Linea>
+    <Linea Producto="PSGPJ522202-GRY" Color="GRY" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="301.29310345833"></Linea>
+    <Linea Producto="NBASO522201-BLK" Color="BLK" Cantidad="13" size_OS="312" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="115.948275875"></Linea>
+    <Linea Producto="NBASO522201-PUR" Color="PUR" Cantidad="13" size_OS="312" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="115.948275875"></Linea>
+    <Linea Producto="NBASO522202-RED" Color="RED" Cantidad="13" size_OS="312" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="115.948275875"></Linea>
+    <Linea Producto="NBASO522202-LHB" Color="LHB" Cantidad="13" size_OS="312" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="115.948275875"></Linea>
+    <Linea Producto="NBASO522203-PUR" Color="PUR" Cantidad="13" size_OS="312" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="85.775862083333"></Linea>
+    <Linea Producto="NBASO522204-GRY" Color="GRY" Cantidad="13" size_OS="312" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="85.775862083333"></Linea>
+    <Linea Producto="NBASO522204-YEL" Color="YEL" Cantidad="13" size_OS="312" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="85.775862083333"></Linea>
+    <Linea Producto="PSGSO522201-BLK" Color="BLK" Cantidad="13" size_OS="312" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="115.948275875"></Linea>
+    <Linea Producto="PSGSO522202-RED" Color="RED" Cantidad="13" size_OS="312" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="115.948275875"></Linea>
+    <Linea Producto="PSGSO522203-WHT" Color="WHT" Cantidad="13" size_OS="312" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="107.32758620833"></Linea>
+    <Linea Producto="PSGSO522204-BLU" Color="BLU" Cantidad="13" size_OS="312" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="107.32758620833"></Linea>
+    <Linea Producto="KISBX522202-BLK" Color="BLK" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="240.948275875"></Linea>
+    <Linea Producto="ACBX522201-GRY" Color="GRY" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="240.948275875"></Linea>
+    <Linea Producto="ACBX522202-RED" Color="RED" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="240.948275875"></Linea>
+    <Linea Producto="MLBBX522223-NVY" Color="NVY" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="258.18965516667"></Linea>
+    <Linea Producto="MLBBX522223-NVY1" Color="NVY1" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="258.18965516667"></Linea>
+    <Linea Producto="MLBBX522201-RED1" Color="RED1" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="258.18965516667"></Linea>
+    <Linea Producto="MLBBX522203-NVY" Color="NVY" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="258.18965516667"></Linea>
+    <Linea Producto="NBABX522206-RED" Color="RED" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="215.08620691667"></Linea>
+    <Linea Producto="NBABX522206-BLK" Color="BLK" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="215.08620691667"></Linea>
+    <Linea Producto="NBABX522202-BLK1" Color="BLK1" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="215.08620691667"></Linea>
+    <Linea Producto="SMPJ622201-NVY" Color="NVY" Cantidad="13" size_XS="52" size_S="104" size_M="104" size_L="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="387.5"></Linea>
+    <Linea Producto="SMPJ622202-LBL" Color="LBL" Cantidad="13" size_XS="52" size_S="104" size_M="104" size_L="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="344.39655170833"></Linea>
+    <Linea Producto="NASPJ62202-PNK" Color="PNK" Cantidad="13" size_XS="52" size_S="104" size_M="104" size_L="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="387.5"></Linea>
+    <Linea Producto="NASPJ62201-BLK" Color="BLK" Cantidad="13" size_XS="52" size_S="104" size_M="104" size_L="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="387.5"></Linea>
+  </Encabezado>
+</Sagemobile>

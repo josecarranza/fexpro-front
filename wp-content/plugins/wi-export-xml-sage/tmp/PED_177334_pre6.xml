@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="177334" Cliente="0451" Nombre="Claudio Ruiz" Fecha="15/06/2023" Tipo="1" Direccion="MANUEL RODRIGUEZ 730, SANTIAGO CENTRO " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Claudio Ruiz" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBTS524104-WH1" Color="WH1" Cantidad="120" size_S="480" size_M="960" size_L="960" size_XL="480" Unit_Box_Qty="24" Total_Box_Qty="2880" Precio="6.5"></Linea>
+    <Linea Producto="MLBJS524101-WH1" Color="WH1" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="11"></Linea>
+  </Encabezado>
+</Sagemobile>

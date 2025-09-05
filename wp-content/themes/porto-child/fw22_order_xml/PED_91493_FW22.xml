@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="91493" Cliente="0001" Nombre="Samy Eskenazi" Fecha="09/12/2021" Tipo="1" Fecha_Entrega="09/12/2021" Direccion="0000 " Direccion2="Panama  PANAMA 0000" Vendedor="01" AgenteEmbarcador="" Observaciones="NFL Ninos&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Samy Eskenazi" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="JVSH322201-WHT" Color="WHT" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="11.5"></Linea>
+    <Linea Producto="NFLJS321000-NVY" Color="NVY" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="11.5"></Linea>
+    <Linea Producto="NFLJS321000-AQU" Color="AQU" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="11.5"></Linea>
+    <Linea Producto="NFLJS321000-BLK" Color="BLK" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="11.5"></Linea>
+    <Linea Producto="NFLJS321000-RED" Color="RED" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="11.5"></Linea>
+    <Linea Producto="NFLJS321000-BLK3" Color="BLK3" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="11.5"></Linea>
+    <Linea Producto="NFLJS321000-NVY2" Color="NVY2" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="5.5"></Linea>
+    <Linea Producto="NFLTS32209 -NVY" Color="NVY" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="5.5"></Linea>
+    <Linea Producto="NFLTS32209-AQU" Color="AQU" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="5.5"></Linea>
+    <Linea Producto="NFLTS32209-BLK2" Color="BLK2" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="5.5"></Linea>
+    <Linea Producto="NFLTS32209-RED" Color="RED" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="5.5"></Linea>
+    <Linea Producto="NFLTS32209-RED2" Color="RED2" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="5.5"></Linea>
+    <Linea Producto="NFLTS32209-BLK5" Color="BLK5" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="8"></Linea>
+    <Linea Producto="NFLSH32202-NVY2" Color="NVY2" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="8"></Linea>
+    <Linea Producto="NFLSH32202-BLK6" Color="BLK6" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="8"></Linea>
+    <Linea Producto="NFLSH32202-GRN" Color="GRN" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="8"></Linea>
+    <Linea Producto="NFLSH32202-BLK3" Color="BLK3" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="8"></Linea>
+    <Linea Producto="NFLSH32202-NVY" Color="NVY" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="11"></Linea>
+    <Linea Producto="NFLJP32203-NVY" Color="NVY" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="11"></Linea>
+    <Linea Producto="NFLJP32203-NVY2" Color="NVY2" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="11"></Linea>
+    <Linea Producto="NFLJP32203-BLK3" Color="BLK3" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="11"></Linea>
+    <Linea Producto="NFLHD32206-BLK4" Color="BLK4" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="11"></Linea>
+  </Encabezado>
+</Sagemobile>

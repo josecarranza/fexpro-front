@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="154567" Cliente="0447" Nombre="Briggitte Cabello" Fecha="28/11/2022" Tipo="1" Fecha_Entrega="28/11/2022" Direccion="Avenida Ricardo Palma 141 (alt. Cuadra 54 Av. Arequipa) " Direccion2="Peru Lima Miraflores 15074" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Briggitte Cabello" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBHD523207-BK1" Color="BK1" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="16.5"></Linea>
+    <Linea Producto="MLBJK523202-NV1" Color="NV1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="30"></Linea>
+    <Linea Producto="MLBTS523217-BL1" Color="BL1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7"></Linea>
+    <Linea Producto="MLBTS523217-NV1" Color="NV1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7"></Linea>
+    <Linea Producto="MLBTS523217-WH1" Color="WH1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7"></Linea>
+    <Linea Producto="MLBTS523217-WH2" Color="WH2" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7"></Linea>
+    <Linea Producto="MLBJP523205-BK1" Color="BK1" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="13"></Linea>
+  </Encabezado>
+</Sagemobile>

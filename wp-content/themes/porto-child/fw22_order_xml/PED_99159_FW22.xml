@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="99159" Cliente="0000" Nombre="Tamara Montecinos" Fecha="12/01/2022" Tipo="1" Fecha_Entrega="12/01/2022" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 7560356" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS CHILE - NIÑOS MLB INTERNET FW22&#13;&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Tamara Montecinos" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAFF522202-PUR" Color="PUR" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="5.5"></Linea>
+    <Linea Producto="MLBTS320201-NVY2" Color="NVY2" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="5.5"></Linea>
+    <Linea Producto="MLBTS320201-BLU" Color="BLU" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="5.5"></Linea>
+    <Linea Producto="MLBTS320200-WHT" Color="WHT" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="5.5"></Linea>
+    <Linea Producto="MLBTS320200-BLK" Color="BLK" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="5.5"></Linea>
+    <Linea Producto="MLBTS320200-NVY2" Color="NVY2" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="5.5"></Linea>
+    <Linea Producto="MLBTS320200-BLU" Color="BLU" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

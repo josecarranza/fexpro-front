@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="199108" Cliente="0000" Nombre="Jonathan Cohen" Fecha="11/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Panama " Direccion2="Panama Panamá Panama 000000" AgenteEmbarcador="" Observaciones="RUBIS GUADALUPE ORDER Q4 FW24" ResponsablePedido="" ResponsableImportacion="" Contacto="Jonathan Cohen" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASL524205-BK1" Color="BK1" Cantidad="17" size_7="68" size_8="102" size_9="136" size_10="68" size_11="34" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="6"></Linea>
+    <Linea Producto="NBASL524205-RD1" Color="RD1" Cantidad="4" size_7="16" size_8="24" size_9="32" size_10="16" size_11="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6"></Linea>
+    <Linea Producto="NBASL524206-BK1" Color="BK1" Cantidad="15" size_7="60" size_8="90" size_9="120" size_10="60" size_11="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="138410" Cliente="0000" Nombre="Alfredo Reyes" Fecha="10/08/2022" Tipo="1" Fecha_Entrega="10/08/2022" Direccion="KENNEDY 5413 PISO 6, LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO CHILE 8320000" Vendedor="01" AgenteEmbarcador="" Observaciones="RIPLEY CHILE - SPORTS MEN MLB CYCLE SS23" ResponsablePedido="" ResponsableImportacion="" Contacto="Alfredo Reyes" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBHD523112-BLK1" Color="BLK1" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="14"></Linea>
+    <Linea Producto="MLBSW523105-BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="14"></Linea>
+    <Linea Producto="MLBSW523105-BLK1" Color="BLK1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="14"></Linea>
+    <Linea Producto="MLBSW523105-GRY" Color="GRY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="14"></Linea>
+    <Linea Producto="MLBSW523106-NVY" Color="NVY" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="14"></Linea>
+    <Linea Producto="MLBWR523101-NVY" Color="NVY" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="24"></Linea>
+  </Encabezado>
+</Sagemobile>

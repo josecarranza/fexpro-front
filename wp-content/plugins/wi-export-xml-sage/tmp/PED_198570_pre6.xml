@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="198570" Cliente="0592" Nombre="Aldo Quintana" Fecha="19/02/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Gustavo Pinto 450-A, Tacna 23001, Perú " Direccion2="Peru Tacna TACNA 23001" AgenteEmbarcador="" Observaciones="TRAINNER SPORT - BALONES SOCCER FW24 Q4&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Aldo Quintana" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PSGBA524202-NV1" Color="NV1" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6"></Linea>
+    <Linea Producto="RMDBA524202-BL1" Color="BL1" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6"></Linea>
+    <Linea Producto="PSGBA524201-NV1" Color="NV1" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6"></Linea>
+    <Linea Producto="RMDBA524201-BK1" Color="BK1" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6"></Linea>
+    <Linea Producto="RMDBA524203-BL1" Color="BL1" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6"></Linea>
+    <Linea Producto="RMDBA524205-BK1" Color="BK1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="PSGBA524205-BK2" Color="BK2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

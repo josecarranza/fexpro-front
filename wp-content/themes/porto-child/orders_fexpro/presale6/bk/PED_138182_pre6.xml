@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="138182" Cliente="0517" Nombre="Luis Mercado" Fecha="29/07/2022" Tipo="1" Fecha_Entrega="29/07/2022" Direccion="Via España,Plaza Regency N0 177 Local N04-P/B " Direccion2="Panama Panamá CIUDAD DE PANAMÁ 00000" Vendedor="01" AgenteEmbarcador="" Observaciones="LIGAS MUJER CR" ResponsablePedido="" ResponsableImportacion="" Contacto="Luis Mercado" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS623107-BLK" Color="BLK" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="8"></Linea>
+    <Linea Producto="NBATS623107-BGE" Color="BGE" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="8"></Linea>
+    <Linea Producto="NBASH623105-GRY" Color="GRY" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="10"></Linea>
+    <Linea Producto="NBASH623105-WHT" Color="WHT" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="10"></Linea>
+    <Linea Producto="NBAHD623106-BLK" Color="BLK" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="14"></Linea>
+    <Linea Producto="NBAHD623106-WHT" Color="WHT" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="14"></Linea>
+    <Linea Producto="MLBHD623110-BGE" Color="BGE" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="14"></Linea>
+    <Linea Producto="MLBJP623107-BGE" Color="BGE" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="12.5"></Linea>
+    <Linea Producto="MLBJP623105-NVY" Color="NVY" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="14"></Linea>
+    <Linea Producto="MLBCJS623101-BLK" Color="BLK" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="8"></Linea>
+    <Linea Producto="MLBCJS623101-WHT" Color="WHT" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="8"></Linea>
+  </Encabezado>
+</Sagemobile>

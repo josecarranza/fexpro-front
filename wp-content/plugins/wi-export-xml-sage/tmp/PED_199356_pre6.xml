@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="199356" Cliente="0036" Nombre="Carlos Rivera" Fecha="18/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="111 " Direccion2="El Salvador San Salvador El Salvador 111" AgenteEmbarcador="" Observaciones="FW24-Q4-RP-CAP-03-07-MLS-CARLOS RIVERA" ResponsablePedido="" ResponsableImportacion="" Contacto="Carlos Rivera" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MSPPJ324201-PK1" Color="PK1" Cantidad="6" size_4="24" size_6="48" size_8="48" size_10="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10"></Linea>
+    <Linea Producto="MSPPJ324201-BK1" Color="BK1" Cantidad="6" size_4="24" size_6="48" size_8="48" size_10="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10"></Linea>
+    <Linea Producto="MSPPJ724201-PK1" Color="PK1" Cantidad="10" size_10="40" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="10"></Linea>
+    <Linea Producto="MSPPJ724201-BK1" Color="BK1" Cantidad="10" size_10="40" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="10"></Linea>
+    <Linea Producto="MSPCA724202-BK1" Color="BK1" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="7.5"></Linea>
+    <Linea Producto="MSPCA724203-BK1" Color="BK1" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="7.5"></Linea>
+    <Linea Producto="MSPCA724203-PK1" Color="PK1" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="7.5"></Linea>
+    <Linea Producto="MSPST324203-BK1" Color="BK1" Cantidad="16" size_4="64" size_6="128" size_8="128" size_10="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="10"></Linea>
+    <Linea Producto="MSPTS7242111-BK1" Color="BK1" Cantidad="16" size_10="64" size_12="128" size_14="128" size_16="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="6"></Linea>
+    <Linea Producto="MSPTS724210-BK1" Color="BK1" Cantidad="16" size_10="64" size_12="128" size_14="128" size_16="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="6"></Linea>
+    <Linea Producto="MSPTS724209-BK1" Color="BK1" Cantidad="16" size_10="64" size_12="128" size_14="128" size_16="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="6"></Linea>
+    <Linea Producto="MSPTS724209-PK1" Color="PK1" Cantidad="16" size_10="64" size_12="128" size_14="128" size_16="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="6"></Linea>
+    <Linea Producto="MSPTS324208-BK6" Color="BK6" Cantidad="16" size_4="64" size_6="128" size_8="128" size_10="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="6"></Linea>
+    <Linea Producto="MSPTS324208-PK1" Color="PK1" Cantidad="18" size_4="72" size_6="144" size_8="144" size_10="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6"></Linea>
+    <Linea Producto="MSPTS324208-WH3" Color="WH3" Cantidad="12" size_4="48" size_6="96" size_8="96" size_10="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="6"></Linea>
+    <Linea Producto="MSPHD724203-BK1" Color="BK1" Cantidad="10" size_10="40" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12"></Linea>
+  </Encabezado>
+</Sagemobile>

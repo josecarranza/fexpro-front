@@ -1,0 +1,977 @@
+<?php 
+
+require_once 'include/common.php';
+get_currentuserinfo();
+delete_transient('getTableBodyData');
+if(is_user_logged_in()) {
+
+if($_GET['purchased'] == 'with-users')
+{
+	$t = 'Fall Winter 22 --- Users Purchased list';
+	$p = 'Users Purchased list';
+}
+elseif($_GET['purchased'] == 'without-users')
+{
+	$t = 'Fall Winter 22 --- Without Users Purchased list';
+	$p = 'Without Users Purchased list';
+}
+elseif($_GET['cat_purchased'] == 'mens-basics')
+{
+	$t = 'Fall Winter 22 --- Mens Basics';
+	$p = 'Mens Basics';
+}
+elseif($_GET['cat_purchased'] == 'womens-basics')
+{
+	$t = 'Fall Winter 22 --- Womens Basics';
+	$p = 'Mens Basics';
+}
+elseif($_GET['cat_purchased'] == 'boys-basics')
+{
+	$t = 'Fall Winter 22 --- Boys Basics';
+	$p = 'Mens Basics';
+}
+elseif($_GET['cat_purchased'] == 'sports-mens-apparel')
+{
+	$t = 'Fall Winter 22 --- Sports Mens Apparel';
+	$p = 'Mens Basics';
+}
+elseif($_GET['cat_purchased'] == 'sports-womens-apparel')
+{
+	$t = 'Fall Winter 22 --- Sports Womens Apparel';
+	$p = 'Mens Basics';
+}
+elseif($_GET['cat_purchased'] == 'sports-boys-apparel')
+{
+	$t = 'Fall Winter 22 --- Sports Boys Apparel';
+	$p = 'Mens Basics';
+}
+
+elseif($_GET['cat_purchased'] == 'sports-unisex-apparel')
+{
+	$t = 'Fall Winter 22 --- Sports Unisex Apparel';
+	$p = 'Mens Basics';
+}
+elseif($_GET['cat_purchased'] == 'pop-mens-apparel')
+{
+	$t = 'Fall Winter 22 --- Pop Mens Apparel';
+	$p = 'Mens Basics';
+}
+elseif($_GET['cat_purchased'] == 'pop-womens-apparel')
+{
+	$t = 'Fall Winter 22 --- Pop Womens Apparel';
+	$p = 'Mens Basics';
+}
+elseif($_GET['cat_purchased'] == 'underwear-and-boxers')
+{
+	$t = 'Fall Winter 22 --- Underwear and Boxers';
+	$p = 'Mens Basics';
+}
+elseif($_GET['cat_purchased'] == 'socks-summer-spring-22')
+{
+	$t = 'Fall Winter 22 --- Socks';
+	$p = 'Mens Basics';
+}
+elseif($_GET['cat_purchased'] == 'mens-pijamas')
+{
+	$t = 'Fall Winter 22 --- Mens Pijamas';
+	$p = 'Mens Basics';
+}
+elseif($_GET['cat_purchased'] == 'pijamas-underwear-sleep-womens-summer-spring-22')
+{
+	$t = 'Fall Winter 22 --- Womens Pijamas';
+	$p = 'Mens Basics';
+}
+elseif($_GET['cat_purchased'] == 'footwear-mens-summer-spring-22')
+{
+	$t = 'Fall Winter 22 --- Footwear Mens';
+	$p = 'Mens Basics';
+}
+elseif($_GET['cat_purchased'] == 'footwear-boys-summer-spring-22')
+{
+	$t = 'Fall Winter 22 --- Footwear Boys';
+	$p = 'Mens Basics';
+}
+elseif($_GET['cat_purchased'] == 'headwear')
+{
+	$t = 'Fall Winter 22 --- Headwear';
+	$p = 'Mens Basics';
+}
+
+delete_transient('getTableBodyData');
+
+$return_array = array();
+$return_array1 = array();
+$return_array2 = array();
+
+$orders = wc_get_orders( array(
+    'limit'    => -1,
+    'status' => array('wc-presale5'), 
+	'return' => 'ids',
+) );
+
+
+foreach($orders as $order_id)
+{
+	
+	$order = wc_get_order( $order_id );
+
+	
+	//$order_items  = $order->get_items( apply_filters( 'woocommerce_purchase_order_item_types', 'line_item' ) );
+	foreach ( $order->get_items() as $item_id => $item ) {
+	$a = array();
+	   $product_id = $item->get_product_id();
+	   $variation_id = $item->get_variation_id();
+        if(!empty($product_id) && !empty($variation_id))
+	    {
+
+	    	//if( has_term( 'fall-winter-22' , 'product_cat' ,  $product_id) ){
+
+				$getCustomerID = get_post_meta($order_id, '_customer_user', true);
+				if($_GET['purchased'] == 'with-users')
+				{
+					
+						$final_result1[$variation_id][] = $order_id;
+				}
+				elseif($_GET['purchased'] == 'without-users')
+				{
+						$final_result1[$variation_id][] = $item_id;
+				}
+				elseif(isset($_GET['cat_purchased']))
+				{
+						if( has_term( $_GET['cat_purchased'] , 'product_cat' ,  $product_id) )
+						{
+							$final_result1[$variation_id][] = $item_id;
+						}
+				}
+				
+				$final_result3[$variation_id][$getCustomerID][] = $item_id;		
+			//}			
+		}
+	}
+}
+// echo "<pre>";
+// print_r($final_result1);
+// echo "</pre>";
+// die;
+
+if($_GET['purchased'] == 'with-users')
+{
+	foreach($final_result1 as $key => $value)
+	{
+	  foreach($value as $ak)
+	  {
+		$user_meta = get_post_meta($ak, '_customer_user', true);	
+		if(!in_array($user_meta, $return_array1))
+		{
+			array_push($return_array1, $user_meta);
+		}
+	  }
+	}
+	
+	foreach($final_result3 as $key3 => $value3)
+	{
+		foreach($value3 as $key4 => $abc)
+		{
+			$sum = 0;
+			$d = 0;
+			foreach($abc as $c)
+			{
+				$c1 = 0;
+				$variation_size = wc_get_order_item_meta( $c, 'item_variation_size', true );
+				$ap = wc_get_order_item_meta( $c, '_qty', true );
+				foreach ($variation_size as $key => $size) 
+				{
+					$c1 += $size['value'];
+					$merge1[$key3][$size['label']][] = $ap * $size['value'];
+				}
+				
+				
+				$sum += $c1 * $ap; 
+				$d += $c1;
+			}
+			
+			$merge[$key3][$key4][] = $sum;
+			$merge2[$key3][] = $d;
+		}
+	}
+
+}
+elseif($_GET['purchased'] == 'without-users')
+{
+	foreach($final_result1 as $key3 => $value3)
+	{
+		//echo "<p>" . $key3. "</p>";
+		//print_r($value3);
+		$sum = 0;
+		$d = 0;
+		foreach($value3 as $key4 => $abc)
+		{
+			$c1 = 0;
+				$variation_size = wc_get_order_item_meta( $abc, 'item_variation_size', true );
+				$ap = wc_get_order_item_meta( $abc, '_qty', true );
+				foreach ($variation_size as $key => $size) 
+				{
+					$c1 += $size['value'];
+					$merge1[$key3][$size['label']][] = $ap * $size['value'];
+				}
+			
+				$sum += $c1 * $ap; 
+				$d += $c1; 
+			//echo "<p>" . $key4 . " " . $sum . "</p>";
+		}
+		$merge[$key3][] = $sum;
+		$merge2[$key3][] = $d;
+	} 
+}
+else
+{
+
+	foreach($final_result1 as $key3 => $value3)
+	{
+		//echo "<p>" . $key3. "</p>";
+		//print_r($value3);
+		$sum = 0;
+		$d = 0;
+		foreach($value3 as $key4 => $abc)
+		{
+			$c1 = 0;
+				$variation_size = wc_get_order_item_meta( $abc, 'item_variation_size', true );
+				$ap = wc_get_order_item_meta( $abc, '_qty', true );
+				foreach ($variation_size as $key => $size) 
+				{
+					$c1 += $size['value'];
+					$merge1[$key3][$size['label']][] = $ap * $size['value'];
+				}
+			
+				$sum += $c1 * $ap; 
+				$d += $c1; 
+			//echo "<p>" . $key4 . " " . $sum . "</p>";
+		}
+		$merge[$key3][] = $sum;
+		$merge2[$key3][] = $d;
+	} 
+}
+
+
+
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- Favicon icon -->
+    <link rel="icon" type="image/png" sizes="16x16" href="https://shop.fexpro.com/wp-content/uploads/2021/01/logo.png">
+    <title>Fexpro Sage</title>
+    <!-- chartist CSS -->
+    <link href="dist/css/pages/ecommerce.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="dist/css/style.min.css" rel="stylesheet">
+
+    <link href="include/css/custom-fexpro.css" rel="stylesheet">
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<style>
+    input, textarea{width: 100%}
+    table#demo tr > td:first-child {
+        width: 20%;
+    }
+    [role="alert"]{display: none;}
+    .submit{margin-bottom: 15px;}
+    .red{border-color: #f00;}
+    </style>
+</head>
+
+<body class="skin-default fixed-layout">
+    <!-- ============================================================== -->
+    <!-- Preloader - style you can find in spinners.css -->
+    <!-- ============================================================== -->
+    <div class="preloader">
+        <div class="loader">
+            <div class="loader__figure"></div>
+            <p class="loader__label">Fexpro Sage</p>
+        </div>
+    </div>
+    <!-- ============================================================== -->
+    <!-- Main wrapper - style you can find in pages.scss -->
+    <!-- ============================================================== -->
+    <div id="main-wrapper">
+        <!-- ============================================================== -->
+        <!-- Topbar header - style you can find in pages.scss -->
+        <!-- ============================================================== -->
+        <header class="topbar">
+            <nav class="navbar top-navbar navbar-expand-md navbar-dark">
+                <!-- ============================================================== -->
+                <!-- Logo -->
+                <!-- ============================================================== -->
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="https://shop.fexpro.com/sagelogin/ecommerce/presale5/">
+                        <!-- Logo icon --><b>
+                            <!--You can put here icon as well // <i class="wi wi-sunset"></i> //-->
+                            <!-- Dark Logo icon -->
+                            <img src="https://shop.fexpro.com/sagelogin/ecommerce/logo.webp" alt="homepage" class="dark-logo" />
+                            <!-- Light Logo icon -->
+                            
+                        </b>
+                    </a>
+                        <!--End Logo icon -->
+                        <!-- Logo text --><span>
+                         <!-- dark Logo text -->
+                         
+                </div>
+                <!-- ============================================================== -->
+                <!-- End Logo -->
+                <!-- ============================================================== -->
+                <div class="navbar-collapse">
+                    <!-- ============================================================== -->
+                    <!-- toggle and nav items -->
+                    <!-- ============================================================== -->
+                    <ul class="navbar-nav mr-auto">
+                        <!-- This is  -->
+                        <li class="nav-item"> <a class="nav-link nav-toggler d-block d-md-none waves-effect waves-dark" href="javascript:void(0)"><i class="ti-menu"></i></a> </li>
+                        <li class="nav-item"> <a class="nav-link sidebartoggler d-none d-lg-block d-md-block waves-effect waves-dark" href="javascript:void(0)"><i class="icon-menu"></i></a> </li>
+                       
+                        
+                    </ul>
+                    
+                    <ul class="navbar-nav my-lg-0">
+                        
+                        <li class="nav-item right-side-toggle"> <a class="nav-link  waves-effect waves-light" href="javascript:void(0)"><i class="ti-settings"></i></a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+
+        <?php include('include/sidebar.php'); ?>
+        
+        <div class="page-wrapper">
+            <!-- ============================================================== -->
+            <!-- Container fluid  -->
+            <!-- ============================================================== -->
+            <div class="container-fluid">
+                <!-- ============================================================== -->
+                <!-- Bread crumb and right sidebar toggle -->
+                <!-- ============================================================== -->
+                <div class="row page-titles">
+                    <div class="col-md-5 align-self-center">
+                        <h4 class="text-themecolor"><?php echo $t; ?></h4>
+                    </div>
+                    <div class="col-md-7 align-self-center text-right">
+                        <div class="d-flex justify-content-end align-items-center">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a href="javascript:void(0)">Home</a></li>
+                                <li class="breadcrumb-item active"><?php echo $p; ?></li>
+                            </ol>
+                        </div>
+                    </div>
+                </div>
+                <!-- ============================================================== -->
+                <!-- End Bread crumb and right sidebar toggle -->
+                <!-- ============================================================== -->
+                <!-- ============================================================== -->
+                <!-- Info box Content -->
+                <!-- ============================================================== -->
+                
+                <!-- ============================================================== -->
+                <!-- charts -->
+                <!-- ============================================================== -->
+                <div class="row">
+                <?php if(isset($_GET['purchased']) || isset($_GET['cat_purchased']) ) { ?>
+                	
+		                
+				<span id="exportexcel" onclick="fnExcelReport();">Export to XLSX</span>	
+				<span id="exportexcel1" onclick="fnExcelReport1();">Export All to XLSX</span>
+				<span id="stop-refresh">Exporting is inprogress. Please don't refresh the page.</span>
+
+				<div class="exporting-it">
+				<table class="table table-bordered" id="demo">
+					
+
+				   <thead>
+						<tr>
+						  <th style="vertical-align : middle;text-align:center;">Product image</th>
+						  <th  style="vertical-align : middle;text-align:center;">Style name</th>
+						  <th  style="vertical-align : middle;text-align:center;">Style sku</th>
+						  <th  style="vertical-align : middle;text-align:center;">Brand</th>
+						  <th  style="vertical-align : middle;text-align:center;">Gender</th>
+						  <th  style="vertical-align : middle;text-align:center;">Category</th>
+						  <th  style="vertical-align : middle;text-align:center;">Sub-category</th>
+						  <th  style="vertical-align : middle;text-align:center;">Season</th>
+						  <th style="vertical-align : middle;text-align:center;min-width: 215px;">Composition</th>
+						  <th style="vertical-align : middle;text-align:center;min-width: 215px;">Producto logo</th>
+						  <?php
+						  if($_GET['purchased'] == 'with-users')
+						  {
+							  $countries = WC()->countries->get_countries();
+							  //print_r($countries);
+							  foreach($return_array1 as $key1 => $value1)
+							  {
+								  //echo $value1 . "<br>";
+									$user_info = get_userdata($value1);
+									$first_name = $user_info->first_name;
+									$last_name = $user_info->last_name;
+									$getCompany = get_user_meta($value1, 'billing_company', true);
+									$getCountry = $countries[get_user_meta($value1, 'billing_country', true)];
+									echo "<th style='vertical-align : middle;text-align:center; min-width: 215px;' data-customer_id='". $first_name  . " " . $last_name ."'>" . $first_name  . " " . $last_name . " - " . $getCompany . " - " . $getCountry . "</th>";			 
+							  }
+						  }
+						  ?>
+						  <th style="vertical-align : middle;text-align:center;">Selling Price</th>
+						  <th style="vertical-align : middle;text-align:center;">Total Unit Purchased</th>
+						  <th style="vertical-align : middle;text-align:center;">Open Stock</th>
+						  <th style="vertical-align : middle;text-align:center;">Total Value</th>
+						</tr>
+					  </thead>
+					<tbody id="myTable">
+						<?php 
+							$i = 0;
+							$len = count($merge);
+
+							$tableBody = array();
+							foreach($merge as $key => $value)
+							{
+								
+								$_product =  wc_get_product( $key); 
+								$main_product = wc_get_product( $_product->get_parent_id() );
+								$cat = get_the_terms( $_product->get_parent_id() , 'product_cat' );
+								/* $terms_string = join(', ', wp_list_pluck($cat, 'name'));
+								echo $terms_string; */
+								$css_slugGender = array();
+								$css_slugCategory = array();
+								$css_slugSubCategory = array();
+								//print_r($cat);
+								foreach($cat as $cvalue)
+								{
+									if($cvalue->parent != 0)
+									{
+										$term = get_term_by( 'id', $cvalue->parent, 'product_cat' );
+										$css_slugSubCategory[] = $cvalue->name;
+										$css_slugCategory[] = $term->name;
+										
+										
+										if($cvalue->parent == '3259')
+										{
+											$css_slugGender[] = $cvalue->name;
+										}
+									}
+									else
+									{
+										if($cvalue->name == 'All Mens')
+										{
+											$css_slugGender[] = str_replace('All ', '', $cvalue->name);
+										}
+										elseif($cvalue->name == 'All Womens')
+										{
+											$css_slugGender[] = str_replace('All ', '', $cvalue->name);
+										}
+										//$css_slugGender[] = $cvalue->name;
+									}
+								}
+								
+								$e = get_post_meta($key, '_stock', true);
+								if($e)
+								{
+									if($e < 0)
+									{
+										$e = 0;
+									}
+									else
+									{
+										$e = $e * $merge2[$key][0];
+									}
+								}
+								else
+								{
+									$e = "Stock limit removed";
+								}
+								
+							
+								$image_id			= $_product->get_image_id();
+								$gallery_thumbnail 	= wc_get_image_size( array(100, 100) );
+								$thumbnail_size    	= apply_filters( 'woocommerce_gallery_thumbnail_size', array( $gallery_thumbnail['width'], $gallery_thumbnail['height'] ) );
+								$thumbnail_src     	= wp_get_attachment_image_src( $image_id, $thumbnail_size );
+								$fabricComposition = get_the_terms( $_product->get_parent_id(), 'pa_fabric-composition' );
+								$fabricCompositionString = $fabricComposition[0]->name; //join(', ', wp_list_pluck($fabricComposition, 'name'));
+								
+								$logoApplication = get_the_terms( $_product->get_parent_id(), 'pa_logo-application' );
+								$array_logo = array();
+								if(!empty($logoApplication[0]->name)){$array_logo[] = $logoApplication[0]->name;}
+								if(!empty($logoApplication[1]->name)){$array_logo[] = $logoApplication[1]->name;}
+								if(!empty($logoApplication[2]->name)){$array_logo[] = $logoApplication[2]->name;}
+								if(!empty($logoApplication[3]->name)){$array_logo[] = $logoApplication[3]->name;}
+								
+								$logoApplicationString = implode(', ', $array_logo);
+							
+								$row3 = "<div class='cart-sizes-attribute'>";
+									$row3 .= '<div class="size-guide"><h5>Sizes</h5>';
+									foreach ($merge1[$key] as $akkk => $akkkv) {
+										$q  = 0;
+										$row3 .= "<div class='inner-size'><span>" . $akkk  . "</span>";
+										foreach($akkkv as $akkk1 => $akkkv1)
+										{
+											$q += $akkkv1;
+										}
+										$row3 .= "<span class='clr_val'>" . $q . "</span>";
+										$row3 .= "</div>";
+									}
+								$row3 .= "</div>";
+								$row3 .= "</div>";
+
+								echo "<tr>";
+								echo "<td class='".$_product->get_sku()."'><img src='" . $thumbnail_src[0] . "'/></td>";
+								echo "<td class='".$_product->get_sku()."'>" . $_product->get_title() . " - " . $_product->get_attribute( 'pa_color' );
+								echo $row3;
+								echo "</td>";
+								echo "<td class='".$_product->get_sku()."'>" . $_product->get_sku() . "</td>";
+								echo "<td class='".$_product->get_sku()."'>" . $main_product->get_attribute( 'pa_brand' ) . "</td>";
+								echo "<td class='".$_product->get_sku()."'>" . implode(", ", $css_slugGender) . "</td>";
+								echo "<td class='".$_product->get_sku()."'>" . implode(", ", $css_slugCategory) . "</td>";
+								echo "<td class='".$_product->get_sku()."'>" . implode(", ", $css_slugSubCategory) . "</td>";
+								echo "<td class='".$_product->get_sku()."'>" . $main_product->get_attribute( 'pa_season' ) . "</td>";
+								echo "<td class='".$_product->get_sku()."'>" . $fabricCompositionString . "</td>";
+								echo "<td class='".$_product->get_sku()."'>" . $logoApplicationString . "</td>";
+
+								$imageUrlThumb = str_replace("https://shop.fexpro.com", "",$thumbnail_src[0]);
+
+								array_push($tableBody,  (object) array('Title' => $_product->get_sku(), 'data' => $imageUrlThumb ));
+								array_push($tableBody,  (object) array('Title' => $_product->get_sku(), 'data' => $_product->get_title() . " - " . $_product->get_attribute( 'pa_color' )) );
+								array_push($tableBody,  (object) array('Title' => $_product->get_sku(), 'data' => $_product->get_sku()));
+								array_push($tableBody,  (object) array('Title' => $_product->get_sku(), 'data' => $main_product->get_attribute( 'pa_brand' )));
+
+								array_push($tableBody,  (object) array('Title' => $_product->get_sku(), 'data' => implode(", ", $css_slugGender) ));
+
+								array_push($tableBody,  (object) array('Title' => $_product->get_sku(), 'data' => implode(", ", $css_slugCategory) ));
+								array_push($tableBody,  (object) array('Title' => $_product->get_sku(), 'data' => implode(", ", $css_slugSubCategory) ));
+								array_push($tableBody,  (object) array('Title' => $_product->get_sku(), 'data' => $main_product->get_attribute( 'pa_season' ) ));
+								array_push($tableBody,  (object) array('Title' => $_product->get_sku(), 'data' => $logoApplicationString ));
+								array_push($tableBody,  (object) array('Title' => $_product->get_sku(), 'data' => $fabricCompositionString ));
+
+								$apk = 0;
+								if($_GET['purchased'] == 'with-users')
+								{
+									
+									foreach($return_array1 as $key1 => $value1)
+									{
+										$user_info = get_userdata($value1);
+										$first_name = $user_info->first_name;
+										$last_name = $user_info->last_name;
+										//$company_name = get_user_meta($value1, 'billing_company', true);
+										echo "<td class='".$_product->get_sku()."' data-customer_id='". $first_name  . " " . $last_name ."'>" . $value[$value1][0] . "</td>";
+										$apk += $value[$value1][0];
+
+										array_push($tableBody, (object)  array('Title' => $_product->get_sku(), 'data' => $value[$value1][0]));
+									}
+								}	
+								elseif($_GET['purchased'] == 'without-users' || isset($_GET['cat_purchased']))
+								{
+									$apk = $value[0];
+								}
+								
+							array_push($tableBody,  (object) array('Title' => $_product->get_sku(), 'data' =>  get_post_meta($key, '_regular_price', true) ));
+							array_push($tableBody,  (object) array('Title' => $_product->get_sku(), 'data' => $apk ));
+							array_push($tableBody,  (object) array('Title' => $_product->get_sku(), 'data' => $e));
+
+								$getTotalPrice = number_format((get_post_meta($key, '_regular_price', true) * $apk),2,'.', ',' );
+
+							array_push($tableBody,  (object) array('Title' => $_product->get_sku(), 'data' => $getTotalPrice)  );
+
+									
+								echo "<td class='".$_product->get_sku()."'>" . get_post_meta($key, '_regular_price', true) . "</td>";					
+								echo "<td class='".$_product->get_sku()."'>" . $apk . "</td>";
+								echo "<td class='".$_product->get_sku()."'>" . $e . "</td>";
+								echo "<td class='".$_product->get_sku()."'>" . wc_price(get_post_meta($key, '_regular_price', true) * $apk) . "</td>";
+								echo "</tr>";
+								echo "</tr>";	
+
+
+								if ($i == $len - 1) {
+
+
+									echo "<tr style='background-color: #000; color: #fff;' class='last-tr'>";
+											echo "<td class='total-line'></td>";
+											echo "<td class='total-line'></td>";
+											echo "<td class='total-line'></td>";
+											echo "<td class='total-line'></td>";
+											echo "<td class='total-line'></td>";
+											echo "<td class='total-line'></td>";
+											echo "<td class='total-line'></td>";
+											echo "<td class='total-line'></td>";
+											echo "<td class='total-line'></td>";
+											echo "<td class='total-line'></td>";
+											if($_GET['purchased'] == 'with-users')
+											{
+												foreach($return_array1 as $key1 => $value1)
+												{
+													$user_info = get_userdata($value1);
+													$first_name = $user_info->first_name;
+													$last_name = $user_info->last_name;
+													echo "<td class='total-line' data-customer_id='" . $first_name  . " " . $last_name . "'></td>";
+												}
+											}											
+											echo "<td class='total-line'></td>";
+											echo "<td class='total-line'></td>";
+											echo "<td class='total-line'></td>";
+											echo "<td class='total-line'></td>";
+									echo "</tr>";
+								}
+							$i++;
+							}
+						?>
+					</tbody>
+				</table>
+				</div>
+				<?php } 
+
+
+				delete_transient('getTableBodyData');
+
+				set_transient('getTableBodyData', $tableBody, 21600);
+
+				?>
+                </div>
+                
+                <!-- .right-sidebar -->
+                <div class="right-sidebar">
+                    <div class="slimscrollright">
+                        <div class="rpanel-title"> Service Panel <span><i class="ti-close right-side-toggle"></i></span> </div>
+                        <div class="r-panel-body">
+                            <ul id="themecolors" class="m-t-20">
+                                <li><b>With Light sidebar</b></li>
+                                <li><a href="javascript:void(0)" data-skin="skin-default" class="default-theme working">1</a></li>
+                                <li><a href="javascript:void(0)" data-skin="skin-green" class="green-theme">2</a></li>
+                                <li><a href="javascript:void(0)" data-skin="skin-red" class="red-theme">3</a></li>
+                                <li><a href="javascript:void(0)" data-skin="skin-blue" class="blue-theme">4</a></li>
+                                <li><a href="javascript:void(0)" data-skin="skin-purple" class="purple-theme">5</a></li>
+                                <li><a href="javascript:void(0)" data-skin="skin-megna" class="megna-theme">6</a></li>
+                                <li class="d-block m-t-30"><b>With Dark sidebar</b></li>
+                                <li><a href="javascript:void(0)" data-skin="skin-default-dark" class="default-dark-theme ">7</a></li>
+                                <li><a href="javascript:void(0)" data-skin="skin-green-dark" class="green-dark-theme">8</a></li>
+                                <li><a href="javascript:void(0)" data-skin="skin-red-dark" class="red-dark-theme">9</a></li>
+                                <li><a href="javascript:void(0)" data-skin="skin-blue-dark" class="blue-dark-theme">10</a></li>
+                                <li><a href="javascript:void(0)" data-skin="skin-purple-dark" class="purple-dark-theme">11</a></li>
+                                <li><a href="javascript:void(0)" data-skin="skin-megna-dark" class="megna-dark-theme ">12</a></li>
+                            </ul>
+                            
+                        </div>
+                    </div>
+                </div>
+                <!-- ============================================================== -->
+                <!-- End Right sidebar -->
+                <!-- ============================================================== -->
+            </div>
+            <!-- ============================================================== -->
+            <!-- End Container fluid  -->
+            <!-- ============================================================== -->
+        </div>
+        <!-- ============================================================== -->
+        <!-- End Page wrapper  -->
+        <!-- ============================================================== -->
+        <!-- ============================================================== -->
+        <!-- footer -->
+        <!-- ============================================================== -->
+        <footer class="footer">
+            © 2021 Fexpro Sage
+        </footer>
+        <!-- ============================================================== -->
+        <!-- End footer -->
+        <!-- ============================================================== -->
+    </div>
+    <!-- ============================================================== -->
+    <!-- End Wrapper -->
+	<script src="../../assets/node_modules/jquery/jquery-3.2.1.min.js"></script>
+    <!-- Bootstrap tether Core JavaScript -->
+    <script src="../../assets/node_modules/popper/popper.min.js"></script>
+    <script src="../../assets/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- slimscrollbar scrollbar JavaScript -->
+    <script src="dist/js/perfect-scrollbar.jquery.min.js"></script>
+	<!--Menu sidebar -->
+    <script src="dist/js/sidebarmenu.js"></script>
+	
+	<!--Custom JavaScript -->
+    <script src="dist/js/custom.min.js"></script>
+    <script src="../../assets/node_modules/jquery-sparkline/jquery.sparkline.min.js"></script>
+    <!-- ============================================================== -->
+    <!-- This page plugins -->
+    <!-- ============================================================== -->
+    <!--Custom JavaScript -->
+    
+
+    <script src="include/js/custom-fexpro.js"></script>
+	<script src="dist/tablefilter/tablefilter.js"></script>
+	<script src="test-filters-visibility-factory.js"></script>
+<script>
+const formatToCurrency = amount => {
+  return "$" + amount.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, "$&,");
+};
+jQuery(window).bind("load", function () {
+	var d = 0;	
+	var c = 0;
+	setTimeout(function() {
+	jQuery("table#demo tbody > tr:not('.last-tr'):visible td:nth-last-child(3)").each(function(){
+		c += Number($(this).text());
+	});
+	console.log(c);
+	jQuery(".last-tr td:nth-last-child(3)").text(c);
+	
+	jQuery("table#demo tbody > tr:not('.last-tr'):visible td:last-child .woocommerce-Price-amount bdi").each(function(){
+		//console.log(Number($(this).text().replace(/[^0-9.-]+/g,"")));
+		d += Number($(this).text().replace(/[^0-9.-]+/g,""));
+	});
+	jQuery(".last-tr td:last-child").text(formatToCurrency(d));
+	},500);
+});
+$('#demo tr.fltrow input').keypress(function (e) {
+	var key = e.which;
+	if(key == 13)  // the enter key code
+	{
+		var c = 0;
+		var d = 0;
+		setTimeout(function() {
+		jQuery("table#demo tbody > tr:not('.last-tr'):visible td:nth-last-child(3)").each(function(){
+			c += Number($(this).text());
+			
+		});
+		console.log(c);
+		jQuery(".last-tr td:nth-last-child(3)").text(c);
+		
+		jQuery("table#demo tbody > tr:not('.last-tr'):visible td:last-child .woocommerce-Price-amount bdi").each(function(){
+			//console.log(Number($(this).text().replace(/[^0-9.-]+/g,"")));
+			d += Number($(this).text().replace(/[^0-9.-]+/g,""));
+		});
+		jQuery(".last-tr td:last-child").text(formatToCurrency(d));
+		
+		},500);
+	}
+	jQuery(".last-tr").css({"display": ""});
+});
+
+$('.pgSlc, .rspg').on('change', function (e) {
+	var key = e.which;
+		var c = 0;
+		var d = 0;
+		setTimeout(function() {
+		jQuery("table#demo tbody > tr:not('.last-tr'):visible td:nth-last-child(3)").each(function(){
+			c += Number($(this).text());
+			
+		});
+		console.log(c);
+		jQuery(".last-tr td:nth-last-child(3)").text(c);
+		
+		jQuery("table#demo tbody > tr:not('.last-tr'):visible td:last-child .woocommerce-Price-amount bdi").each(function(){
+			//console.log(Number($(this).text().replace(/[^0-9.-]+/g,"")));
+			d += Number($(this).text().replace(/[^0-9.-]+/g,""));
+		});
+		jQuery(".last-tr td:last-child").text(formatToCurrency(d));
+		
+		},500);
+	
+	jQuery(".last-tr").css({"display": ""});
+});
+
+$('input.pgInp.nextPage, input.pgInp.lastPage, input.pgInp.previousPage, input.pgInp.firstPage').on('click', function (e) {
+	var key = e.which;
+		var c = 0;
+		var d = 0;
+		setTimeout(function() {
+		jQuery("table#demo tbody > tr:not('.last-tr'):visible td:nth-last-child(3)").each(function(){
+			c += Number($(this).text());
+			
+		});
+		console.log(c);
+		jQuery(".last-tr td:nth-last-child(3)").text(c);
+		
+		jQuery("table#demo tbody > tr:not('.last-tr'):visible td:last-child .woocommerce-Price-amount bdi").each(function(){
+			//console.log(Number($(this).text().replace(/[^0-9.-]+/g,"")));
+			d += Number($(this).text().replace(/[^0-9.-]+/g,""));
+		});
+		jQuery(".last-tr td:last-child").text(formatToCurrency(d));
+		
+		},500);
+	
+	jQuery(".last-tr").css({"display": ""});
+});
+
+function fnExcelReport()
+{
+    var SITEURL = "<?php echo site_url(); ?>/wp-content/themes/porto-child/";
+	var form_data = new FormData();   
+	var myArray = [];
+	var myArray1 = [];
+	var myArrayImage2 = [];
+	var data = {};
+	var tab = document.getElementById('myTable');
+	var i=0, k=0;
+	
+	jQuery( 'table#demo thead > tr:nth-child(2) th' ).each(function() {
+			myArray.push(jQuery(this).text());		
+	});
+	console.log(myArray);
+	form_data.append('getHeaderArray', JSON.stringify(myArray));
+	console.log(tab.rows);
+	for(i = 0 ; i < tab.rows.length ; i++) 
+    {     
+		if(tab.rows[i].getAttribute("style") == 'display: none;')
+		{	
+			continue;
+		}
+		else
+		{
+			// console.log(tab.rows[j]);
+			
+			//console.log(tab.rows[j].innerHTML);
+			for(k = 0 ; k < tab.rows[i].cells.length ; k++) 
+			{
+				if(tab.rows[i].cells[k].innerHTML.indexOf("uploads") != -1)
+				{
+					var abc = tab.rows[i].cells[k].innerHTML.split("https://v9r8j6s9.stackpathcdn.com");
+					var res = abc[1].replace('">', "");
+					//myArray1.push(res);
+					myArray1.push({
+						'Title': tab.rows[i].cells[k].getAttribute("class"), 
+						'data':  res
+					});
+				}
+				else if(tab.rows[i].cells[k].innerHTML.indexOf("woocommerce-Price-amount amount") != -1)
+				{
+					var abc2 = tab.rows[i].cells[k].innerHTML.split("$</span>");
+					var res2 = abc2[1].replace('</bdi></span>', "");
+					//myArray1.push(res2);
+					myArray1.push({
+						'Title': tab.rows[i].cells[k].getAttribute("class"), 
+						'data':  res2
+					});
+				}
+				else if(tab.rows[i].cells[k].innerHTML.indexOf("cart-sizes-attribute") != -1)
+				{
+					var abc3 = tab.rows[i].cells[k].innerHTML.split('<div class="cart-sizes-attribute"');
+					var res3 = abc3[0].replace('<div class="cart-sizes-attribute"', "");
+					//myArray1.push(res2);
+					myArray1.push({
+						'Title': tab.rows[i].cells[k].getAttribute("class"), 
+						'data':  res3
+					});
+				}
+				else
+				{
+					//myArray1.push(tab.rows[i].cells[k].innerHTML);
+					myArray1.push({
+						'Title': tab.rows[i].cells[k].getAttribute("class"), 
+						'data':  tab.rows[i].cells[k].innerHTML
+					});
+				}
+			}
+			//tab.rows[j].innerHTML;
+		}
+    } 
+
+	
+	
+	//console.log(tab);
+	
+	form_data.append('getBodyArray', JSON.stringify(myArray1));
+	form_data.append('action', 'export_cart_entries1');
+
+	jQuery.ajax({
+		type: "POST",
+		url: "https://shop.fexpro.com/wp-admin/admin-ajax.php",
+		contentType: false,
+		processData: false,
+		data: form_data,
+		beforeSend: function() {
+			jQuery('#exportexcel').text('Creating XLSX File');
+			jQuery('#stop-refresh').show();
+		},
+		success:function(msg) {
+			console.log(msg);	
+			jQuery('#exportexcel').text('Data Exported');
+			setTimeout(function() {
+				jQuery('#exportexcel').text('Export Cart in XLSX');
+			},500);
+			jQuery('#stop-refresh').hide();
+			var data = JSON.parse(msg);
+			window.open(SITEURL+"orders/"+data.filename, '_blank');
+		},
+		error: function(errorThrown){
+			console.log(errorThrown);
+			console.log('No update');
+		}
+	});
+
+
+}
+
+
+
+function fnExcelReport1()
+{
+	
+
+	
+    var SITEURL = "<?php echo site_url(); ?>/wp-content/themes/porto-child/";
+	var form_data = new FormData();   
+	var myArray = [];
+	var myArray1 = [];
+	var myArrayImage2 = [];
+	var data = {};
+	var tab = document.getElementById('myTable');
+	var i=0, k=0;
+	
+	jQuery( 'table#demo thead > tr:nth-child(2) th' ).each(function() {
+			myArray.push(jQuery(this).text());		
+	});
+	form_data.append('getHeaderArray', JSON.stringify(myArray));
+	form_data.append('action', 'export_cart_entries_all_data');
+
+	jQuery.ajax({
+		type: "POST",
+		url: "https://shop.fexpro.com/wp-admin/admin-ajax.php",
+		contentType: false,
+		processData: false,
+		data: form_data,
+		beforeSend: function() {
+			jQuery('#exportexcel1').text('Creating XLSX File');
+			jQuery('#stop-refresh').show();
+		},
+		success:function(msg) {
+			console.log(msg);	
+			jQuery('#exportexcel1').text('Data Exported');
+			setTimeout(function() {
+				jQuery('#exportexcel1').text('Export All to XLSX');
+			},500);
+			jQuery('#stop-refresh').hide();
+			var data = JSON.parse(msg);
+			window.open(SITEURL+"orders/"+data.filename, '_blank');
+		},
+		error: function(errorThrown){
+			console.log(errorThrown);
+			console.log('No update');
+		}
+	});
+
+
+}
+
+
+
+
+</script> 	
+</body>
+</html>	
+<?php 
+} else {
+    header('location: https://shop.fexpro.com/sagelogin/ecommerce/pages-login.php');
+    exit;
+}
+?>

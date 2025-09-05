@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="87810" Cliente="0000" Nombre="ALEJANDRO DIAZ" Fecha="26/11/2021" Tipo="1" Fecha_Entrega="26/11/2021" Direccion="Lomas De San Francisco San Salvador, El Salvador" Direccion2="El Salvador  Antiguo Cuscatlan 1105" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="ALEJANDRO DIAZ" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="FIJS322206-WHT" Color="WHT" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="8"></Linea>
+    <Linea Producto="FIJS322206-YEL" Color="YEL" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="8"></Linea>
+    <Linea Producto="FIJS322206-WHT2" Color="WHT2" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="8"></Linea>
+    <Linea Producto="FITS322202-WHT" Color="WHT" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6"></Linea>
+    <Linea Producto="FITS322202-NVY" Color="NVY" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6"></Linea>
+    <Linea Producto="FITS322202-YEL" Color="YEL" Cantidad="11" size_4="22" size_6="44" size_8="44" size_10="44" size_12="44" size_14="44" size_16="22" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="6"></Linea>
+    <Linea Producto="FITS322207-LHB" Color="LHB" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6.5"></Linea>
+    <Linea Producto="FITS322207-WHT" Color="WHT" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6.5"></Linea>
+    <Linea Producto="FIJS322204-LHB" Color="LHB" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="7.5"></Linea>
+    <Linea Producto="FIJS322204-YEL" Color="YEL" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="7.5"></Linea>
+    <Linea Producto="FIJS322204-WHT" Color="WHT" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="7.5"></Linea>
+  </Encabezado>
+</Sagemobile>

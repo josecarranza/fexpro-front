@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="199312" Cliente="0000" Nombre="GERMAN PEREZ" Fecha="15/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="C.C. LAS PULGAS SOBRE EL BOULEVARD DE LOS HEROES " Direccion2="El Salvador San Salvador San Salvador 0000" AgenteEmbarcador="" Observaciones="FW24-Q4-RP-05-MLS" ResponsablePedido="" ResponsableImportacion="" Contacto="GERMAN PEREZ" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MSPTS524211-BK1" Color="BK1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7"></Linea>
+    <Linea Producto="MSPTS524211-WH1" Color="WH1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7"></Linea>
+    <Linea Producto="MSPTS524210-BK6" Color="BK6" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7"></Linea>
+    <Linea Producto="MSPTS524210-BK9" Color="BK9" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7"></Linea>
+  </Encabezado>
+</Sagemobile>

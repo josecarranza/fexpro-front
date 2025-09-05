@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="181415" Cliente="CHAPUR" Nombre="Adriana Escalante" Fecha="24/08/2023" Tipo="1" Direccion="CALLE 63 474 OFICINAS CHAPUR" Direccion2="Mexico Yucatán MERIDA 97000" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Adriana Escalante" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MIATS523201PK1" Color="PK1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="193.53448275"></Linea>
+    <Linea Producto="MIATS523202BK1" Color="BK1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="193.53448275"></Linea>
+    <Linea Producto="MIASH523201BK1" Color="BK1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="301.29310345833"></Linea>
+    <Linea Producto="MIASH523201OW1" Color="OW1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="301.29310345833"></Linea>
+    <Linea Producto="MIACA523201BK1" Color="BK1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="215.08620691667"></Linea>
+    <Linea Producto="MIACA523201OW1" Color="OW1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="215.08620691667"></Linea>
+  </Encabezado>
+</Sagemobile>

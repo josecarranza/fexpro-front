@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="138500" Cliente="0036" Nombre="Marcella Urrutia" Fecha="16/08/2022" Tipo="1" Fecha_Entrega="16/08/2022" Direccion="Centro comercial Galerias paseo General Escalon 0000" Direccion2="El Salvador San Salvador San Salvador 0000" Vendedor="01" AgenteEmbarcador="" Observaciones="BC Kids" ResponsablePedido="" ResponsableImportacion="" Contacto="Marcella Urrutia" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCCA323102-NVY" Color="NVY" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6"></Linea>
+    <Linea Producto="BCCA323105-BLK" Color="BLK" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6"></Linea>
+    <Linea Producto="BCCA323105-NVY" Color="NVY" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6"></Linea>
+    <Linea Producto="BCHD323101-NVY" Color="NVY" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="12"></Linea>
+    <Linea Producto="BCJS323101-RED" Color="RED" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="BCPL323102-BLK" Color="BLK" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7"></Linea>
+    <Linea Producto="BCPT323102-NVY" Color="NVY" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10"></Linea>
+    <Linea Producto="BCSH323101-NVY" Color="NVY" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6"></Linea>
+    <Linea Producto="BCSH323103-BLK" Color="BLK" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="9"></Linea>
+    <Linea Producto="BCSH323103-NVY" Color="NVY" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="9"></Linea>
+    <Linea Producto="BCTS323102-BLK" Color="BLK" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6.5"></Linea>
+    <Linea Producto="BCTS323102-NVY" Color="NVY" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6.5"></Linea>
+    <Linea Producto="BCTS323103-NVY" Color="NVY" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6.5"></Linea>
+    <Linea Producto="BCTS323108-BUR" Color="BUR" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6"></Linea>
+    <Linea Producto="BCTS323108-NVY" Color="NVY" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6"></Linea>
+    <Linea Producto="BCTS323109-BUR" Color="BUR" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6"></Linea>
+    <Linea Producto="BCTS323109-NVY" Color="NVY" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6"></Linea>
+    <Linea Producto="BCJS323108-NVY" Color="NVY" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6.5"></Linea>
+    <Linea Producto="BCHD323103-BLK" Color="BLK" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="12"></Linea>
+    <Linea Producto="BCHD323103-NVY" Color="NVY" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="12"></Linea>
+    <Linea Producto="BCJS323101-RED" Color="RED" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="8"></Linea>
+    <Linea Producto="BCPL323102-BLK" Color="BLK" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="7"></Linea>
+    <Linea Producto="BCPT323102-NVY" Color="NVY" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="10"></Linea>
+    <Linea Producto="BCTS323102-BLK" Color="BLK" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6.5"></Linea>
+    <Linea Producto="BCTS323102-NVY" Color="NVY" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6.5"></Linea>
+    <Linea Producto="BCTS323103-NVY" Color="NVY" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6.5"></Linea>
+    <Linea Producto="BCTS323108-BUR" Color="BUR" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="BCTS323108-NVY" Color="NVY" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="BCTS323109-BUR" Color="BUR" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="BCTS323109-NVY" Color="NVY" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="BCJS323108-NVY" Color="NVY" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6.5"></Linea>
+    <Linea Producto="BCHD323103-BLK" Color="BLK" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="12"></Linea>
+    <Linea Producto="BCHD323103-NVY" Color="NVY" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="12"></Linea>
+  </Encabezado>
+</Sagemobile>

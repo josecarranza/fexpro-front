@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="92521" Cliente="MARTI" Nombre="Francisco Mucino" Fecha="16/12/2021" Tipo="1" Fecha_Entrega="16/12/2021" Direccion="BOULEVARD BENITO JUAREZ #10 " Direccion2="Mexico Ciudad de México TULTITLAN DE MARIANO ESCOBEDO 54900" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Francisco Mucino" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBHD522206-WHT" Color="WHT" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="544.78448275"></Linea>
+    <Linea Producto="MLBHD522205-NVY" Color="NVY" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="544.78448275"></Linea>
+    <Linea Producto="MLBTS522206-NVY" Color="NVY" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="236.59482758333"></Linea>
+    <Linea Producto="MLBTS522206-RED" Color="RED" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="236.59482758333"></Linea>
+    <Linea Producto="MLBTS522206-NVY1" Color="NVY1" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="236.59482758333"></Linea>
+    <Linea Producto="MLBJS522203-WHT" Color="WHT" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="426.25"></Linea>
+    <Linea Producto="MLBTS522210-NVY" Color="NVY" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="236.59482758333"></Linea>
+    <Linea Producto="MLBTS522210-RED" Color="RED" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="236.59482758333"></Linea>
+    <Linea Producto="MLBTS522210-BLU" Color="BLU" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="236.59482758333"></Linea>
+    <Linea Producto="MLBHD522204-NVY" Color="NVY" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="544.78448275"></Linea>
+    <Linea Producto="MLBHD522204-BLU" Color="BLU" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="544.78448275"></Linea>
+    <Linea Producto="MLBSW522202-WHT" Color="WHT" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="544.78448275"></Linea>
+    <Linea Producto="MLBSW522202-BLU" Color="BLU" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="544.78448275"></Linea>
+    <Linea Producto="MLBHD622212-BLU" Color="BLU" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="544.78448275"></Linea>
+    <Linea Producto="MLBTS52002-WHT" Color="WHT" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="355.12931033333"></Linea>
+    <Linea Producto="MLBJS520220-BLU" Color="BLU" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="426.25"></Linea>
+    <Linea Producto="MLBJS520220-WHT" Color="WHT" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="426.25"></Linea>
+    <Linea Producto="MLBJS520220-RED" Color="RED" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="426.25"></Linea>
+    <Linea Producto="MLBHD52001-BLU" Color="BLU" Cantidad="22" size_S="88" size_M="176" size_L="176" size_XL="88" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="521.07758620833"></Linea>
+    <Linea Producto="MLBHD52001-NVY2" Color="NVY2" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="521.07758620833"></Linea>
+    <Linea Producto="MLBHD52001-NVY" Color="NVY" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="521.07758620833"></Linea>
+    <Linea Producto="MLBTS520200-WHT" Color="WHT" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="217.62931033333"></Linea>
+    <Linea Producto="MLBTS520200-NVY" Color="NVY" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="217.62931033333"></Linea>
+    <Linea Producto="MLBTS520200-WHT3" Color="WHT3" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="217.62931033333"></Linea>
+    <Linea Producto="MLBJT520220-BLU" Color="BLU" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="355.12931033333"></Linea>
+    <Linea Producto="MLBJT520220-WHT" Color="WHT" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="355.12931033333"></Linea>
+    <Linea Producto="MLBHD62208-BLU" Color="BLU" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="521.07758620833"></Linea>
+    <Linea Producto="MLBHD62208-NVY" Color="NVY" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="521.07758620833"></Linea>
+  </Encabezado>
+</Sagemobile>

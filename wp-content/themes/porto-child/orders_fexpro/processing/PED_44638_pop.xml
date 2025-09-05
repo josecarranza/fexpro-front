@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="44638" Cliente="0000" Nombre="Carlos Parodi" Fecha="22/07/2021" Tipo="1" Fecha_Entrega="22/07/2021" Direccion="Avenida paseo de la republica 3220" Direccion2="Peru Lima San Isidro 51" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Carlos Parodi" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBFF518401-NVY" Color="NVY" Cantidad="40" size_7="160" size_8="240" size_9="320" size_10="160" size_11="80" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="6"></Linea>
+    <Linea Producto="MLBFF518401-WHT" Color="WHT" Cantidad="6" size_7="24" size_8="36" size_9="48" size_10="24" size_11="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6"></Linea>
+    <Linea Producto="NBASL52056-BLK1" Color="BLK1" Cantidad="40" size_7="160" size_8="240" size_9="320" size_10="160" size_11="80" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="6.5"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="216931" Cliente="CHAPUR" Nombre="Adriana Escalante" Fecha="25/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="CALLE 63 474 OFICINAS CHAPUR" Direccion2="Mexico Yucatán MERIDA 97000" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Adriana Escalante" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="CO23009SN27UCT" Color="UCT" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMBQHOBQL23" Color="L23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMPYC1PYPL23" Color="L23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1516.7672414167"></Linea>
+    <Linea Producto="T7LMLDA1LDL23" Color="L23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMLDHOLDL23" Color="L23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMNKA2NKL23" Color="L23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMNKHONKL23" Color="L23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMPYHOPYPL23" Color="L23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LM0E6BTPAL23" Color="L23" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="1327.112069"></Linea>
+    <Linea Producto="035844BBQCHJ" Color="CHJ" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="615.90517241667"></Linea>
+    <Linea Producto="03584EWLDCHJ" Color="CHJ" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="615.90517241667"></Linea>
+    <Linea Producto="035844BNKCHJ" Color="CHJ" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="615.90517241667"></Linea>
+    <Linea Producto="T7LM0ECYBQL23" Color="L23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMLDC1LDL23" Color="L23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1516.7672414167"></Linea>
+  </Encabezado>
+</Sagemobile>

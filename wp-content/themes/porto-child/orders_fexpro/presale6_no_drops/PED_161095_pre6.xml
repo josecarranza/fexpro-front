@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="161095" Cliente="0531" Nombre="ALEJANDRO ESPINOZA" Fecha="27/01/2023" Tipo="1" Direccion="C.C. Mall Aventura. Av. Carretera Central 111 Piso 2" Direccion2="Peru Lima Santa Anita 15008" AgenteEmbarcador="" Observaciones="RIPLEY PERU - HOMBRE NBA Q4 FW23" ResponsablePedido="" ResponsableImportacion="" Contacto="ALEJANDRO ESPINOZA" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS523204-RD1" Color="RD1" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="7.5"></Linea>
+    <Linea Producto="NBATS523204-BK2" Color="BK2" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="7.5"></Linea>
+    <Linea Producto="NBATS523204-PR1" Color="PR1" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="7.5"></Linea>
+    <Linea Producto="NBATS523217-BK1" Color="BK1" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="6.5"></Linea>
+    <Linea Producto="NBATS523217-BK5" Color="BK5" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="6.5"></Linea>
+    <Linea Producto="NBATT523202-BK1" Color="BK1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12"></Linea>
+    <Linea Producto="NBATT523202-BK5" Color="BK5" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12"></Linea>
+    <Linea Producto="NBATT523202-BK2" Color="BK2" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="58850" Cliente="0458" Nombre="Franz Pieper" Fecha="13/08/2021" Tipo="1" Fecha_Entrega="13/08/2021" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES " Direccion2="Chile  SANTIAGO 7560356" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS BOXER MEN - TIENDAS SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="Franz Pieper" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCBX52201-NVY" Color="NVY" Cantidad="34" size_S="136" size_M="272" size_L="272" size_XL="136" Unit_Box_Qty="24" Total_Box_Qty="816" Precio="6.2"></Linea>
+    <Linea Producto="MLBBX52203-NVY" Color="NVY" Cantidad="26" size_S="104" size_M="208" size_L="208" size_XL="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="6.2"></Linea>
+    <Linea Producto="MLBBX52205-BLU" Color="BLU" Cantidad="38" size_S="152" size_M="304" size_L="304" size_XL="152" Unit_Box_Qty="24" Total_Box_Qty="912" Precio="6.2"></Linea>
+    <Linea Producto="NBABX52203-BLK" Color="BLK" Cantidad="38" size_S="152" size_M="304" size_L="304" size_XL="152" Unit_Box_Qty="24" Total_Box_Qty="912" Precio="6.2"></Linea>
+    <Linea Producto="NBABX52207-PUR" Color="PUR" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="6.2"></Linea>
+    <Linea Producto="NBABX52211-GRN" Color="GRN" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="6.2"></Linea>
+    <Linea Producto="RMBX52201-BLK" Color="BLK" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="6.2"></Linea>
+  </Encabezado>
+</Sagemobile>

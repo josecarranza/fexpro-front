@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="161347" Cliente="0458" Nombre="Aurelie Manas" Fecha="09/02/2023" Tipo="1" Fecha_Entrega="09/02/2023" Direccion="V. KENNEDY 9001, LAS CONDES SANTIAGO " Direccion2="Chile Región Metropolitana de Santiago LAS CONDES 7560356" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS CHILE - MEN SOCCER Q4 TIENDA FW23" ResponsablePedido="" ResponsableImportacion="" Contacto="Aurelie Manas" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PSGTS523112-BLK" Color="BLK" Cantidad="36" size_S="144" size_M="288" size_L="288" size_XL="144" Unit_Box_Qty="24" Total_Box_Qty="864" Precio="7"></Linea>
+    <Linea Producto="PSGTS523112-NVY" Color="NVY" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="7"></Linea>
+    <Linea Producto="PSGTS523112-WHT" Color="WHT" Cantidad="36" size_S="144" size_M="288" size_L="288" size_XL="144" Unit_Box_Qty="24" Total_Box_Qty="864" Precio="7"></Linea>
+    <Linea Producto="PSGJS523109-NVY" Color="NVY" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="7.5"></Linea>
+    <Linea Producto="PSGHD523204-BK1" Color="BK1" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="16"></Linea>
+    <Linea Producto="PSGJK523206-BK1" Color="BK1" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="22"></Linea>
+    <Linea Producto="PSGJS523215-BK1" Color="BK1" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="10"></Linea>
+    <Linea Producto="PSGSH523205-BK1" Color="BK1" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="12"></Linea>
+    <Linea Producto="PSGTS523214-BK1" Color="BK1" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="9"></Linea>
+    <Linea Producto="PSGJS523203-BL1" Color="BL1" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="9"></Linea>
+  </Encabezado>
+</Sagemobile>

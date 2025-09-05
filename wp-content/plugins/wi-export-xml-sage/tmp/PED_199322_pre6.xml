@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="199322" Cliente="0517" Nombre="Luis Mercado" Fecha="15/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Via España,Plaza Regency N0 177 Local N04-P/B " Direccion2="Panama Panamá Panama 0000" AgenteEmbarcador="" Observaciones="IMPROPA MLS Q4" ResponsablePedido="" ResponsableImportacion="" Contacto="Luis Mercado" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MSPST324203-BK1" Color="BK1" Cantidad="4" size_4="16" size_6="32" size_8="32" size_10="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="10"></Linea>
+    <Linea Producto="MSPTS524211-BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="7"></Linea>
+    <Linea Producto="MSPTS524211-WH1" Color="WH1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="7"></Linea>
+    <Linea Producto="MSPTS524211-PK1" Color="PK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="7"></Linea>
+    <Linea Producto="MSPTS524212-BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="7"></Linea>
+    <Linea Producto="MSPTS524212-OW1" Color="OW1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="7"></Linea>
+    <Linea Producto="MSPTS524213-BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="7"></Linea>
+    <Linea Producto="MSPTS524213-PK1" Color="PK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="7"></Linea>
+    <Linea Producto="MSPTS524214-GY1" Color="GY1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="7"></Linea>
+    <Linea Producto="MSPTS724212-GY1" Color="GY1" Cantidad="2" size_10="8" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6"></Linea>
+    <Linea Producto="MSPTS7242111-BK1" Color="BK1" Cantidad="2" size_10="8" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6"></Linea>
+    <Linea Producto="MSPTS724211-PK1" Color="PK1" Cantidad="2" size_10="8" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6"></Linea>
+    <Linea Producto="MSPTS724210-WH1" Color="WH1" Cantidad="2" size_10="8" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6"></Linea>
+    <Linea Producto="MSPTS724210-BK1" Color="BK1" Cantidad="2" size_10="8" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6"></Linea>
+    <Linea Producto="MSPTS724209-WH1" Color="WH1" Cantidad="2" size_10="8" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6"></Linea>
+    <Linea Producto="MSPTS724209-BK1" Color="BK1" Cantidad="2" size_10="8" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6"></Linea>
+    <Linea Producto="MSPTS724209-PK1" Color="PK1" Cantidad="2" size_10="8" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6"></Linea>
+    <Linea Producto="MSPTS524210-BK6" Color="BK6" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="7"></Linea>
+    <Linea Producto="MSPTS724208-BK6" Color="BK6" Cantidad="2" size_10="8" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6"></Linea>
+    <Linea Producto="MSPTS524210-PK1" Color="PK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="7"></Linea>
+    <Linea Producto="MSPTS724208-PK1" Color="PK1" Cantidad="2" size_10="8" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6"></Linea>
+    <Linea Producto="MSPTS524210-WH3" Color="WH3" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="7"></Linea>
+    <Linea Producto="MSPTS724208-WH3" Color="WH3" Cantidad="2" size_10="8" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6"></Linea>
+    <Linea Producto="MSPHD524206-BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="15"></Linea>
+    <Linea Producto="MSPHD724203-BK1" Color="BK1" Cantidad="2" size_10="8" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="12"></Linea>
+    <Linea Producto="MSPSH524202-BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="9"></Linea>
+  </Encabezado>
+</Sagemobile>

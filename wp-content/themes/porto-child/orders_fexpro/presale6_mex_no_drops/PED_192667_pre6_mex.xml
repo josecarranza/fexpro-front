@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="192667" Cliente="0000" Nombre="ARTURO PACHECO" Fecha="06/12/2023" Tipo="1" Fecha_Entrega="06/12/2023" Direccion="SUPERMANZANA 63, MANZANA 6, LOTE 2, ENTRE CALLE 2 Y 4, COLONIA CENTRO " Direccion2="Mexico Quintana Roo CANCUN 77513" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="ARTURO PACHECO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBTS524214NV1" Color="NV1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="301.29310345833"></Linea>
+    <Linea Producto="MLBTS524214BL1" Color="BL1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="301.29310345833"></Linea>
+    <Linea Producto="MLBTS524214BU1" Color="BU1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="301.29310345833"></Linea>
+    <Linea Producto="MLBTS524215WH1" Color="WH1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="301.29310345833"></Linea>
+    <Linea Producto="MLBJS524202BL1" Color="BL1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="430.60344829167"></Linea>
+    <Linea Producto="MLBJS524202RD1" Color="RD1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="430.60344829167"></Linea>
+    <Linea Producto="MLBJK524205WH1" Color="WH1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="947.84482758333"></Linea>
+    <Linea Producto="MLBJK524205BK2" Color="BK2" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="947.84482758333"></Linea>
+    <Linea Producto="MLBSH524206NV1" Color="NV1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="387.5"></Linea>
+    <Linea Producto="MLBSH524206BL1" Color="BL1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="387.5"></Linea>
+    <Linea Producto="MLBSH524206BU1" Color="BU1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="387.5"></Linea>
+    <Linea Producto="MLBJS524202GY1" Color="GY1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="430.60344829167"></Linea>
+  </Encabezado>
+</Sagemobile>

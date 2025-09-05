@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="177894" Cliente="MARTI" Nombre="DANIEL DE LA CRUZ" Fecha="28/06/2023" Tipo="1" Fecha_Entrega="28/06/2023" Direccion="Boulevard Benito Juárez #10 " Direccion2="Mexico Estado de México Tultitlán de Mariano Escobedo 54900" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="DANIEL DE LA CRUZ" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCNTS524101BU1" Color="BU1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="177.56034483333"></Linea>
+    <Linea Producto="BCNTS524101NV2" Color="NV2" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="177.56034483333"></Linea>
+    <Linea Producto="BCNJS524101NV1" Color="NV1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="222.04310345833"></Linea>
+    <Linea Producto="BCNLS524101NV1" Color="NV1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="296.1810345"></Linea>
+    <Linea Producto="BCNJS524102NV3" Color="NV3" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="222.04310345833"></Linea>
+    <Linea Producto="BCNHD524102NV3" Color="NV3" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="407.38793104167"></Linea>
+  </Encabezado>
+</Sagemobile>

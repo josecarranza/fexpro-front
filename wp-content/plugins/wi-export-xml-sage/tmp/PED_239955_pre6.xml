@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="239955" Cliente="0536" Nombre="NIZAR D" Fecha="11/12/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="CALLE IGUALDAD LOCAL S/N SECTOR CENTRO DE PORLAMAR NUEVA ESPARTA " Direccion2="Venezuela Nueva Esparta NUEVA ESPARTA 0000" AgenteEmbarcador="" Observaciones="COMPLEMENTO CANAIMA Q3 FW25" ResponsablePedido="" ResponsableImportacion="" Contacto="NIZAR D" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAHD525202-GN1" Color="GN1" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="16"></Linea>
+    <Linea Producto="NBAPT525202-GN1" Color="GN1" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="13"></Linea>
+    <Linea Producto="NBPTS325202-BL2" Color="BL2" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

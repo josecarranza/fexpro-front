@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="216288" Cliente="MARTI" Nombre="DANIEL DE LA CRUZ" Fecha="14/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Boulevard Benito Juárez #10 " Direccion2="Mexico Estado de México Tultitlán de Mariano Escobedo 54900" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="DANIEL DE LA CRUZ" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="CAATS525101YL1" Color="YL1" Cantidad="168" size_S="672" size_M="1344" size_L="1344" size_XL="672" Unit_Box_Qty="24" Total_Box_Qty="4032" Precio="184.97413791667"></Linea>
+    <Linea Producto="CAATS525101NV1" Color="NV1" Cantidad="168" size_S="672" size_M="1344" size_L="1344" size_XL="672" Unit_Box_Qty="24" Total_Box_Qty="4032" Precio="184.97413791667"></Linea>
+    <Linea Producto="CAAJS525101YL1" Color="YL1" Cantidad="168" size_S="672" size_M="1344" size_L="1344" size_XL="672" Unit_Box_Qty="24" Total_Box_Qty="4032" Precio="240.57758620833"></Linea>
+    <Linea Producto="CAAJS525101NV1" Color="NV1" Cantidad="168" size_S="672" size_M="1344" size_L="1344" size_XL="672" Unit_Box_Qty="24" Total_Box_Qty="4032" Precio="240.57758620833"></Linea>
+    <Linea Producto="CAAHD525101NV1" Color="NV1" Cantidad="98" size_S="392" size_M="784" size_L="784" size_XL="392" Unit_Box_Qty="24" Total_Box_Qty="2352" Precio="388.85344829167"></Linea>
+    <Linea Producto="CAAJS525104NV1" Color="NV1" Cantidad="74" size_S="296" size_M="592" size_L="592" size_XL="296" Unit_Box_Qty="24" Total_Box_Qty="1776" Precio="240.57758620833"></Linea>
+    <Linea Producto="CAAHD525102NV1" Color="NV1" Cantidad="98" size_S="392" size_M="784" size_L="784" size_XL="392" Unit_Box_Qty="24" Total_Box_Qty="2352" Precio="444.45689654167"></Linea>
+    <Linea Producto="CAATS525106NV1" Color="NV1" Cantidad="74" size_S="296" size_M="592" size_L="592" size_XL="296" Unit_Box_Qty="24" Total_Box_Qty="1776" Precio="147.90517241667"></Linea>
+  </Encabezado>
+</Sagemobile>

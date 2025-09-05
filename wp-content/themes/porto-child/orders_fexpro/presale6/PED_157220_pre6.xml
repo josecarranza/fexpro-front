@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="157220" Cliente="0494" Nombre="Nelson Zeballos" Fecha="11/01/2023" Tipo="1" Fecha_Entrega="11/01/2023" Direccion="Ernesto Guevara y Gua’a Hovy 2483 " Direccion2="Paraguay Asunción Ita Enramada 2024" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Nelson Zeballos" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATT323202-BK1" Color="BK1" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9.5"></Linea>
+    <Linea Producto="NBATT323202-BL1" Color="BL1" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9.5"></Linea>
+    <Linea Producto="NBATT323202-PR1" Color="PR1" Cantidad="5" size_4="10" size_6="20" size_8="20" size_10="20" size_12="20" size_14="20" size_16="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9.5"></Linea>
+    <Linea Producto="NBATT323202-RD1" Color="RD1" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="9.5"></Linea>
+    <Linea Producto="NBASH323201-BK2" Color="BK2" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9"></Linea>
+    <Linea Producto="NBASH323201-BL1" Color="BL1" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="9"></Linea>
+    <Linea Producto="NBASH323201-GY1" Color="GY1" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9"></Linea>
+    <Linea Producto="NBASH323201-BK1" Color="BK1" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="9"></Linea>
+  </Encabezado>
+</Sagemobile>

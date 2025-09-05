@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="178578" Cliente="CIMACO" Nombre="Christian Ayup" Fecha="12/07/2023" Tipo="1" Fecha_Entrega="12/07/2023" Direccion="HIDALGO,399 PONIENTE CENTRO " Direccion2="Mexico Ciudad de México TORREON, COAHUILA 27000" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Christian Ayup" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS524112YL1" Color="YL1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="198.66379308333"></Linea>
+    <Linea Producto="CAATS524113NV1" Color="NV1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="189.1810345"></Linea>
+    <Linea Producto="CAATS524113YL1" Color="YL1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="189.1810345"></Linea>
+    <Linea Producto="PSGJS524106BK1" Color="BK1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="331.42241379167"></Linea>
+    <Linea Producto="PSGTS524101BK1" Color="BK1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="227.11206895833"></Linea>
+    <Linea Producto="BCNTS524101NV2" Color="NV2" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="227.11206895833"></Linea>
+  </Encabezado>
+</Sagemobile>

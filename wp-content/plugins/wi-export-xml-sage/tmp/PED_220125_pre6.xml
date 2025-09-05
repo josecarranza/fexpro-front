@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="220125" Cliente="0000" Nombre="PASCALLE DUMAY" Fecha="02/09/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AV. KENNEDY 9001 PISO 7 " Direccion2="Chile Región Metropolitana de Santiago Santiago " AgenteEmbarcador="" Observaciones="COMPRA PARIS NBA KIDS SS25 Q2&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="PASCALLE DUMAY" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS321000-WHT" Color="WHT" Cantidad="5" size_4="10" size_6="20" size_8="20" size_10="20" size_12="20" size_14="20" size_16="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6"></Linea>
+    <Linea Producto="NBAHD321001-BLK" Color="BLK" Cantidad="5" size_4="10" size_6="20" size_8="20" size_10="20" size_12="20" size_14="20" size_16="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="13"></Linea>
+    <Linea Producto="NBAPT32205-BLK" Color="BLK" Cantidad="5" size_4="10" size_6="20" size_8="20" size_10="20" size_12="20" size_14="20" size_16="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="12"></Linea>
+    <Linea Producto="NBALS325101-RD1" Color="RD1" Cantidad="5" size_4="20" size_6="40" size_8="40" size_10="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="NBAST325101-BK2" Color="BK2" Cantidad="5" size_4="10" size_6="20" size_8="20" size_10="20" size_12="20" size_14="20" size_16="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="17"></Linea>
+    <Linea Producto="NBATS321000-BLK" Color="BLK" Cantidad="5" size_4="10" size_6="20" size_8="20" size_10="20" size_12="20" size_14="20" size_16="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6"></Linea>
+    <Linea Producto="NBATS321000-BLK2" Color="BLK2" Cantidad="5" size_4="10" size_6="20" size_8="20" size_10="20" size_12="20" size_14="20" size_16="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6"></Linea>
+    <Linea Producto="NBAJS332201-BLK3" Color="BLK3" Cantidad="5" size_4="10" size_6="20" size_8="20" size_10="20" size_12="20" size_14="20" size_16="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9"></Linea>
+  </Encabezado>
+</Sagemobile>

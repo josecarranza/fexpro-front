@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="239885" Cliente="0000" Nombre="Erick Nerias" Fecha="05/12/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="RANCHO ESCONDIDO 32 COL. LAS CAMPANAS " Direccion2="Mexico Ciudad de México CDMX 04929" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Erick Nerias" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="02TI00A73LML" Color="LML" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="999"></Linea>
+    <Linea Producto="02TI41L7QLML" Color="LML" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="999"></Linea>
+    <Linea Producto="02TI00A9ALML" Color="LML" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="999"></Linea>
+    <Linea Producto="02TI06F81LML" Color="LML" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="999"></Linea>
+    <Linea Producto="02TI41S8WLML" Color="LML" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="999"></Linea>
+    <Linea Producto="02TI65N7GLML" Color="LML" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="999"></Linea>
+    <Linea Producto="02TI41S7RDLML" Color="LML" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="999"></Linea>
+    <Linea Producto="02TI09T9PLML" Color="LML" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="999"></Linea>
+    <Linea Producto="02TI00A86LML" Color="LML" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="999"></Linea>
+    <Linea Producto="02TI06F7TLML" Color="LML" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="999"></Linea>
+    <Linea Producto="02TI41S8KLML" Color="LML" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="999"></Linea>
+    <Linea Producto="02TI00A8DLML" Color="LML" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="999"></Linea>
+    <Linea Producto="02TI00A95LML" Color="LML" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="999"></Linea>
+    <Linea Producto="02TI00A8GLML" Color="LML" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="999"></Linea>
+    <Linea Producto="02TI41S78LML" Color="LML" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="999"></Linea>
+    <Linea Producto="02TI00A7LLML" Color="LML" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="999"></Linea>
+    <Linea Producto="02EQ6DL73QVX" Color="QVX" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1299"></Linea>
+    <Linea Producto="02EQ00A9AQVX" Color="QVX" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="1299"></Linea>
+    <Linea Producto="02EQ4DA81QVX" Color="QVX" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1299"></Linea>
+    <Linea Producto="02EQ41S8WQVX" Color="QVX" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1299"></Linea>
+    <Linea Producto="02EQ65N7GQVX" Color="QVX" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1299"></Linea>
+    <Linea Producto="02EQ41S7RDQVX" Color="QVX" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1299"></Linea>
+    <Linea Producto="02EQ3GT9PQVX" Color="QVX" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1299"></Linea>
+    <Linea Producto="02EQ3EE7TQVX" Color="QVX" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1299"></Linea>
+    <Linea Producto="02EQ41S8KQVX" Color="QVX" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1299"></Linea>
+    <Linea Producto="02EQ00A8DQVX" Color="QVX" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1299"></Linea>
+    <Linea Producto="02EQ52M8GQVX" Color="QVX" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1299"></Linea>
+    <Linea Producto="02EQ00A7LQVX" Color="QVX" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1299"></Linea>
+  </Encabezado>
+</Sagemobile>

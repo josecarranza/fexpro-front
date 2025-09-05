@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="180202" Cliente="0458" Nombre="Aurelie Manas" Fecha="10/08/2023" Tipo="1" Direccion="V. KENNEDY 9001, LAS CONDES SANTIAGO " Direccion2="Chile Región Metropolitana de Santiago LAS CONDES 7560356" AgenteEmbarcador="" Observaciones="PARIS CHILE - MLB HOMBRE TIENDA SS24 Q2" ResponsablePedido="" ResponsableImportacion="" Contacto="Aurelie Manas" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBJK524107-NV1" Color="NV1" Cantidad="26" size_S="104" size_M="208" size_L="208" size_XL="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="26"></Linea>
+    <Linea Producto="MLBJK524107-BK1" Color="BK1" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="26"></Linea>
+    <Linea Producto="MLBHD524101-BK1" Color="BK1" Cantidad="41" size_S="164" size_M="328" size_L="328" size_XL="164" Unit_Box_Qty="24" Total_Box_Qty="984" Precio="15"></Linea>
+    <Linea Producto="MLBHD524101-NV1" Color="NV1" Cantidad="36" size_S="144" size_M="288" size_L="288" size_XL="144" Unit_Box_Qty="24" Total_Box_Qty="864" Precio="15"></Linea>
+    <Linea Producto="MLBPT520201-NVY" Color="NVY" Cantidad="27" size_S="108" size_M="216" size_L="216" size_XL="108" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="12"></Linea>
+    <Linea Producto="MLBTS524107-WH1" Color="WH1" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS524108-BK1" Color="BK1" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6.5"></Linea>
+    <Linea Producto="MLBPO524101-BK1" Color="BK1" Cantidad="27" size_S="108" size_M="216" size_L="216" size_XL="108" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="17"></Linea>
+    <Linea Producto="MLBLS524101-BK1" Color="BK1" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="24"></Linea>
+    <Linea Producto="MLBLS524101-NV2" Color="NV2" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="24"></Linea>
+    <Linea Producto="MLBHD524106-WH1" Color="WH1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="15"></Linea>
+    <Linea Producto="MLBPT524103-NV1" Color="NV1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="14"></Linea>
+    <Linea Producto="MLBPT524103-BK1" Color="BK1" Cantidad="27" size_S="108" size_M="216" size_L="216" size_XL="108" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="14"></Linea>
+  </Encabezado>
+</Sagemobile>

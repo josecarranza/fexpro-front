@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="92702" Cliente="0451" Nombre="Felipe Orellana" Fecha="21/12/2021" Tipo="1" Fecha_Entrega="21/12/2021" Direccion="MANUEL RODRIGUEZ 730 " Direccion2="Chile  SANTIAGO CENTRO " Vendedor="01" AgenteEmbarcador="" Observaciones="FALABELLA CHILE - HOMBRE PSG FW22" ResponsablePedido="" ResponsableImportacion="" Contacto="Felipe Orellana" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PSGTS52201-WHT" Color="WHT" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="7"></Linea>
+    <Linea Producto="PSGTS52201-NVY" Color="NVY" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="7"></Linea>
+    <Linea Producto="PSGTS52201-BLK" Color="BLK" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="7"></Linea>
+    <Linea Producto="PSGTS52202-NVY" Color="NVY" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="7"></Linea>
+    <Linea Producto="PSGTS52202-BLK" Color="BLK" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="7"></Linea>
+    <Linea Producto="PSGTS52203-WHT" Color="WHT" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6.5"></Linea>
+    <Linea Producto="PSGTS52203-NVY" Color="NVY" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6.5"></Linea>
+    <Linea Producto="PSGTS52203-BLK" Color="BLK" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6.5"></Linea>
+    <Linea Producto="PSGTS52211-BLK1" Color="BLK1" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6.5"></Linea>
+    <Linea Producto="PSGTS52211-BLK2" Color="BLK2" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6.5"></Linea>
+    <Linea Producto="PSGTS52212-BLK" Color="BLK" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="7"></Linea>
+    <Linea Producto="PSGTS52215-BLU4" Color="BLU4" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6.5"></Linea>
+  </Encabezado>
+</Sagemobile>

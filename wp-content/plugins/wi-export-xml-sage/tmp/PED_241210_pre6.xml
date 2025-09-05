@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="241210" Cliente="0583" Nombre="pablo rodriguez" Fecha="03/01/2025" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="ZONA 11 " Direccion2="Guatemala Guatemala GUATEMALA " AgenteEmbarcador="" Observaciones="M&amp;amp;N-Q3-2025" ResponsablePedido="" ResponsableImportacion="" Contacto="pablo rodriguez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="FC12529-CBUBLCK" Color="CBUBLCK" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="20"></Linea>
+    <Linea Producto="BT12535-CBUBLCK" Color="CBUBLCK" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="17.5"></Linea>
+    <Linea Producto="SS12531-CBUBLCK" Color="CBUBLCK" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13"></Linea>
+    <Linea Producto="SS12533-CBUWHITDR" Color="CBUWHITDR" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="14"></Linea>
+    <Linea Producto="SS12532-LALWHIT" Color="LALWHIT" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13"></Linea>
+    <Linea Producto="TP12538-CBUBLCK" Color="CBUBLCK" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="12"></Linea>
+  </Encabezado>
+</Sagemobile>

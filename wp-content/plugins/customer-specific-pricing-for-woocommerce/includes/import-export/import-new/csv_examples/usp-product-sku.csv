@@ -1,0 +1,7 @@
+user,product_sku,min_quantity,%_discount,flat_price
+alice,SK100541,10,5,
+alice,SK100541,20,10,
+alice,SK100542,10,,120
+bob,SK100541,10,5,
+bob,SK100541,20,10,
+bob,SK100542,10,,100

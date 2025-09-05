@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="91098" Cliente="0220" Nombre="Rafi Ilarslan" Fecha="07/12/2021" Tipo="1" Fecha_Entrega="07/12/2021" Direccion="Panama " Direccion2="Panama  Panama PANAMA" Vendedor="01" AgenteEmbarcador="" Observaciones="FIFA Adult Kids" ResponsablePedido="" ResponsableImportacion="" Contacto="Rafi Ilarslan" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="FIJS622209-RED4" Color="RED4" Cantidad="125" size_XS="500" size_S="1000" size_M="1000" size_L="500" Unit_Box_Qty="24" Total_Box_Qty="3000" Precio="7"></Linea>
+    <Linea Producto="FIJS522204-RED4" Color="RED4" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="9"></Linea>
+    <Linea Producto="FIJS522203-WHT5" Color="WHT5" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="9"></Linea>
+    <Linea Producto="FIJS322203-WHT5" Color="WHT5" Cantidad="25" size_4="50" size_6="100" size_8="100" size_10="100" size_12="100" size_14="100" size_16="50" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="7.5"></Linea>
+    <Linea Producto="FIJS322204-RED4" Color="RED4" Cantidad="251" size_4="502" size_6="1004" size_8="1004" size_10="1004" size_12="1004" size_14="1004" size_16="502" Unit_Box_Qty="24" Total_Box_Qty="6024" Precio="7.5"></Linea>
+  </Encabezado>
+</Sagemobile>

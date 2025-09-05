@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="192814" Cliente="0459" Nombre="Yaneken" Fecha="12/12/2023" Tipo="1" Fecha_Entrega="15/05/2024" Direccion="Av. Kennedy #7900 of 001, Vitacura " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="BELSPORT - NBA/MLB KIDS FW24 Q3&#10;" ResponsablePedido="sebastian jimenez" ResponsableImportacion="" Contacto="sebastian jimenez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS321000-BLK2" Color="BLK2" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="10"></Linea>
+    <Linea Producto="MLBTS320200-BLK" Color="BLK" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="6"></Linea>
+    <Linea Producto="MLBTS320200-NVY" Color="NVY" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="6"></Linea>
+    <Linea Producto="NBATS724203-BK1" Color="BK1" Cantidad="15" size_10="60" size_12="120" size_14="120" size_16="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="5.5"></Linea>
+    <Linea Producto="NBATS724203-RD1" Color="RD1" Cantidad="15" size_10="60" size_12="120" size_14="120" size_16="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="5.5"></Linea>
+    <Linea Producto="MLBTS320201-BK4" Color="BK4" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="6.5"></Linea>
+  </Encabezado>
+</Sagemobile>

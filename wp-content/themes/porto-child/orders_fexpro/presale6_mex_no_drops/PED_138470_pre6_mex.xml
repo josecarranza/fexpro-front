@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="138470" Cliente="LIVER" Nombre="Karen Lara" Fecha="15/08/2022" Tipo="1" Fecha_Entrega="15/08/2022" Direccion="AVENIDA VALLE DE LAS ALAMEDAS #7 FRACCIONAMIENTO INDUSTRIAL LECH MEXICO ESTADO DE MÉXICO TULTITLAN 54940" Direccion2="Mexico Estado de México MEXICO 54940" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Karen Lara" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBJS320220-NVY" Color="NVY" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="402.54310345833"></Linea>
+    <Linea Producto="MLBTS32002-WHT" Color="WHT" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="260.301724125"></Linea>
+    <Linea Producto="MLBTS320200-WHT2" Color="WHT2" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="165.47413791667"></Linea>
+    <Linea Producto="MLBTS320200-BLU2" Color="BLU2" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="165.47413791667"></Linea>
+    <Linea Producto="PSGTS323112-BLK" Color="BLK" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="165.47413791667"></Linea>
+    <Linea Producto="PSGTS323113-NVY" Color="NVY" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="165.47413791667"></Linea>
+    <Linea Producto="NBASB321201-BLK" Color="BLK" Cantidad="9" size_OS="216" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="189.1810345"></Linea>
+  </Encabezado>
+</Sagemobile>

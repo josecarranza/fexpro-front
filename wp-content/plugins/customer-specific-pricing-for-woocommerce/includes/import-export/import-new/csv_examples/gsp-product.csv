@@ -1,0 +1,5 @@
+group,product_id,min_quantity,%_discount,flat_price
+regular_buyers,1121,10,5,
+regular_buyers,1122,15,,90
+gold_members,1121,10,10,
+gold_members,1122,15,,80

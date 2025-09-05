@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="176601" Cliente="0447" Nombre="Briggitte Cabello" Fecha="07/06/2023" Tipo="1" Direccion="Avenida Ricardo Palma 141 (alt. Cuadra 54 Av. Arequipa) " Direccion2="Peru Lima Miraflores 15074" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Briggitte Cabello" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS524101-WH1" Color="WH1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7.5"></Linea>
+    <Linea Producto="NBATS524101-BK1" Color="BK1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7.5"></Linea>
+    <Linea Producto="NBATS524101-BK2" Color="BK2" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7.5"></Linea>
+    <Linea Producto="NBATS524101-GY1" Color="GY1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7.5"></Linea>
+    <Linea Producto="NBPJS524101-BK1" Color="BK1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="13"></Linea>
+    <Linea Producto="NBPJS524101-BK2" Color="BK2" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="13"></Linea>
+    <Linea Producto="NBASH524101-BK1" Color="BK1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="13"></Linea>
+    <Linea Producto="NBASH524101-BK2" Color="BK2" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="13"></Linea>
+    <Linea Producto="NBATS524112-WH1" Color="WH1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.5"></Linea>
+    <Linea Producto="NBATS524112-RD1" Color="RD1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.5"></Linea>
+    <Linea Producto="NBATS524112-YL1" Color="YL1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="NBATS524113-BK1" Color="BK1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.5"></Linea>
+    <Linea Producto="NBATS524113-BK3" Color="BK3" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.5"></Linea>
+    <Linea Producto="NBATS524114-GY1" Color="GY1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7"></Linea>
+    <Linea Producto="NBATS524114-GY2" Color="GY2" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7"></Linea>
+  </Encabezado>
+</Sagemobile>

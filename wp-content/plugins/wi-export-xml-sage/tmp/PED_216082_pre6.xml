@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="216082" Cliente="0418" Nombre="Ignacia Caulier" Fecha="08/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="KENNEDY 5413 PISO 6, LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 7550000" AgenteEmbarcador="" Observaciones="RIPLEY CHILE - KIDS SOCCER SS25 Q1&#13;&#10;&#13;&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Ignacia Caulier" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCNPT325101-NV1" Color="NV1" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="11.5"></Linea>
+    <Linea Producto="RMDPT325101-BK1" Color="BK1" Cantidad="9" size_4="18" size_6="36" size_8="36" size_10="36" size_12="36" size_14="36" size_16="18" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="11.5"></Linea>
+    <Linea Producto="BCNLS325101-NV1" Color="NV1" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="11"></Linea>
+    <Linea Producto="RMDLS325101-BK1" Color="BK1" Cantidad="9" size_4="18" size_6="36" size_8="36" size_10="36" size_12="36" size_14="36" size_16="18" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="11"></Linea>
+  </Encabezado>
+</Sagemobile>

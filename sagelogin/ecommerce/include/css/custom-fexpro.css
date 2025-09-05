@@ -1,0 +1,254 @@
+/* Login page css start */
+.row.no-flex {
+    display: block;
+}
+
+.errorMsg {
+    color: red;
+    padding: 10px 0px;
+}
+/* Login End */
+
+ul.navbar-nav.my-lg-0 {
+    display: none;
+}
+
+/* Sidebar css */
+ul#sidebarnav > li:first-child {
+    display: none;
+}
+
+.sidebar-nav ul.collapse.in {
+    background: #0e2240;
+    padding-left: 0;
+}
+
+.sidebar-nav ul.collapse.in li a {
+    color: #fff;
+    font-size: 15px;
+    margin: 0 0 5px;
+    background: #4f5467;
+    font-weight: 600;
+    padding: 10px;
+    transition: all 0.2s ease;
+}
+
+.sidebar-nav ul#sidebarnav ul.collapse.in li:hover a, .sidebar-nav ul#sidebarnav ul.collapse.in li.active a {
+    background: #e31e1a;
+}
+
+ul#sidebarnav > li {
+    background: #efefef;
+}
+
+/* script CSS */
+table caption {
+    width: 800px;
+}
+.exporting-it {
+    overflow: scroll;
+    height: 75vh;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: red; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #b30000; 
+}
+select.rspg + span {
+    display: none;
+}
+	h2 {
+    text-align: center;
+    margin: 15px 0;
+    text-transform: uppercase;
+    font-weight: bold;
+	}
+	tbody#myTable > tr > td:first-child img {
+		width: 100px;
+	}	
+	.multiple-search {
+    float: left;
+    width: 100%;
+    padding: 20px 0;
+    margin-bottom: 15px;
+	}
+	.multiple-search input, .multiple-search select {
+		width: auto;
+		float: left;
+		margin: 0 2px;
+		border-width: 2px !important;
+	}
+	.multiple-search input#myInput1 {
+		width: 19%;
+	}
+	table caption{caption-side: top;}
+	table#demo thead tr.fltrow > td:first-child input {
+		display: none !important;
+	}
+	span#exportexcel,span#exportexcel1 {
+		background: #000;
+		color: #fff;
+		cursor: pointer;
+		font-size: 24px;
+		text-align: center;
+		font-weight: bold;
+		margin-bottom: 15px;
+		padding: 5px 15px;
+		display: inline-block;
+		margin-left: 5px;
+		border-radius: 5px;
+		transition: all 0.2s ease;
+	}
+	span#exportexcel:hover, span#exportexcel1:hover {
+		background: #b41520;
+	}
+	span#stop-refresh, span#stop-refresh1 {
+		display: none;
+		color: #f00;
+		font-size: 18px;
+		margin-left: 5px;
+		margin-bottom: 15px;
+		width: 100%;
+	}
+	.cart-sizes-attribute {
+		min-width: 350px;
+		width: 100%;
+		margin-top: 20px;    
+	}
+	.cart-sizes-attribute .size-guide h5 {
+    border: solid 1px #000;
+	padding: 20px 9px!important;
+	}
+	.size-guide h5{
+    color: #000;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 20px;
+   
+    margin-bottom: 0;
+   
+	}
+	.cart-sizes-attribute .size-guide {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+	}
+
+	.inner-size {
+		display: block;
+		width: 100%;
+		-webkit-box-align: center;
+		-ms-flex-align: center;
+		align-items: center;
+		text-align: center;
+	}
+	.cart-sizes-attribute .size-guide .inner-size {
+		border: solid 1px #000;
+		border-right: 0;
+		border-left: 0;
+	}
+	.inner-size span:first-child {
+		font-weight: bold;
+		background: #008188;
+		color: #fff;
+	}
+	.inner-size span {
+		display: block;
+		width: 100%;
+		border-bottom: solid 1px #000;
+		border-right: 1px solid #000;
+		color: #000;
+		padding: 5px 10px;
+	}
+	.TF.sticky tr.fltrow th {
+    top: -2px !important;
+    background: #af0f2c;
+}
+
+
+.TF.sticky th {
+    top: 33px !important;
+}
+
+body table.TF tr.fltrow th {
+    border-bottom: 1px solid #000;
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    padding: 0;
+    color: #fff;
+}
+
+tr.last-tr {
+    display: table-row !important;
+}
+tbody#myTable td {
+    font-weight: 500;
+}
+
+span#exportexcel {
+    display: none;
+}
+/* script CSS END */
+
+.ml-auto.customOrderTotal label {
+    font-size: 20px;
+    font-weight: 700;
+    color: #0f2142;
+}
+.ml-auto.customOrderTotal {
+    background: #edf1f5;
+    padding: 14px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.customFilters {
+    display: flex;
+}
+
+.fw21OrderTotal {
+    width: 128px;
+    background: #01c0c8;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    padding: 5px;
+}
+.totalPOPOrders {
+    width: 125px;
+    background: #4f5467;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    padding: 5px;
+}
+.totalPresale3Orders {
+    width: 125px;
+    background: #4168ff;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    padding: 5px;
+}
+

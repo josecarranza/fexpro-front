@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="92704" Cliente="0036" Nombre="Evelyn Navidad" Fecha="21/12/2021" Tipo="1" Fecha_Entrega="21/12/2021" Direccion="Avenida Samuel Lewis, Calle 54, Edif. Afra " Direccion2="Panama  Panamá City 00000" Vendedor="01" AgenteEmbarcador="" Observaciones="FIFA KIDS PRISMA MODA" ResponsablePedido="" ResponsableImportacion="" Contacto="Evelyn Navidad" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="FTCT622201-WHT" Color="WHT" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7.5"></Linea>
+    <Linea Producto="FIJS322204-LHB" Color="LHB" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7.5"></Linea>
+    <Linea Producto="FIJS322204-YEL" Color="YEL" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="7.5"></Linea>
+    <Linea Producto="FIJS322204-WHT" Color="WHT" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="7.5"></Linea>
+    <Linea Producto="FIJS322204-BLU" Color="BLU" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="7.5"></Linea>
+    <Linea Producto="FIJS322204-RED" Color="RED" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7.5"></Linea>
+  </Encabezado>
+</Sagemobile>

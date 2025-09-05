@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="219966" Cliente="0459" Nombre="Rodrigo Sepulveda" Fecha="26/08/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AMÉRICO VESPUCIO SUR N° 866 " Direccion2="Chile Región Metropolitana de Santiago LAS CONDES - SANTIAGO 7550000" AgenteEmbarcador="" Observaciones="COMPRA BELSPORT SS25 Q2&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Rodrigo Sepulveda" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAHD525107-RD1" Color="RD1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="15"></Linea>
+    <Linea Producto="NBAHD525107-BK2" Color="BK2" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="15"></Linea>
+    <Linea Producto="NBATS525113-BK2" Color="BK2" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7"></Linea>
+    <Linea Producto="NBATS525114-RD1" Color="RD1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7"></Linea>
+    <Linea Producto="MLBTS525105-BL1" Color="BL1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7"></Linea>
+    <Linea Producto="MLBTS525106-BK1" Color="BK1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7"></Linea>
+    <Linea Producto="MLBHD525103-NV1" Color="NV1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="15.5"></Linea>
+    <Linea Producto="MLBHD525104-BK3" Color="BK3" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="15"></Linea>
+    <Linea Producto="MLBPT525106-BK1" Color="BK1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="15"></Linea>
+    <Linea Producto="MLBTS725104-BK1" Color="BK1" Cantidad="5" size_10="20" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6"></Linea>
+    <Linea Producto="MLBHD725102-NV1" Color="NV1" Cantidad="5" size_10="20" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="13"></Linea>
+    <Linea Producto="NBATS725104-BK2" Color="BK2" Cantidad="10" size_10="40" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6"></Linea>
+    <Linea Producto="NBATS725105-RD1" Color="RD1" Cantidad="10" size_10="40" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6"></Linea>
+    <Linea Producto="NBAHD725102-BK2" Color="BK2" Cantidad="15" size_10="60" size_12="120" size_14="120" size_16="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="13"></Linea>
+    <Linea Producto="NBAPT725102-BK2" Color="BK2" Cantidad="15" size_10="60" size_12="120" size_14="120" size_16="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="12"></Linea>
+    <Linea Producto="NBASW525104-RD1" Color="RD1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="14"></Linea>
+    <Linea Producto="NBASW525104-BK2" Color="BK2" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="14"></Linea>
+    <Linea Producto="MLBSW525105-NV1" Color="NV1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="14"></Linea>
+  </Encabezado>
+</Sagemobile>

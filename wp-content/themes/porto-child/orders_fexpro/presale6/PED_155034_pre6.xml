@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="155034" Cliente="0458" Nombre="Paulina Valderrama" Fecha="16/12/2022" Tipo="1" Fecha_Entrega="16/12/2022" Direccion="AV. KENNEDY 9001, LAS CONDES SANTIAGO, CHILE 7560356 PISO 4" Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 56" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS CHILE - KIDS SOCCER Q4 TIENDA FW23" ResponsablePedido="" ResponsableImportacion="" Contacto="Paulina Valderrama" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCNSH323203-NV2" Color="NV2" Cantidad="17" size_4="34" size_6="68" size_8="68" size_10="68" size_12="68" size_14="68" size_16="34" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="6.5"></Linea>
+    <Linea Producto="RMDSH323203-NV1" Color="NV1" Cantidad="17" size_4="34" size_6="68" size_8="68" size_10="68" size_12="68" size_14="68" size_16="34" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="6.5"></Linea>
+    <Linea Producto="BCNSH323204-NV1" Color="NV1" Cantidad="13" size_4="26" size_6="52" size_8="52" size_10="52" size_12="52" size_14="52" size_16="26" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="6.5"></Linea>
+    <Linea Producto="RMDSH323204-NV2" Color="NV2" Cantidad="13" size_4="26" size_6="52" size_8="52" size_10="52" size_12="52" size_14="52" size_16="26" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="6.5"></Linea>
+    <Linea Producto="BCNTS323201-BK1" Color="BK1" Cantidad="17" size_4="34" size_6="68" size_8="68" size_10="68" size_12="68" size_14="68" size_16="34" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="6"></Linea>
+    <Linea Producto="BCNTS323201-GY1" Color="GY1" Cantidad="13" size_4="26" size_6="52" size_8="52" size_10="52" size_12="52" size_14="52" size_16="26" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="6"></Linea>
+    <Linea Producto="RMDTS323201-NV1" Color="NV1" Cantidad="17" size_4="34" size_6="68" size_8="68" size_10="68" size_12="68" size_14="68" size_16="34" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="6"></Linea>
+    <Linea Producto="BCNTS323204-BK1" Color="BK1" Cantidad="17" size_4="34" size_6="68" size_8="68" size_10="68" size_12="68" size_14="68" size_16="34" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="6"></Linea>
+    <Linea Producto="BCNTS323204-NV1" Color="NV1" Cantidad="13" size_4="26" size_6="52" size_8="52" size_10="52" size_12="52" size_14="52" size_16="26" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="6"></Linea>
+    <Linea Producto="BCNTS323212-NV1" Color="NV1" Cantidad="17" size_4="34" size_6="68" size_8="68" size_10="68" size_12="68" size_14="68" size_16="34" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="5"></Linea>
+    <Linea Producto="RMDTS323212-GY1" Color="GY1" Cantidad="17" size_4="34" size_6="68" size_8="68" size_10="68" size_12="68" size_14="68" size_16="34" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="5"></Linea>
+  </Encabezado>
+</Sagemobile>

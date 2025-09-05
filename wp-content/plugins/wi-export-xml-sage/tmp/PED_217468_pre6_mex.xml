@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="217468" Cliente="0000" Nombre="OMAR CELIS" Fecha="27/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="RADIATAS 42 BOSQUES DE LAS LOMAS " Direccion2="Mexico Ciudad de México CUAJIMALPA DE MORELOS 05120" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="OMAR CELIS" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="T7LMNKHONKL23" Color="L23" Cantidad="27" size_S="54" size_M="108" size_L="108" size_XL="54" Unit_Box_Qty="12" Total_Box_Qty="324" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LMLDA2LDL23" Color="L23" Cantidad="22" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="12" Total_Box_Qty="264" Precio="1206.46551725"></Linea>
+    <Linea Producto="NKDK4EWLDCKX" Color="CKX" Cantidad="30" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="12" Total_Box_Qty="360" Precio="861.637931"></Linea>
+    <Linea Producto="NKDK44BNKCKX" Color="CKX" Cantidad="50" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="12" Total_Box_Qty="600" Precio="861.637931"></Linea>
+  </Encabezado>
+</Sagemobile>

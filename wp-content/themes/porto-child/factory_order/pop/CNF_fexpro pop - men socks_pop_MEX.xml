@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sage>
+  <Confirmacion Cia="08" NoConfirm="Fexpro POP - MEN Socks" Fecha="30/09/2021" Suplidor="" Temporada="212" FechaEntrega="30/09/2021" FechaEmbarque="05/10/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021">
+    <Linea Producto="ACSO52104GRY" Color="GRY" size_OS="312" Total_Box_Qty="312" Costo="0.68" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="ACSO52103BLK" Color="BLK" size_OS="840" Total_Box_Qty="840" Costo="0.68" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SOPSO52102BLK" Color="BLK" size_OS="312" Total_Box_Qty="312" Costo="0.68" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="KISO52103BLU" Color="BLU" size_OS="1080" Total_Box_Qty="1080" Costo="0.68" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NASSO52106BLK" Color="BLK" size_OS="1104" Total_Box_Qty="1104" Costo="0.68" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="ACSO52101BLK" Color="BLK" size_OS="1152" Total_Box_Qty="1152" Costo="0.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="KISO52102BLU" Color="BLU" size_OS="1152" Total_Box_Qty="1152" Costo="0.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NASSO52103BLU" Color="BLU" size_OS="1344" Total_Box_Qty="1344" Costo="0.68" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCSO52102RED" Color="RED" size_OS="1152" Total_Box_Qty="1152" Costo="0.68" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NASSO52101NVY" Color="NVY" size_OS="1344" Total_Box_Qty="1344" Costo="0.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NASSO52105BLU" Color="BLU" size_OS="1344" Total_Box_Qty="1344" Costo="0.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCSO52101BLK" Color="BLK" size_OS="1152" Total_Box_Qty="1152" Costo="0.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+  </Confirmacion>
+</Sage>

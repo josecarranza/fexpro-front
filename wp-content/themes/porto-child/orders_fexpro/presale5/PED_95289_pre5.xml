@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="95289" Cliente="0003" Nombre="Alejandra De la Hoz" Fecha="30/12/2021" Tipo="1" Fecha_Entrega="30/12/2021" Direccion="CALLE 53#46-192 LOCAL 301 C.CIAL PORTAL DEL PRADO " Direccion2="Colombia  BARRANQUILLA " Vendedor="01" AgenteEmbarcador="" Observaciones="OLIMPICA COLOMBIA - POP MEN AND WOMEN FW22&#13;&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Alejandra De la Hoz" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NASTS62203-NVY" Color="NVY" Cantidad="4" size_XS="16" size_S="32" size_M="32" size_L="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6"></Linea>
+    <Linea Producto="NASTS62203-WHT" Color="WHT" Cantidad="4" size_XS="16" size_S="32" size_M="32" size_L="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6"></Linea>
+    <Linea Producto="ATRTS62201-BLK" Color="BLK" Cantidad="4" size_XS="16" size_S="32" size_M="32" size_L="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6"></Linea>
+    <Linea Producto="FTCT62202-ORG" Color="ORG" Cantidad="4" size_XS="16" size_S="32" size_M="32" size_L="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6"></Linea>
+    <Linea Producto="FTCT62202-GRN" Color="GRN" Cantidad="4" size_XS="16" size_S="32" size_M="32" size_L="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6"></Linea>
+    <Linea Producto="NASCT62206-WHT" Color="WHT" Cantidad="4" size_XS="16" size_S="32" size_M="32" size_L="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6"></Linea>
+    <Linea Producto="NASCT62206-BLK" Color="BLK" Cantidad="4" size_XS="16" size_S="32" size_M="32" size_L="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6"></Linea>
+    <Linea Producto="NASSL52202-NVY" Color="NVY" Cantidad="10" size_40="40" size_41="60" size_43="80" size_44="40" size_45="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6"></Linea>
+    <Linea Producto="NASCS52201-BLK" Color="BLK" Cantidad="15" size_40="60" size_41="90" size_43="120" size_44="60" size_45="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="5"></Linea>
+    <Linea Producto="BABTS522201-BLK" Color="BLK" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7"></Linea>
+    <Linea Producto="BABTS522201-GRY" Color="GRY" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7"></Linea>
+    <Linea Producto="PCTS622201-WHT" Color="WHT" Cantidad="4" size_XS="16" size_S="32" size_M="32" size_L="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6.5"></Linea>
+    <Linea Producto="PCCT622201-WHT" Color="WHT" Cantidad="4" size_XS="16" size_S="32" size_M="32" size_L="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="7"></Linea>
+    <Linea Producto="PCCT622201-RED" Color="RED" Cantidad="4" size_XS="16" size_S="32" size_M="32" size_L="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="7"></Linea>
+    <Linea Producto="CCTS522203-BLK" Color="BLK" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="CCTS522203-BUR" Color="BUR" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="STFTS522201-BLK" Color="BLK" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="STFTS522202-GRN" Color="GRN" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="STFTS522202-BLK" Color="BLK" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="STFTS522203-BLK" Color="BLK" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="STFTS522204-GRN" Color="GRN" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7"></Linea>
+    <Linea Producto="LLTS522202-BLK" Color="BLK" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="LLTS522202-LBL" Color="LBL" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="LLTS522206-BLK" Color="BLK" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8"></Linea>
+    <Linea Producto="LCPTS522201-BLK" Color="BLK" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="LCPTS522201-WHT" Color="WHT" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="LCPTS522202-WHT" Color="WHT" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="LCPTS522204-RED" Color="RED" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6.5"></Linea>
+    <Linea Producto="LCPTS522204-GRY" Color="GRY" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6.5"></Linea>
+    <Linea Producto="NASTS522201-BLK" Color="BLK" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="NASTS522202-GRY" Color="GRY" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="NASTS522205-BLK" Color="BLK" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="NASTS522208-BGE" Color="BGE" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7"></Linea>
+    <Linea Producto="NASTS522208-GRY" Color="GRY" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7"></Linea>
+    <Linea Producto="BUDTS622202-GRY" Color="GRY" Cantidad="5" size_XS="20" size_S="40" size_M="40" size_L="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8.5"></Linea>
+  </Encabezado>
+</Sagemobile>

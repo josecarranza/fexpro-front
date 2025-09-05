@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="56449" Cliente="0000" Nombre="Saul Torres" Fecha="05/08/2021" Tipo="1" Fecha_Entrega="05/08/2021" Direccion="AV. J. MERCED CABRERA, 1200 COL. LA COMARCA " Direccion2="Mexico Colima VILLA DE ALVAREZ 28989" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Saul Torres" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NASCS52202BLK" Color="BLK" Cantidad="5" size_40="20" size_41="30" size_43="40" size_44="20" size_45="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="246.95"></Linea>
+    <Linea Producto="NASSL52201BLK" Color="BLK" Cantidad="5" size_40="20" size_41="30" size_43="40" size_44="20" size_45="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="301.95"></Linea>
+    <Linea Producto="NASCS52201BLK" Color="BLK" Cantidad="5" size_40="20" size_41="30" size_43="40" size_44="20" size_45="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="246.95"></Linea>
+    <Linea Producto="ATASL52201BLK" Color="BLK" Cantidad="5" size_40="20" size_41="30" size_43="40" size_44="20" size_45="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="301.95"></Linea>
+    <Linea Producto="PCFF52201BLK" Color="BLK" Cantidad="6" size_40="24" size_41="36" size_43="48" size_44="24" size_45="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="164.45"></Linea>
+    <Linea Producto="LLSL52202BLK" Color="BLK" Cantidad="5" size_40="20" size_41="30" size_43="40" size_44="20" size_45="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="301.95"></Linea>
+    <Linea Producto="NASSL52202NVY" Color="NVY" Cantidad="6" size_40="24" size_41="36" size_43="48" size_44="24" size_45="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="274.45"></Linea>
+  </Encabezado>
+</Sagemobile>

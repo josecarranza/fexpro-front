@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="99315" Cliente="0220" Nombre="Omer Avital" Fecha="17/01/2022" Tipo="1" Fecha_Entrega="17/01/2022" Direccion="PANAMA " Direccion2="Panama Panamá PANAMA 0000" Vendedor="01" AgenteEmbarcador="" Observaciones="FIFA WOMEN - TAMEK" ResponsablePedido="" ResponsableImportacion="" Contacto="Omer Avital" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="FIJS622204-RED4" Color="RED4" Cantidad="14" size_XS="56" size_S="112" size_M="112" size_L="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="9"></Linea>
+    <Linea Producto="FIJS622207-RED4" Color="RED4" Cantidad="14" size_XS="56" size_S="112" size_M="112" size_L="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="9"></Linea>
+    <Linea Producto="FICT622201-RED3" Color="RED3" Cantidad="14" size_XS="56" size_S="112" size_M="112" size_L="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="6.5"></Linea>
+    <Linea Producto="FIJS622209-RED4" Color="RED4" Cantidad="14" size_XS="56" size_S="112" size_M="112" size_L="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="7"></Linea>
+  </Encabezado>
+</Sagemobile>

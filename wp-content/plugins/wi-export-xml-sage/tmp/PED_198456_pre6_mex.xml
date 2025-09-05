@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="198456" Cliente="0INN" Nombre="Angel Quezada" Fecha="14/02/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Humberto Lobo 540-A, Col. Del Valle 540-A" Direccion2="Mexico Nuevo León San Pedro Garza García 66220" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Angel Quezada" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="CAATS524113WH1" Color="WH1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="171.982758625"></Linea>
+    <Linea Producto="CAATS524114YL1" Color="YL1" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="171.982758625"></Linea>
+    <Linea Producto="CAATS524114NV1" Color="NV1" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="171.982758625"></Linea>
+    <Linea Producto="CAAPL524104NV1" Color="NV1" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="322.84482758333"></Linea>
+    <Linea Producto="CAAST500001BK1" Color="BK1" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="603.017241375"></Linea>
+    <Linea Producto="CAAST500001NV1" Color="NV1" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="603.017241375"></Linea>
+    <Linea Producto="CAATS524204NV2" Color="NV2" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="193.53448275"></Linea>
+    <Linea Producto="CAATS524204BL1" Color="BL1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="193.53448275"></Linea>
+    <Linea Producto="CAAJS524204YL1" Color="YL1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="258.18965516667"></Linea>
+    <Linea Producto="CAAJS524204BL1" Color="BL1" Cantidad="7" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="258.18965516667"></Linea>
+    <Linea Producto="CAAHD524203NV1" Color="NV1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="473.70689654167"></Linea>
+    <Linea Producto="CAAPT524203NV2" Color="NV2" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="387.5"></Linea>
+    <Linea Producto="CAASH524203NV2" Color="NV2" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="249.5689655"></Linea>
+    <Linea Producto="CAAJK524201NV2" Color="NV2" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="516.81034483333"></Linea>
+    <Linea Producto="CAAPL524202NV2" Color="NV2" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="292.67241379167"></Linea>
+    <Linea Producto="CAAJS524205NV2" Color="NV2" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="258.18965516667"></Linea>
+    <Linea Producto="CAAJS524205BL1" Color="BL1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="258.18965516667"></Linea>
+    <Linea Producto="CAAJS624202YL1" Color="YL1" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="215.08620691667"></Linea>
+    <Linea Producto="CAATS624202NV1" Color="NV1" Cantidad="3" size_XS="12" size_S="24" size_M="24" size_L="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="171.982758625"></Linea>
+    <Linea Producto="CAAHD624202NV1" Color="NV1" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="387.5"></Linea>
+    <Linea Producto="CAAJK500001NV1" Color="NV1" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="861.63793104167"></Linea>
+    <Linea Producto="CAAVS500001NV1" Color="NV1" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="775.4310345"></Linea>
+  </Encabezado>
+</Sagemobile>

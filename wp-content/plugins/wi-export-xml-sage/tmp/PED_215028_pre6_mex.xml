@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="215028" Cliente="CHAPUR" Nombre="Adriana Escalante" Fecha="04/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="CALLE 63 474 OFICINAS CHAPUR" Direccion2="Mexico Yucatán MERIDA 97000" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Adriana Escalante" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASO500001WHT1" Color="WHT1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="137.5"></Linea>
+    <Linea Producto="NBASO500003BLK1" Color="BLK1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="120.25862070833"></Linea>
+    <Linea Producto="NBASO500004WHT1" Color="WHT1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="137.5"></Linea>
+    <Linea Producto="NBASO500004WHT2" Color="WHT2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="137.5"></Linea>
+    <Linea Producto="BCNCA500003NV2" Color="NV2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="236.63793104167"></Linea>
+    <Linea Producto="RMDCA500003WH1" Color="WH1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="236.63793104167"></Linea>
+    <Linea Producto="MLSCA500003BK1" Color="BK1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="3.448275875"></Linea>
+    <Linea Producto="MLBBK523105NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="301.29310345833"></Linea>
+    <Linea Producto="MLBDB523102BLK2" Color="BLK2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="284.051724125"></Linea>
+    <Linea Producto="MLBBK523102NVY3" Color="NVY3" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="383.18965516667"></Linea>
+  </Encabezado>
+</Sagemobile>

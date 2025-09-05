@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="192955" Cliente="MARTI" Nombre="Francisco Mucino" Fecha="14/12/2023" Tipo="1" Fecha_Entrega="14/12/2023" Direccion="BOULEVARD BENITO JUAREZ #10 " Direccion2="Mexico Ciudad de México TULTITLAN DE MARIANO ESCOBEDO 54900" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Francisco Mucino" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCNTS524201NV3" Color="NV3" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="222.37068966667"></Linea>
+    <Linea Producto="BCNJS524201NV3" Color="NV3" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="284.00862070833"></Linea>
+    <Linea Producto="BCNLS524201NV3" Color="NV3" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="402.54310345833"></Linea>
+    <Linea Producto="BCNHD524201NV3" Color="NV3" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="521.07758620833"></Linea>
+    <Linea Producto="BCNHD524203BK1" Color="BK1" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="521.07758620833"></Linea>
+    <Linea Producto="BCNHD524204GN1" Color="GN1" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="521.07758620833"></Linea>
+  </Encabezado>
+</Sagemobile>

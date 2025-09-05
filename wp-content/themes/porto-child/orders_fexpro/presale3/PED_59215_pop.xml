@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="59215" Cliente="0000" Nombre="Carlos Parodi" Fecha="20/08/2021" Tipo="1" Fecha_Entrega="20/08/2021" Direccion="Avenida paseo de la republica 3220" Direccion2="Peru Lima San Isidro 51" Vendedor="01" AgenteEmbarcador="" Observaciones="FALABELLA PERU - PANTUFLAS SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="Carlos Parodi" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBCT62209-NVY" Color="NVY" Cantidad="23" size_40="92" size_41="138" size_43="184" size_44="92" size_45="46" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="6.5"></Linea>
+    <Linea Producto="NBASS52202-BLK" Color="BLK" Cantidad="22" size_40="88" size_41="132" size_43="176" size_44="88" size_45="44" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="6.5"></Linea>
+    <Linea Producto="NBASS52202-PUR" Color="PUR" Cantidad="22" size_40="88" size_41="132" size_43="176" size_44="88" size_45="44" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="5.5"></Linea>
+  </Encabezado>
+</Sagemobile>

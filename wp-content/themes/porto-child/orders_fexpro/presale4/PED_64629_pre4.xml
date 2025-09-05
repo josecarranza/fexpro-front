@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="64629" Cliente="0447" Nombre="Briggitte Cabello" Fecha="07/10/2021" Tipo="1" Fecha_Entrega="07/10/2021" Direccion="Avenida Ricardo Palma 141 (alt. Cuadra 54 Av. Arequipa) " Direccion2="Peru Lima Miraflores 15074" Vendedor="01" AgenteEmbarcador="" Observaciones="MARATHON PERU - GORRAS SOCCER SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="Briggitte Cabello" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PSGSB52203-BLK" Color="BLK" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8.5"></Linea>
+    <Linea Producto="PSGSB52208-BLK" Color="BLK" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7.5"></Linea>
+    <Linea Producto="PSGSB52201-NVY" Color="NVY" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8.5"></Linea>
+    <Linea Producto="JVSB52206-BLK" Color="BLK" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8.5"></Linea>
+    <Linea Producto="BCSB52208-BUR" Color="BUR" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7.5"></Linea>
+    <Linea Producto="BCSB52202-BLK" Color="BLK" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8.5"></Linea>
+  </Encabezado>
+</Sagemobile>

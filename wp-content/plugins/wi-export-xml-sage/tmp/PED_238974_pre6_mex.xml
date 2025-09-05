@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="238974" Cliente="0000" Nombre="Guillermo Petrei" Fecha="25/11/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="CALZADA LEGARIA 549, MIGUEL HIDALGO CDMX" Direccion2="Mexico Ciudad de México CIUDAD DE MEXICO 11500" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Guillermo Petrei" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NB0100ARXWYM" Color="WYM" Cantidad="5" size_M-L="60" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="253.08620691667"></Linea>
+    <Linea Producto="NB0115ABQC6E" Color="C6E" Cantidad="15" size_M-L="180" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="253.08620691667"></Linea>
+    <Linea Producto="NB0115AHUSC6E" Color="C6E" Cantidad="15" size_M-L="180" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="253.08620691667"></Linea>
+    <Linea Producto="NB0115ALDC6E" Color="C6E" Cantidad="25" size_M-L="300" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="253.08620691667"></Linea>
+    <Linea Producto="NB0115ANKC6E" Color="C6E" Cantidad="35" size_M-L="420" Unit_Box_Qty="12" Total_Box_Qty="420" Precio="253.08620691667"></Linea>
+    <Linea Producto="NB0115APYPC6E" Color="C6E" Cantidad="15" size_M-L="180" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="253.08620691667"></Linea>
+    <Linea Producto="NB0115ARXC6E" Color="C6E" Cantidad="5" size_M-L="60" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="253.08620691667"></Linea>
+    <Linea Producto="NB0120QPYPWYM" Color="WYM" Cantidad="15" size_M-L="180" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="253.08620691667"></Linea>
+    <Linea Producto="NB0141SHUSWYM" Color="WYM" Cantidad="15" size_M-L="180" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="253.08620691667"></Linea>
+    <Linea Producto="NB014EULDWYM" Color="WYM" Cantidad="25" size_M-L="300" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="253.08620691667"></Linea>
+    <Linea Producto="NB014FABQWYM" Color="WYM" Cantidad="15" size_M-L="180" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="253.08620691667"></Linea>
+    <Linea Producto="NB014FANKWYM" Color="WYM" Cantidad="35" size_M-L="420" Unit_Box_Qty="12" Total_Box_Qty="420" Precio="253.08620691667"></Linea>
+    <Linea Producto="NB0906FBQBXY" Color="BXY" Cantidad="5" size_M-L="60" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="289.29310341667"></Linea>
+    <Linea Producto="NB0906FHUSBXY" Color="BXY" Cantidad="5" size_M-L="60" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="289.29310341667"></Linea>
+    <Linea Producto="NB0906FLDBXY" Color="BXY" Cantidad="15" size_M-L="180" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="289.29310341667"></Linea>
+    <Linea Producto="NB0906FNKBXY" Color="BXY" Cantidad="15" size_M-L="180" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="289.29310341667"></Linea>
+    <Linea Producto="NB0906FPYPBXY" Color="BXY" Cantidad="5" size_M-L="60" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="289.29310341667"></Linea>
+    <Linea Producto="NB0906FRXBXY" Color="BXY" Cantidad="5" size_M-L="60" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="289.29310341667"></Linea>
+    <Linea Producto="NB1101BFNKCJ5" Color="CJ5" Cantidad="15" size_M-L="180" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="289.29310341667"></Linea>
+    <Linea Producto="NB110DJKLDCJ5" Color="CJ5" Cantidad="15" size_M-L="180" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="289.29310341667"></Linea>
+    <Linea Producto="NB1701YSNK0VE" Color="0VE" Cantidad="10" size_M-L="120" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="307.39655175"></Linea>
+    <Linea Producto="NB170DKSLD0VE" Color="0VE" Cantidad="10" size_M-L="120" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="307.39655175"></Linea>
+    <Linea Producto="NB180DKTPYPSZJ" Color="SZJ" Cantidad="5" size_7="10" size_718="10" size_714="10" size_738="10" size_712="10" size_758="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="307.39655175"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="215278" Cliente="0631" Nombre="Christian Rey" Fecha="05/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AV. CALLAO N° 1290 - PISO 21 Dpto. &quot;A&quot; " Direccion2="Argentina Buenos Aires CIUDAD AUTONOMA DE BUENOS AIRES 01131322312" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Christian Rey" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="T7GM-LDHO-LD-G23" Color="G23" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="42.5"></Linea>
+    <Linea Producto="T7GM-MQHO-MQM-G23" Color="G23" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="42.5"></Linea>
+    <Linea Producto="T7GM-NKA2-NK-G23" Color="G23" Cantidad="11" size_S="22" size_M="44" size_L="44" size_XL="22" Unit_Box_Qty="12" Total_Box_Qty="132" Precio="42.5"></Linea>
+    <Linea Producto="T7GM-NKHO-NK-G23" Color="G23" Cantidad="11" size_S="22" size_M="44" size_L="44" size_XL="22" Unit_Box_Qty="12" Total_Box_Qty="132" Precio="42.5"></Linea>
+    <Linea Producto="01NC-012N-NK-F9S" Color="F9S" Cantidad="12" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="12" Total_Box_Qty="144" Precio="33.5"></Linea>
+    <Linea Producto="02JW-012N-N27-JWQ" Color="JWQ" Cantidad="15" size_S="30" size_M="60" size_L="60" size_XL="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="30"></Linea>
+    <Linea Producto="0343-0BOG-NK-SZN" Color="SZN" Cantidad="14" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="12" Total_Box_Qty="168" Precio="32"></Linea>
+    <Linea Producto="0343-0CRE-LD-SZN" Color="SZN" Cantidad="12" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="12" Total_Box_Qty="144" Precio="32"></Linea>
+    <Linea Producto="N199-06G-N27-3U6" Color="3U6" Cantidad="12" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="12" Total_Box_Qty="144" Precio="16.5"></Linea>
+    <Linea Producto="N199-00A-LD-9UX" Color="9UX" Cantidad="7" size_S="14" size_M="28" size_L="28" size_XL="14" Unit_Box_Qty="12" Total_Box_Qty="84" Precio="15"></Linea>
+    <Linea Producto="N199-10A-NK-9UX" Color="9UX" Cantidad="7" size_S="14" size_M="28" size_L="28" size_XL="14" Unit_Box_Qty="12" Total_Box_Qty="84" Precio="15"></Linea>
+    <Linea Producto="N199-00A-LD-CJP" Color="CJP" Cantidad="24" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="12" Total_Box_Qty="288" Precio="13.5"></Linea>
+    <Linea Producto="N199-10A-NK-CJP" Color="CJP" Cantidad="18" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="12" Total_Box_Qty="216" Precio="13.5"></Linea>
+    <Linea Producto="N199-44B-NK-CJP" Color="CJP" Cantidad="24" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="12" Total_Box_Qty="288" Precio="13.5"></Linea>
+    <Linea Producto="N199-44B-N27-CUE" Color="CUE" Cantidad="16" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="12" Total_Box_Qty="192" Precio="13.5"></Linea>
+    <Linea Producto="N199-4EW-M89-CUE" Color="CUE" Cantidad="12" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="12" Total_Box_Qty="144" Precio="13.5"></Linea>
+    <Linea Producto="N199-00A-LD-PA7" Color="PA7" Cantidad="16" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="12" Total_Box_Qty="192" Precio="13.5"></Linea>
+    <Linea Producto="N199-10A-NK-PA7" Color="PA7" Cantidad="16" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="12" Total_Box_Qty="192" Precio="13.5"></Linea>
+    <Linea Producto="N199-44B-ANG-PA7" Color="PA7" Cantidad="12" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="12" Total_Box_Qty="144" Precio="13.5"></Linea>
+    <Linea Producto="NKDK-00A-MQM-CKX" Color="CKX" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="28"></Linea>
+    <Linea Producto="NKDK-44B-NK-CKX" Color="CKX" Cantidad="15" size_S="30" size_M="60" size_L="60" size_XL="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="28"></Linea>
+    <Linea Producto="NKDK-4EW-LD-CKX" Color="CKX" Cantidad="14" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="12" Total_Box_Qty="168" Precio="28"></Linea>
+    <Linea Producto="NKGK-10A-LD-WWX" Color="WWX" Cantidad="7" size_S="14" size_M="28" size_L="28" size_XL="14" Unit_Box_Qty="12" Total_Box_Qty="84" Precio="15"></Linea>
+    <Linea Producto="NKGK-10A-NK-WWX" Color="WWX" Cantidad="7" size_S="14" size_M="28" size_L="28" size_XL="14" Unit_Box_Qty="12" Total_Box_Qty="84" Precio="15"></Linea>
+  </Encabezado>
+</Sagemobile>

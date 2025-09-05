@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="181479" Cliente="CIMACO" Nombre="Christian Ayup" Fecha="28/08/2023" Tipo="1" Direccion="HIDALGO,399 PONIENTE CENTRO " Direccion2="Mexico Ciudad de México TORREON, COAHUILA 27000" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Christian Ayup" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MIATS523201BK1" Color="BK1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="212.88793104167"></Linea>
+    <Linea Producto="MIATS523201PK1" Color="PK1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="212.88793104167"></Linea>
+    <Linea Producto="MIAHD523201BK1" Color="BK1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="521.07758620833"></Linea>
+    <Linea Producto="MIAPT523201BK1" Color="BK1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="426.25"></Linea>
+    <Linea Producto="MIACA523201BK1" Color="BK1" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="236.59482758333"></Linea>
+  </Encabezado>
+</Sagemobile>

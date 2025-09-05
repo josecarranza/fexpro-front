@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="154878" Cliente="0583" Nombre="pablo rodriguez" Fecha="06/12/2022" Tipo="1" Direccion="ZONA 11 " Direccion2="Guatemala Guatemala GUATEMALA " AgenteEmbarcador="" Observaciones="LIGAS SOCKS - Q3" ResponsablePedido="" ResponsableImportacion="" Contacto="pablo rodriguez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBSO523206-WH1" Color="WH1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="4.3"></Linea>
+    <Linea Producto="NBASO500001-BLK1" Color="BLK1" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="5"></Linea>
+    <Linea Producto="NBASO500001-WHT1" Color="WHT1" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="5"></Linea>
+    <Linea Producto="NBASO500004-WHT1" Color="WHT1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="5"></Linea>
+    <Linea Producto="NBASO500004-WHT2" Color="WHT2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="5"></Linea>
+    <Linea Producto="MLBSO523208-BK1" Color="BK1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="5"></Linea>
+  </Encabezado>
+</Sagemobile>

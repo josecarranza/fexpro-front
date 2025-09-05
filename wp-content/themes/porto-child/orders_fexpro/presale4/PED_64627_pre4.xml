@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="64627" Cliente="0448" Nombre="German Angellotti" Fecha="07/10/2021" Tipo="1" Fecha_Entrega="07/10/2021" Direccion="AVENIDA KENNEDY 5682, VITACURA " Direccion2="Chile  SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="SPARTA CHILE - GORRAS SOCCER SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="German Angellotti" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PSGSB52206-NVY" Color="NVY" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7.5"></Linea>
+    <Linea Producto="PSGSB52205-WHT" Color="WHT" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="7.5"></Linea>
+    <Linea Producto="PSGSB52202-BLK" Color="BLK" Cantidad="8" size_OS="192" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="8.5"></Linea>
+    <Linea Producto="RMSB52203-WHT" Color="WHT" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7.5"></Linea>
+    <Linea Producto="BCSB52205-NVY" Color="NVY" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7.5"></Linea>
+  </Encabezado>
+</Sagemobile>

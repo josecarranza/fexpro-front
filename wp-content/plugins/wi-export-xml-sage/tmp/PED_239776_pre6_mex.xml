@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="239776" Cliente="0000" Nombre="OMAR CELIS" Fecha="04/12/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="RADIATAS 42 BOSQUES DE LAS LOMAS " Direccion2="Mexico Ciudad de México CUAJIMALPA DE MORELOS 05120" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="OMAR CELIS" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCJS52203BLU" Color="BLU" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="279.74137929167"></Linea>
+    <Linea Producto="RMJS523109WHT" Color="WHT" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="279.74137929167"></Linea>
+    <Linea Producto="BCNHD500005NV1" Color="NV1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="473.70689654167"></Linea>
+    <Linea Producto="RMDHD500005WH1" Color="WH1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="473.70689654167"></Linea>
+    <Linea Producto="MSPJS525213BK1" Color="BK1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="344.39655170833"></Linea>
+    <Linea Producto="CAAJS525204BG1" Color="BG1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="365.948275875"></Linea>
+    <Linea Producto="CAALS525202NV1" Color="NV1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="387.5"></Linea>
+    <Linea Producto="MLBJS525201BK1" Color="BK1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="430.60344829167"></Linea>
+    <Linea Producto="MLBHD525206BK1" Color="BK1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="516.81034483333"></Linea>
+    <Linea Producto="NBATT52205YEL2" Color="YEL2" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="279.74137929167"></Linea>
+    <Linea Producto="NBATT52205BLU" Color="BLU" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="279.74137929167"></Linea>
+    <Linea Producto="NBAJS552201RED" Color="RED" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="279.74137929167"></Linea>
+    <Linea Producto="NBAJK525204BK1" Color="BK1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="1120.2586207083"></Linea>
+    <Linea Producto="NFPJS500001RD1" Color="RD1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="559.91379308333"></Linea>
+    <Linea Producto="NFPJS500001BK2" Color="BK2" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="559.91379308333"></Linea>
+    <Linea Producto="NFPJS500001BK4" Color="BK4" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="559.91379308333"></Linea>
+    <Linea Producto="NBATT600001BK1" Color="BK1" Cantidad="10" size_XS="40" size_S="80" size_M="80" size_L="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="228.017241375"></Linea>
+    <Linea Producto="NFLCT625202RD1" Color="RD1" Cantidad="10" size_XS="40" size_S="80" size_M="80" size_L="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="215.08620691667"></Linea>
+  </Encabezado>
+</Sagemobile>

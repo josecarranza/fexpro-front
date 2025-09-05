@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="197687" Cliente="0447" Nombre="Gerardo Camino" Fecha="13/02/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="ISIDORA GOYENECHEA 3365 Los Condes" Direccion2="Chile Región Metropolitana de Santiago Santiago " AgenteEmbarcador="" Observaciones="MARATHON CHILE - NBA KIDS FW24 Q4&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Gerardo Camino" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAJS724201-WH1" Color="WH1" Cantidad="1" size_10="4" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="9"></Linea>
+    <Linea Producto="NBAJS724201-WH2" Color="WH2" Cantidad="1" size_10="4" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="9"></Linea>
+    <Linea Producto="NBAJS724201-RD1" Color="RD1" Cantidad="2" size_10="8" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="9"></Linea>
+  </Encabezado>
+</Sagemobile>

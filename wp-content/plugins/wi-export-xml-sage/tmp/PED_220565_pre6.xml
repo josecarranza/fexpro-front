@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="220565" Cliente="0000" Nombre="Evangelyn Asi" Fecha="03/09/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="TOWER 1, HIGH STREET SOUTH CORPORATE PLAZA 26TH ST COR. 9TH AVE BONIFACIO GLOBAL CITY" Direccion2="Philippines  TAGUIG CITY 00000" AgenteEmbarcador="" Observaciones="WOMAN ROBINSONS SS25 Q2 PHILIPPINES" ResponsablePedido="" ResponsableImportacion="" Contacto="Evangelyn Asi" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBACT600001-OW1" Color="OW1" Cantidad="24" size_XS="96" size_S="192" size_M="192" size_L="96" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="5"></Linea>
+    <Linea Producto="NBACT600001-PR1" Color="PR1" Cantidad="15" size_XS="60" size_S="120" size_M="120" size_L="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="5"></Linea>
+    <Linea Producto="NBACT600001-RD1" Color="RD1" Cantidad="24" size_XS="96" size_S="192" size_M="192" size_L="96" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="5"></Linea>
+    <Linea Producto="NBACT600001-BL1" Color="BL1" Cantidad="24" size_XS="96" size_S="192" size_M="192" size_L="96" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="5"></Linea>
+    <Linea Producto="NBATS600001-BK1" Color="BK1" Cantidad="15" size_XS="60" size_S="120" size_M="120" size_L="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="5.5"></Linea>
+    <Linea Producto="NBATS600001-PR1" Color="PR1" Cantidad="24" size_XS="96" size_S="192" size_M="192" size_L="96" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="5.5"></Linea>
+    <Linea Producto="NBATS600001-RD1" Color="RD1" Cantidad="15" size_XS="60" size_S="120" size_M="120" size_L="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="5.5"></Linea>
+    <Linea Producto="NBATS600001-WH2" Color="WH2" Cantidad="24" size_XS="96" size_S="192" size_M="192" size_L="96" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="5.5"></Linea>
+    <Linea Producto="NBATT600001-PR1" Color="PR1" Cantidad="24" size_XS="96" size_S="192" size_M="192" size_L="96" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="6.5"></Linea>
+    <Linea Producto="NBATT600001-RD1" Color="RD1" Cantidad="15" size_XS="60" size_S="120" size_M="120" size_L="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="6.5"></Linea>
+    <Linea Producto="NBATT600001-BL1" Color="BL1" Cantidad="24" size_XS="96" size_S="192" size_M="192" size_L="96" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="6.5"></Linea>
+    <Linea Producto="NBASH600001-PR1" Color="PR1" Cantidad="15" size_XS="60" size_S="120" size_M="120" size_L="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7"></Linea>
+    <Linea Producto="NBASH600001-BK1" Color="BK1" Cantidad="15" size_XS="60" size_S="120" size_M="120" size_L="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="161328" Cliente="0458" Nombre="Maria de Los Angeles Lira" Fecha="09/02/2023" Tipo="1" Fecha_Entrega="09/02/2023" Direccion="V. KENNEDY 9001, LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 7560356" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS CHILE - FOOTWEAR NBA Q4 TIENDA FW23" ResponsablePedido="" ResponsableImportacion="" Contacto="Maria de Los Angeles Lira" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASL523202-BK1" Color="BK1" Cantidad="81" size_7="324" size_8="486" size_9="648" size_10="324" size_11="162" Unit_Box_Qty="24" Total_Box_Qty="1944" Precio="7"></Linea>
+    <Linea Producto="NBASL523202-BK2" Color="BK2" Cantidad="46" size_7="184" size_8="276" size_9="368" size_10="184" size_11="92" Unit_Box_Qty="24" Total_Box_Qty="1104" Precio="7"></Linea>
+    <Linea Producto="NBASL523202-BK4" Color="BK4" Cantidad="70" size_7="280" size_8="420" size_9="560" size_10="280" size_11="140" Unit_Box_Qty="24" Total_Box_Qty="1680" Precio="7"></Linea>
+    <Linea Producto="NBAFS523201-BK4" Color="BK4" Cantidad="43" size_7="172" size_8="258" size_9="344" size_10="172" size_11="86" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="3.5"></Linea>
+    <Linea Producto="NBAFS523201-BK2" Color="BK2" Cantidad="54" size_7="216" size_8="324" size_9="432" size_10="216" size_11="108" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="3.5"></Linea>
+    <Linea Producto="NBAFS523201-BK1" Color="BK1" Cantidad="64" size_7="256" size_8="384" size_9="512" size_10="256" size_11="128" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="3.5"></Linea>
+    <Linea Producto="NBASL523205-BK4" Color="BK4" Cantidad="35" size_7="140" size_8="210" size_9="280" size_10="140" size_11="70" Unit_Box_Qty="24" Total_Box_Qty="840" Precio="7"></Linea>
+    <Linea Producto="NBASL523205-BK2" Color="BK2" Cantidad="70" size_7="280" size_8="420" size_9="560" size_10="280" size_11="140" Unit_Box_Qty="24" Total_Box_Qty="1680" Precio="7"></Linea>
+    <Linea Producto="NBASL523205-BK1" Color="BK1" Cantidad="81" size_7="324" size_8="486" size_9="648" size_10="324" size_11="162" Unit_Box_Qty="24" Total_Box_Qty="1944" Precio="7"></Linea>
+  </Encabezado>
+</Sagemobile>

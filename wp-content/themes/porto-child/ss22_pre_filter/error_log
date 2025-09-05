@@ -1,0 +1,275 @@
+[17-Nov-2021 09:14:20 UTC] PHP Parse error:  syntax error, unexpected '$variable_product_ids' (T_VARIABLE) in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/addbrand.php on line 61
+[17-Nov-2021 09:14:26 UTC] PHP Parse error:  syntax error, unexpected '$variable_product_ids' (T_VARIABLE) in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/addbrand.php on line 61
+[17-Nov-2021 09:14:28 UTC] PHP Parse error:  syntax error, unexpected '$variable_product_ids' (T_VARIABLE) in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/addbrand.php on line 61
+[17-Nov-2021 09:17:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/addbrand.php on line 43
+[17-Nov-2021 09:19:10 UTC] 2 headers were NOT sent before
+[17-Nov-2021 09:21:29 UTC] 2 headers were NOT sent before
+[17-Nov-2021 09:24:41 UTC] 2 headers were NOT sent before
+[17-Nov-2021 09:33:39 UTC] 2 headers were NOT sent before
+[17-Nov-2021 09:41:28 UTC] 2 headers were NOT sent before
+[17-Nov-2021 11:11:45 UTC] 2 headers were NOT sent before
+[17-Nov-2021 12:59:55 UTC] 2 headers were NOT sent before
+[17-Nov-2021 13:03:18 UTC] 2 headers were NOT sent before
+[17-Nov-2021 13:08:06 UTC] 2 headers were NOT sent before
+[17-Nov-2021 13:12:06 UTC] 2 headers were NOT sent before
+[17-Nov-2021 13:51:05 UTC] 2 headers were NOT sent before
+[18-Nov-2021 00:29:40 UTC] 2 headers were NOT sent before
+[18-Nov-2021 08:00:46 UTC] 2 headers were NOT sent before
+[18-Nov-2021 11:54:39 UTC] 2 headers were NOT sent before
+[19-Nov-2021 13:45:29 UTC] 2 headers were NOT sent before
+[20-Nov-2021 14:13:21 UTC] 2 headers were NOT sent before
+[22-Nov-2021 10:47:12 UTC] 2 headers were NOT sent before
+[22-Nov-2021 16:58:28 UTC] 2 headers were NOT sent before
+[23-Nov-2021 08:14:13 UTC] 2 headers were NOT sent before
+[23-Nov-2021 13:48:08 UTC] 2 headers were NOT sent before
+[23-Nov-2021 14:32:34 UTC] 2 headers were NOT sent before
+[23-Nov-2021 14:37:08 UTC] 2 headers were NOT sent before
+[24-Nov-2021 12:53:21 UTC] 2 headers were NOT sent before
+[25-Nov-2021 06:51:55 UTC] 2 headers were NOT sent before
+[25-Nov-2021 09:45:16 UTC] 2 headers were NOT sent before
+[25-Nov-2021 11:23:02 UTC] 2 headers were NOT sent before
+[25-Nov-2021 11:23:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fexpro/public_html/shop/wp-content/themes/porto-child/functions.php on line 16669
+[25-Nov-2021 11:23:33 UTC] 2 headers were NOT sent before
+[27-Nov-2021 04:54:36 UTC] 2 headers were NOT sent before
+[27-Nov-2021 08:44:37 UTC] 2 headers were NOT sent before
+[27-Nov-2021 08:50:18 UTC] 2 headers were NOT sent before
+[29-Nov-2021 05:28:24 UTC] 2 headers were NOT sent before
+[29-Nov-2021 07:06:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_posts() on null in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/categoryFilter.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/categoryFilter.php on line 34
+[29-Nov-2021 07:06:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_post() on null in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/categoryFilter.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/categoryFilter.php on line 34
+[30-Nov-2021 04:39:13 UTC] 2 headers were NOT sent before
+[30-Nov-2021 11:02:35 UTC] 2 headers were NOT sent before
+[30-Nov-2021 13:43:21 UTC] 2 headers were NOT sent before
+[30-Nov-2021 15:01:36 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:36 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:36 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:36 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:36 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:36 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:36 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:36 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:36 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:36 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:36 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:36 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:36 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:36 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:37 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:38 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:38 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:38 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:38 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:38 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:38 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:38 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:38 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:38 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:38 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:38 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:38 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:38 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:38 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:38 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:38 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:01:38 UTC] PHP Warning:  Illegal offset type in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 28
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 57
+[30-Nov-2021 15:18:06 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to SimpleXLSXGen::fromArray() must be of the type array, null given, called in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 14 and defined in /home/fexpro/public_html/shop/wp-content/themes/porto-child/XLSXGen/class_genxlsx.php:85
+Stack trace:
+#0 /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php(14): SimpleXLSXGen::fromArray(NULL)
+#1 {main}
+  thrown in /home/fexpro/public_html/shop/wp-content/themes/porto-child/XLSXGen/class_genxlsx.php on line 85
+[30-Nov-2021 15:18:43 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to SimpleXLSXGen::fromArray() must be of the type array, null given, called in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php on line 14 and defined in /home/fexpro/public_html/shop/wp-content/themes/porto-child/XLSXGen/class_genxlsx.php:85
+Stack trace:
+#0 /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/fallwinterproduct.php(14): SimpleXLSXGen::fromArray(NULL)
+#1 {main}
+  thrown in /home/fexpro/public_html/shop/wp-content/themes/porto-child/XLSXGen/class_genxlsx.php on line 85
+[02-Dec-2021 09:53:48 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 12
+[02-Dec-2021 10:59:46 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 20
+[02-Dec-2021 11:00:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 21
+[02-Dec-2021 11:33:54 UTC] PHP Parse error:  syntax error, unexpected '$wpdb' (T_VARIABLE) in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 28
+[02-Dec-2021 11:34:33 UTC] PHP Parse error:  syntax error, unexpected '$wpdb' (T_VARIABLE) in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 28
+[02-Dec-2021 11:35:20 UTC] PHP Parse error:  syntax error, unexpected '$wpdb' (T_VARIABLE) in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 28
+[02-Dec-2021 11:44:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on null in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 40
+[02-Dec-2021 11:45:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on null in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 40
+[02-Dec-2021 12:04:04 UTC] PHP Warning:  DOMElement::setAttribute() expects parameter 2 to be string, array given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 71
+[02-Dec-2021 12:04:04 UTC] PHP Warning:  DOMElement::setAttribute() expects parameter 2 to be string, array given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 71
+[02-Dec-2021 12:04:04 UTC] PHP Warning:  DOMElement::setAttribute() expects parameter 2 to be string, array given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 71
+[02-Dec-2021 12:04:04 UTC] PHP Warning:  DOMElement::setAttribute() expects parameter 2 to be string, array given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 71
+[02-Dec-2021 12:07:05 UTC] PHP Warning:  DOMElement::setAttribute() expects parameter 2 to be string, array given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 54
+[02-Dec-2021 12:07:05 UTC] PHP Warning:  DOMElement::setAttribute() expects parameter 2 to be string, array given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 54
+[02-Dec-2021 12:07:05 UTC] PHP Warning:  DOMElement::setAttribute() expects parameter 2 to be string, array given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 54
+[02-Dec-2021 12:07:05 UTC] PHP Warning:  DOMElement::setAttribute() expects parameter 2 to be string, array given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 54
+[02-Dec-2021 12:08:06 UTC] PHP Warning:  DOMElement::setAttribute() expects parameter 2 to be string, array given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 54
+[02-Dec-2021 12:08:06 UTC] PHP Warning:  DOMElement::setAttribute() expects parameter 2 to be string, array given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 54
+[02-Dec-2021 12:08:06 UTC] PHP Warning:  DOMElement::setAttribute() expects parameter 2 to be string, array given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 54
+[02-Dec-2021 12:08:06 UTC] PHP Warning:  DOMElement::setAttribute() expects parameter 2 to be string, array given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 54
+[02-Dec-2021 12:08:42 UTC] PHP Warning:  DOMElement::setAttribute() expects parameter 2 to be string, array given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 54
+[02-Dec-2021 12:08:42 UTC] PHP Warning:  DOMElement::setAttribute() expects parameter 2 to be string, array given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 54
+[02-Dec-2021 12:08:42 UTC] PHP Warning:  DOMElement::setAttribute() expects parameter 2 to be string, array given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 54
+[02-Dec-2021 12:08:42 UTC] PHP Warning:  DOMElement::setAttribute() expects parameter 2 to be string, array given in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 54
+[02-Dec-2021 12:26:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 37
+[02-Dec-2021 13:31:50 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/fexpro/public_html/shop/wp-content/themes/porto-child/ss22_pre_filter/generate_xml.php on line 74
+[03-Jan-2022 13:31:20 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/fexpro/public_html/shop/wp-includes/meta.php on line 1085
+[03-Jan-2022 13:31:20 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 24576 bytes) in /home/fexpro/public_html/shop/wp-content/plugins/wordpress-seo/vendor/composer/ClassLoader.php on line 571
+[03-Jan-2022 13:31:20 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 24576 bytes) in /home/fexpro/public_html/shop/wp-content/plugins/litespeed-cache/autoload.php on line 35
+[12-Jan-2022 16:17:19 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 675840 bytes) in /home/fexpro/public_html/shop/wp-content/plugins/litespeed-cache/src/object-cache.cls.php on line 433
+[07-Feb-2022 06:53:05 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/fexpro/public_html/shop/wp-includes/meta.php on line 1190
+[07-Feb-2022 06:53:05 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 65536 bytes) in /home/fexpro/public_html/shop/wp-includes/functions.php on line 4133
+[07-Feb-2022 06:53:05 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 65536 bytes) in Unknown on line 0
+[07-Feb-2022 06:59:33 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/fexpro/public_html/shop/wp-content/plugins/woocommerce/includes/wc-term-functions.php on line 536
+[07-Feb-2022 06:59:33 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 32768 bytes) in /home/fexpro/public_html/shop/wp-content/plugins/wordpress-seo/lib/model.php on line 1
+[07-Feb-2022 06:59:33 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 24576 bytes) in /home/fexpro/public_html/shop/wp-content/plugins/litespeed-cache/autoload.php on line 35

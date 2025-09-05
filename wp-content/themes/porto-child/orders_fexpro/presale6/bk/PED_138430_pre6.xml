@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="138430" Cliente="0000" Nombre="Pablo Irarrazaval" Fecha="11/08/2022" Tipo="1" Fecha_Entrega="11/08/2022" Direccion="AV. KENNEDY 9001, LAS CONDES, 7560356 PESO $" Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 7560356" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS CHILE - HOMBRE PUFFER JACKET INTERNET SS23" ResponsablePedido="" ResponsableImportacion="" Contacto="Pablo Irarrazaval" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAJK523108-BLK" Color="BLK" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="24"></Linea>
+    <Linea Producto="NBAJK523108-BLK1" Color="BLK1" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="24"></Linea>
+    <Linea Producto="NBAJK523108-BLU" Color="BLU" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="24"></Linea>
+    <Linea Producto="NBAJK523108-PUR" Color="PUR" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="24"></Linea>
+  </Encabezado>
+</Sagemobile>

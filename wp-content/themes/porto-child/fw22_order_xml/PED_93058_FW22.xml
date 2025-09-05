@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="93058" Cliente="0000" Nombre="Paula Soto" Fecha="23/12/2021" Tipo="1" Fecha_Entrega="23/12/2021" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS CHILE PIJAMAS MUJER MLB INTERNET FW22" ResponsablePedido="" ResponsableImportacion="" Contacto="Paula Soto" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS322240-YEL" Color="YEL" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="10"></Linea>
+    <Linea Producto="NBAPJ622261-GRY" Color="GRY" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="10"></Linea>
+    <Linea Producto="NBAPJ622261-GRY1" Color="GRY1" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10"></Linea>
+    <Linea Producto="NBAPJ622261-GRY2" Color="GRY2" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10"></Linea>
+    <Linea Producto="NBAPJ622261-GRY3" Color="GRY3" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="9"></Linea>
+    <Linea Producto="NBAPJ622264-GRY" Color="GRY" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="9"></Linea>
+    <Linea Producto="NBAPJ622264-PUR" Color="PUR" Cantidad="4" size_XS="16" size_S="32" size_M="32" size_L="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9"></Linea>
+    <Linea Producto="NBAPJ622264-PNK" Color="PNK" Cantidad="4" size_XS="16" size_S="32" size_M="32" size_L="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9"></Linea>
+    <Linea Producto="NBAPJ622264-GRY1" Color="GRY1" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10"></Linea>
+    <Linea Producto="NBAPJ622267-RED" Color="RED" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10"></Linea>
+    <Linea Producto="NBAPJ622267-PUR" Color="PUR" Cantidad="4" size_XS="16" size_S="32" size_M="32" size_L="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="10"></Linea>
+    <Linea Producto="NBAPJ622267-RED1" Color="RED1" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="10"></Linea>
+    <Linea Producto="NBAPJ622271-PNK" Color="PNK" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10"></Linea>
+    <Linea Producto="NBAPJ622271-LHB" Color="LHB" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="10"></Linea>
+    <Linea Producto="NBAPJ622271-PUR" Color="PUR" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10"></Linea>
+  </Encabezado>
+</Sagemobile>

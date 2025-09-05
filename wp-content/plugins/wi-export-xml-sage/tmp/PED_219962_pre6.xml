@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="219962" Cliente="0418" Nombre="Ignacia Caulier" Fecha="23/08/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="KENNEDY 5413 PISO 6, LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 7550000" AgenteEmbarcador="" Observaciones="RIPLEY CHILE - KIDS MLB_SOCCER SS25 Q2&#13;&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Ignacia Caulier" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBHD32001-NVY" Color="NVY" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="11"></Linea>
+    <Linea Producto="BCJS32203-BLU" Color="BLU" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="7.5"></Linea>
+    <Linea Producto="BCNPT300005-NV1" Color="NV1" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="9"></Linea>
+    <Linea Producto="RMDPT300005-BK2" Color="BK2" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="9"></Linea>
+    <Linea Producto="BCHD323103-GRY" Color="GRY" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="12"></Linea>
+    <Linea Producto="RMHD323104-NVY" Color="NVY" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="12"></Linea>
+    <Linea Producto="BCNST325101-NV1" Color="NV1" Cantidad="12" size_4="48" size_6="96" size_8="96" size_10="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="11"></Linea>
+    <Linea Producto="RMDST325101-WH1" Color="WH1" Cantidad="10" size_4="40" size_6="80" size_8="80" size_10="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="11"></Linea>
+    <Linea Producto="BCNJK325104-NV1" Color="NV1" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="15.5"></Linea>
+    <Linea Producto="BCHD323103-NVY" Color="NVY" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="12"></Linea>
+  </Encabezado>
+</Sagemobile>

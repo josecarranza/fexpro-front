@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="176982" Cliente="0036" Nombre="Nathalie Gutierrez" Fecha="09/06/2023" Tipo="1" Direccion="Paseo General Escalon " Direccion2="El Salvador San Salvador San Salvador 0000000" AgenteEmbarcador="" Observaciones="SS24-SOCCER-Nathalie Gutierrez" ResponsablePedido="" ResponsableImportacion="" Contacto="Nathalie Gutierrez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCTS523109-NVY" Color="NVY" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="6.5"></Linea>
+    <Linea Producto="RMTS523111-WHT" Color="WHT" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="6.5"></Linea>
+    <Linea Producto="RMJS523109-WHT" Color="WHT" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="7.5"></Linea>
+    <Linea Producto="BCJS523108-NVY" Color="NVY" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="7.5"></Linea>
+    <Linea Producto="RMDJS524102-NV2" Color="NV2" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="9"></Linea>
+    <Linea Producto="RMDJS524102-WH2" Color="WH2" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="9"></Linea>
+    <Linea Producto="BCNJS524102-NV3" Color="NV3" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="9"></Linea>
+    <Linea Producto="BCNJS524102-BU1" Color="BU1" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="9"></Linea>
+    <Linea Producto="RMDTS524103-WH1" Color="WH1" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="7"></Linea>
+    <Linea Producto="RMDTS524103-NV2" Color="NV2" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7"></Linea>
+    <Linea Producto="BCNTS524103-NV3" Color="NV3" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="7"></Linea>
+    <Linea Producto="BCNTS524103-BU1" Color="BU1" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7"></Linea>
+    <Linea Producto="RMDJS524103-NV2" Color="NV2" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="8.5"></Linea>
+    <Linea Producto="BCNJS524103-NV3" Color="NV3" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="8.5"></Linea>
+    <Linea Producto="RMDLS524102-NV2" Color="NV2" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="12"></Linea>
+    <Linea Producto="BCNLS524102-NV3" Color="NV3" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="12"></Linea>
+    <Linea Producto="RMDPL524102-NV2" Color="NV2" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="9.5"></Linea>
+    <Linea Producto="BCNPL524102-NV3" Color="NV3" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="9.5"></Linea>
+    <Linea Producto="BCNHD524102-NV3" Color="NV3" Cantidad="7" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="16"></Linea>
+    <Linea Producto="RMDPT524102-NV2" Color="NV2" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="14.5"></Linea>
+    <Linea Producto="BCNPT524102-NV3" Color="NV3" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="14.5"></Linea>
+    <Linea Producto="RMDSH524102-NV2" Color="NV2" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="9.5"></Linea>
+    <Linea Producto="BCNSH524102-NV3" Color="NV3" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="9.5"></Linea>
+    <Linea Producto="BCNCA524107-NV2" Color="NV2" Cantidad="9" size_OS="216" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="9"></Linea>
+    <Linea Producto="RMDCA524107-BL1" Color="BL1" Cantidad="9" size_OS="216" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="9"></Linea>
+    <Linea Producto="BCNCA524108-NV1" Color="NV1" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="9"></Linea>
+    <Linea Producto="RMDCA524108-NV2" Color="NV2" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="9"></Linea>
+    <Linea Producto="RMDTS524102-NV1" Color="NV1" Cantidad="7" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="RMDJS524101-OW1" Color="OW1" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="9"></Linea>
+    <Linea Producto="BCNJS524101-NV1" Color="NV1" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="9"></Linea>
+    <Linea Producto="RMDCA524102-NV1" Color="NV1" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9"></Linea>
+    <Linea Producto="BCNCA524102-NV2" Color="NV2" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9"></Linea>
+  </Encabezado>
+</Sagemobile>

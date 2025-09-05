@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sage>
+  <Imagenes Producto="MLBPT324102-NV1" MainImage="MLBPT324102-NV1-1024x1024.png">
+    <Secondary Archivo="MLBPT324102-NV1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="MLBHD324102-BK1" MainImage="MLBHD324102-BK1-1024x1024.png">
+    <Secondary Archivo="MLBHD324102-BK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="MLBHD324102-NV1" MainImage="MLBHD324102-NV1-1024x1024.png">
+    <Secondary Archivo="MLBHD324102-NV1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="MLBSH324102-NV1" MainImage="MLBSH324102-NV1-1024x1024.png">
+    <Secondary Archivo="MLBSH324102-NV1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="MLBLS324102-BL1" MainImage="MLBLS324102-BL1-1024x1024.png">
+    <Secondary Archivo="MLBLS324102-BL1-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="MLBTS324102-WH2" MainImage="MLBTS324102-WH2-1024x1024.png">
+    <Secondary Archivo="MLBTS324102-WH2-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="MLBTS324102-WH1" MainImage="MLBTS324102-WH1-1024x1024.png">
+    <Secondary Archivo="MLBTS324102-WH-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="MLBTS324102-NV1" MainImage="MLBTS324102-NV1-1024x1024.png">
+    <Secondary Archivo="MLBTS324102-NV1-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS624111-PK1" MainImage="NBATS624111-PK1-1024x1024.png"/>
+  <Imagenes Producto="NBATS624111-LI1" MainImage="NBATS624111-LI1-1024x1024.png"/>
+  <Imagenes Producto="NBACT624115-PK1" MainImage="NBACT624115-PK1-1024x1024.png">
+    <Secondary Archivo="NBACT624115-PK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBACT624115-BK1" MainImage="NBACT624115-BK1-1024x1024.png">
+    <Secondary Archivo="NBACT624115-BK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAJK524106-BK1" MainImage="NBAJK524106-BK1-1024x1024.png">
+    <Secondary Archivo="NBAJK524106-BK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAJK524106-BK2" MainImage="NBAJK524106-BK2-1024x1024.png">
+    <Secondary Archivo="NBAJK524106-BK2-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAJK524105-BK2" MainImage="NBAJK524105-BK2-1024x1024.png">
+    <Secondary Archivo="NBAJK524105-BK2-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAJK524105-BK1" MainImage="NBAJK524105-BK1-1024x1024.png">
+    <Secondary Archivo="NBAJK524105-BK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBPTT524102-BL1" MainImage="NBPTT524202-BL1-1024x1024.png">
+    <Secondary Archivo="NBPTT524202-BL1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASW524104-GY1" MainImage="NBASW524104-GY1.png">
+    <Secondary Archivo="NBASW524104-GY1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASW524104-BK1" MainImage="NBASW524104-BK1-1024x1024.png">
+    <Secondary Archivo="NBASW524104-BK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAPT524108-BK2" MainImage="NBAPT524108-BK2-1024x1024.png">
+    <Secondary Archivo="NBAPT524108-BK2-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAPT524108-BK1" MainImage="NBAPT524108-BK1-1024x1024.png">
+    <Secondary Archivo="NBAPT524108-BK1-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524116-BK2" MainImage="NBAHD524116-BK2-1024x1024.png">
+    <Secondary Archivo="NBAHD524116-BK2-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524116-BK1" MainImage="NBAHD524116-BK1-1024x1024.png">
+    <Secondary Archivo="NBAHD524116-BK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524116-RD1" MainImage="NBAHD524116-RD1-1024x1024.png">
+    <Secondary Archivo="NBAHD524116-RD1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASH524108-PR1" MainImage="NBASH524108-PR1-1024x1024.png">
+    <Secondary Archivo="NBASH524108-PR1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASH524108-BK1" MainImage="NBASH524108-BK1-1024x1024.png">
+    <Secondary Archivo="NBASH524108-BK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASH524108-RD1" MainImage="NBASH524108-RD1-1024x1024.png">
+    <Secondary Archivo="NBASH524108-RD1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATT524103-BK1" MainImage="NBATT524103-BK1-1024x1024.png">
+    <Secondary Archivo="NBATT524103-BK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATT524103-BL1" MainImage="NBATT524103-BL1-1024x1024.png">
+    <Secondary Archivo="NBATT524103-BL1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATT524103-PR1" MainImage="NBATT524103-PR1-1024x1024.png">
+    <Secondary Archivo="NBATT524103-PR1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATT524103-RD1" MainImage="NBATT524103-RD1-1024x1024.png">
+    <Secondary Archivo="NBATT524103-RD1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS524122-GY1" MainImage="NBATS524122-GY1-1024x1024.png">
+    <Secondary Archivo="NBATS524122-GY1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS524122-WH1" MainImage="NBATS524122-WH1-1024x1024.png">
+    <Secondary Archivo="NBATS524122-WH1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS524122-BK1" MainImage="NBATS524122-BK1-1024x1024.png">
+    <Secondary Archivo="NBATS524122-BK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBPTS524121-BU1" MainImage="NBPTS524121-BU1-1024x1024.png">
+    <Secondary Archivo="NBPTS524121-BU1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBPTS524121-BL1" MainImage="NBPTS524121-BL1-1024x1024.png">
+    <Secondary Archivo="NBPTS524121-BL1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBPTS524121-PR1" MainImage="NBPTS524121-PR1-1024x1024.png">
+    <Secondary Archivo=""></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBPTS524121-RD1" MainImage="NBPTS524121-RD1-1024x1024.png">
+    <Secondary Archivo="NBPTS524121-RD1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBPTT524102-BK2" MainImage="NBPTT524102-BK2-1024x1024.png">
+    <Secondary Archivo="NBPTT524102-BK2-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBPTT524102-RD1" MainImage="NBPTT524102-RD1-1024x1024.png">
+    <Secondary Archivo="NBPTT524102-RD1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBPTT524102-PR1" MainImage="NBPTT524102-PR1-1024x1024.png">
+    <Secondary Archivo=""></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASH524106-BK2" MainImage="NBASH524106-BK2-1024x1024.png">
+    <Secondary Archivo="NBASH524106-BK2-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASH524106-PR1" MainImage="NBASH524106-PR1-1024x1024.png">
+    <Secondary Archivo="NBASH524106-PR1-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASH524106-RD1" MainImage="NBASH524106-RD1-1024x1024.png">
+    <Secondary Archivo="NBASH524106-RD1-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAWR524103-BK1" MainImage="NBAWR524103-BK1-1024x1024.png">
+    <Secondary Archivo="NBAWR524103-BK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAPT524105-BU1" MainImage="NBAPT524105-BU1-1024x1024.png">
+    <Secondary Archivo="NBAPT524105-BU1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAPT524105-BK1" MainImage="NBAPT524105-BK1-1024x1024.png">
+    <Secondary Archivo="NBAPT524105-BK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASW524103-BK2" MainImage="NBASW524103-BK2-1024x1024.png">
+    <Secondary Archivo="NBASW524103-BK2-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASW524103-RD1" MainImage="NBASW524103-RD1-1024x1024.png">
+    <Secondary Archivo="NBASW524103-RD1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASW524103-GY1" MainImage="NBASW524103-GY1-1024x1024.png">
+    <Secondary Archivo="NBASW524103-GY1-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524113-BU1" MainImage="NBAHD524113-BU1-1024x1024.png">
+    <Secondary Archivo="NBAHD524113-BU1-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524113-BK2" MainImage="NBAHD524113-BK2-1024x1024.png">
+    <Secondary Archivo="NBAHD524113-BK2-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS524118-BK2" MainImage="NBATS524118-BK2-1024x1024.png">
+    <Secondary Archivo="NBATS524118-BK2-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524113-BK1" MainImage="NBAHD524113-BK1-1024x1024.png">
+    <Secondary Archivo="NBAHD524113-BK1-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS524118-WH1" MainImage="NBATS524118-WH1-1024x1024.png">
+    <Secondary Archivo="NBATS524118-WH1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS524118-RD1" MainImage="NBATS524118-RD1-1024x1024.png">
+    <Secondary Archivo="NBATS524118-RD1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS524117-BU1" MainImage="NBATS524117-BU1-1024x1024.png">
+    <Secondary Archivo="NBATS524117-BU1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS524117-PR1" MainImage="NBATS524117-PR1-1024x1024.png">
+    <Secondary Archivo="NBATS524117-PR1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS524117-WH1" MainImage="NBATS524117-WH1-1024x1024.png">
+    <Secondary Archivo="NBATS524117-WH1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS524117-BK2" MainImage="NBATS524117-BK2-1024x1024.png">
+    <Secondary Archivo="NBATS524117-BK2-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS524117-BK1" MainImage="NBATS524117-BK1-1024x1024.png">
+    <Secondary Archivo="NBATS524117-BK1-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524112-BK5" MainImage="NBAHD524112-BK5-1024x1024.png">
+    <Secondary Archivo="NBAHD524112-BK5-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524112-NV1" MainImage="NBAHD524112-NV1-1024x1024.png">
+    <Secondary Archivo="NBAHD524112-NV1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524112-GY2" MainImage="NBAHD524112-GY2.png">
+    <Secondary Archivo="NBAHD524112-GY2-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524112-BK2" MainImage="NBAHD524112-BK2-1024x1024.png">
+    <Secondary Archivo="NBAHD524112-BK2-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524112-RD1" MainImage="NBAHD524112-RD1-1024x1024.png">
+    <Secondary Archivo="NBAHD524112-RD1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524112-GY1" MainImage="NBAHD524112-GY1-1024x1024.png">
+    <Secondary Archivo="NBAHD524112-GY1-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524112-BK1" MainImage="NBAHD524112-BK1-1024x1024.png">
+    <Secondary Archivo="NBAHD524112-BK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS524116-BL1" MainImage="NBATS524116-BL1-1024x1024.png">
+    <Secondary Archivo="NBATS524116-BL1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS524116-WH1" MainImage="NBATS524116-WH1-1024x1024.png">
+    <Secondary Archivo="NBATS524116-WH1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS524116-BK1" MainImage="NBATS524116-BK1-1024x1024.png">
+    <Secondary Archivo="NBATS524116-BK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524108-BU1" MainImage="NBAHD524108-BU1-1024x1024.png">
+    <Secondary Archivo="NBAHD524108-BU1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524108-PR1" MainImage="NBAHD524108-PR1-1024x1024.png">
+    <Secondary Archivo="NBAHD524108-PR1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524108-BK2" MainImage="NBAHD524108-BK2-1024x1024.png">
+    <Secondary Archivo="NBAHD524108-BK2-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524108-RD1" MainImage="NBAHD524108-RD1-1024x1024.png">
+    <Secondary Archivo="NBAHD524108-RD1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524108-BK1" MainImage="NBAHD524108-BK1-1024x1024.png">
+    <Secondary Archivo="NBAHD524108-BK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524107-RD1" MainImage="NBAHD524107-RD1-1024x1024.png">
+    <Secondary Archivo="NBAHD524107-RD1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524107-BK1" MainImage="NBAHD524107-BK1-1024x1024.png">
+    <Secondary Archivo="NBAHD524107-BK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASH524103-BK2" MainImage="NBASH524103-BK2-1024x1024.png">
+    <Secondary Archivo=""></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASH524103-BK1" MainImage="NBASH524103-BK1-1024x1024.png">
+    <Secondary Archivo=""></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAPT524102-BK1" MainImage="NBAPT524102-BK1-1024x1024.png">
+    <Secondary Archivo=""></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAPT524102-GY1" MainImage="NBAPT524102-GY1-1024x1024.png">
+    <Secondary Archivo=""></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAJK524103-BK3" MainImage="NBAJK524103-BK3-1024x1024.png">
+    <Secondary Archivo="NBAJK524103-BK3-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAJK524103-BK1" MainImage="NBAJK524103-BK1-1024x1024.png">
+    <Secondary Archivo="NBAJK524103-BK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAJK524107-BK3" MainImage="NBAJK524107-BK3.png">
+    <Secondary Archivo="NBAJK524107-BK3-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAJK524107-BK1" MainImage="NBAJK524107-BK1.png">
+    <Secondary Archivo="NBAJK524107-BK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524105-BK2" MainImage="NBAHD524105-BK2-1024x1024.png">
+    <Secondary Archivo="NBAHD524105-BK2-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524105-RD1" MainImage="NBAHD524105-RD1-1024x1024.png">
+    <Secondary Archivo="NBAHD524105-RD1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAJS524102-WH1" MainImage="NBAJS524102-WH1-1024x1024.png">
+    <Secondary Archivo="NBAJS524102-WH1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD524105-GY1" MainImage="NBAHD524105-GY1-1024x1024.png">
+    <Secondary Archivo="NBAHD524105-GY1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAJS524102-BK2" MainImage="NBAJS524102-BK2-1024x1024.png">
+    <Secondary Archivo="NBAJS524102-BK2-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAJS524102-BK3" MainImage="NBAJS524102-BK3-1024x1024.png">
+    <Secondary Archivo="NBAJS524102-BK3-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAJS524102-BK1" MainImage="NBAJS524102-BK1-1024x1024.png">
+    <Secondary Archivo="NBAJS524102-BK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS524107-WH3" MainImage="NBATS524107-WH3-1024x1024.png">
+    <Secondary Archivo=""></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS524107-WH1" MainImage="NBATS524107-WH1-1024x1024.png">
+    <Secondary Archivo=""></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS524106-BK4" MainImage="NBATS524106-BK4-1024x1024.png">
+    <Secondary Archivo=""></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS524106-WH2" MainImage="NBATS524106-WH2-1024x1024.png">
+    <Secondary Archivo=""></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS524106-BK3" MainImage="NBATS524106-BK3-1024x1024.png">
+    <Secondary Archivo=""></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS524106-RD1" MainImage="NBATS524106-RD1-1024x1024.png">
+    <Secondary Archivo=""></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS524106-BK2" MainImage="NBATS524106-BK2-1024x1024.png"><Secondary Archivo=""></Secondary></Imagenes>
+</Sage>

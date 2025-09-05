@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="239944" Cliente="LIVER" Nombre="Eduardo Fernandez" Fecha="10/12/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Av Centro Industrial 9 Buenavista" Direccion2="Mexico Estado de México Estado de México 54900" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Eduardo Fernandez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="03586DL9BR48" Color="R48" Cantidad="21" size_S="42" size_M="84" size_L="84" size_XL="42" Unit_Box_Qty="12" Total_Box_Qty="252" Precio="615.90517241667"></Linea>
+    <Linea Producto="035865N7GR48" Color="R48" Cantidad="11" size_S="22" size_M="44" size_L="44" size_XL="22" Unit_Box_Qty="12" Total_Box_Qty="132" Precio="615.90517241667"></Linea>
+    <Linea Producto="035841S7RDR48" Color="R48" Cantidad="21" size_S="42" size_M="84" size_L="84" size_XL="42" Unit_Box_Qty="12" Total_Box_Qty="252" Precio="615.90517241667"></Linea>
+    <Linea Producto="035800A7LR48" Color="R48" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="615.90517241667"></Linea>
+    <Linea Producto="0343166N7LR48" Color="R48" Cantidad="11" size_S="22" size_M="44" size_L="44" size_XL="22" Unit_Box_Qty="12" Total_Box_Qty="132" Precio="852.97413791667"></Linea>
+    <Linea Producto="0343166N9BR48" Color="R48" Cantidad="11" size_S="22" size_M="44" size_L="44" size_XL="22" Unit_Box_Qty="12" Total_Box_Qty="132" Precio="852.97413791667"></Linea>
+    <Linea Producto="0343465M7TR48" Color="R48" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="852.97413791667"></Linea>
+    <Linea Producto="034309IV7RDR48" Color="R48" Cantidad="11" size_S="22" size_M="44" size_L="44" size_XL="22" Unit_Box_Qty="12" Total_Box_Qty="132" Precio="852.97413791667"></Linea>
+  </Encabezado>
+</Sagemobile>

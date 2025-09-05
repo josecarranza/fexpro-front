@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="220724" Cliente="LIVER" Nombre="Axel Gonzalez" Fecha="18/09/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AVENIDA VALLE DE LAS ALAMEDAS #7 FRACCIONAMIENTO INDUSTRIAL LECH " Direccion2="Mexico Estado de México MEXICO ESTADO DE MÉXICO TULTITLAN 54940 54940" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Axel Gonzalez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBWR525230NV2" Color="NV2" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="775.4310345"></Linea>
+    <Linea Producto="MLBWR525230NV1" Color="NV1" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="775.4310345"></Linea>
+    <Linea Producto="NBAWR525230BK1" Color="BK1" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="775.4310345"></Linea>
+    <Linea Producto="NBAHD525230BK1" Color="BK1" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="495.25862070833"></Linea>
+    <Linea Producto="NBASH525230BK1" Color="BK1" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="344.39655170833"></Linea>
+    <Linea Producto="NBASH525230BK2" Color="BK2" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="344.39655170833"></Linea>
+  </Encabezado>
+</Sagemobile>

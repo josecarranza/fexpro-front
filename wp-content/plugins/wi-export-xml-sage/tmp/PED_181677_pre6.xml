@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="181677" Cliente="0001" Nombre="Abraham Sasporte" Fecha="15/09/2023" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Panama " Direccion2="Panama Panamá Panama 00000" AgenteEmbarcador="" Observaciones="STEVENS KIDS - SOCCER Q2 - SS24" ResponsablePedido="" ResponsableImportacion="" Contacto="Abraham Sasporte" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCNTS724101-BL1" Color="BL1" Cantidad="5" size_10="20" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6"></Linea>
+    <Linea Producto="RMDTS724101-OW2" Color="OW2" Cantidad="5" size_10="20" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6"></Linea>
+    <Linea Producto="BCNTS724102-OW1" Color="OW1" Cantidad="5" size_10="20" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6"></Linea>
+    <Linea Producto="RMDTS724102-NV1" Color="NV1" Cantidad="5" size_10="20" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6"></Linea>
+    <Linea Producto="BCNHD724101-BK2" Color="BK2" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="12"></Linea>
+    <Linea Producto="RMDHD724101-OW1" Color="OW1" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="12"></Linea>
+    <Linea Producto="BCNSH724101-BK2" Color="BK2" Cantidad="5" size_10="20" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7.5"></Linea>
+    <Linea Producto="RMDSH724101-NV1" Color="NV1" Cantidad="5" size_10="20" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7.5"></Linea>
+    <Linea Producto="BCNCA324105-BK1" Color="BK1" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7"></Linea>
+    <Linea Producto="RMDCA324105-WH2" Color="WH2" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7"></Linea>
+    <Linea Producto="BCNTS324105-BL1" Color="BL1" Cantidad="5" size_4="20" size_6="40" size_8="40" size_10="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6"></Linea>
+    <Linea Producto="RMDTS324105-NV1" Color="NV1" Cantidad="5" size_4="20" size_6="40" size_8="40" size_10="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6"></Linea>
+    <Linea Producto="BCNTS324106-BU1" Color="BU1" Cantidad="4" size_4="16" size_6="32" size_8="32" size_10="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6.5"></Linea>
+    <Linea Producto="BCNTS324106-NV1" Color="NV1" Cantidad="4" size_4="16" size_6="32" size_8="32" size_10="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6.5"></Linea>
+    <Linea Producto="RMDTS324106-OW1" Color="OW1" Cantidad="4" size_4="16" size_6="32" size_8="32" size_10="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6.5"></Linea>
+    <Linea Producto="BCNSH324103-BL1" Color="BL1" Cantidad="5" size_4="20" size_6="40" size_8="40" size_10="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="RMDSH324103-NV1" Color="NV1" Cantidad="5" size_4="20" size_6="40" size_8="40" size_10="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="BCNPT324103-NV1" Color="NV1" Cantidad="3" size_4="12" size_6="24" size_8="24" size_10="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="RMDPT324103-NV2" Color="NV2" Cantidad="3" size_4="12" size_6="24" size_8="24" size_10="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="BCNHD324103-NV1" Color="NV1" Cantidad="3" size_4="12" size_6="24" size_8="24" size_10="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="12"></Linea>
+    <Linea Producto="RMDHD324103-BL1" Color="BL1" Cantidad="3" size_4="12" size_6="24" size_8="24" size_10="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="12"></Linea>
+    <Linea Producto="RMHD323104-NVY" Color="NVY" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="12"></Linea>
+    <Linea Producto="BCJS323108-NVY" Color="NVY" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6.5"></Linea>
+  </Encabezado>
+</Sagemobile>

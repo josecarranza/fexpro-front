@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="239327" Cliente="0418" Nombre="Ignacia Caulier" Fecha="27/11/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="KENNEDY 5413 PISO 6, LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 7550000" AgenteEmbarcador="" Observaciones="RIPLEY CHILE - KIDS SOCCER FW25 Q3&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Ignacia Caulier" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="AFAST325205-LB1" Color="LB1" Cantidad="13" size_4="26" size_6="52" size_8="52" size_10="52" size_12="52" size_14="52" size_16="26" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="9.5"></Linea>
+    <Linea Producto="AFAJS325208-LB1" Color="LB1" Cantidad="14" size_4="28" size_6="56" size_8="56" size_10="56" size_12="56" size_14="56" size_16="28" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="8"></Linea>
+    <Linea Producto="MLBTS325209-WH1" Color="WH1" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7"></Linea>
+    <Linea Producto="BCJS32203-BLU" Color="BLU" Cantidad="14" size_4="28" size_6="56" size_8="56" size_10="56" size_12="56" size_14="56" size_16="28" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="7.5"></Linea>
+    <Linea Producto="RMDJS300010-WH1" Color="WH1" Cantidad="14" size_4="28" size_6="56" size_8="56" size_10="56" size_12="56" size_14="56" size_16="28" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="6.5"></Linea>
+    <Linea Producto="BCNJS325201-NV1" Color="NV1" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="RMDJS325201-WH1" Color="WH1" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="PSGJS325201-NV3" Color="NV3" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8.5"></Linea>
+    <Linea Producto="BCNSH325201-NV1" Color="NV1" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="8"></Linea>
+    <Linea Producto="RMDSH325201-NV2" Color="NV2" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="8"></Linea>
+    <Linea Producto="BCNST325201-NV1" Color="NV1" Cantidad="14" size_4="28" size_6="56" size_8="56" size_10="56" size_12="56" size_14="56" size_16="28" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="12.5"></Linea>
+    <Linea Producto="RMDST325201-WH1" Color="WH1" Cantidad="14" size_4="28" size_6="56" size_8="56" size_10="56" size_12="56" size_14="56" size_16="28" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="12.5"></Linea>
+    <Linea Producto="MSPJS325213-BK1" Color="BK1" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="7.5"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="239978" Cliente="0000" Nombre="Massyel Paz" Fecha="11/12/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Bosque de Radiatas 42, int 301 " Direccion2="Mexico Ciudad de México Ciudad de México 05120" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Massyel Paz" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="CAATS524114NV1" Color="NV1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="CAATS524114YL1" Color="YL1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6"></Linea>
+    <Linea Producto="CAATS524115OW1" Color="OW1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6"></Linea>
+    <Linea Producto="CAATS524115NV1" Color="NV1" Cantidad="7" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6"></Linea>
+    <Linea Producto="CAAJS524104YL1" Color="YL1" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="9"></Linea>
+    <Linea Producto="CAAJS525201NV1" Color="NV1" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="9.5"></Linea>
+    <Linea Producto="PUMJS525201NV2" Color="NV2" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9.5"></Linea>
+    <Linea Producto="PUMJS525201WH1" Color="WH1" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="9.5"></Linea>
+    <Linea Producto="PUMLS525202NV2" Color="NV2" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="12"></Linea>
+    <Linea Producto="CAATS525204BG1" Color="BG1" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="7"></Linea>
+    <Linea Producto="CAAJS525204BG1" Color="BG1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="8"></Linea>
+    <Linea Producto="CAAHD525203BK1" Color="BK1" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="16.5"></Linea>
+    <Linea Producto="PUMST325202NV1" Color="NV1" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="7.16"></Linea>
+  </Encabezado>
+</Sagemobile>

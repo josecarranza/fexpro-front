@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="91712" Cliente="LAMARINA" Nombre="Veronica Cervantes" Fecha="14/12/2021" Tipo="1" Fecha_Entrega="14/12/2021" Direccion="AVENIDA JOSE MERCED CABRERA COLONIA VILLA DE ALVAREZ COLIMA " Direccion2="Mexico Colima COLIMA 28989" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Veronica Cervantes" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBBX522223-NVY" Color="NVY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="284.00862066667"></Linea>
+    <Linea Producto="MLBBX522223-NVY1" Color="NVY1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="284.00862066667"></Linea>
+    <Linea Producto="" Color="" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="284.00862066667"></Linea>
+    <Linea Producto="NBASO522201-BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="127.54310345833"></Linea>
+    <Linea Producto="NBASO522201-WHT" Color="WHT" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="127.54310345833"></Linea>
+    <Linea Producto="NBASO522201-WHT1" Color="WHT1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="127.54310345833"></Linea>
+    <Linea Producto="NBASO522202-RED" Color="RED" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="127.54310345833"></Linea>
+    <Linea Producto="NBASO522202-WHT" Color="WHT" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="127.54310345833"></Linea>
+    <Linea Producto="PSGPJ522201-GRY" Color="GRY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="378.836206875"></Linea>
+    <Linea Producto="PSGPJ522202-GRY" Color="GRY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="331.42241379167"></Linea>
+    <Linea Producto="PSGBX522204-BLU" Color="BLU" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="265.04310345833"></Linea>
+    <Linea Producto="PSGBX522203-BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="236.59482758333"></Linea>
+    <Linea Producto="PSGSO522202-RED" Color="RED" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="127.54310345833"></Linea>
+    <Linea Producto="PSGSO522203-WHT" Color="WHT" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="118.06034483333"></Linea>
+    <Linea Producto="PSGSO522204-BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="118.06034483333"></Linea>
+  </Encabezado>
+</Sagemobile>

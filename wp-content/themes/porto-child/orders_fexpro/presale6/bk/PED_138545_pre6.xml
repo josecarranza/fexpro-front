@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="138545" Cliente="0220" Nombre="Rafi Ilarslan" Fecha="17/08/2022" Tipo="1" Fecha_Entrega="17/08/2022" Direccion="Panama " Direccion2="Panama Panamá Panama PANAMA" Vendedor="01" AgenteEmbarcador="" Observaciones="SS23 KIDS NFL TAMEK" ResponsablePedido="" ResponsableImportacion="" Contacto="Rafi Ilarslan" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NFLJS321000-NVY" Color="NVY" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="11.5"></Linea>
+    <Linea Producto="NFLJS321000-AQU" Color="AQU" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="11.5"></Linea>
+    <Linea Producto="NFLJS321000-BLK2" Color="BLK2" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="11.5"></Linea>
+    <Linea Producto="NFLJS321000-TEA" Color="TEA" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="11.5"></Linea>
+    <Linea Producto="NFLJS321000-RED" Color="RED" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="11.5"></Linea>
+    <Linea Producto="NFLJS321000-RED2" Color="RED2" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="11.5"></Linea>
+    <Linea Producto="NFLJS321000-RED3" Color="RED3" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="11.5"></Linea>
+    <Linea Producto="NFLJS321000-BLK6" Color="BLK6" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="11.5"></Linea>
+    <Linea Producto="NFLJS321000-BLU2" Color="BLU2" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="11.5"></Linea>
+  </Encabezado>
+</Sagemobile>

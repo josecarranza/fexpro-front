@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="91599" Cliente="0516" Nombre="LORENA TABORGA" Fecha="10/12/2021" Tipo="1" Fecha_Entrega="10/12/2021" Direccion="LOS MILITARES 5890" Direccion2="Chile  SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="DAFITI MENS PIJAMAS NBA FW22&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="LORENA TABORGA" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBTT622211-BLU" Color="BLU" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9"></Linea>
+    <Linea Producto="NBAPJ52202-RED" Color="RED" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9"></Linea>
+    <Linea Producto="NBAPJ52202-GRY" Color="GRY" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9"></Linea>
+    <Linea Producto="NBAPJ52202-BLK" Color="BLK" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9"></Linea>
+  </Encabezado>
+</Sagemobile>

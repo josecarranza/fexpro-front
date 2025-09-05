@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="181448" Cliente="0INN" Nombre="ALFREDO PIFFERI" Fecha="28/08/2023" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Humberto Lobo 540-A, Col. Del Valle 540-A" Direccion2="Mexico Nuevo León San Pedro Garza García 66220" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="ALFREDO PIFFERI" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MIATS523206BK1" Color="BK1" Cantidad="7" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="215.08620691667"></Linea>
+    <Linea Producto="MIATS523206PK1" Color="PK1" Cantidad="7" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="215.08620691667"></Linea>
+  </Encabezado>
+</Sagemobile>

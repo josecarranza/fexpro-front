@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="214233" Cliente="0INN" Nombre="Angel Quezada" Fecha="27/05/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Humberto Lobo 540-A, Col. Del Valle 540-A" Direccion2="Mexico Nuevo León San Pedro Garza García 66220" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Angel Quezada" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PUMJS525101WH1" Color="WH1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="279.74137929167"></Linea>
+    <Linea Producto="PUMJS525101NV2" Color="NV2" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="279.74137929167"></Linea>
+    <Linea Producto="PUMST325101NV2" Color="NV2" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="301.29310345833"></Linea>
+    <Linea Producto="PUMLS525101NV2" Color="NV2" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="344.39655170833"></Linea>
+    <Linea Producto="PUMJS325101NV2" Color="NV2" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="258.18965516667"></Linea>
+    <Linea Producto="PUMSH325101NV2" Color="NV2" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="215.08620691667"></Linea>
+  </Encabezado>
+</Sagemobile>

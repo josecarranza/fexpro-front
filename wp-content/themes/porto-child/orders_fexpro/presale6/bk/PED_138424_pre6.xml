@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="138424" Cliente="0000" Nombre="Paula Villanueva" Fecha="10/08/2022" Tipo="1" Fecha_Entrega="10/08/2022" Direccion="Jose Larco 1301 " Direccion2="Peru Lima Lima 15034" Vendedor="01" AgenteEmbarcador="" Observaciones="MARATHON TAF - HOMBRE MLB Q1" ResponsablePedido="" ResponsableImportacion="" Contacto="Paula Villanueva" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBTS523108-NVY" Color="NVY" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS523108-WHT" Color="WHT" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS523117-WHT" Color="WHT" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="6.5"></Linea>
+    <Linea Producto="MLBJK523102-BLK2" Color="BLK2" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="16"></Linea>
+    <Linea Producto="MLBJK523102-NVY1" Color="NVY1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="16"></Linea>
+  </Encabezado>
+</Sagemobile>

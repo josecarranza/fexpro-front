@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="17165" Cliente="0463" Nombre="Maria Murillo" Fecha="12/03/2021" Tipo="1" Fecha_Entrega="12/03/2021" Direccion="Lago Zurich 245 edificio presa Falcon piso 9 piso 9" Direccion2="Mexico Ciudad de México cdmx 11529" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Maria Murillo" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASO2101RED" Color="RED" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="199"></Linea>
+    <Linea Producto="NBASO2101PUR" Color="PUR" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="199"></Linea>
+    <Linea Producto="NBASO2102GRN" Color="GRN" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="3"></Linea>
+    <Linea Producto="NBAPJ52101BLK" Color="BLK" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="619"></Linea>
+    <Linea Producto="NBAPJ52101PUR" Color="PUR" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="619"></Linea>
+    <Linea Producto="NBAPJ52101BLK4" Color="BLK4" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="619"></Linea>
+    <Linea Producto="MLBPJ52101WHT" Color="WHT" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="619"></Linea>
+    <Linea Producto="MLBPJ52101WHT2" Color="WHT2" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="619"></Linea>
+    <Linea Producto="MLBPJ52101WHT3" Color="WHT3" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="619"></Linea>
+    <Linea Producto="NBAPJ52102BLK" Color="BLK" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="599"></Linea>
+    <Linea Producto="NBAPJ52102PUR" Color="PUR" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="599"></Linea>
+    <Linea Producto="NBAPJ52102GRN" Color="GRN" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="599"></Linea>
+    <Linea Producto="MLBBX52106NVY3" Color="NVY3" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="399"></Linea>
+    <Linea Producto="MLBBX52104NVY" Color="NVY" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="399"></Linea>
+    <Linea Producto="MLBBX52104BLU" Color="BLU" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="399"></Linea>
+    <Linea Producto="NBABX52101BLK" Color="BLK" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="399"></Linea>
+    <Linea Producto="NBABX52101PUR" Color="PUR" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="399"></Linea>
+    <Linea Producto="NBABX52102GRN" Color="GRN" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="399"></Linea>
+    <Linea Producto="MLBBX52105WHT" Color="WHT" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="399"></Linea>
+    <Linea Producto="MLBBX52105WHT2" Color="WHT2" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="399"></Linea>
+    <Linea Producto="NBAPJ52102BLK4" Color="BLK4" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="599"></Linea>
+  </Encabezado>
+</Sagemobile>

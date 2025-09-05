@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="198966" Cliente="0451" Nombre="ALFONSO NAVARRO" Fecha="04/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="MANUEL RODRIGUEZ NORTE 730, SANTIAGO CENTRO " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="ALFONSO NAVARRO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBSO500006-GY1" Color="GY1" Cantidad="59" size_OS="1416" Unit_Box_Qty="24" Total_Box_Qty="1416" Precio="4.3"></Linea>
+    <Linea Producto="MLBSO500006-WH1" Color="WH1" Cantidad="88" size_OS="2112" Unit_Box_Qty="24" Total_Box_Qty="2112" Precio="4.3"></Linea>
+    <Linea Producto="NBASO500001-WHT1" Color="WHT1" Cantidad="74" size_OS="1776" Unit_Box_Qty="24" Total_Box_Qty="1776" Precio="5"></Linea>
+    <Linea Producto="NBASO500004-WHT1" Color="WHT1" Cantidad="66" size_OS="1584" Unit_Box_Qty="24" Total_Box_Qty="1584" Precio="5"></Linea>
+    <Linea Producto="NBASO500004-WHT2" Color="WHT2" Cantidad="88" size_OS="2112" Unit_Box_Qty="24" Total_Box_Qty="2112" Precio="5"></Linea>
+    <Linea Producto="NBASO500006-WHT1" Color="WHT1" Cantidad="59" size_OS="1416" Unit_Box_Qty="24" Total_Box_Qty="1416" Precio="4.3"></Linea>
+    <Linea Producto="NBASO500006-WHT2" Color="WHT2" Cantidad="81" size_OS="1944" Unit_Box_Qty="24" Total_Box_Qty="1944" Precio="4.3"></Linea>
+    <Linea Producto="MLBSO500008-BK1" Color="BK1" Cantidad="59" size_OS="1416" Unit_Box_Qty="24" Total_Box_Qty="1416" Precio="5"></Linea>
+  </Encabezado>
+</Sagemobile>

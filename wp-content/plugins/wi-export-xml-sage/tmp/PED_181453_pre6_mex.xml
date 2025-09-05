@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="181453" Cliente="0000" Nombre="OMAR CELIS" Fecha="28/08/2023" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="RADIATAS 42 BOSQUES DE LAS LOMAS " Direccion2="Mexico Ciudad de México CUAJIMALPA DE MORELOS 05120" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="OMAR CELIS" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAHD524103BK1" Color="BK1" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="741.47"></Linea>
+    <Linea Producto="NBAJS524101BK4" Color="BK4" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="449.97"></Linea>
+    <Linea Producto="NBAHD524104BK2" Color="BK2" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="741.47"></Linea>
+    <Linea Producto="NBAHD524108PR1" Color="PR1" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="582.47"></Linea>
+    <Linea Producto="NBPTT524102RD1" Color="RD1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="476.47"></Linea>
+    <Linea Producto="NBATS624125WH1" Color="WH1" Cantidad="21" size_XS="84" size_S="168" size_M="168" size_L="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="237.97"></Linea>
+    <Linea Producto="NBASW624110PR1" Color="PR1" Cantidad="18" size_XS="72" size_S="144" size_M="144" size_L="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="476.47"></Linea>
+    <Linea Producto="NBAHD324105RD1" Color="RD1" Cantidad="17" size_4="34" size_6="68" size_8="68" size_10="68" size_12="68" size_14="68" size_16="34" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="476.47"></Linea>
+    <Linea Producto="NBALS324101RD1" Color="RD1" Cantidad="14" size_4="56" size_6="112" size_8="112" size_10="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="227.37"></Linea>
+    <Linea Producto="NBAHD624109WH1" Color="WH1" Cantidad="19" size_XS="76" size_S="152" size_M="152" size_L="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="529.47"></Linea>
+    <Linea Producto="NBATS524103WH1" Color="WH1" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="333.37"></Linea>
+    <Linea Producto="NBATS521000ROY" Color="ROY" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="211.47"></Linea>
+    <Linea Producto="NBATS524103BK2" Color="BK2" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="333.37"></Linea>
+  </Encabezado>
+</Sagemobile>

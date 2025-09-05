@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="92490" Cliente="0000" Nombre="Paula Villanueva" Fecha="16/12/2021" Tipo="1" Fecha_Entrega="16/12/2021" Direccion="Jose Larco 1301 " Direccion2="Peru Lima Lima 15034" Vendedor="01" AgenteEmbarcador="" Observaciones="MARATHON TAF FW22 GORRAS NBA" ResponsablePedido="" ResponsableImportacion="" Contacto="Paula Villanueva" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBPT520201-NVY" Color="NVY" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="10.5"></Linea>
+    <Linea Producto="NBABC522201-BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="10.5"></Linea>
+    <Linea Producto="NBABC522202-PUR" Color="PUR" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="8"></Linea>
+    <Linea Producto="NBASB522208-RED" Color="RED" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="NBASB522211-RED" Color="RED" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="8"></Linea>
+    <Linea Producto="NBASB522209-RED" Color="RED" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="NBASB522212-BLK" Color="BLK" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="NBASB522216-BLK" Color="BLK" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="NBASB522219-BLK" Color="BLK" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8"></Linea>
+    <Linea Producto="NBASB522222-BLK" Color="BLK" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9"></Linea>
+    <Linea Producto="NBASB522226-BLK1" Color="BLK1" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9"></Linea>
+    <Linea Producto="NBASB522235-BLK" Color="BLK" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+  </Encabezado>
+</Sagemobile>

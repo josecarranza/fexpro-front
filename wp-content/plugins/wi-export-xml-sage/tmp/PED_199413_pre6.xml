@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="199413" Cliente="0449" Nombre="Paola Galeano" Fecha="26/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="CALLE 99 #11A32 " Direccion2="Colombia Capital District BOGOTÁ " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Paola Galeano" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MSPTS724208-BK6" Color="BK6" Cantidad="20" size_10="80" size_12="160" size_14="160" size_16="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="6"></Linea>
+    <Linea Producto="MSPTS724208-PK1" Color="PK1" Cantidad="25" size_10="100" size_12="200" size_14="200" size_16="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6"></Linea>
+    <Linea Producto="MSPTS724208-WH3" Color="WH3" Cantidad="5" size_10="20" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6"></Linea>
+    <Linea Producto="MSPTS324208-BK6" Color="BK6" Cantidad="10" size_4="40" size_6="80" size_8="80" size_10="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6"></Linea>
+    <Linea Producto="MSPTS324208-PK1" Color="PK1" Cantidad="13" size_4="52" size_6="104" size_8="104" size_10="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="6"></Linea>
+    <Linea Producto="MSPTS324208-WH3" Color="WH3" Cantidad="4" size_4="16" size_6="32" size_8="32" size_10="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

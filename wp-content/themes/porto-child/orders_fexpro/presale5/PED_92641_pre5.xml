@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="92641" Cliente="0458" Nombre="Jose Fonseca" Fecha="20/12/2021" Tipo="1" Fecha_Entrega="20/12/2021" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES " Direccion2="Chile  SANTIAGO 7560356" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS CHILE - NBA FOOTWEAR KIDS INTERNET FW22&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Jose Fonseca" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBACS32102-BLK1" Color="BLK1" Cantidad="10" size_10="50" size_11="50" size_12="50" size_13="50" size_1="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="5.5"></Linea>
+    <Linea Producto="NBACS32102-BLK2" Color="BLK2" Cantidad="10" size_10="50" size_11="50" size_12="50" size_13="50" size_1="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="5.5"></Linea>
+    <Linea Producto="NBACS322202-RED" Color="RED" Cantidad="10" size_10="50" size_11="50" size_12="50" size_13="50" size_1="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="5.5"></Linea>
+    <Linea Producto="NBACS322201-RED" Color="RED" Cantidad="10" size_10="50" size_11="50" size_12="50" size_13="50" size_1="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="5.5"></Linea>
+    <Linea Producto="NBACS322201-BLK" Color="BLK" Cantidad="10" size_10="50" size_11="50" size_12="50" size_13="50" size_1="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="5.5"></Linea>
+    <Linea Producto="MLBCS32102-BLU" Color="BLU" Cantidad="6" size_10="30" size_11="30" size_12="30" size_13="30" size_1="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="4.5"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,7 @@
+user,product_id,min_quantity,%_discount,flat_price
+alice,111,10,,150
+alice,111,20,,140
+bob,111,10,10,
+bob,121,20,15,
+alice,121,20,,120
+alice,121,10,,140

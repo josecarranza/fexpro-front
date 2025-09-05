@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="138290" Cliente="SPFAN" Nombre="MARCOS CHAVEZ" Fecha="05/08/2022" Tipo="1" Fecha_Entrega="05/08/2022" Direccion="ANDADOR DEL REY 20051, COLONIA EL AGUILA, " Direccion2="Mexico Baja California TIJUANA BC 22215" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="MARCOS CHAVEZ" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS520400-BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="171.982758625"></Linea>
+    <Linea Producto="NBATT52205-BLK2" Color="BLK2" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="279.74137929167"></Linea>
+    <Linea Producto="NBATT52205-BLK3" Color="BLK3" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="279.74137929167"></Linea>
+    <Linea Producto="NBATT52205-BLK5" Color="BLK5" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="279.74137929167"></Linea>
+    <Linea Producto="MLBJS520220-WHT" Color="WHT" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="387.5"></Linea>
+    <Linea Producto="MLBJS520220-BLU" Color="BLU" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="387.5"></Linea>
+    <Linea Producto="MLBTS520200-BLK" Color="BLK" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBTS520200-BLK3" Color="BLK3" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBTS520201-BLU" Color="BLU" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBTS520208-BLK" Color="BLK" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBJS523101-NVY2" Color="NVY2" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="387.5"></Linea>
+    <Linea Producto="MLBJS523101-BLU" Color="BLU" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="387.5"></Linea>
+    <Linea Producto="MLBJS523101-NVY" Color="NVY" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="387.5"></Linea>
+    <Linea Producto="MLBJS523101-BLK" Color="BLK" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="387.5"></Linea>
+    <Linea Producto="NBAJS523102-BLK" Color="BLK" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="387.5"></Linea>
+    <Linea Producto="NBAJS523102-BLK1" Color="BLK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="387.5"></Linea>
+    <Linea Producto="NBAJS523102-BLK3" Color="BLK3" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="387.5"></Linea>
+    <Linea Producto="NBAJS523102-NVY" Color="NVY" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="387.5"></Linea>
+    <Linea Producto="NBATT523104-NVY" Color="NVY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="365.948275875"></Linea>
+    <Linea Producto="MLBDB523102-BLK2" Color="BLK2" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="284.051724125"></Linea>
+  </Encabezado>
+</Sagemobile>

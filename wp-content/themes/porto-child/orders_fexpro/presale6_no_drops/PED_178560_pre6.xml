@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="178560" Cliente="0592" Nombre="Aldo Quintana" Fecha="12/07/2023" Tipo="1" Direccion="Gustavo Pinto 450-A, Tacna 23001, Perú " Direccion2="Peru Tacna TACNA 23001" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Aldo Quintana" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBACA324101-TQ1" Color="TQ1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="NBACA324101-BK1" Color="BK1" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="NBAST324101-NV1" Color="NV1" Cantidad="1" size_4="4" size_6="8" size_8="8" size_10="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="11.5"></Linea>
+    <Linea Producto="NBAST324101-BK1" Color="BK1" Cantidad="2" size_4="8" size_6="16" size_8="16" size_10="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="11.5"></Linea>
+    <Linea Producto="NBATS324102-TQ1" Color="TQ1" Cantidad="2" size_4="8" size_6="16" size_8="16" size_10="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="5"></Linea>
+    <Linea Producto="NBATS324102-RD1" Color="RD1" Cantidad="2" size_4="8" size_6="16" size_8="16" size_10="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="5"></Linea>
+    <Linea Producto="NBATS324103-BK1" Color="BK1" Cantidad="2" size_4="8" size_6="16" size_8="16" size_10="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="5"></Linea>
+    <Linea Producto="NBATS324103-WH1" Color="WH1" Cantidad="2" size_4="8" size_6="16" size_8="16" size_10="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="5"></Linea>
+    <Linea Producto="NBPJS324101-RD1" Color="RD1" Cantidad="2" size_4="8" size_6="16" size_8="16" size_10="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="9"></Linea>
+    <Linea Producto="NBAHD324101-BK1" Color="BK1" Cantidad="2" size_4="8" size_6="16" size_8="16" size_10="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="12"></Linea>
+    <Linea Producto="NBAPT324101-BK1" Color="BK1" Cantidad="2" size_4="8" size_6="16" size_8="16" size_10="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="11"></Linea>
+    <Linea Producto="NBASH324101-BK1" Color="BK1" Cantidad="2" size_4="8" size_6="16" size_8="16" size_10="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="11"></Linea>
+  </Encabezado>
+</Sagemobile>

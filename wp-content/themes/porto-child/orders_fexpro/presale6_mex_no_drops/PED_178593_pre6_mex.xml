@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="178593" Cliente="0000" Nombre="ARTURO PACHECO" Fecha="14/07/2023" Tipo="1" Fecha_Entrega="14/07/2023" Direccion="SUPERMANZANA 63, MANZANA 6, LOTE 2, ENTRE CALLE 2 Y 4, COLONIA CENTRO " Direccion2="Mexico Quintana Roo CANCUN 77513" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="ARTURO PACHECO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS524110PR1" Color="PR1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="180.60344829167"></Linea>
+    <Linea Producto="CAATS524113NV1" Color="NV1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="171.982758625"></Linea>
+    <Linea Producto="CAATS524113YL1" Color="YL1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="171.982758625"></Linea>
+    <Linea Producto="CAATS524114BK1" Color="BK1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBTS524109GY1" Color="GY1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="202.15517241667"></Linea>
+  </Encabezado>
+</Sagemobile>

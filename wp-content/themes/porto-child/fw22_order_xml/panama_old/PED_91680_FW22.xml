@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="91680" Cliente="0450" Nombre="Rafael Barriga" Fecha="13/12/2021" Tipo="1" Fecha_Entrega="13/12/2021" Direccion="CALLE 99 #11A32 " Direccion2="Colombia  BOGOTÁ " Vendedor="01" AgenteEmbarcador="" Observaciones="PEDIDO LINEA POP FW22&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Rafael Barriga" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAHD522211-GRY" Color="GRY" Cantidad="1" size_40="4" size_41="6" size_43="8" size_44="4" size_45="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="5"></Linea>
+    <Linea Producto="SMCS52201-BLU" Color="BLU" Cantidad="1" size_40="4" size_41="6" size_43="8" size_44="4" size_45="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="5"></Linea>
+    <Linea Producto="SOUCS52201-BLK" Color="BLK" Cantidad="9" size_40="36" size_41="54" size_43="72" size_44="36" size_45="18" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="6"></Linea>
+    <Linea Producto="NASSL52201-BLK1" Color="BLK1" Cantidad="9" size_40="36" size_41="54" size_43="72" size_44="36" size_45="18" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="6"></Linea>
+    <Linea Producto="NASSL52202-NVY" Color="NVY" Cantidad="13" size_40="52" size_41="78" size_43="104" size_44="52" size_45="26" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="5"></Linea>
+    <Linea Producto="NASCS52201-BLK" Color="BLK" Cantidad="5" size_40="20" size_41="30" size_43="40" size_44="20" size_45="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="5"></Linea>
+    <Linea Producto="CORCS52202-YEL" Color="YEL" Cantidad="6" size_40="24" size_41="36" size_43="48" size_44="24" size_45="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="5"></Linea>
+  </Encabezado>
+</Sagemobile>

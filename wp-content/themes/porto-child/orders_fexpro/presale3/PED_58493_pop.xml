@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="58493" Cliente="0531" Nombre="Andrea Leon" Fecha="11/08/2021" Tipo="1" Fecha_Entrega="11/08/2021" Direccion="C.C. Mall Aventura. Av. Carretera Central 111 Piso 2 " Direccion2="Peru Lima SANTA ANITA 15008" Vendedor="01" AgenteEmbarcador="" Observaciones="RIPLEY PERU - WWE MEN-UNDEW-GORRAS SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="Andrea Leon" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="" Color="" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7.5"></Linea>
+    <Linea Producto="WWESB52202-BLK" Color="BLK" Cantidad="9" size_OS="216" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="8.5"></Linea>
+    <Linea Producto="WWESB52201-BLK" Color="BLK" Cantidad="9" size_OS="216" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="7.5"></Linea>
+    <Linea Producto="ROCSB52202-BLK" Color="BLK" Cantidad="9" size_OS="216" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="7.5"></Linea>
+    <Linea Producto="ROCSB52201-BLK" Color="BLK" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="2.5"></Linea>
+    <Linea Producto="ROCSO52202-GRN" Color="GRN" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="3"></Linea>
+    <Linea Producto="ROCSO52201-BLK" Color="BLK" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="2.5"></Linea>
+    <Linea Producto="WWESO52202-BLK" Color="BLK" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="3"></Linea>
+    <Linea Producto="WWESO52201-BLK" Color="BLK" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="12"></Linea>
+    <Linea Producto="" Color="" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="6"></Linea>
+    <Linea Producto="WWETS52201-BLK" Color="BLK" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="12"></Linea>
+    <Linea Producto="" Color="" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

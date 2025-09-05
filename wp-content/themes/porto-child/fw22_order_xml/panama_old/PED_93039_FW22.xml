@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="93039" Cliente="0450" Nombre="Felipe Orellana" Fecha="23/12/2021" Tipo="1" Fecha_Entrega="23/12/2021" Direccion="MANUEL RODRIGUEZ 730 " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO CENTRO " Vendedor="01" AgenteEmbarcador="" Observaciones="FALABELLA FOOTWARE (PANTUFLAS) FW22&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Felipe Orellana" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAPJ622271-BLK" Color="BLK" Cantidad="53" size_40="212" size_41="318" size_43="424" size_44="212" size_45="106" Unit_Box_Qty="24" Total_Box_Qty="1272" Precio="6"></Linea>
+    <Linea Producto="NBASS52202-PUR" Color="PUR" Cantidad="53" size_40="212" size_41="318" size_43="424" size_44="212" size_45="106" Unit_Box_Qty="24" Total_Box_Qty="1272" Precio="6"></Linea>
+    <Linea Producto="NBASS52202-BLK" Color="BLK" Cantidad="53" size_40="212" size_41="318" size_43="424" size_44="212" size_45="106" Unit_Box_Qty="24" Total_Box_Qty="1272" Precio="5"></Linea>
+  </Encabezado>
+</Sagemobile>

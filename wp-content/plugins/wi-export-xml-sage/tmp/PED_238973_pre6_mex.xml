@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="238973" Cliente="0000" Nombre="Guillermo Petrei" Fecha="25/11/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="CALZADA LEGARIA 549, MIGUEL HIDALGO CDMX" Direccion2="Mexico Ciudad de México CIUDAD DE MEXICO 11500" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Guillermo Petrei" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="N19900A8GCLH" Color="CLH" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="325.5"></Linea>
+    <Linea Producto="N19900A9ACLH" Color="CLH" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="325.5"></Linea>
+    <Linea Producto="N19900A8DCLH" Color="CLH" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="325.5"></Linea>
+    <Linea Producto="N19900A9MCLH" Color="CLH" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="325.5"></Linea>
+    <Linea Producto="N19900A86CLH" Color="CLH" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="325.5"></Linea>
+    <Linea Producto="N19900A7LCLH" Color="CLH" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="325.5"></Linea>
+    <Linea Producto="N19900A9BCLH" Color="CLH" Cantidad="15" size_S="30" size_M="60" size_L="60" size_XL="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="325.5"></Linea>
+    <Linea Producto="N1994DA81CLH" Color="CLH" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="325.5"></Linea>
+    <Linea Producto="N19907R8DCLH" Color="CLH" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="325.5"></Linea>
+    <Linea Producto="N1993EE7TCLH" Color="CLH" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="325.5"></Linea>
+    <Linea Producto="N19941S7RDCLH" Color="CLH" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="325.5"></Linea>
+    <Linea Producto="N19989M9ACLH" Color="CLH" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="325.5"></Linea>
+    <Linea Producto="N19989N9PCLH" Color="CLH" Cantidad="15" size_S="30" size_M="60" size_L="60" size_XL="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="325.5"></Linea>
+    <Linea Producto="N19952M8GCLH" Color="CLH" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="325.5"></Linea>
+    <Linea Producto="N19951L9MCLH" Color="CLH" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="325.5"></Linea>
+    <Linea Producto="N19965N81CLH" Color="CLH" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="325.5"></Linea>
+    <Linea Producto="N19965N7GCLH" Color="CLH" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="325.5"></Linea>
+    <Linea Producto="N1996DL9BCLH" Color="CLH" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="325.5"></Linea>
+    <Linea Producto="N1993JD86CLH" Color="CLH" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="325.5"></Linea>
+    <Linea Producto="N1993GT9PCLH" Color="CLH" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="325.5"></Linea>
+    <Linea Producto="N19910A7RDCLH" Color="CLH" Cantidad="15" size_S="30" size_M="60" size_L="60" size_XL="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="325.5"></Linea>
+    <Linea Producto="N19910A7GCLH" Color="CLH" Cantidad="15" size_S="30" size_M="60" size_L="60" size_XL="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="325.5"></Linea>
+    <Linea Producto="N19976I7TCLH" Color="CLH" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="325.5"></Linea>
+    <Linea Producto="N19976I7LCLH" Color="CLH" Cantidad="15" size_S="30" size_M="60" size_L="60" size_XL="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="325.5"></Linea>
+    <Linea Producto="NKDK00A7LN09" Color="N09" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="723.77586208333"></Linea>
+    <Linea Producto="NKDK00A8DN09" Color="N09" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="723.77586208333"></Linea>
+    <Linea Producto="NKDK00A8GN09" Color="N09" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="723.77586208333"></Linea>
+    <Linea Producto="NKDK00A8XVN09" Color="N09" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="723.77586208333"></Linea>
+    <Linea Producto="NKDK4DA81N09" Color="N09" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="723.77586208333"></Linea>
+    <Linea Producto="NKDK30RQ86N09" Color="N09" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="723.77586208333"></Linea>
+    <Linea Producto="NKDK3EE7TN09" Color="N09" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="723.77586208333"></Linea>
+    <Linea Producto="NKDK4DZ9PVN09" Color="N09" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="723.77586208333"></Linea>
+    <Linea Producto="NKDK41S7RDN09" Color="N09" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="723.77586208333"></Linea>
+    <Linea Producto="NKDK51L9MN09" Color="N09" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="723.77586208333"></Linea>
+    <Linea Producto="NKDK65N7GN09" Color="N09" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="723.77586208333"></Linea>
+    <Linea Producto="NKDK6DL9BN09" Color="N09" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="723.77586208333"></Linea>
+    <Linea Producto="00Z500A7LLT3" Color="LT3" Cantidad="10" size_XS="20" size_S="40" size_M="40" size_L="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="651.362069"></Linea>
+    <Linea Producto="00Z506G7GLT3" Color="LT3" Cantidad="8" size_XS="16" size_S="32" size_M="32" size_L="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="9.4137930833333"></Linea>
+    <Linea Producto="00Z506G9PLT3" Color="LT3" Cantidad="8" size_XS="16" size_S="32" size_M="32" size_L="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="651.362069"></Linea>
+    <Linea Producto="00Z541S7RDLT3" Color="LT3" Cantidad="10" size_XS="20" size_S="40" size_M="40" size_L="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="651.362069"></Linea>
+    <Linea Producto="00Z56DL9BLT3" Color="LT3" Cantidad="10" size_XS="20" size_S="40" size_M="40" size_L="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="651.362069"></Linea>
+    <Linea Producto="NKAF00A7LXQY" Color="XQY" Cantidad="10" size_XS="20" size_S="40" size_M="40" size_L="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="325.5"></Linea>
+    <Linea Producto="NKAF41S7RDXQY" Color="XQY" Cantidad="10" size_XS="20" size_S="40" size_M="40" size_L="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="325.5"></Linea>
+    <Linea Producto="NKAF65N7GXQY" Color="XQY" Cantidad="8" size_XS="16" size_S="32" size_M="32" size_L="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="325.5"></Linea>
+    <Linea Producto="NKAF6DL9BXQY" Color="XQY" Cantidad="10" size_XS="20" size_S="40" size_M="40" size_L="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="325.5"></Linea>
+    <Linea Producto="NKAF3GT9PXQY" Color="XQY" Cantidad="8" size_XS="16" size_S="32" size_M="32" size_L="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="325.5"></Linea>
+  </Encabezado>
+</Sagemobile>

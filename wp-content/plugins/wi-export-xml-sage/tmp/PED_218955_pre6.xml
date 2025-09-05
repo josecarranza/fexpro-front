@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="218955" Cliente="0001" Nombre="Abraham Sasporte" Fecha="02/08/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Panama " Direccion2="Panama Panamá Panama 00000" AgenteEmbarcador="" Observaciones="NBA Q2 SS25 STEVENS KIDS" ResponsablePedido="" ResponsableImportacion="" Contacto="Abraham Sasporte" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS325105-WH1" Color="WH1" Cantidad="4" size_4="16" size_6="32" size_8="32" size_10="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="5.5"></Linea>
+    <Linea Producto="NBATS325105-BK1" Color="BK1" Cantidad="4" size_4="16" size_6="32" size_8="32" size_10="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="5.5"></Linea>
+    <Linea Producto="NBATS325105-WH2" Color="WH2" Cantidad="4" size_4="16" size_6="32" size_8="32" size_10="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="5.5"></Linea>
+    <Linea Producto="NBATS325106-PR1" Color="PR1" Cantidad="4" size_4="16" size_6="32" size_8="32" size_10="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="5.5"></Linea>
+    <Linea Producto="NBATS325106-RD1" Color="RD1" Cantidad="4" size_4="16" size_6="32" size_8="32" size_10="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="5.5"></Linea>
+    <Linea Producto="NBATS325106-BL1" Color="BL1" Cantidad="4" size_4="16" size_6="32" size_8="32" size_10="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="5.5"></Linea>
+    <Linea Producto="NBATS325106-BU1" Color="BU1" Cantidad="4" size_4="16" size_6="32" size_8="32" size_10="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="5.5"></Linea>
+    <Linea Producto="NBALS325101-GY1" Color="GY1" Cantidad="4" size_4="16" size_6="32" size_8="32" size_10="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6.5"></Linea>
+    <Linea Producto="NBALS325101-RD1" Color="RD1" Cantidad="4" size_4="16" size_6="32" size_8="32" size_10="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6.5"></Linea>
+    <Linea Producto="NBASH325102-BK1" Color="BK1" Cantidad="3" size_4="12" size_6="24" size_8="24" size_10="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="NBASH325102-BK2" Color="BK2" Cantidad="3" size_4="12" size_6="24" size_8="24" size_10="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="NBATT325102-BK1" Color="BK1" Cantidad="3" size_4="12" size_6="24" size_8="24" size_10="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="8.5"></Linea>
+    <Linea Producto="NBATT325102-BK2" Color="BK2" Cantidad="3" size_4="12" size_6="24" size_8="24" size_10="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="8.5"></Linea>
+    <Linea Producto="NBATT325102-BK3" Color="BK3" Cantidad="3" size_4="12" size_6="24" size_8="24" size_10="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="8.5"></Linea>
+    <Linea Producto="NBATT725102-WH1" Color="WH1" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="NBATT725102-BK1" Color="BK1" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="NBATT725102-BK2" Color="BK2" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="NBATT725102-BK3" Color="BK3" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="NBASH725102-BK1" Color="BK1" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="11"></Linea>
+    <Linea Producto="NBASH725102-BK2" Color="BK2" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="11"></Linea>
+    <Linea Producto="NBASH725102-BK3" Color="BK3" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="11"></Linea>
+    <Linea Producto="NBATS725104-BK1" Color="BK1" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="6"></Linea>
+    <Linea Producto="NBATS725104-BK2" Color="BK2" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="6"></Linea>
+    <Linea Producto="NBATS725104-WH1" Color="WH1" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="6"></Linea>
+    <Linea Producto="NBATS725104-BK3" Color="BK3" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="6"></Linea>
+    <Linea Producto="NBATS725105-WH1" Color="WH1" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="6"></Linea>
+    <Linea Producto="NBATS725105-RD1" Color="RD1" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="6"></Linea>
+    <Linea Producto="NBATS725105-BK1" Color="BK1" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="6"></Linea>
+    <Linea Producto="NBATS725107-BK1" Color="BK1" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="6"></Linea>
+    <Linea Producto="NBATS725107-WH1" Color="WH1" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="6"></Linea>
+    <Linea Producto="NBATS725107-BK2" Color="BK2" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="6"></Linea>
+    <Linea Producto="NBATS725106-WH1" Color="WH1" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="6"></Linea>
+    <Linea Producto="NBATS725106-OW1" Color="OW1" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

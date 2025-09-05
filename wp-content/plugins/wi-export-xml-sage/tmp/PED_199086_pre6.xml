@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="199086" Cliente="0418" Nombre="Ignacia Caulier" Fecha="07/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="KENNEDY 5413 PISO 6, LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 7550000" AgenteEmbarcador="" Observaciones="RIPLEY CHILE - KIDS&amp;amp;TEENS MESSIE FW24 Q4&#13;&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Ignacia Caulier" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MSPTS724208-BK6" Color="BK6" Cantidad="6" size_10="24" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6"></Linea>
+    <Linea Producto="MSPTS724208-PK1" Color="PK1" Cantidad="8" size_10="32" size_12="64" size_14="64" size_16="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="6"></Linea>
+    <Linea Producto="MSPTS724208-WH3" Color="WH3" Cantidad="6" size_10="24" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6"></Linea>
+    <Linea Producto="MSPHD724203-BK1" Color="BK1" Cantidad="8" size_10="32" size_12="64" size_14="64" size_16="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="12"></Linea>
+    <Linea Producto="MSPSH724202-BK1" Color="BK1" Cantidad="6" size_10="24" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8"></Linea>
+    <Linea Producto="MSPTS724209-BK1" Color="BK1" Cantidad="6" size_10="24" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6"></Linea>
+    <Linea Producto="MSPTS724209-PK1" Color="PK1" Cantidad="6" size_10="24" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6"></Linea>
+    <Linea Producto="MSPTS324208-BK6" Color="BK6" Cantidad="6" size_4="24" size_6="48" size_8="48" size_10="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6"></Linea>
+    <Linea Producto="MSPTS324208-PK1" Color="PK1" Cantidad="8" size_4="32" size_6="64" size_8="64" size_10="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="6"></Linea>
+    <Linea Producto="MSPTS324208-WH3" Color="WH3" Cantidad="6" size_4="24" size_6="48" size_8="48" size_10="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6"></Linea>
+    <Linea Producto="MSPHD324203-BK1" Color="BK1" Cantidad="8" size_4="32" size_6="64" size_8="64" size_10="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="12"></Linea>
+    <Linea Producto="MSPTS324209-PK1" Color="PK1" Cantidad="6" size_4="24" size_6="48" size_8="48" size_10="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6"></Linea>
+    <Linea Producto="MSPST324203-BK1" Color="BK1" Cantidad="6" size_4="24" size_6="48" size_8="48" size_10="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="192958" Cliente="MARTI" Nombre="Francisco Mucino" Fecha="14/12/2023" Tipo="1" Fecha_Entrega="14/12/2023" Direccion="BOULEVARD BENITO JUAREZ #10 " Direccion2="Mexico Ciudad de México TULTITLAN DE MARIANO ESCOBEDO 54900" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Francisco Mucino" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="RMDTS524201NV2" Color="NV2" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="222.37068966667"></Linea>
+    <Linea Producto="RMDTS524201WH2" Color="WH2" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="222.37068966667"></Linea>
+    <Linea Producto="RMDJS524201WH2" Color="WH2" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="284.00862070833"></Linea>
+    <Linea Producto="RMDLS524202NV2" Color="NV2" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="307.71551725"></Linea>
+    <Linea Producto="RMDWR524201NV2" Color="NV2" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="710.732758625"></Linea>
+    <Linea Producto="RMDLS524204BK2" Color="BK2" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="355.12931033333"></Linea>
+    <Linea Producto="RMDWR524202BK2" Color="BK2" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="663.3189655"></Linea>
+  </Encabezado>
+</Sagemobile>

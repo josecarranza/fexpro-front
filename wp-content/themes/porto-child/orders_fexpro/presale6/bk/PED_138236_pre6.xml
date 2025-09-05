@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="138236" Cliente="0459" Nombre="Fernando Radice" Fecha="03/08/2022" Tipo="1" Fecha_Entrega="03/08/2022" Direccion="AVENIDA KENNEDY 7900, PISO -1 (OF YÁNEKEN) " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Fernando Radice" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAJS523101-BLK" Color="BLK" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="13"></Linea>
+    <Linea Producto="NBAJS523101-BLK1" Color="BLK1" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="13"></Linea>
+    <Linea Producto="NBAJS523101-BLK3" Color="BLK3" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="13"></Linea>
+    <Linea Producto="NBAJS523102-BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="15"></Linea>
+    <Linea Producto="NBAJS523102-BLK1" Color="BLK1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="15"></Linea>
+    <Linea Producto="NBAJS523102-RED" Color="RED" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="15"></Linea>
+    <Linea Producto="NBAHD523114-BLK" Color="BLK" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="20"></Linea>
+    <Linea Producto="NBAHD523114-BLK1" Color="BLK1" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="20"></Linea>
+    <Linea Producto="NBAHD523114-BLK3" Color="BLK3" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="20"></Linea>
+    <Linea Producto="NBAHD523114-RED" Color="RED" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="20"></Linea>
+    <Linea Producto="NBASW523109-BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="17.5"></Linea>
+    <Linea Producto="NBASW523109-BLK1" Color="BLK1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="17.5"></Linea>
+  </Encabezado>
+</Sagemobile>

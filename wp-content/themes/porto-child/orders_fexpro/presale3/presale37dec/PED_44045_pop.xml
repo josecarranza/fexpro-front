@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="44045" Cliente="0458" Nombre="Jose Fonseca" Fecha="21/07/2021" Tipo="1" Fecha_Entrega="21/07/2021" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES " Direccion2="Chile  SANTIAGO 7560356" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS UNISEX TIENDAS - WNBA 30-01-22" ResponsablePedido="" ResponsableImportacion="" Contacto="Jose Fonseca" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="" Color="" Cantidad="43" size_S="172" size_M="344" size_L="344" size_XL="172" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="12"></Linea>
+    <Linea Producto="" Color="" Cantidad="43" size_S="172" size_M="344" size_L="344" size_XL="172" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="12"></Linea>
+    <Linea Producto="" Color="" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="12"></Linea>
+    <Linea Producto="" Color="" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="12"></Linea>
+    <Linea Producto="" Color="" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="12"></Linea>
+  </Encabezado>
+</Sagemobile>

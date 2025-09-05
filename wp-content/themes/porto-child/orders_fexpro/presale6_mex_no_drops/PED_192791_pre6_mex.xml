@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="192791" Cliente="MARTI" Nombre="Miguel Casas" Fecha="12/12/2023" Tipo="1" Fecha_Entrega="12/12/2023" Direccion="Adolfo Lopez Mateos 1181 San Pedro de los Pinos " Direccion2="Mexico Ciudad de México Mexico 01280" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Miguel Casas" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="CAATS524201YL1" Color="YL1" Cantidad="26" size_S="104" size_M="208" size_L="208" size_XL="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="202.15517241667"></Linea>
+    <Linea Producto="CAAJS524201YL1" Color="YL1" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="258.18965516667"></Linea>
+  </Encabezado>
+</Sagemobile>

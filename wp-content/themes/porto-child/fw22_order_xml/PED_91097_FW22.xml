@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="91097" Cliente="0449" Nombre="Julian Gutierrez" Fecha="07/12/2021" Tipo="1" Fecha_Entrega="07/12/2021" Direccion="CALLE 99 #11A32 " Direccion2="Colombia  BOGOTÁ " Vendedor="01" AgenteEmbarcador="" Observaciones="FALABELLA COLOMBIA NBA LIGAS FW22" ResponsablePedido="" ResponsableImportacion="" Contacto="Julian Gutierrez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PSGJS32207-GRY" Color="GRY" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="6.5"></Linea>
+    <Linea Producto="NBATS522221-PUR" Color="PUR" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="6.5"></Linea>
+    <Linea Producto="NBATS522221-BLK" Color="BLK" Cantidad="27" size_S="108" size_M="216" size_L="216" size_XL="108" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="6.5"></Linea>
+    <Linea Producto="NBATS522222-BLK1" Color="BLK1" Cantidad="45" size_S="180" size_M="360" size_L="360" size_XL="180" Unit_Box_Qty="24" Total_Box_Qty="1080" Precio="6.5"></Linea>
+    <Linea Producto="NBATS522221-WHT" Color="WHT" Cantidad="27" size_S="108" size_M="216" size_L="216" size_XL="108" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="6.5"></Linea>
+    <Linea Producto="NBATS522223-BLU" Color="BLU" Cantidad="45" size_S="180" size_M="360" size_L="360" size_XL="180" Unit_Box_Qty="24" Total_Box_Qty="1080" Precio="6.5"></Linea>
+    <Linea Producto="NBATS522221-WHT1" Color="WHT1" Cantidad="27" size_S="108" size_M="216" size_L="216" size_XL="108" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="6.5"></Linea>
+    <Linea Producto="NBATS522222-PUR" Color="PUR" Cantidad="48" size_S="192" size_M="384" size_L="384" size_XL="192" Unit_Box_Qty="24" Total_Box_Qty="1152" Precio="6.5"></Linea>
+    <Linea Producto="NBATS522223-BLK" Color="BLK" Cantidad="41" size_S="164" size_M="328" size_L="328" size_XL="164" Unit_Box_Qty="24" Total_Box_Qty="984" Precio="6.5"></Linea>
+    <Linea Producto="NBATS522223-YEL" Color="YEL" Cantidad="48" size_S="192" size_M="384" size_L="384" size_XL="192" Unit_Box_Qty="24" Total_Box_Qty="1152" Precio="6.5"></Linea>
+    <Linea Producto="NBATS522223-BLK1" Color="BLK1" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="6.5"></Linea>
+    <Linea Producto="NBATS522223-WHT" Color="WHT" Cantidad="45" size_S="180" size_M="360" size_L="360" size_XL="180" Unit_Box_Qty="24" Total_Box_Qty="1080" Precio="6.5"></Linea>
+    <Linea Producto="NBATS522224-RED" Color="RED" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="6.5"></Linea>
+  </Encabezado>
+</Sagemobile>

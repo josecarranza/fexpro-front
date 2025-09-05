@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="178592" Cliente="0000" Nombre="PAULO ESCALONA" Fecha="14/07/2023" Tipo="1" Fecha_Entrega="14/07/2023" Direccion="Cerrada Loma Bonita # 33. Int. 204. Lomas Altas, Dlg Miguel Hidgaldo, CDMX. 11950" Direccion2="Mexico Ciudad de México Ciudad de Mexico 11950" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="PAULO ESCALONA" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBTS324104BK1" Color="BK1" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBTS324104WH1" Color="WH1" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBHD324103NV1" Color="NV1" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="365.948275875"></Linea>
+    <Linea Producto="MLBTS324107DG1" Color="DG1" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="163.36206895833"></Linea>
+    <Linea Producto="MLBTS324107BL1" Color="BL1" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="163.36206895833"></Linea>
+    <Linea Producto="NBATS324104WH1" Color="WH1" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="150.4310345"></Linea>
+    <Linea Producto="NBATS324104WH2" Color="WH2" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="150.4310345"></Linea>
+    <Linea Producto="MLBTS524103NV1" Color="NV1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="193.53448275"></Linea>
+  </Encabezado>
+</Sagemobile>

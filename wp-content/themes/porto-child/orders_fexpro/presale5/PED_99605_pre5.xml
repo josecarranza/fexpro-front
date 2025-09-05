@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="99605" Cliente="0458" Nombre="Fernanda Salas" Fecha="25/01/2022" Tipo="1" Fecha_Entrega="25/01/2022" Direccion="MANUEL RODRIGUEZ 2571 Región Metropolitana" Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS CHILE-GORRAS UNIVERSIDADES INTERNET FW22&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Fernanda Salas" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="UNHVSB522208-RED" Color="RED" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="9"></Linea>
+    <Linea Producto="UNYLSB522209-BLU" Color="BLU" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9"></Linea>
+    <Linea Producto="UNHVSB522202-RED" Color="RED" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="9"></Linea>
+    <Linea Producto="UNHVSB522206-BLK" Color="BLK" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8"></Linea>
+    <Linea Producto="UNCASB522204-BUR" Color="BUR" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8"></Linea>
+    <Linea Producto="UNGTSB522202-NVY" Color="NVY" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9"></Linea>
+    <Linea Producto="UNLASB522204-NVY" Color="NVY" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8"></Linea>
+    <Linea Producto="UNLASB522214-LHB" Color="LHB" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="9"></Linea>
+    <Linea Producto="UNFLSB522209-NVY" Color="NVY" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9"></Linea>
+    <Linea Producto="UNLSSB522209-PUR" Color="PUR" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9"></Linea>
+    <Linea Producto="UNYLSB522213-BLK" Color="BLK" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9"></Linea>
+  </Encabezado>
+</Sagemobile>

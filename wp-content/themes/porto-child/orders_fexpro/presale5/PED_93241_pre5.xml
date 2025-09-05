@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="93241" Cliente="0451" Nombre="Felipe Orellana" Fecha="28/12/2021" Tipo="1" Fecha_Entrega="28/12/2021" Direccion="MANUEL RODRIGUEZ 730 " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO CENTRO " Vendedor="01" AgenteEmbarcador="" Observaciones="FALABELLA MLB MODA FW22&#13;&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Felipe Orellana" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBTS522201-BLK" Color="BLK" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522201-BLU" Color="BLU" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522201-NVY" Color="NVY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522201-BLK1" Color="BLK1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.5"></Linea>
+    <Linea Producto="MLBHD522201-NVY" Color="NVY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="15"></Linea>
+    <Linea Producto="MLBHD522201-NVY1" Color="NVY1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="15"></Linea>
+    <Linea Producto="MLBTS522202-BLK" Color="BLK" Cantidad="75" size_S="300" size_M="600" size_L="600" size_XL="300" Unit_Box_Qty="24" Total_Box_Qty="1800" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522202-WHT" Color="WHT" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522202-BLK1" Color="BLK1" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522202-NVY" Color="NVY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.5"></Linea>
+    <Linea Producto="MLBPT522201-BLK" Color="BLK" Cantidad="46" size_S="184" size_M="368" size_L="368" size_XL="184" Unit_Box_Qty="24" Total_Box_Qty="1104" Precio="13"></Linea>
+    <Linea Producto="MLBPT522201-NVY" Color="NVY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="13"></Linea>
+    <Linea Producto="MLBPT522201-BLK1" Color="BLK1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="13"></Linea>
+    <Linea Producto="MLBSH522201-NVY" Color="NVY" Cantidad="38" size_S="152" size_M="304" size_L="304" size_XL="152" Unit_Box_Qty="24" Total_Box_Qty="912" Precio="11"></Linea>
+    <Linea Producto="MLBSH522201-BLU" Color="BLU" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="11"></Linea>
+    <Linea Producto="MLBSH522201-BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="11"></Linea>
+    <Linea Producto="MLBTS522205-NVY" Color="NVY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522205-BLK" Color="BLK" Cantidad="38" size_S="152" size_M="304" size_L="304" size_XL="152" Unit_Box_Qty="24" Total_Box_Qty="912" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522205-RED" Color="RED" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522205-BLU" Color="BLU" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522205-BLK1" Color="BLK1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.5"></Linea>
+    <Linea Producto="MLBJS522203-NVY" Color="NVY" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="13"></Linea>
+    <Linea Producto="MLBJS522203-BLK" Color="BLK" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="13"></Linea>
+    <Linea Producto="MLBJS522203-WHT" Color="WHT" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="13"></Linea>
+    <Linea Producto="MLBSH522203-NVY" Color="NVY" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="11"></Linea>
+    <Linea Producto="MLBSW522202-NVY" Color="NVY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="14"></Linea>
+    <Linea Producto="MLBSW522202-WHT" Color="WHT" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="14"></Linea>
+    <Linea Producto="MLBSW522202-BLU" Color="BLU" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="14"></Linea>
+    <Linea Producto="MLBSW522202-NVY1" Color="NVY1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="14"></Linea>
+    <Linea Producto="MLBPT522203-NVY" Color="NVY" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="14"></Linea>
+    <Linea Producto="MLBPT522203-NVY1" Color="NVY1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="14"></Linea>
+    <Linea Producto="MLBPT522203-BLU" Color="BLU" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="14"></Linea>
+    <Linea Producto="MLBTS522209-NVY" Color="NVY" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522209-BLK" Color="BLK" Cantidad="75" size_S="300" size_M="600" size_L="600" size_XL="300" Unit_Box_Qty="24" Total_Box_Qty="1800" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522209-BLU" Color="BLU" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522210-NVY" Color="NVY" Cantidad="50" size_S="200" size_M="400" size_L="400" size_XL="200" Unit_Box_Qty="24" Total_Box_Qty="1200" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522210-BLK" Color="BLK" Cantidad="75" size_S="300" size_M="600" size_L="600" size_XL="300" Unit_Box_Qty="24" Total_Box_Qty="1800" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522210-RED" Color="RED" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522210-BLU" Color="BLU" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.5"></Linea>
+  </Encabezado>
+</Sagemobile>

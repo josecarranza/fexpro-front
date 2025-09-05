@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="153679" Cliente="0001" Nombre="Samy Eskenazi" Fecha="22/11/2022" Tipo="1" Fecha_Entrega="22/11/2022" Direccion="0000 " Direccion2="Panama Panamá PANAMA 0000" Vendedor="01" AgenteEmbarcador="" Observaciones="PEDIDO GRUPO TOVA MALETAS ESCOLAR" ResponsablePedido="" ResponsableImportacion="" Contacto="Samy Eskenazi" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBBK523102-NVY3" Color="NVY3" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="13"></Linea>
+    <Linea Producto="NBABK523102-BLK" Color="BLK" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="13"></Linea>
+    <Linea Producto="NBABK523102-BLK2" Color="BLK2" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="13"></Linea>
+    <Linea Producto="BCBK523104-NVY" Color="NVY" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="13"></Linea>
+    <Linea Producto="PSGBK523104-BLK" Color="BLK" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="13"></Linea>
+    <Linea Producto="RMBK523102-BLK" Color="BLK" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="13"></Linea>
+    <Linea Producto="NBABK523105-BLK" Color="BLK" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="11"></Linea>
+    <Linea Producto="NBABK523105-BLK2" Color="BLK2" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="11"></Linea>
+    <Linea Producto="BCBK523103-NVY" Color="NVY" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="11"></Linea>
+    <Linea Producto="PSGBK523103-NVY" Color="NVY" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="11"></Linea>
+    <Linea Producto="RMBK523103-BLK" Color="BLK" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="11"></Linea>
+    <Linea Producto="MLBBK523105-NVY" Color="NVY" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="11"></Linea>
+  </Encabezado>
+</Sagemobile>

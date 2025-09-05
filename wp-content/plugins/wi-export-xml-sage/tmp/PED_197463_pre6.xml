@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="197463" Cliente="0000" Nombre="Ermin Ortiz" Fecha="07/02/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Ofibodegas Blue Warehouse Local #1, sector el polvorin, 33 calle " Direccion2="Honduras Cortés San Pedro Sula 21102" AgenteEmbarcador="" Observaciones="FW24-Q4-PJ-03-SOCCER-NI-ERMIN" ResponsablePedido="" ResponsableImportacion="" Contacto="Ermin Ortiz" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PSGPJ324205-NV1" Color="NV1" Cantidad="10" size_4="60" size_6="60" size_8="60" size_10="30" size_12="30" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="10"></Linea>
+    <Linea Producto="MLSPJ324205-PK1" Color="PK1" Cantidad="10" size_4="60" size_6="60" size_8="60" size_10="30" size_12="30" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="10"></Linea>
+    <Linea Producto="BCNPJ324205-BU1" Color="BU1" Cantidad="10" size_4="60" size_6="60" size_8="60" size_10="30" size_12="30" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="10"></Linea>
+    <Linea Producto="RMDPJ324205-WH1" Color="WH1" Cantidad="10" size_4="60" size_6="60" size_8="60" size_10="30" size_12="30" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="10"></Linea>
+  </Encabezado>
+</Sagemobile>

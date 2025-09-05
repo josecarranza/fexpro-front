@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="181438" Cliente="0458" Nombre="Paulina Valderrama" Fecha="25/08/2023" Tipo="1" Direccion="AV. KENNEDY 9001, LAS CONDES SANTIAGO, CHILE 7560356 PISO 4" Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 56" AgenteEmbarcador="" Observaciones="PARIS CHILE - INTER MIAMI KIDS SS24 Q2" ResponsablePedido="" ResponsableImportacion="" Contacto="Paulina Valderrama" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MIATS323201-BK1" Color="BK1" Cantidad="60" size_4="120" size_6="240" size_8="240" size_10="240" size_12="240" size_14="240" size_16="120" Unit_Box_Qty="24" Total_Box_Qty="1440" Precio="5"></Linea>
+    <Linea Producto="MIATS323201-PK1" Color="PK1" Cantidad="180" size_4="360" size_6="720" size_8="720" size_10="720" size_12="720" size_14="720" size_16="360" Unit_Box_Qty="24" Total_Box_Qty="4320" Precio="5"></Linea>
+    <Linea Producto="MIATS323201-WH1" Color="WH1" Cantidad="60" size_4="120" size_6="240" size_8="240" size_10="240" size_12="240" size_14="240" size_16="120" Unit_Box_Qty="24" Total_Box_Qty="1440" Precio="5"></Linea>
+  </Encabezado>
+</Sagemobile>

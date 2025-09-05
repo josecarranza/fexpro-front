@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="181338" Cliente="0458" Nombre="Paula Mostajo" Fecha="22/08/2023" Tipo="1" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago CHILE 0000" AgenteEmbarcador="" Observaciones="PARIS CHILE - NBA MUJER TIENDA SS24 Q2" ResponsablePedido="" ResponsableImportacion="" Contacto="Paula Mostajo" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS624124-BK1" Color="BK1" Cantidad="21" size_XS="84" size_S="168" size_M="168" size_L="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="5.5"></Linea>
+    <Linea Producto="NBATS624125-RD1" Color="RD1" Cantidad="21" size_XS="84" size_S="168" size_M="168" size_L="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="5.5"></Linea>
+    <Linea Producto="NBATS624125-WH1" Color="WH1" Cantidad="21" size_XS="84" size_S="168" size_M="168" size_L="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="5.5"></Linea>
+    <Linea Producto="NBASW624109-BK1" Color="BK1" Cantidad="34" size_XS="136" size_S="272" size_M="272" size_L="136" Unit_Box_Qty="24" Total_Box_Qty="816" Precio="11.5"></Linea>
+    <Linea Producto="NBASW624110-PR1" Color="PR1" Cantidad="34" size_XS="136" size_S="272" size_M="272" size_L="136" Unit_Box_Qty="24" Total_Box_Qty="816" Precio="11.5"></Linea>
+    <Linea Producto="NBASW624110-BK1" Color="BK1" Cantidad="34" size_XS="136" size_S="272" size_M="272" size_L="136" Unit_Box_Qty="24" Total_Box_Qty="816" Precio="11.5"></Linea>
+    <Linea Producto="NBAPO624101-BK1" Color="BK1" Cantidad="27" size_XS="108" size_S="216" size_M="216" size_L="108" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="13"></Linea>
+    <Linea Producto="NBAJK624110-BK1" Color="BK1" Cantidad="21" size_XS="84" size_S="168" size_M="168" size_L="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="20"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="177893" Cliente="MARTI" Nombre="DANIEL DE LA CRUZ" Fecha="28/06/2023" Tipo="1" Fecha_Entrega="28/06/2023" Direccion="Boulevard Benito Juárez #10 " Direccion2="Mexico Estado de México Tultitlán de Mariano Escobedo 54900" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="DANIEL DE LA CRUZ" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="CAATS524114NV1" Color="NV1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="147.90517241667"></Linea>
+    <Linea Producto="CAATS524114YL1" Color="YL1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="147.90517241667"></Linea>
+    <Linea Producto="CAAJK524101BK1" Color="BK1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="277.64655170833"></Linea>
+    <Linea Producto="CAAHD524102BK1" Color="BK1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="407.38793104167"></Linea>
+    <Linea Producto="CAAJS524102BK1" Color="BK1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="222.04310345833"></Linea>
+    <Linea Producto="CAAJS524104YL1" Color="YL1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="203.50862070833"></Linea>
+    <Linea Producto="CAAJS524104NV1" Color="NV1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="203.50862070833"></Linea>
+    <Linea Producto="CAAHD524103NV1" Color="NV1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="388.85344829167"></Linea>
+    <Linea Producto="CAAJK524104NV1" Color="NV1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="277.64655170833"></Linea>
+  </Encabezado>
+</Sagemobile>

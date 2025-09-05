@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="154854" Cliente="0418" Nombre="Daniela Coloma" Fecha="05/12/2022" Tipo="1" Fecha_Entrega="05/12/2022" Direccion="KENNEDY, AVENIDO LOS CONDES 5413 PISO 6" Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 7550000" Vendedor="01" AgenteEmbarcador="" Observaciones="RIPLEY CHILE - KIDS SOCCER Q3 FW23" ResponsablePedido="" ResponsableImportacion="" Contacto="Daniela Coloma" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCNTS323204-NV1" Color="NV1" Cantidad="28" size_4="56" size_6="112" size_8="112" size_10="112" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="6"></Linea>
+    <Linea Producto="PSGTS323204-WH1" Color="WH1" Cantidad="28" size_4="56" size_6="112" size_8="112" size_10="112" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="6"></Linea>
+    <Linea Producto="RMDTS323204-GY1" Color="GY1" Cantidad="18" size_4="36" size_6="72" size_8="72" size_10="72" size_12="72" size_14="72" size_16="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6"></Linea>
+    <Linea Producto="JUVTS323204-BK3" Color="BK3" Cantidad="18" size_4="36" size_6="72" size_8="72" size_10="72" size_12="72" size_14="72" size_16="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6"></Linea>
+    <Linea Producto="BCNJS323204-NV1" Color="NV1" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7.5"></Linea>
+    <Linea Producto="PSGJS323204-NV2" Color="NV2" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7.5"></Linea>
+    <Linea Producto="RMDJS323204-WH1" Color="WH1" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7.5"></Linea>
+    <Linea Producto="JUVJS323204-BK1" Color="BK1" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7.5"></Linea>
+  </Encabezado>
+</Sagemobile>

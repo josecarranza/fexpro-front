@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="197476" Cliente="0459" Nombre="sebastian jimenez" Fecha="09/02/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Av. Kennedy #7900 of 001, Vitacura " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="sebastian jimenez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBTS524201-BG1" Color="BG1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7.5"></Linea>
+    <Linea Producto="MLBTS524201-BK1" Color="BK1" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="7.5"></Linea>
+    <Linea Producto="MLBSH524202-BG1" Color="BG1" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="12"></Linea>
+    <Linea Producto="NBASH524201-BG1" Color="BG1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="12"></Linea>
+    <Linea Producto="NBASH524201-BK1" Color="BK1" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="12"></Linea>
+    <Linea Producto="NBATS524201-BG1" Color="BG1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7.5"></Linea>
+    <Linea Producto="NBATS524202-BK1" Color="BK1" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="7.5"></Linea>
+    <Linea Producto="NBASH524208-BK1" Color="BK1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="13"></Linea>
+    <Linea Producto="NBASH524208-DG1" Color="DG1" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="13"></Linea>
+    <Linea Producto="NBATS500001-BK1" Color="BK1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7"></Linea>
+    <Linea Producto="NBATS500001-BK2" Color="BK2" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="7"></Linea>
+    <Linea Producto="MLBTS500001-BK1" Color="BK1" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="7"></Linea>
+    <Linea Producto="MLBTS500001-WH1" Color="WH1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7"></Linea>
+    <Linea Producto="NBATS324211-BK1" Color="BK1" Cantidad="20" size_4="40" size_6="80" size_8="80" size_10="80" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="5"></Linea>
+    <Linea Producto="NBATS324211-BK2" Color="BK2" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="5"></Linea>
+    <Linea Producto="NBAST324202-BK1" Color="BK1" Cantidad="23" size_4="46" size_6="92" size_8="92" size_10="92" size_12="92" size_14="92" size_16="46" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="19"></Linea>
+    <Linea Producto="NBAST324202-BK2" Color="BK2" Cantidad="20" size_4="40" size_6="80" size_8="80" size_10="80" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="19"></Linea>
+  </Encabezado>
+</Sagemobile>

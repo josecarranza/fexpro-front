@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="137919" Cliente="0001" Nombre="Oren Shabetay" Fecha="20/07/2022" Tipo="1" Fecha_Entrega="20/07/2022" Direccion="Grupo Tova Grupo Tova" Direccion2="Panama Panamá Panama 9999" Vendedor="01" AgenteEmbarcador="" Observaciones="CAPS MENS NBA / TOVA / SS23" ResponsablePedido="" ResponsableImportacion="" Contacto="Oren Shabetay" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBACA523112-BLK" Color="BLK" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="8"></Linea>
+    <Linea Producto="NBACA523112-BLK1" Color="BLK1" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="8"></Linea>
+    <Linea Producto="NBACA523112-BLK4" Color="BLK4" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="8"></Linea>
+    <Linea Producto="NBACA523130-BLK" Color="BLK" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9"></Linea>
+    <Linea Producto="NBACA523130-BLK1" Color="BLK1" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9"></Linea>
+    <Linea Producto="NBACA523130-BLK2" Color="BLK2" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9"></Linea>
+    <Linea Producto="NBACA523164-BLK" Color="BLK" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9"></Linea>
+    <Linea Producto="NBACA523164-BLK1" Color="BLK1" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9"></Linea>
+    <Linea Producto="NBACA523125-BLU1" Color="BLU1" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8"></Linea>
+    <Linea Producto="NBACA523125-GRN" Color="GRN" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8"></Linea>
+    <Linea Producto="NBACA523125-PUR" Color="PUR" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8"></Linea>
+    <Linea Producto="NBACA523125-RED" Color="RED" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8"></Linea>
+  </Encabezado>
+</Sagemobile>

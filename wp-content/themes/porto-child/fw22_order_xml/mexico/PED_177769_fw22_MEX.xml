@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="177769" Cliente="FANTOWN" Nombre="Roberto Caballero" Fecha="24/06/2023" Tipo="1" Fecha_Entrega="24/06/2023" Direccion="Boulevard Independencia #1300, Col. Navarro Int. 212-A" Direccion2="Mexico Coahuila Torreón 27360" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Roberto Caballero" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATT32205BLK3" Color="BLK3" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="258.18965516667"></Linea>
+    <Linea Producto="NBATT32205BLK4" Color="BLK4" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="258.18965516667"></Linea>
+    <Linea Producto="NBATT32205BLK5" Color="BLK5" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="258.18965516667"></Linea>
+    <Linea Producto="NBATT32205BLK7" Color="BLK7" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="258.18965516667"></Linea>
+    <Linea Producto="NBATT32205BLK8" Color="BLK8" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="258.18965516667"></Linea>
+    <Linea Producto="NBATT32205BLU" Color="BLU" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="258.18965516667"></Linea>
+    <Linea Producto="NBATT32205YEL2" Color="YEL2" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="258.18965516667"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="58858" Cliente="0450" Nombre="Bruno Chiappe" Fecha="13/08/2021" Tipo="1" Fecha_Entrega="13/08/2021" Direccion="AV. PASEO DE LA REPUBLICA 3220 " Direccion2="Peru Lima SAN ISIDRO 15047" Vendedor="01" AgenteEmbarcador="" Observaciones="FALABELLA PERU - PIJAMAS HOMBRE SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="Bruno Chiappe" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAPJ52206-BLK" Color="BLK" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="10"></Linea>
+    <Linea Producto="NBAPJ52206-PUR" Color="PUR" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="10"></Linea>
+    <Linea Producto="NBAPJ52206-BLK2" Color="BLK2" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="10"></Linea>
+    <Linea Producto="NBAPJ52206-GRN" Color="GRN" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="10"></Linea>
+    <Linea Producto="MLBPJ52203-GRY" Color="GRY" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="10"></Linea>
+    <Linea Producto="MLBPJ52203-BLU" Color="BLU" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="10"></Linea>
+    <Linea Producto="JVPJ52203-BLK" Color="BLK" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="10"></Linea>
+    <Linea Producto="BCPJ52206-NVY" Color="NVY" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="10"></Linea>
+    <Linea Producto="RMPJ52206-NVY" Color="NVY" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="10"></Linea>
+  </Encabezado>
+</Sagemobile>

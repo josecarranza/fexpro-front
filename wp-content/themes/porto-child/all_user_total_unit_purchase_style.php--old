@@ -1,0 +1,262 @@
+<?php
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
+include('../../../wp-load.php');
+$return_array = array();
+$return_array1 = array();
+$return_array2 = array();
+global $wpdb;
+$wpdb->query("TRUNCATE TABLE {$wpdb->prefix}custom_user_purchase_count");
+/* $products_v =get_posts(array(
+	'post_type' => 'product_variation',
+	'numberposts' => -1,
+));
+
+echo "<pre>";
+print_r($products_v);
+echo "</pre>"; */
+
+/* $query = new WC_Order_Query( array(
+    'limit' => -1,
+    'return' => 'ids',
+	'status' => ['pending'],
+) );
+$orders = $query->get_orders(); */
+
+$orders = wc_get_orders( array(
+    'limit'    => -1,
+    'status'   => array('wc-pending'),
+	'return' => 'ids',
+) );
+
+foreach($orders as $order_id)
+{
+	
+	$order = wc_get_order( $order_id );
+	//$order_items  = $order->get_items( apply_filters( 'woocommerce_purchase_order_item_types', 'line_item' ) );
+	foreach ( $order->get_items() as $item_id => $item ) {
+	$a = array();
+	   $product_id = $item->get_product_id();
+	   $variation_id = $item->get_variation_id();
+	    if(!empty($product_id) && !empty($variation_id))
+	    {
+			/* echo $order_id ."<br>";
+			$_product =  wc_get_product( $variation_id ); 
+			$variationName = $_product->get_title() . " - " . preg_replace('/[0-9]+/', '', $_product->get_attribute( 'pa_color' ));
+			$variatonSKU = $_product->get_sku();
+			$getCustomerID = get_post_meta($order_id, '_customer_user', true);
+			$user_meta = get_userdata($getCustomerID);
+			$user_roles = $user_meta->roles;
+			echo $variation_id ."<br>";
+			echo $variationName ."<br>";
+			echo $variatonSKU ."<br>";
+			echo $user_roles[0] ."<br>";
+			
+			
+			$c = 0;
+			$variation_size = wc_get_order_item_meta( $item_id, 'item_variation_size', true );
+			foreach ($variation_size as $key => $size) {
+			$c += $size['value'];
+			}
+			echo $c . "<br>";
+			echo $item->get_quantity() . "<br>";
+			echo "<hr><hr>"; */
+			$final_result1[$variation_id][] = $order_id;
+		}
+	}
+	
+}
+/* echo "<pre>";
+print_r($final_result1);
+echo "</pre>"
+ */
+foreach($orders as $order_id)
+{
+	
+	$order = wc_get_order( $order_id );
+	$order_items  = $order->get_items( apply_filters( 'woocommerce_purchase_order_item_types', 'line_item' ) );
+	foreach ( $order_items as $item_id => $item ) {
+	$a = array();
+	   $product_id = $item->get_product_id();
+	   $variation_id = $item->get_variation_id();
+	    if(!empty($product_id) && !empty($variation_id))
+	    {
+			//$getCustomerID = get_post_meta($order_id, '_customer_user', true);
+			/* echo $order_id ."<br>";
+			$_product =  wc_get_product( $variation_id ); 
+			$variationName = $_product->get_title() . " - " . preg_replace('/[0-9]+/', '', $_product->get_attribute( 'pa_color' ));
+			$variatonSKU = $_product->get_sku();
+			$getCustomerID = get_post_meta($order_id, '_customer_user', true);
+			$user_meta = get_userdata($getCustomerID);
+			$user_roles = $user_meta->roles;
+			echo $variation_id ."<br>";
+			echo $variationName ."<br>";
+			echo $variatonSKU ."<br>";
+			echo $user_roles[0] ."<br>";
+			
+			
+			$c = 0;
+			$variation_size = wc_get_order_item_meta( $item_id, 'item_variation_size', true );
+			foreach ($variation_size as $key => $size) {
+			$c += $size['value'];
+			}
+			echo $c . "<br>";
+			echo $item->get_quantity() . "<br>";
+			echo "<hr><hr>"; */
+			$final_result2[$variation_id][] = $item_id;
+		}
+	}
+	
+}
+/* echo "<pre>";
+print_r($final_result2);
+echo "</pre>"; */
+
+foreach($final_result1 as $key => $value)
+{
+  foreach($value as $ak)
+  {
+	$user_meta = get_post_meta($ak, '_customer_user', true);	
+	if(!in_array($user_meta, $return_array1))
+	{
+		array_push($return_array1, $user_meta);
+	}
+  }
+}
+
+/* echo "<pre>";
+print_r($return_array1);
+echo "</pre>"; */
+
+/* echo "<pre>";
+print_r($final_result2);
+echo "</pre>"; */
+		  
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Fexpro - Purchase content</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <style>
+  tbody#myTable > tr > td:first-child img {
+    width: 150px;
+}
+  </style>
+</head>
+<body>
+
+<h2>My Customers Role -- Purchase List</h2>
+
+<input class="form-control" id="myInput" type="text" placeholder="Search..">
+
+<table class="table table-bordered">
+   <thead>
+        <tr>
+          <th rowspan="2" style="vertical-align : middle;text-align:center;">Product image</th>
+          <th rowspan="2" style="vertical-align : middle;text-align:center;">Style name</th>
+          <th rowspan="2" style="vertical-align : middle;text-align:center;">Style sku</th>
+		  <?php
+		  foreach($return_array1 as $key1 => $value1)
+		  {
+				$user_info = get_userdata($value1);
+				$first_name = $user_info->first_name;
+				$last_name = $user_info->last_name;
+				echo "<th>" . $first_name  . " " . $last_name . "</th>";			 
+		  }
+		  ?>
+          <th rowspan="2" style="vertical-align : middle;text-align:center;">Total Unit Purchased</th>
+        </tr>
+      </thead>
+	<tbody id="myTable">
+		<?php 
+			foreach($final_result1 as $key => $value)
+			{
+				
+				$_product =  wc_get_product( $key); 
+				echo "<tr>";
+					echo "<td>";
+						$image_id			= $_product->get_image_id();
+						$gallery_thumbnail 	= wc_get_image_size( 'gallery_thumbnail' );
+						$thumbnail_size    	= apply_filters( 'woocommerce_gallery_thumbnail_size', array( $gallery_thumbnail['width'], $gallery_thumbnail['height'] ) );
+						$thumbnail_src     	= wp_get_attachment_image_src( $image_id, $thumbnail_size );
+						echo "<img src='" . $thumbnail_src[0] . "'/>";
+					echo "</td>";
+					echo "<td>";
+						echo $_product->get_title() . " - " . preg_replace('/[0-9]+/', '', $_product->get_attribute( 'pa_color' ));
+					echo "</td>";
+					echo "<td>";
+						echo $_product->get_sku();
+					echo "</td>";
+					
+					foreach($value  as $ak)
+					{
+						foreach($return_array1 as $key1 => $value1)
+						{
+							
+							$geta = get_post_meta($ak, '_customer_user', true);
+							
+							if($geta == $value1)
+							{
+								foreach($final_result2 as $k1 => $v1)
+								{
+									if($key == $k1)
+									{
+										foreach($v1 as $c)
+										{
+											$c1 = 0;
+											$variation_size = wc_get_order_item_meta( $c, 'item_variation_size', true );
+											foreach ($variation_size as $key => $size) 
+											{
+												$c1 += $size['value'];
+											}
+											
+											$ap = wc_get_order_item_meta( $c, '_qty', true );
+											$sum = $c1 * $ap; 
+											echo "<td>" . $sum . "</td>";
+										}
+									}
+									
+									
+								}
+								/* $user_info = get_userdata($value1);
+								$first_name = $user_info->first_name;
+								$last_name = $user_info->last_name;
+								echo "<td>" . $ak . " " . $first_name . "</td>"; */
+								
+								
+							}
+							echo "<td></td>";
+							
+						}
+						
+					
+					}
+					
+				echo "</tr>";
+			}
+		?>
+	</tbody>
+</table>
+
+<script>
+$(document).ready(function(){
+  $("#myInput").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    $("#myTable tr").filter(function() {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    });
+  });
+});
+</script>
+
+</body>
+</html>

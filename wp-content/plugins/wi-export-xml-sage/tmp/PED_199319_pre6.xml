@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="199319" Cliente="0229" Nombre="Lourdes Reyna" Fecha="15/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="14 AVE 6-19 ZONA 14 " Direccion2="Guatemala Guatemala CIUDAD DE GUATEMALA " AgenteEmbarcador="" Observaciones="GORRAS Y PIJAMAS" ResponsablePedido="" ResponsableImportacion="" Contacto="Lourdes Reyna" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MSPPJ324201-PK1" Color="PK1" Cantidad="4" size_4="16" size_6="32" size_8="32" size_10="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="10"></Linea>
+    <Linea Producto="MSPPJ324201-BK1" Color="BK1" Cantidad="4" size_4="16" size_6="32" size_8="32" size_10="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="10"></Linea>
+    <Linea Producto="MSPPJ724201-PK1" Color="PK1" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="10"></Linea>
+    <Linea Producto="MSPPJ724201-BK1" Color="BK1" Cantidad="3" size_10="12" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="10"></Linea>
+    <Linea Producto="MSPCA524201-BK1" Color="BK1" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8"></Linea>
+    <Linea Producto="MSPCA524201-PK1" Color="PK1" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="8"></Linea>
+    <Linea Producto="MSPCA524202-BK1" Color="BK1" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8"></Linea>
+    <Linea Producto="MSPCA524202-PK1" Color="PK1" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="8"></Linea>
+    <Linea Producto="MSPCA324201-BK1" Color="BK1" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="7.5"></Linea>
+    <Linea Producto="MSPCA324201-PK1" Color="PK1" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="7.5"></Linea>
+    <Linea Producto="MSPCA324202-BK1" Color="BK1" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="7.5"></Linea>
+    <Linea Producto="MSPCA324202-PK1" Color="PK1" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="7.5"></Linea>
+    <Linea Producto="MSPCA724201-BK1" Color="BK1" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="7.5"></Linea>
+    <Linea Producto="MSPCA724201-PK1" Color="PK1" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="7.5"></Linea>
+    <Linea Producto="MSPCA724202-BK1" Color="BK1" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="7.5"></Linea>
+    <Linea Producto="MSPCA724202-PK1" Color="PK1" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="7.5"></Linea>
+  </Encabezado>
+</Sagemobile>

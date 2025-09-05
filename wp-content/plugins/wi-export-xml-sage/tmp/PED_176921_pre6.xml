@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="176921" Cliente="0458" Nombre="Aurelie Manas" Fecha="09/06/2023" Tipo="1" Direccion="V. KENNEDY 9001, LAS CONDES SANTIAGO " Direccion2="Chile Región Metropolitana de Santiago LAS CONDES 7560356" AgenteEmbarcador="" Observaciones="PARIS CHILE - NBA MEN TIENDA SS24 Q1" ResponsablePedido="" ResponsableImportacion="" Contacto="Aurelie Manas" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS524113-BK1" Color="BK1" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="6.5"></Linea>
+    <Linea Producto="NBATS524113-BK2" Color="BK2" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="6.5"></Linea>
+    <Linea Producto="NBATS524113-WH1" Color="WH1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="6.5"></Linea>
+    <Linea Producto="NBATS524113-BK3" Color="BK3" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="6.5"></Linea>
+    <Linea Producto="NBATS524113-BK4" Color="BK4" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="6.5"></Linea>
+    <Linea Producto="NBATS524114-GY1" Color="GY1" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="7"></Linea>
+    <Linea Producto="NBATS524114-WH1" Color="WH1" Cantidad="27" size_S="108" size_M="216" size_L="216" size_XL="108" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="7"></Linea>
+    <Linea Producto="NBATS524114-WH2" Color="WH2" Cantidad="27" size_S="108" size_M="216" size_L="216" size_XL="108" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="7"></Linea>
+    <Linea Producto="NBATS524114-GY2" Color="GY2" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="7"></Linea>
+    <Linea Producto="NBATS524114-DG1" Color="DG1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="7"></Linea>
+    <Linea Producto="NBAWR524102-BK1" Color="BK1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="25"></Linea>
+    <Linea Producto="NBAWR524102-GY1" Color="GY1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="25"></Linea>
+    <Linea Producto="NBAHD524111-BK1" Color="BK1" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="16"></Linea>
+    <Linea Producto="NBAHD524111-NV1" Color="NV1" Cantidad="27" size_S="108" size_M="216" size_L="216" size_XL="108" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="16"></Linea>
+    <Linea Producto="NBAHD524111-BK2" Color="BK2" Cantidad="27" size_S="108" size_M="216" size_L="216" size_XL="108" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="16"></Linea>
+    <Linea Producto="NBAHD524111-GY1" Color="GY1" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="16"></Linea>
+    <Linea Producto="NBAHD524111-DG1" Color="DG1" Cantidad="27" size_S="108" size_M="216" size_L="216" size_XL="108" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="16"></Linea>
+    <Linea Producto="NBAPT524104-BK1" Color="BK1" Cantidad="47" size_S="188" size_M="376" size_L="376" size_XL="188" Unit_Box_Qty="24" Total_Box_Qty="1128" Precio="13"></Linea>
+    <Linea Producto="NBAPT524104-NV1" Color="NV1" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="13"></Linea>
+    <Linea Producto="NBAPT524104-BK2" Color="BK2" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="13"></Linea>
+    <Linea Producto="NBAPT524104-BK3" Color="BK3" Cantidad="47" size_S="188" size_M="376" size_L="376" size_XL="188" Unit_Box_Qty="24" Total_Box_Qty="1128" Precio="13"></Linea>
+    <Linea Producto="NBAPT524104-DG1" Color="DG1" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="13"></Linea>
+  </Encabezado>
+</Sagemobile>

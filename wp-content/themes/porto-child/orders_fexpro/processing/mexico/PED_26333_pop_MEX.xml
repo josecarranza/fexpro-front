@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="26333" Cliente="00PH" Nombre="Daniella Mondragon" Fecha="24/05/2021" Tipo="1" Fecha_Entrega="24/05/2021" Direccion="Durango No. 230, colonia la Roma, Delegacion Cauhtemoc " Direccion2="Mexico Ciudad de México ciudad de mexico 06700" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Daniella Mondragon" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NASPJ52104BLU" Color="BLU" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="10"></Linea>
+    <Linea Producto="ACPJ52102BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="9"></Linea>
+    <Linea Producto="ACPJ52101BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="10"></Linea>
+    <Linea Producto="ACBX52101BLK" Color="BLK" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="6.5"></Linea>
+    <Linea Producto="NASSO52101NVY" Color="NVY" Cantidad="11" size_OS="264" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="3"></Linea>
+    <Linea Producto="NASSO52105BLU" Color="BLU" Cantidad="11" size_OS="264" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="3"></Linea>
+    <Linea Producto="NASSO52106BLK" Color="BLK" Cantidad="11" size_OS="264" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="2.5"></Linea>
+    <Linea Producto="NASSO52103BLU" Color="BLU" Cantidad="11" size_OS="264" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="2.5"></Linea>
+    <Linea Producto="NASHD52104BLK" Color="BLK" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="12"></Linea>
+    <Linea Producto="NASTS52102BLU" Color="BLU" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="6.5"></Linea>
+    <Linea Producto="NASPT52104BLK" Color="BLK" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="9"></Linea>
+    <Linea Producto="SMSW621201GRN" Color="GRN" Cantidad="9" size_XS="36" size_S="72" size_M="72" size_L="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="10"></Linea>
+    <Linea Producto="SMCT621201GRY" Color="GRY" Cantidad="9" size_XS="36" size_S="72" size_M="72" size_L="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="6.5"></Linea>
+    <Linea Producto="NASTS52101WHT" Color="WHT" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="5.5"></Linea>
+    <Linea Producto="SMHD621201BLU" Color="BLU" Cantidad="9" size_XS="36" size_S="72" size_M="72" size_L="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="12"></Linea>
+  </Encabezado>
+</Sagemobile>

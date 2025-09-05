@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="54138" Cliente="0514" Nombre="Gonzalo Escobar" Fecha="30/07/2021" Tipo="1" Fecha_Entrega="30/07/2021" Direccion="AV LO ESPEJO 01565 " Direccion2="Chile  SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="PIMPS SOCK - SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="Gonzalo Escobar" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="" Color="" Cantidad="18" size_OS="432" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="3"></Linea>
+    <Linea Producto="MLBSO52201-NVY" Color="NVY" Cantidad="18" size_OS="432" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="3"></Linea>
+    <Linea Producto="MLBSO52202-NVY" Color="NVY" Cantidad="18" size_OS="432" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="3"></Linea>
+    <Linea Producto="MLBSO52203-BLU" Color="BLU" Cantidad="18" size_OS="432" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="3"></Linea>
+    <Linea Producto="MLBSO52204-NVY" Color="NVY" Cantidad="18" size_OS="432" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="3"></Linea>
+    <Linea Producto="NBASO52201-BLK" Color="BLK" Cantidad="18" size_OS="432" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="3"></Linea>
+    <Linea Producto="NBASO52202-RED" Color="RED" Cantidad="18" size_OS="432" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="3"></Linea>
+    <Linea Producto="NBASO52203-BLK" Color="BLK" Cantidad="18" size_OS="432" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="3"></Linea>
+    <Linea Producto="NBASO52204-PUR" Color="PUR" Cantidad="18" size_OS="432" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="3"></Linea>
+    <Linea Producto="NBASO52205-BLK" Color="BLK" Cantidad="18" size_OS="432" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="3"></Linea>
+  </Encabezado>
+</Sagemobile>

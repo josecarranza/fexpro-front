@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="154990" Cliente="LIVER" Nombre="Axel Gonzalez" Fecha="13/12/2022" Tipo="1" Fecha_Entrega="13/12/2022" Direccion="AVENIDA VALLE DE LAS ALAMEDAS #7 FRACCIONAMIENTO INDUSTRIAL LECH " Direccion2="Mexico Estado de México MEXICO ESTADO DE MÉXICO TULTITLAN 54940 54940" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Axel Gonzalez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS523210-WH3" Color="WH3" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="180.60344829167"></Linea>
+    <Linea Producto="NBATS523210-BK2" Color="BK2" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="180.60344829167"></Linea>
+    <Linea Producto="NBAJK523202-RD1" Color="RD1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="861.63793104167"></Linea>
+    <Linea Producto="NBAJK523202-BK1" Color="BK1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="861.63793104167"></Linea>
+    <Linea Producto="NBAHD523210-BK1" Color="BK1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="516.81034483333"></Linea>
+    <Linea Producto="NBAHD523210-BK2" Color="BK2" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="516.81034483333"></Linea>
+    <Linea Producto="NBAJP523206-BK1" Color="BK1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="387.5"></Linea>
+    <Linea Producto="NBAJP523206-BK2" Color="BK2" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="387.5"></Linea>
+  </Encabezado>
+</Sagemobile>

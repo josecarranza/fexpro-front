@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="154894" Cliente="0458" Nombre="Raisa Lefenda" Fecha="06/12/2022" Tipo="1" Direccion="AV. KENNEDY 9001, LOS CONDES PISO 4" Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 7560356" AgenteEmbarcador="" Observaciones="PARIS CHILE - MUJER NBA INTERNET Q4 FW23" ResponsablePedido="" ResponsableImportacion="" Contacto="Raisa Lefenda" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASBR623201-BK1" Color="BK1" Cantidad="5" size_XS="20" size_S="40" size_M="40" size_L="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7.5"></Linea>
+    <Linea Producto="NBASH623204-BK1" Color="BK1" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="9"></Linea>
+    <Linea Producto="NBASH623206-DN1" Color="DN1" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10"></Linea>
+  </Encabezado>
+</Sagemobile>

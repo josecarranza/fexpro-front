@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="199193" Cliente="0451" Nombre="ALFONSO NAVARRO" Fecha="13/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="MANUEL RODRIGUEZ NORTE 730, SANTIAGO CENTRO " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="ALFONSO NAVARRO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MSPTS524210-BK6" Color="BK6" Cantidad="96" size_S="384" size_M="768" size_L="768" size_XL="384" Unit_Box_Qty="24" Total_Box_Qty="2304" Precio="7"></Linea>
+    <Linea Producto="MSPTS524210-PK1" Color="PK1" Cantidad="66" size_S="264" size_M="528" size_L="528" size_XL="264" Unit_Box_Qty="24" Total_Box_Qty="1584" Precio="7"></Linea>
+    <Linea Producto="MSPTS524210-WH3" Color="WH3" Cantidad="59" size_S="236" size_M="472" size_L="472" size_XL="236" Unit_Box_Qty="24" Total_Box_Qty="1416" Precio="7"></Linea>
+    <Linea Producto="MSPTS524211-BK1" Color="BK1" Cantidad="37" size_S="148" size_M="296" size_L="296" size_XL="148" Unit_Box_Qty="24" Total_Box_Qty="888" Precio="7"></Linea>
+    <Linea Producto="MSPTS524211-WH1" Color="WH1" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="7"></Linea>
+    <Linea Producto="MSPTS524211-PK1" Color="PK1" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="7"></Linea>
+    <Linea Producto="MSPTS524212-BK1" Color="BK1" Cantidad="37" size_S="148" size_M="296" size_L="296" size_XL="148" Unit_Box_Qty="24" Total_Box_Qty="888" Precio="7"></Linea>
+    <Linea Producto="MSPTS524212-OW1" Color="OW1" Cantidad="37" size_S="148" size_M="296" size_L="296" size_XL="148" Unit_Box_Qty="24" Total_Box_Qty="888" Precio="7"></Linea>
+    <Linea Producto="MSPTS524213-BK1" Color="BK1" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="7"></Linea>
+    <Linea Producto="MSPTS524213-PK1" Color="PK1" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="7"></Linea>
+  </Encabezado>
+</Sagemobile>

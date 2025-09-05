@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="192714" Cliente="TYPHOON" Nombre="PAULO ESCALONA" Fecha="11/12/2023" Tipo="1" Fecha_Entrega="11/12/2023" Direccion="Cerrada Loma Bonita # 33. Int. 204. Lomas Altas, Dlg Miguel Hidgaldo, CDMX. 11950" Direccion2="Mexico Ciudad de México Ciudad de Mexico 11950" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="PAULO ESCALONA" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBTS524207NV1" Color="NV1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBTS524207WH1" Color="WH1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBTS524207NV2" Color="NV2" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBTS524207WH2" Color="WH2" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBTS524207BL2" Color="BL2" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBTS524207BK5" Color="BK5" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBHD524208BK1" Color="BK1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="452.15517241667"></Linea>
+    <Linea Producto="MLBHD524208BL1" Color="BL1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="452.15517241667"></Linea>
+    <Linea Producto="MLBHD524208BK4" Color="BK4" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="452.15517241667"></Linea>
+  </Encabezado>
+</Sagemobile>

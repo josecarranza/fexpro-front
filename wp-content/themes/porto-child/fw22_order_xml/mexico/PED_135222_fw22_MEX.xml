@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="135222" Cliente="CHAPUR" Nombre="Silvia Angulo" Fecha="06/07/2022" Tipo="1" Fecha_Entrega="06/07/2022" Direccion="calle 58 por 63 y 65, Centro, MERIDA" Direccion2="Mexico Ciudad de México MERIDA 970000" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Silvia Angulo" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="GFTS52203BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="197.84482758333"></Linea>
+    <Linea Producto="ATRTS52201BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="197.84482758333"></Linea>
+    <Linea Producto="KISTS522205BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="197.84482758333"></Linea>
+    <Linea Producto="PFLTS522203BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="215.08620691667"></Linea>
+    <Linea Producto="ACTS52201BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="159.051724125"></Linea>
+    <Linea Producto="PCTS52201GRY" Color="GRY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="215.08620691667"></Linea>
+    <Linea Producto="STFTS52201TUR" Color="TUR" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="159.051724125"></Linea>
+    <Linea Producto="GYTS52203GRN" Color="GRN" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="159.051724125"></Linea>
+    <Linea Producto="NASTS52204PUR" Color="PUR" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="215.08620691667"></Linea>
+    <Linea Producto="SOPTS52201BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="171.982758625"></Linea>
+  </Encabezado>
+</Sagemobile>

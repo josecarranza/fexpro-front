@@ -1,0 +1,5 @@
+role,product_sku,min_quantity,%_discount,flat_price
+wholesaler,SK00121,10,5,
+wholesaler,SK00121,15,10,
+wholesaler,SK00121,20,15,
+regular_buyer,SK00121,5,5,

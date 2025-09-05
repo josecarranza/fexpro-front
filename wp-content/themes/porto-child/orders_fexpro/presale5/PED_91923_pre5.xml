@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="91923" Cliente="0511" Nombre="Luis Mercado" Fecha="14/12/2021" Tipo="1" Fecha_Entrega="14/12/2021" Direccion="Via España,Plaza Regency N0 177 Local N04-P/B " Direccion2="Panama  CIUDAD DE PANAMÁ 00000" Vendedor="01" AgenteEmbarcador="" Observaciones="ORDEN REGIONAL FIFA MEN&amp;amp;WOMEN&amp;amp;KIDS" ResponsablePedido="" ResponsableImportacion="" Contacto="Luis Mercado" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="FIJS322201-NVY" Color="NVY" Cantidad="19" size_4="38" size_6="76" size_8="76" size_10="76" size_12="76" size_14="76" size_16="38" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="8"></Linea>
+    <Linea Producto="FIJS322201-BLU" Color="BLU" Cantidad="19" size_4="38" size_6="76" size_8="76" size_10="76" size_12="76" size_14="76" size_16="38" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="8"></Linea>
+    <Linea Producto="FIJS322201-BLK" Color="BLK" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="8"></Linea>
+    <Linea Producto="FIJS322201-WHT" Color="WHT" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="FIJS322201-NVY2" Color="NVY2" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="8"></Linea>
+    <Linea Producto="FIJS322201-WHT2" Color="WHT2" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="FIJS322201-RED" Color="RED" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="8"></Linea>
+    <Linea Producto="FIJS322201-BLU2" Color="BLU2" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="8"></Linea>
+    <Linea Producto="FIJS322201-WHT5" Color="WHT5" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="8"></Linea>
+    <Linea Producto="FIJS322201-WHT7" Color="WHT7" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="8"></Linea>
+    <Linea Producto="FIJS322202-LHB" Color="LHB" Cantidad="22" size_4="44" size_6="88" size_8="88" size_10="88" size_12="88" size_14="88" size_16="44" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="8"></Linea>
+    <Linea Producto="FIJS322202-YEL" Color="YEL" Cantidad="25" size_4="50" size_6="100" size_8="100" size_10="100" size_12="100" size_14="100" size_16="50" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="8"></Linea>
+    <Linea Producto="FIJS322202-WHT" Color="WHT" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8"></Linea>
+    <Linea Producto="FIJS322202-BLU" Color="BLU" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="FIJS322202-RED" Color="RED" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="8"></Linea>
+    <Linea Producto="FIJS322202-NVY" Color="NVY" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8"></Linea>
+    <Linea Producto="FIJS322202-WHT2" Color="WHT2" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="8"></Linea>
+    <Linea Producto="FIJS322202-YEL2" Color="YEL2" Cantidad="17" size_4="34" size_6="68" size_8="68" size_10="68" size_12="68" size_14="68" size_16="34" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="8"></Linea>
+    <Linea Producto="FIJS322202-RED4" Color="RED4" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="8"></Linea>
+    <Linea Producto="FIJS322202-NVY2" Color="NVY2" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8"></Linea>
+    <Linea Producto="FIJS322202-GRN" Color="GRN" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="8"></Linea>
+    <Linea Producto="FITS322208-WHT" Color="WHT" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="6.5"></Linea>
+    <Linea Producto="FITS322208-NVY" Color="NVY" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.5"></Linea>
+    <Linea Producto="FITS322208-WHT2" Color="WHT2" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6.5"></Linea>
+    <Linea Producto="FITS322208-BLK" Color="BLK" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6.5"></Linea>
+    <Linea Producto="FITS322208-BLK2" Color="BLK2" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6.5"></Linea>
+    <Linea Producto="FITS322208-NVY2" Color="NVY2" Cantidad="5" size_4="10" size_6="20" size_8="20" size_10="20" size_12="20" size_14="20" size_16="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="FITS322208-NVY3" Color="NVY3" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6.5"></Linea>
+    <Linea Producto="FITS322208-WHT5" Color="WHT5" Cantidad="5" size_4="10" size_6="20" size_8="20" size_10="20" size_12="20" size_14="20" size_16="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="FITS322208-NVY4" Color="NVY4" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="6.5"></Linea>
+    <Linea Producto="FITS322208-NVY5" Color="NVY5" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6.5"></Linea>
+    <Linea Producto="FITS322208-ORG" Color="ORG" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6.5"></Linea>
+    <Linea Producto="FITS322208-BLK4" Color="BLK4" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6.5"></Linea>
+    <Linea Producto="FITS322208-YEL" Color="YEL" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6.5"></Linea>
+    <Linea Producto="FITS322208-RED3" Color="RED3" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6.5"></Linea>
+    <Linea Producto="FITS322208-NVY6" Color="NVY6" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6.5"></Linea>
+    <Linea Producto="FITS322207-LHB" Color="LHB" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6.5"></Linea>
+    <Linea Producto="FITS322207-YEL" Color="YEL" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6.5"></Linea>
+    <Linea Producto="FITS322207-WHT" Color="WHT" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6.5"></Linea>
+    <Linea Producto="FITS322207-BLU" Color="BLU" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6.5"></Linea>
+    <Linea Producto="FITS322207-BLU2" Color="BLU2" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6.5"></Linea>
+    <Linea Producto="FIJS522201-BLK2" Color="BLK2" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="9"></Linea>
+    <Linea Producto="FIJS522201-NVY" Color="NVY" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="9"></Linea>
+    <Linea Producto="FIJS522201-BLU" Color="BLU" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="9"></Linea>
+    <Linea Producto="FIJS522201-BLK" Color="BLK" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="9"></Linea>
+    <Linea Producto="FIJS522201-WHT" Color="WHT" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="9"></Linea>
+    <Linea Producto="FIJS522201-NVY2" Color="NVY2" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="FIJS522201-WHT2" Color="WHT2" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="9"></Linea>
+    <Linea Producto="FIJS522201-RED" Color="RED" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="FIJS522201-BLU2" Color="BLU2" Cantidad="7" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="9"></Linea>
+    <Linea Producto="FIJS522201-WHT5" Color="WHT5" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="9"></Linea>
+    <Linea Producto="FIJS522201-WHT7" Color="WHT7" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="9"></Linea>
+    <Linea Producto="FIJS522201-WHT8" Color="WHT8" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9"></Linea>
+    <Linea Producto="FIJS522202-LHB" Color="LHB" Cantidad="28" size_S="112" size_M="224" size_L="224" size_XL="112" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="9"></Linea>
+    <Linea Producto="FIJS522202-YEL" Color="YEL" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="9"></Linea>
+    <Linea Producto="FIJS522202-WHT" Color="WHT" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="9"></Linea>
+    <Linea Producto="FIJS522202-BLU" Color="BLU" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="9"></Linea>
+    <Linea Producto="FIJS522202-RED" Color="RED" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="9"></Linea>
+    <Linea Producto="FIJS522202-NVY" Color="NVY" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="9"></Linea>
+    <Linea Producto="FIJS522202-WHT2" Color="WHT2" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="9"></Linea>
+    <Linea Producto="FIJS522202-ORG" Color="ORG" Cantidad="7" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="9"></Linea>
+    <Linea Producto="FIJS522202-YEL2" Color="YEL2" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="9"></Linea>
+    <Linea Producto="FIJS522202-RED4" Color="RED4" Cantidad="27" size_S="108" size_M="216" size_L="216" size_XL="108" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="9"></Linea>
+    <Linea Producto="FIJS522202-NVY2" Color="NVY2" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="9"></Linea>
+    <Linea Producto="FIJS522202-GRN" Color="GRN" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="9"></Linea>
+    <Linea Producto="FIJS522206-BLK" Color="BLK" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9"></Linea>
+    <Linea Producto="FILS522202-NVY" Color="NVY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="FILS522202-BLK" Color="BLK" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="8.5"></Linea>
+    <Linea Producto="FILS522202-NVY2" Color="NVY2" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="FILS522202-NVY3" Color="NVY3" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="8.5"></Linea>
+    <Linea Producto="FILS522202-BLK2" Color="BLK2" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="8.5"></Linea>
+    <Linea Producto="FILS522202-BLK3" Color="BLK3" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="8.5"></Linea>
+    <Linea Producto="FILS522202-NVY4" Color="NVY4" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="8.5"></Linea>
+    <Linea Producto="FILS522202-NVY6" Color="NVY6" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="8.5"></Linea>
+    <Linea Producto="FISW522202-NVY" Color="NVY" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="14"></Linea>
+    <Linea Producto="FISW522202-NVY2" Color="NVY2" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="14"></Linea>
+    <Linea Producto="FISW522202-NVY3" Color="NVY3" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="14"></Linea>
+    <Linea Producto="FISW522202-BLK3" Color="BLK3" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="14"></Linea>
+    <Linea Producto="FIPT522204-NVY" Color="NVY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="12.5"></Linea>
+    <Linea Producto="FIPT522204-BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="12.5"></Linea>
+    <Linea Producto="FIPT522204-BLK2" Color="BLK2" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="12.5"></Linea>
+    <Linea Producto="FIPT522204-NVY2" Color="NVY2" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="12.5"></Linea>
+    <Linea Producto="FISW522203-BLK" Color="BLK" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="14"></Linea>
+    <Linea Producto="FITS522208-WHT" Color="WHT" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7"></Linea>
+    <Linea Producto="FITS522208-NVY" Color="NVY" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="7"></Linea>
+    <Linea Producto="FITS522208-WHT2" Color="WHT2" Cantidad="24" size_S="96" size_M="192" size_L="192" size_XL="96" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="7"></Linea>
+    <Linea Producto="FITS522208-BLK" Color="BLK" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="7"></Linea>
+    <Linea Producto="FITS522208-GRY" Color="GRY" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="7"></Linea>
+    <Linea Producto="FITS522208-BLK2" Color="BLK2" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7"></Linea>
+    <Linea Producto="FITS522208-NVY2" Color="NVY2" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="7"></Linea>
+    <Linea Producto="FITS522208-NVY3" Color="NVY3" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="7"></Linea>
+    <Linea Producto="FITS522208-WHT5" Color="WHT5" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="7"></Linea>
+    <Linea Producto="FITS522208-NVY4" Color="NVY4" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="7"></Linea>
+    <Linea Producto="FITS522208-WHT6" Color="WHT6" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7"></Linea>
+    <Linea Producto="FITS522208-NVY5" Color="NVY5" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="7"></Linea>
+    <Linea Producto="FITS522208-BLK3" Color="BLK3" Cantidad="7" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="7"></Linea>
+    <Linea Producto="FITS522208-ORG" Color="ORG" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7"></Linea>
+    <Linea Producto="FITS522208-GRN" Color="GRN" Cantidad="7" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="7"></Linea>
+    <Linea Producto="FITS522208-BLK4" Color="BLK4" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7"></Linea>
+    <Linea Producto="FITS522208-YEL" Color="YEL" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="7"></Linea>
+    <Linea Producto="FITS522208-RED3" Color="RED3" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7"></Linea>
+    <Linea Producto="FITS522208-RED5" Color="RED5" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7"></Linea>
+    <Linea Producto="FITS522208-NVY6" Color="NVY6" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="7"></Linea>
+    <Linea Producto="FITS522207-LHB" Color="LHB" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="7"></Linea>
+    <Linea Producto="FITS522207-YEL" Color="YEL" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="7"></Linea>
+    <Linea Producto="FITS522207-WHT" Color="WHT" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7"></Linea>
+    <Linea Producto="FITS522207-BLU" Color="BLU" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7"></Linea>
+    <Linea Producto="FITS522207-RED" Color="RED" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7"></Linea>
+    <Linea Producto="FITS522207-BLU2" Color="BLU2" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7"></Linea>
+    <Linea Producto="FITS522207-RED2" Color="RED2" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7"></Linea>
+    <Linea Producto="FITS522207-NVY" Color="NVY" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7"></Linea>
+    <Linea Producto="FITS522207-NVY2" Color="NVY2" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7"></Linea>
+    <Linea Producto="FICA522201-NVY" Color="NVY" Cantidad="13" size_OS="312" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="8"></Linea>
+    <Linea Producto="FICA522201-BLU" Color="BLU" Cantidad="14" size_OS="336" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="8"></Linea>
+    <Linea Producto="FICA522201-LHB2" Color="LHB2" Cantidad="14" size_OS="336" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="8"></Linea>
+    <Linea Producto="FICA522201-BLK2" Color="BLK2" Cantidad="8" size_OS="192" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="8"></Linea>
+    <Linea Producto="FICA522201-NVY2" Color="NVY2" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="8"></Linea>
+    <Linea Producto="FICA522201-BLK3" Color="BLK3" Cantidad="9" size_OS="216" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="8"></Linea>
+    <Linea Producto="FICA522201-NVY5" Color="NVY5" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="8"></Linea>
+    <Linea Producto="FICA522201-NVY6" Color="NVY6" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8"></Linea>
+    <Linea Producto="FICA522201-RED4" Color="RED4" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="FICA522201-NVY7" Color="NVY7" Cantidad="13" size_OS="312" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="8"></Linea>
+    <Linea Producto="FICA522201-BLK5" Color="BLK5" Cantidad="13" size_OS="312" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="8"></Linea>
+    <Linea Producto="FICA522202-NVY" Color="NVY" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="FICA522202-BLU" Color="BLU" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="9"></Linea>
+    <Linea Producto="FICA522202-NVY1" Color="NVY1" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="FICA522202-BLK1" Color="BLK1" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="9"></Linea>
+    <Linea Producto="FICA522202-BLK3" Color="BLK3" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="9"></Linea>
+    <Linea Producto="FICA522202-BLU1" Color="BLU1" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9"></Linea>
+    <Linea Producto="FICA522202-NVY3" Color="NVY3" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="FICA522202-BLK7" Color="BLK7" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="FICA522203-LHB" Color="LHB" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8"></Linea>
+    <Linea Producto="FICA522203-BLK" Color="BLK" Cantidad="13" size_OS="312" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="8"></Linea>
+    <Linea Producto="FICA522203-LHB2" Color="LHB2" Cantidad="9" size_OS="216" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="8"></Linea>
+    <Linea Producto="FICA522203-BLK2" Color="BLK2" Cantidad="8" size_OS="192" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="8"></Linea>
+    <Linea Producto="FICA522203-NVY" Color="NVY" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8"></Linea>
+    <Linea Producto="FICA522203-ORG" Color="ORG" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8"></Linea>
+    <Linea Producto="FICA522203-BLU1" Color="BLU1" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="8"></Linea>
+    <Linea Producto="FICA522203-NVY4" Color="NVY4" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8"></Linea>
+    <Linea Producto="FICA522203-RED1" Color="RED1" Cantidad="8" size_OS="192" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="8"></Linea>
+    <Linea Producto="FICA522203-BLU2" Color="BLU2" Cantidad="9" size_OS="216" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="8"></Linea>
+    <Linea Producto="FICA522203-WHT2" Color="WHT2" Cantidad="11" size_OS="264" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="8"></Linea>
+    <Linea Producto="FIHD522204-BLK3" Color="BLK3" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="15"></Linea>
+    <Linea Producto="FIHD522204-NVY4" Color="NVY4" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="15"></Linea>
+    <Linea Producto="FIHD522204-NVY" Color="NVY" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="15"></Linea>
+    <Linea Producto="FIHD522204-BLK" Color="BLK" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="15"></Linea>
+    <Linea Producto="FIHD522204-BLK2" Color="BLK2" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="15"></Linea>
+    <Linea Producto="FIHD522204-NVY2" Color="NVY2" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="15"></Linea>
+    <Linea Producto="FIPT522203-NVY" Color="NVY" Cantidad="7" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="12.5"></Linea>
+    <Linea Producto="FIPT522203-BLK" Color="BLK" Cantidad="7" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="12.5"></Linea>
+    <Linea Producto="FIPT522203-BLK2" Color="BLK2" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="12.5"></Linea>
+    <Linea Producto="FIPT522203-NVY2" Color="NVY2" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="12.5"></Linea>
+    <Linea Producto="FIPT522203-NVY7" Color="NVY7" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="12.5"></Linea>
+    <Linea Producto="FIPT522203-NVY9" Color="NVY9" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="12.5"></Linea>
+    <Linea Producto="FIHD522205-NVY" Color="NVY" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="15"></Linea>
+    <Linea Producto="FIJS622201-NVY" Color="NVY" Cantidad="12" size_XS="48" size_S="96" size_M="96" size_L="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="9"></Linea>
+    <Linea Producto="FIJS622201-BLU" Color="BLU" Cantidad="13" size_XS="52" size_S="104" size_M="104" size_L="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="9"></Linea>
+    <Linea Producto="FIJS622201-BLU2" Color="BLU2" Cantidad="7" size_XS="28" size_S="56" size_M="56" size_L="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="9"></Linea>
+    <Linea Producto="FIJS622201-WHT5" Color="WHT5" Cantidad="10" size_XS="40" size_S="80" size_M="80" size_L="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="9"></Linea>
+    <Linea Producto="FIJS622202-LHB" Color="LHB" Cantidad="17" size_XS="68" size_S="136" size_M="136" size_L="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="9"></Linea>
+    <Linea Producto="FIJS622202-YEL" Color="YEL" Cantidad="17" size_XS="68" size_S="136" size_M="136" size_L="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="9"></Linea>
+    <Linea Producto="FIJS622202-BLU" Color="BLU" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="9"></Linea>
+    <Linea Producto="FIJS622202-NVY" Color="NVY" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="9"></Linea>
+    <Linea Producto="FIJS622202-YEL2" Color="YEL2" Cantidad="15" size_XS="60" size_S="120" size_M="120" size_L="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="9"></Linea>
+    <Linea Producto="FIJS622202-RED4" Color="RED4" Cantidad="16" size_XS="64" size_S="128" size_M="128" size_L="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="9"></Linea>
+    <Linea Producto="FIJS622202-GRN" Color="GRN" Cantidad="3" size_XS="12" size_S="24" size_M="24" size_L="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="9"></Linea>
+    <Linea Producto="FITS622208-NVY" Color="NVY" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7"></Linea>
+    <Linea Producto="FITS622208-BLK" Color="BLK" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7"></Linea>
+    <Linea Producto="FITS622207-LHB" Color="LHB" Cantidad="4" size_XS="16" size_S="32" size_M="32" size_L="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="7"></Linea>
+    <Linea Producto="FIHD522205-BLK2" Color="BLK2" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="15"></Linea>
+    <Linea Producto="FIHD522205-NVY6" Color="NVY6" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="15"></Linea>
+    <Linea Producto="FIHD522205-NVY8" Color="NVY8" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="15"></Linea>
+    <Linea Producto="FIHD522205-BLK" Color="BLK" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="15"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="91922" Cliente="0000" Nombre="Adriana Escalante" Fecha="14/12/2021" Tipo="1" Fecha_Entrega="14/12/2021" Direccion="CALLE 63 474 OFICINAS CHAPUR" Direccion2="Mexico Yucatán MERIDA 97000" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Adriana Escalante" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBFF20745WHT2" Color="WHT2" Cantidad="2" size_40="8" size_41="12" size_43="16" size_44="8" size_45="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="245.25862070833"></Linea>
+    <Linea Producto="NBASL522202RED" Color="RED" Cantidad="2" size_40="8" size_41="12" size_43="16" size_44="8" size_45="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="258.18965516667"></Linea>
+    <Linea Producto="NBASL522202PUR" Color="PUR" Cantidad="2" size_40="8" size_41="12" size_43="16" size_44="8" size_45="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="258.18965516667"></Linea>
+    <Linea Producto="MLBSL522201BLU" Color="BLU" Cantidad="1" size_40="4" size_41="6" size_43="8" size_44="4" size_45="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="258.18965516667"></Linea>
+    <Linea Producto="MLBSL522201BLK" Color="BLK" Cantidad="2" size_40="8" size_41="12" size_43="16" size_44="8" size_45="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="258.18965516667"></Linea>
+    <Linea Producto="NBASL522201RED" Color="RED" Cantidad="1" size_40="4" size_41="6" size_43="8" size_44="4" size_45="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="258.18965516667"></Linea>
+    <Linea Producto="NBASL522201PUR" Color="PUR" Cantidad="1" size_40="4" size_41="6" size_43="8" size_44="4" size_45="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="258.18965516667"></Linea>
+    <Linea Producto="NASSL52201BLK" Color="BLK" Cantidad="1" size_40="4" size_41="6" size_43="8" size_44="4" size_45="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="236.63793104167"></Linea>
+    <Linea Producto="NASSL52202NVY" Color="NVY" Cantidad="2" size_40="8" size_41="12" size_43="16" size_44="8" size_45="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="215.08620691667"></Linea>
+  </Encabezado>
+</Sagemobile>

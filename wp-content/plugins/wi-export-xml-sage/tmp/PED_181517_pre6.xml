@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="181517" Cliente="0514" Nombre="Gonzalo Escobar" Fecha="30/08/2023" Tipo="1" Direccion="AV LO ESPEJO 01565 " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Gonzalo Escobar" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS324106-GY1" Color="GY1" Cantidad="5" size_4="20" size_6="40" size_8="40" size_10="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="5"></Linea>
+    <Linea Producto="NBATS324106-BK1" Color="BK1" Cantidad="5" size_4="20" size_6="40" size_8="40" size_10="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="5"></Linea>
+    <Linea Producto="NBAHD324103-BK1" Color="BK1" Cantidad="10" size_4="40" size_6="80" size_8="80" size_10="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12"></Linea>
+    <Linea Producto="NBAHD324103-BK2" Color="BK2" Cantidad="5" size_4="20" size_6="40" size_8="40" size_10="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="12"></Linea>
+    <Linea Producto="NBAPT324103-BK1" Color="BK1" Cantidad="10" size_4="40" size_6="80" size_8="80" size_10="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="10"></Linea>
+    <Linea Producto="NBAPT324103-BK2" Color="BK2" Cantidad="5" size_4="20" size_6="40" size_8="40" size_10="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="10"></Linea>
+    <Linea Producto="NBABN324101-PR1" Color="PR1" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="5"></Linea>
+    <Linea Producto="NBABN324101-BU1" Color="BU1" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="5"></Linea>
+    <Linea Producto="NBAJK324102-RD1" Color="RD1" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="21"></Linea>
+    <Linea Producto="MLBJK324101-NV1" Color="NV1" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="21"></Linea>
+    <Linea Producto="MLBHD324106-NV1" Color="NV1" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="12"></Linea>
+    <Linea Producto="MLBHD324106-GY1" Color="GY1" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="12"></Linea>
+    <Linea Producto="MLBHD324105-NV1" Color="NV1" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12"></Linea>
+    <Linea Producto="NBAHD324106-RD1" Color="RD1" Cantidad="15" size_10="60" size_12="120" size_14="120" size_16="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="12"></Linea>
+    <Linea Producto="NBAHD324106-BK1" Color="BK1" Cantidad="5" size_10="20" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="12"></Linea>
+    <Linea Producto="NBAPT324104-BK1" Color="BK1" Cantidad="15" size_10="60" size_12="120" size_14="120" size_16="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="11.5"></Linea>
+  </Encabezado>
+</Sagemobile>

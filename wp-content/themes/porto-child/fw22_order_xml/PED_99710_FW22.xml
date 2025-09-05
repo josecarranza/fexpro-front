@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="99710" Cliente="0000" Nombre="Paula Mostajo" Fecha="02/02/2022" Tipo="1" Fecha_Entrega="02/02/2022" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago CHILE 0000" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS CHILE - MUJER UNIVERSIDADES INTERNET JULIO FW22" ResponsablePedido="" ResponsableImportacion="" Contacto="Paula Mostajo" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="UNLASW622203-WHT" Color="WHT" Cantidad="11" size_XS="44" size_S="88" size_M="88" size_L="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="6.5"></Linea>
+    <Linea Producto="UNYLCT622202-NVY" Color="NVY" Cantidad="11" size_XS="44" size_S="88" size_M="88" size_L="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="6.5"></Linea>
+    <Linea Producto="UNYLCT622201-GRY" Color="GRY" Cantidad="11" size_XS="44" size_S="88" size_M="88" size_L="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="6.5"></Linea>
+    <Linea Producto="UNYLCT622201-WHT" Color="WHT" Cantidad="10" size_XS="40" size_S="80" size_M="80" size_L="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7"></Linea>
+    <Linea Producto="UNYLCT622203-NVY" Color="NVY" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7"></Linea>
+    <Linea Producto="UNYLTS622203-GRY" Color="GRY" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7"></Linea>
+    <Linea Producto="UNYLTS622201-NVY" Color="NVY" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7"></Linea>
+    <Linea Producto="UNYLTS622201-BLK" Color="BLK" Cantidad="5" size_XS="20" size_S="40" size_M="40" size_L="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="10"></Linea>
+    <Linea Producto="UNYLSH622201-GRY" Color="GRY" Cantidad="11" size_XS="44" size_S="88" size_M="88" size_L="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7"></Linea>
+    <Linea Producto="UNGTCT622202-WHT" Color="WHT" Cantidad="11" size_XS="44" size_S="88" size_M="88" size_L="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="6.5"></Linea>
+    <Linea Producto="UNGTCT622201-GRY" Color="GRY" Cantidad="11" size_XS="44" size_S="88" size_M="88" size_L="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="6.5"></Linea>
+    <Linea Producto="UNGTCT622201-NVY" Color="NVY" Cantidad="11" size_XS="44" size_S="88" size_M="88" size_L="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7"></Linea>
+    <Linea Producto="UNGTCT622204-WHT" Color="WHT" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7"></Linea>
+    <Linea Producto="UNGTTS622203-GRY" Color="GRY" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7"></Linea>
+    <Linea Producto="UNGTTS622201-NVY" Color="NVY" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7"></Linea>
+    <Linea Producto="UNGTTS622201-WHT" Color="WHT" Cantidad="5" size_XS="20" size_S="40" size_M="40" size_L="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="10"></Linea>
+    <Linea Producto="UNGTSH622202-NVY" Color="NVY" Cantidad="11" size_XS="44" size_S="88" size_M="88" size_L="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7"></Linea>
+    <Linea Producto="UNHVCT622202-RED" Color="RED" Cantidad="11" size_XS="44" size_S="88" size_M="88" size_L="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7"></Linea>
+    <Linea Producto="UNHVCT622202-GRY" Color="GRY" Cantidad="11" size_XS="44" size_S="88" size_M="88" size_L="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7"></Linea>
+    <Linea Producto="UNHVCT622202-WHT" Color="WHT" Cantidad="11" size_XS="44" size_S="88" size_M="88" size_L="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7"></Linea>
+    <Linea Producto="UNHVCT622203-BEI" Color="BEI" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7"></Linea>
+    <Linea Producto="UNHVTS622202-NVY" Color="NVY" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7"></Linea>
+    <Linea Producto="UNHVTS622203-WHT" Color="WHT" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="10"></Linea>
+    <Linea Producto="UNHVSH622201-GRY" Color="GRY" Cantidad="11" size_XS="44" size_S="88" size_M="88" size_L="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7"></Linea>
+    <Linea Producto="UNCACT622204-WHT" Color="WHT" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7"></Linea>
+    <Linea Producto="UNCATS622201-GRN" Color="GRN" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7"></Linea>
+    <Linea Producto="UNCATS622201-WHT" Color="WHT" Cantidad="11" size_XS="44" size_S="88" size_M="88" size_L="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7"></Linea>
+    <Linea Producto="UNFLCT622203-BLK" Color="BLK" Cantidad="11" size_XS="44" size_S="88" size_M="88" size_L="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="6.5"></Linea>
+    <Linea Producto="UNFLCT622201-GRY" Color="GRY" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7"></Linea>
+    <Linea Producto="UNFLTS622201-WHT" Color="WHT" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7.5"></Linea>
+    <Linea Producto="UNFLTS622202-BLK" Color="BLK" Cantidad="11" size_XS="44" size_S="88" size_M="88" size_L="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7"></Linea>
+    <Linea Producto="UNLACT622203-BLK" Color="BLK" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7"></Linea>
+    <Linea Producto="UNLATS622203-WHT" Color="WHT" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7"></Linea>
+    <Linea Producto="UNLATS622203-GRY" Color="GRY" Cantidad="11" size_XS="44" size_S="88" size_M="88" size_L="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7"></Linea>
+  </Encabezado>
+</Sagemobile>

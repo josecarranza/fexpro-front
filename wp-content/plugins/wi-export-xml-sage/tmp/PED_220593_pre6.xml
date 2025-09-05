@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="220593" Cliente="0000" Nombre="Evangelyn Asi" Fecha="05/09/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="TOWER 1, HIGH STREET SOUTH CORPORATE PLAZA 26TH ST COR. 9TH AVE BONIFACIO GLOBAL CITY" Direccion2="Philippines Metro Manila TAGUIG CITY 00000" AgenteEmbarcador="" Observaciones="ROBINSONS MEN ORDER SS25 Q2 PHILIPPINES" ResponsablePedido="" ResponsableImportacion="" Contacto="Evangelyn Asi" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATT520405-BLK" Color="BLK" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="10"></Linea>
+    <Linea Producto="NBATT520405-WHT" Color="WHT" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="10"></Linea>
+    <Linea Producto="NBATT52205-YEL2" Color="YEL2" Cantidad="24" size_S="96" size_M="192" size_L="192" size_XL="96" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="10"></Linea>
+    <Linea Producto="NBATT52205-BLU" Color="BLU" Cantidad="24" size_S="96" size_M="192" size_L="192" size_XL="96" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="10"></Linea>
+    <Linea Producto="NBATT52205-BLK5" Color="BLK5" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="10"></Linea>
+    <Linea Producto="NBATT52205-BLU2" Color="BLU2" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="10"></Linea>
+    <Linea Producto="NBATS500001-WH1" Color="WH1" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="7"></Linea>
+    <Linea Producto="NBATS500001-YL1" Color="YL1" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="7"></Linea>
+    <Linea Producto="NBATS500001-RD1" Color="RD1" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="7"></Linea>
+    <Linea Producto="NBATS500001-GN1" Color="GN1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7"></Linea>
+    <Linea Producto="NBATS522230-WHT" Color="WHT" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7.5"></Linea>
+    <Linea Producto="NBATS522231-BLU" Color="BLU" Cantidad="24" size_S="96" size_M="192" size_L="192" size_XL="96" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="7.5"></Linea>
+    <Linea Producto="NBATS522237-NVY" Color="NVY" Cantidad="24" size_S="96" size_M="192" size_L="192" size_XL="96" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="7.5"></Linea>
+    <Linea Producto="NBPTS500002-YL1" Color="YL1" Cantidad="24" size_S="96" size_M="192" size_L="192" size_XL="96" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="7.5"></Linea>
+    <Linea Producto="NBATS520400-BLK" Color="BLK" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="6.5"></Linea>
+    <Linea Producto="NBATS520400-WHT" Color="WHT" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="6.5"></Linea>
+    <Linea Producto="NBATS521000-RED" Color="RED" Cantidad="24" size_S="96" size_M="192" size_L="192" size_XL="96" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="6.5"></Linea>
+    <Linea Producto="NBATS521000-YEL" Color="YEL" Cantidad="24" size_S="96" size_M="192" size_L="192" size_XL="96" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="6.5"></Linea>
+    <Linea Producto="NBATS521000-PUR" Color="PUR" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="6.5"></Linea>
+    <Linea Producto="NBATS521000-ROY2" Color="ROY2" Cantidad="24" size_S="96" size_M="192" size_L="192" size_XL="96" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="6.5"></Linea>
+    <Linea Producto="NBATS521000-GRN" Color="GRN" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="6.5"></Linea>
+    <Linea Producto="NBATS521000-BLK6" Color="BLK6" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="6.5"></Linea>
+    <Linea Producto="NBASH521820-BLK2" Color="BLK2" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="11"></Linea>
+    <Linea Producto="NBASH521820-ROY" Color="ROY" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="11"></Linea>
+    <Linea Producto="NBASH521820-NVY9" Color="NVY9" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="11"></Linea>
+    <Linea Producto="NBAHD520400-BLK2" Color="BLK2" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="15"></Linea>
+    <Linea Producto="NBAHD521001-RED" Color="RED" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="15"></Linea>
+    <Linea Producto="NBAHD521001-YEL" Color="YEL" Cantidad="24" size_S="96" size_M="192" size_L="192" size_XL="96" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="15"></Linea>
+    <Linea Producto="NBAHD521001-ROY" Color="ROY" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="15"></Linea>
+  </Encabezado>
+</Sagemobile>

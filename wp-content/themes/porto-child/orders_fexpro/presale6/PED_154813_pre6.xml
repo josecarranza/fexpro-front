@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="154813" Cliente="0036" Nombre="Marcella Urrutia" Fecha="05/12/2022" Tipo="1" Fecha_Entrega="05/12/2022" Direccion="Centro comercial Galerias paseo General Escalon 0000" Direccion2="El Salvador San Salvador San Salvador 0000" Vendedor="01" AgenteEmbarcador="" Observaciones="LIGAS Q4 - NI" ResponsablePedido="" ResponsableImportacion="" Contacto="Marcella Urrutia" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS323203-YL1" Color="YL1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="5.5"></Linea>
+    <Linea Producto="NBATS323204-PR1" Color="PR1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="5.5"></Linea>
+    <Linea Producto="NBATS323208-PR1" Color="PR1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="5.5"></Linea>
+    <Linea Producto="NBATS323209-WH4" Color="WH4" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

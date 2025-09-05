@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="198965" Cliente="0509" Nombre="Freddy Ramirez" Fecha="01/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="CALLE 13 19 71 CC SABANA PLAZA OF M19 PISO 3 " Direccion2="Colombia Capital District MEDELLIN " AgenteEmbarcador="" Observaciones="SPORTLINE COLOMBIA - M&amp;amp;N EVERGREEN FW24 Q4&#13;&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Freddy Ramirez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="HT8031-GSWOFWH" Color="GSWOFWH" Cantidad="6" size_OS="36" Unit_Box_Qty="6" Total_Box_Qty="36" Precio="10"></Linea>
+    <Linea Producto="HT8031-CBUOFWH" Color="CBUOFWH" Cantidad="6" size_OS="36" Unit_Box_Qty="6" Total_Box_Qty="36" Precio="10"></Linea>
+    <Linea Producto="HT8031-LALOFWH" Color="LALOFWH" Cantidad="6" size_OS="36" Unit_Box_Qty="6" Total_Box_Qty="36" Precio="10"></Linea>
+    <Linea Producto="HT8031-MHEOFWH" Color="MHEOFWH" Cantidad="6" size_OS="36" Unit_Box_Qty="6" Total_Box_Qty="36" Precio="10"></Linea>
+    <Linea Producto="HT8031-SKIOFWH" Color="SKIOFWH" Cantidad="6" size_OS="36" Unit_Box_Qty="6" Total_Box_Qty="36" Precio="10"></Linea>
+  </Encabezado>
+</Sagemobile>

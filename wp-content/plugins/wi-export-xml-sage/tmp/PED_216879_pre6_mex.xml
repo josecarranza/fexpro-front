@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="216879" Cliente="CIMACO" Nombre="Christian Ayup" Fecha="25/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="HIDALGO,399 PONIENTE CENTRO " Direccion2="Mexico Ciudad de México TORREON, COAHUILA 27000" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Christian Ayup" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="T7LMAWHOAWL23" Color="L23" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMBQA1BQL23" Color="L23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMBQHOBQL23" Color="L23" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMBQRDBQL23" Color="L23" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMHUA1HUSL23" Color="L23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMLDA1LDL23" Color="L23" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMLDA2LDL23" Color="L23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMLDHOLDL23" Color="L23" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMNKA1NKL23" Color="L23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMNKHONKL23" Color="L23" Cantidad="6" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMNKRDNKL23" Color="L23" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMNMHONMEL23" Color="L23" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMPYHOPYPL23" Color="L23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1327.112069"></Linea>
+    <Linea Producto="03584EWLDCHJ" Color="CHJ" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="615.90517241667"></Linea>
+    <Linea Producto="035844BNKCHJ" Color="CHJ" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="615.90517241667"></Linea>
+    <Linea Producto="N19944BBQCJP" Color="CJP" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="378.83620691667"></Linea>
+    <Linea Producto="N1994EWLDCJP" Color="CJP" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="378.83620691667"></Linea>
+    <Linea Producto="N19944BNKCJP" Color="CJP" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="378.83620691667"></Linea>
+    <Linea Producto="N19962QBQPA7" Color="PA7" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="378.83620691667"></Linea>
+    <Linea Producto="N19900ALDPA7" Color="PA7" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="378.83620691667"></Linea>
+    <Linea Producto="N19910ANKPA7" Color="PA7" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="378.83620691667"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="59158" Cliente="0036" Nombre="Paola Funes" Fecha="17/08/2021" Tipo="1" Fecha_Entrega="17/08/2021" Direccion="Avenida Samuel Lewis, Calle 54, Edif. Afra " Direccion2="Panama  Panamá City 00000" Vendedor="01" AgenteEmbarcador="" Observaciones="Footwear boys" ResponsablePedido="" ResponsableImportacion="" Contacto="Paola Funes" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAFF52201-BLK2" Color="BLK2" Cantidad="7" size_7="28" size_8="42" size_9="56" size_10="28" size_11="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="4"></Linea>
+    <Linea Producto="MLBFF52201-NVY" Color="NVY" Cantidad="7" size_7="28" size_8="42" size_9="56" size_10="28" size_11="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="3.5"></Linea>
+    <Linea Producto="NBASL52101-BLK2" Color="BLK2" Cantidad="7" size_7="28" size_8="42" size_9="56" size_10="28" size_11="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6.5"></Linea>
+    <Linea Producto="NBASL52101-BLK3" Color="BLK3" Cantidad="7" size_7="28" size_8="42" size_9="56" size_10="28" size_11="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6.5"></Linea>
+    <Linea Producto="NBASL52207-RED" Color="RED" Cantidad="7" size_7="28" size_8="42" size_9="56" size_10="28" size_11="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6.5"></Linea>
+  </Encabezado>
+</Sagemobile>

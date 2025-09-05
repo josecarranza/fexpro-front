@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="161675" Cliente="0INN" Nombre="Alfredo Pifferi" Fecha="15/02/2023" Tipo="1" Fecha_Entrega="15/02/2023" Direccion="Humberto Lobo, Num. Ext.: 540, Num. Int.: A, Col.: Del Valle, CP.:66220, Del. ó Mun.:San Pedro Garza García, Ciudad:San Pedro Garza García, " Direccion2="Mexico Nuevo León Nuevo León, 66220" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Alfredo Pifferi" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASH521820-BLK" Color="BLK" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="303.564516125"></Linea>
+    <Linea Producto="NBASH521820-YEL" Color="YEL" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="303.564516125"></Linea>
+    <Linea Producto="NBASH521820-ROY" Color="ROY" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="303.564516125"></Linea>
+    <Linea Producto="NBATS521000-BLK" Color="BLK" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="186.62903225"></Linea>
+    <Linea Producto="NBATS521000-RED" Color="RED" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="186.62903225"></Linea>
+    <Linea Producto="NBATS521000-WHT2" Color="WHT2" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="186.62903225"></Linea>
+    <Linea Producto="NBATT52205-YEL" Color="YEL" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="303.564516125"></Linea>
+    <Linea Producto="NBATT52205-BLK3" Color="BLK3" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="303.564516125"></Linea>
+    <Linea Producto="NBATT52205-BLU" Color="BLU" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="303.564516125"></Linea>
+    <Linea Producto="MLBJS520220-WHT" Color="WHT" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="420.5"></Linea>
+    <Linea Producto="MLBJS520220-BLU" Color="BLU" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="420.5"></Linea>
+    <Linea Producto="MLBJT520220-NVY" Color="NVY" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="280.177419375"></Linea>
+    <Linea Producto="MLBJT520220-BLU" Color="BLU" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="280.177419375"></Linea>
+    <Linea Producto="MLBTS520201-BLU" Color="BLU" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="186.62903225"></Linea>
+    <Linea Producto="MLBTS520201-BLK" Color="BLK" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="186.62903225"></Linea>
+  </Encabezado>
+</Sagemobile>

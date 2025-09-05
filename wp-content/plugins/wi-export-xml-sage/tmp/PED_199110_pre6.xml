@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="199110" Cliente="0536" Nombre="NIZAR D" Fecha="11/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="CALLE IGUALDAD LOCAL S/N SECTOR CENTRO DE PORLAMAR NUEVA ESPARTA " Direccion2="Venezuela Nueva Esparta NUEVA ESPARTA 0000" AgenteEmbarcador="" Observaciones="CANAIMA VZLA MESSI Q4 FW24" ResponsablePedido="" ResponsableImportacion="" Contacto="NIZAR D" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MSPST724203-BK1" Color="BK1" Cantidad="8" size_10="32" size_12="64" size_14="64" size_16="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="10"></Linea>
+    <Linea Producto="MSPTS524210-BK6" Color="BK6" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="7"></Linea>
+    <Linea Producto="MSPTS524210-PK1" Color="PK1" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="7"></Linea>
+    <Linea Producto="MSPTS724208-BK6" Color="BK6" Cantidad="8" size_10="32" size_12="64" size_14="64" size_16="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="6"></Linea>
+    <Linea Producto="MSPTS724208-PK1" Color="PK1" Cantidad="8" size_10="32" size_12="64" size_14="64" size_16="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="6"></Linea>
+    <Linea Producto="MSPHD524206-BK1" Color="BK1" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="15"></Linea>
+    <Linea Producto="MSPHD724203-BK1" Color="BK1" Cantidad="8" size_10="32" size_12="64" size_14="64" size_16="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="12"></Linea>
+  </Encabezado>
+</Sagemobile>

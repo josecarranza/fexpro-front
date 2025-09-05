@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="199411" Cliente="0451" Nombre="ALFONSO NAVARRO" Fecha="26/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="MANUEL RODRIGUEZ NORTE 730, SANTIAGO CENTRO " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="ALFONSO NAVARRO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MSPTS724208-BK6" Color="BK6" Cantidad="33" size_10="132" size_12="264" size_14="264" size_16="132" Unit_Box_Qty="24" Total_Box_Qty="792" Precio="6"></Linea>
+    <Linea Producto="MSPTS724208-PK1" Color="PK1" Cantidad="38" size_10="152" size_12="304" size_14="304" size_16="152" Unit_Box_Qty="24" Total_Box_Qty="912" Precio="6"></Linea>
+    <Linea Producto="MSPTS724208-WH3" Color="WH3" Cantidad="25" size_10="100" size_12="200" size_14="200" size_16="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6"></Linea>
+    <Linea Producto="MSPSH724202-BK1" Color="BK1" Cantidad="25" size_10="100" size_12="200" size_14="200" size_16="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="8"></Linea>
+    <Linea Producto="MSPTS324208-BK6" Color="BK6" Cantidad="33" size_4="132" size_6="264" size_8="264" size_10="132" Unit_Box_Qty="24" Total_Box_Qty="792" Precio="6"></Linea>
+    <Linea Producto="MSPTS324208-PK1" Color="PK1" Cantidad="38" size_4="152" size_6="304" size_8="304" size_10="152" Unit_Box_Qty="24" Total_Box_Qty="912" Precio="6"></Linea>
+    <Linea Producto="MSPTS324208-WH3" Color="WH3" Cantidad="25" size_4="100" size_6="200" size_8="200" size_10="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6"></Linea>
+    <Linea Producto="MSPSH324202-BK1" Color="BK1" Cantidad="25" size_4="100" size_6="200" size_8="200" size_10="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="8"></Linea>
+  </Encabezado>
+</Sagemobile>

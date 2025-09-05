@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="181132" Cliente="0575" Nombre="Uldarico Parra" Fecha="17/08/2023" Tipo="1" Direccion="calle elice, entre av libertador y av francisco de miranda chacao, piso 2 edif helo " Direccion2="Venezuela Miranda Venezuela 00000" AgenteEmbarcador="" Observaciones="INTER MIAMI PLANETA SPORT FW23 Q4 MEN" ResponsablePedido="" ResponsableImportacion="" Contacto="Uldarico Parra" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MIATS523201-BK1" Color="BK1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="MIATS523201-WH1" Color="WH1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="MIATS523201-PK1" Color="PK1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="MIATS523202-BK1" Color="BK1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="MIATS523202-WH1" Color="WH1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="MIAHD523201-OW1" Color="OW1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="15"></Linea>
+    <Linea Producto="MIAHD523201-BK1" Color="BK1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="15"></Linea>
+    <Linea Producto="MIASH523201-BK1" Color="BK1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="11"></Linea>
+    <Linea Producto="MIASH523201-OW1" Color="OW1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="11"></Linea>
+    <Linea Producto="MIAPT523201-BK1" Color="BK1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="13"></Linea>
+    <Linea Producto="MIACA523201-BK1" Color="BK1" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7.5"></Linea>
+    <Linea Producto="MIACA523201-OW1" Color="OW1" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7.5"></Linea>
+  </Encabezado>
+</Sagemobile>

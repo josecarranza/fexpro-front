@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="178108" Cliente="LIVER" Nombre="Ana Paola COUOH" Fecha="07/07/2023" Tipo="1" Fecha_Entrega="07/07/2023" Direccion="AVENIDA VALLE DE LAS ALAMEDAS #7 FRACCIONAMIENTO INDUSTRIAL LECH " Direccion2="Mexico Estado de México MEXICO ESTADO DE MÉXICO TULTITLAN 54940 54940" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Ana Paola COUOH" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBACA324101BK1" Color="BK1" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="198.66379308333"></Linea>
+    <Linea Producto="NBACA324101DG1" Color="DG1" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="198.66379308333"></Linea>
+    <Linea Producto="MLBTS324107DG1" Color="DG1" Cantidad="14" size_4="28" size_6="56" size_8="56" size_10="56" size_12="56" size_14="56" size_16="28" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="179.698275875"></Linea>
+    <Linea Producto="MLBTS324107BL1" Color="BL1" Cantidad="14" size_4="28" size_6="56" size_8="56" size_10="56" size_12="56" size_14="56" size_16="28" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="179.698275875"></Linea>
+    <Linea Producto="MLBTS324107RD1" Color="RD1" Cantidad="14" size_4="28" size_6="56" size_8="56" size_10="56" size_12="56" size_14="56" size_16="28" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="179.698275875"></Linea>
+    <Linea Producto="MLBTS324107WH2" Color="WH2" Cantidad="14" size_4="28" size_6="56" size_8="56" size_10="56" size_12="56" size_14="56" size_16="28" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="179.698275875"></Linea>
+    <Linea Producto="MLBTS324107OG1" Color="OG1" Cantidad="14" size_4="28" size_6="56" size_8="56" size_10="56" size_12="56" size_14="56" size_16="28" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="179.698275875"></Linea>
+    <Linea Producto="NBATS324103BK1" Color="BK1" Cantidad="11" size_4="44" size_6="88" size_8="88" size_10="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="198.66379308333"></Linea>
+    <Linea Producto="NBATS324103PR1" Color="PR1" Cantidad="11" size_4="44" size_6="88" size_8="88" size_10="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="198.66379308333"></Linea>
+    <Linea Producto="NBPJS324101RD1" Color="RD1" Cantidad="11" size_4="44" size_6="88" size_8="88" size_10="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="307.71551725"></Linea>
+    <Linea Producto="NBPJS324101PR1" Color="PR1" Cantidad="11" size_4="44" size_6="88" size_8="88" size_10="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="307.71551725"></Linea>
+    <Linea Producto="NBAHD324101BK1" Color="BK1" Cantidad="11" size_4="44" size_6="88" size_8="88" size_10="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="426.25"></Linea>
+    <Linea Producto="NBAHD324101DG1" Color="DG1" Cantidad="11" size_4="44" size_6="88" size_8="88" size_10="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="402.54310345833"></Linea>
+    <Linea Producto="NBAPT324101BK1" Color="BK1" Cantidad="11" size_4="44" size_6="88" size_8="88" size_10="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="331.42241379167"></Linea>
+    <Linea Producto="NBAPT324101DG1" Color="DG1" Cantidad="11" size_4="44" size_6="88" size_8="88" size_10="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="331.42241379167"></Linea>
+    <Linea Producto="NBATS324104WH1" Color="WH1" Cantidad="11" size_4="22" size_6="44" size_8="44" size_10="44" size_12="44" size_14="44" size_16="22" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="165.47413791667"></Linea>
+    <Linea Producto="NBATS324104WH2" Color="WH2" Cantidad="11" size_4="22" size_6="44" size_8="44" size_10="44" size_12="44" size_14="44" size_16="22" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="165.47413791667"></Linea>
+    <Linea Producto="NBASH324103BK1" Color="BK1" Cantidad="11" size_10="44" size_12="88" size_14="88" size_16="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="265.04310345833"></Linea>
+    <Linea Producto="NBASH324103BK4" Color="BK4" Cantidad="11" size_10="44" size_12="88" size_14="88" size_16="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="265.04310345833"></Linea>
+    <Linea Producto="NBAST324101BK1" Color="BK1" Cantidad="11" size_4="44" size_6="88" size_8="88" size_10="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="426.25"></Linea>
+  </Encabezado>
+</Sagemobile>

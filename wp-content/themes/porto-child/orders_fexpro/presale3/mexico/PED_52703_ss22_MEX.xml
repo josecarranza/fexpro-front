@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="52703" Cliente="0463" Nombre="DANIEL DE LA CRUZ" Fecha="29/07/2021" Tipo="1" Fecha_Entrega="29/07/2021" Direccion="Boulevard Benito Juárez #10 " Direccion2="Mexico Estado de México Tultitlán de Mariano Escobedo 54900" Vendedor="01" AgenteEmbarcador="" Observaciones="PEDIDO PARA ENTREGA EN Q2 (Abril-Mayo 2022)" ResponsablePedido="" ResponsableImportacion="" Contacto="DANIEL DE LA CRUZ" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBTS52206BLU" Color="BLU" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="158.67"></Linea>
+    <Linea Producto="MLBTS520201BLU" Color="BLU" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="158.67"></Linea>
+    <Linea Producto="MLBTS520201NVY2" Color="NVY2" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="158.67"></Linea>
+    <Linea Producto="MLBTS62201WHT2" Color="WHT2" Cantidad="30" size_XS="120" size_S="240" size_M="240" size_L="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="158.67"></Linea>
+    <Linea Producto="MLBTS62201WHT" Color="WHT" Cantidad="30" size_XS="120" size_S="240" size_M="240" size_L="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="158.67"></Linea>
+    <Linea Producto="MLBTS62201NVY" Color="NVY" Cantidad="30" size_XS="120" size_S="240" size_M="240" size_L="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="158.67"></Linea>
+    <Linea Producto="NBATS52205BLK3" Color="BLK3" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="171.57"></Linea>
+    <Linea Producto="NBATS62201RED" Color="RED" Cantidad="30" size_XS="120" size_S="240" size_M="240" size_L="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="158.67"></Linea>
+  </Encabezado>
+</Sagemobile>

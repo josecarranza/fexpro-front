@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="177760" Cliente="0000" Nombre="ARTURO PACHECO" Fecha="24/06/2023" Tipo="1" Fecha_Entrega="24/06/2023" Direccion="SUPERMANZANA 63, MANZANA 6, LOTE 2, ENTRE CALLE 2 Y 4, COLONIA CENTRO " Direccion2="Mexico Quintana Roo CANCUN 77513" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="ARTURO PACHECO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBTS62207BLU" Color="BLU" Cantidad="3" size_XS="12" size_S="24" size_M="24" size_L="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBTS62207RED" Color="RED" Cantidad="3" size_XS="12" size_S="24" size_M="24" size_L="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBTS62207NVY" Color="NVY" Cantidad="3" size_XS="12" size_S="24" size_M="24" size_L="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="171.982758625"></Linea>
+  </Encabezado>
+</Sagemobile>

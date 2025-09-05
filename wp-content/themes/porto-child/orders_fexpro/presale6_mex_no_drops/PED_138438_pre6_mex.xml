@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="138438" Cliente="SEAR" Nombre="Alejandro Servin" Fecha="11/08/2022" Tipo="1" Fecha_Entrega="11/08/2022" Direccion="LAGO ZURICH 245 EDIFICIO PRESA FALCON PISO 9 " Direccion2="Mexico Ciudad de México CIUDAD DE MÉXICO 11529" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Alejandro Servin" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASL52035-BLK" Color="BLK" Cantidad="5" size_40="20" size_41="30" size_43="40" size_44="20" size_45="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="276.51592358333"></Linea>
+    <Linea Producto="NBASL52201-BLK" Color="BLK" Cantidad="15" size_7="60" size_8="90" size_9="120" size_10="60" size_11="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="276.51592358333"></Linea>
+    <Linea Producto="MLBSL523100-NVY" Color="NVY" Cantidad="15" size_7="60" size_8="90" size_9="120" size_10="60" size_11="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="276.51592358333"></Linea>
+    <Linea Producto="PSGSL522202-BLU" Color="BLU" Cantidad="5" size_40="20" size_41="30" size_43="40" size_44="20" size_45="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="276.51592358333"></Linea>
+    <Linea Producto="PSGSL522201-BLK" Color="BLK" Cantidad="5" size_40="20" size_41="30" size_43="40" size_44="20" size_45="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="276.51592358333"></Linea>
+    <Linea Producto="MLBSL522205-NVY" Color="NVY" Cantidad="15" size_40="60" size_41="90" size_43="120" size_44="60" size_45="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="276.51592358333"></Linea>
+    <Linea Producto="NBASL52108-PUR2" Color="PUR2" Cantidad="15" size_7="60" size_8="90" size_9="120" size_10="60" size_11="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="276.51592358333"></Linea>
+    <Linea Producto="NBASL52058-GRN" Color="GRN" Cantidad="15" size_7="60" size_8="90" size_9="120" size_10="60" size_11="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="276.51592358333"></Linea>
+    <Linea Producto="MLBSL52103-NVY" Color="NVY" Cantidad="15" size_7="60" size_8="90" size_9="120" size_10="60" size_11="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="276.51592358333"></Linea>
+  </Encabezado>
+</Sagemobile>

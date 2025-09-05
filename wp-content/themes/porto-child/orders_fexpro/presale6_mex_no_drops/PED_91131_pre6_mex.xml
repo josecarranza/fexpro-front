@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="91131" Cliente="0000" Nombre="TIENDAS CHAPUR SA DE CV" Fecha="07/12/2021" Tipo="1" Fecha_Entrega="07/12/2021" Direccion="CALLE 63 #474 ENTRE 54 Y 56 COL. CENTRO DIRECCION FISCAL" Direccion2="Mexico Yucatán MERIDA 97000" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="TIENDAS CHAPUR SA DE CV" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PSGJS52207-GRY" Color="GRY" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="301.29310345833"></Linea>
+    <Linea Producto="PSGJS52205-RED" Color="RED" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="301.29310345833"></Linea>
+    <Linea Producto="PSGTS52211-BLK" Color="BLK" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="223.70689654167"></Linea>
+    <Linea Producto="PSGTS52211-BLK1" Color="BLK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="223.70689654167"></Linea>
+    <Linea Producto="PSGTS52203-NVY" Color="NVY" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="215.08620691667"></Linea>
+    <Linea Producto="PSGSB52205-NVY" Color="NVY" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="258.18965516667"></Linea>
+    <Linea Producto="PSGSB52208-BLK" Color="BLK" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="258.18965516667"></Linea>
+    <Linea Producto="MLBTS52002-WHT" Color="WHT" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="322.84482758333"></Linea>
+    <Linea Producto="MLBTS520200-BLU2" Color="BLU2" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="197.84482758333"></Linea>
+    <Linea Producto="MLBTS520200-NVY2" Color="NVY2" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="197.84482758333"></Linea>
+    <Linea Producto="MLBTS520201-BLU" Color="BLU" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="197.84482758333"></Linea>
+    <Linea Producto="MLBTS520201-NVY" Color="NVY" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="197.84482758333"></Linea>
+    <Linea Producto="NBATS521000-BLK2" Color="BLK2" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="197.84482758333"></Linea>
+    <Linea Producto="NBATS521000-BLK" Color="BLK" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="197.84482758333"></Linea>
+    <Linea Producto="NBATS521000-ROY" Color="ROY" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="197.84482758333"></Linea>
+    <Linea Producto="NBATS520400-BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="197.84482758333"></Linea>
+    <Linea Producto="NBATS520400-WHT" Color="WHT" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="197.84482758333"></Linea>
+    <Linea Producto="JVJS522201-BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="3.6637930833333"></Linea>
+    <Linea Producto="JVJS522202-WHT" Color="WHT" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="3.8793103333333"></Linea>
+    <Linea Producto="MLBTS522205-NVY" Color="NVY" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="215.08620691667"></Linea>
+    <Linea Producto="MLBTS522209-NVY" Color="NVY" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="215.08620691667"></Linea>
+    <Linea Producto="MLBTS522209-RED" Color="RED" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="215.08620691667"></Linea>
+    <Linea Producto="MLBHD522205-NVY" Color="NVY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="495.25862070833"></Linea>
+    <Linea Producto="MLBHD522205-BLU" Color="BLU" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="495.25862070833"></Linea>
+    <Linea Producto="PSGSB52206-NVY" Color="NVY" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="258.18965516667"></Linea>
+  </Encabezado>
+</Sagemobile>

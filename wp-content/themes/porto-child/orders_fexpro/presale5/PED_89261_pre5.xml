@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="89261" Cliente="0001" Nombre="Samy Eskenazi" Fecha="02/12/2021" Tipo="1" Fecha_Entrega="02/12/2021" Direccion="0000 " Direccion2="Panama  PANAMA 0000" Vendedor="01" AgenteEmbarcador="" Observaciones="BASICS NFL FW´22 - TOVA CABALLERO" ResponsablePedido="" ResponsableImportacion="" Contacto="Samy Eskenazi" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NFLJS521000-RED" Color="RED" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-RED2" Color="RED2" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-AQU" Color="AQU" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-NVY" Color="NVY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-BLK2" Color="BLK2" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-BLK3" Color="BLK3" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-RED3" Color="RED3" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12.5"></Linea>
+    <Linea Producto="NFLTS521000-RED2" Color="RED2" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="6"></Linea>
+    <Linea Producto="NFLTS521000-BLK5" Color="BLK5" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="6"></Linea>
+    <Linea Producto="NFLTS521000-RED" Color="RED" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="6"></Linea>
+    <Linea Producto="NFLTS521000-AQU" Color="AQU" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="6"></Linea>
+    <Linea Producto="NFLTS521000-GRN" Color="GRN" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="6"></Linea>
+    <Linea Producto="NFLTS521000-NVY" Color="NVY" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="6"></Linea>
+    <Linea Producto="NFLTS521000-BLK" Color="BLK" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="6"></Linea>
+    <Linea Producto="NFLTS52209-NVY" Color="NVY" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="6"></Linea>
+    <Linea Producto="NFLTS52209-AQU" Color="AQU" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="6"></Linea>
+    <Linea Producto="NFLTS52209-BLK" Color="BLK" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="6"></Linea>
+    <Linea Producto="NFLTS52209-RED" Color="RED" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="6"></Linea>
+    <Linea Producto="NFLTS52209-RED2" Color="RED2" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="6"></Linea>
+    <Linea Producto="NFLTS52209-BLK4" Color="BLK4" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="6"></Linea>
+    <Linea Producto="NFLTS52209-BLK5" Color="BLK5" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="6"></Linea>
+    <Linea Producto="NFLTS52209 -NVY" Color="NVY" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="6"></Linea>
+    <Linea Producto="NFLSW52205-BLK" Color="BLK" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="12"></Linea>
+    <Linea Producto="NFLSW52205-NVY2" Color="NVY2" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="12"></Linea>
+    <Linea Producto="NFLSW52205-BLK4" Color="BLK4" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="12"></Linea>
+  </Encabezado>
+</Sagemobile>

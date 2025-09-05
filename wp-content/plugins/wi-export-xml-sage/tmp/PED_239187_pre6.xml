@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="239187" Cliente="0599" Nombre="Jomari Gonzales" Fecha="25/11/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="UNITS A AND B 22/F MENARCO TOWER 32ND STREET FORT BONIFACIO GLOBAL CITY 1634, TAGUIG CITY, NCR," Direccion2="Philippines Metro Manila FOURTH DISTRICT PHILIPPINES 55555555555" AgenteEmbarcador="" Observaciones="NBA TITAN FW25 Q3 COMPLEMENTO" ResponsablePedido="" ResponsableImportacion="" Contacto="Jomari Gonzales" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAHD521001-BLK2" Color="BLK2" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="15"></Linea>
+    <Linea Producto="NBAHD521001-ROY" Color="ROY" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="15"></Linea>
+  </Encabezado>
+</Sagemobile>

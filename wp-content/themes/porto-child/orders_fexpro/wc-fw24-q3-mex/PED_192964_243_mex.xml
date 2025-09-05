@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="192964" Cliente="FANTOWN" Nombre="Roberto Caballero" Fecha="15/12/2023" Tipo="1" Fecha_Entrega="15/12/2023" Direccion="Boulevard Independencia #1300, Col. Navarro Int. 212-A" Direccion2="Mexico Coahuila Torreón 27360" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Roberto Caballero" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBHD32001NVY" Color="NVY" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="365.948275875"></Linea>
+    <Linea Producto="MLBHD32001BLU" Color="BLU" Cantidad="2" size_4="4" size_6="8" size_8="8" size_10="8" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="365.948275875"></Linea>
+  </Encabezado>
+</Sagemobile>

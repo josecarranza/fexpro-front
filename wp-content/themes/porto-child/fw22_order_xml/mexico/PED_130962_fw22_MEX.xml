@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="130962" Cliente="0000" Nombre="rodolfo capetillo" Fecha="30/06/2022" Tipo="1" Fecha_Entrega="30/06/2022" Direccion="Boulevard Benito Juarez # 10 Mexico, Estado de Mexico, Tultitlan de Mariano Escobedo " Direccion2="Mexico Estado de México Estado de Mexico 54900" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="rodolfo capetillo" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASH321820RED" Color="RED" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="255.09775641667"></Linea>
+    <Linea Producto="NBASH321820YEL" Color="YEL" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="255.09775641667"></Linea>
+    <Linea Producto="NBASH321820ROY" Color="ROY" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="255.09775641667"></Linea>
+    <Linea Producto="NBATS321000PUR" Color="PUR" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="178.41506408333"></Linea>
+    <Linea Producto="NBATS321000RED" Color="RED" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="178.41506408333"></Linea>
+    <Linea Producto="NBATS321000WHT2" Color="WHT2" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="2.8116987083333"></Linea>
+    <Linea Producto="NBATT32205BLK2" Color="BLK2" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="285.77083333333"></Linea>
+    <Linea Producto="NBATT32205BLK3" Color="BLK3" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="285.77083333333"></Linea>
+    <Linea Producto="NBATT32205BLU" Color="BLU" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="285.77083333333"></Linea>
+    <Linea Producto="NBATT32205YEL" Color="YEL" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="285.77083333333"></Linea>
+    <Linea Producto="MLBJS320220WHT" Color="WHT" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="434.02403845833"></Linea>
+    <Linea Producto="MLBJS320220RED" Color="RED" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="434.02403845833"></Linea>
+    <Linea Producto="MLBSW32205NVY" Color="NVY" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="382.90224358333"></Linea>
+    <Linea Producto="MLBSW32205NVY2" Color="NVY2" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="382.90224358333"></Linea>
+    <Linea Producto="MLBTS320200BLK" Color="BLK" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="178.41506408333"></Linea>
+    <Linea Producto="MLBTS320208RED" Color="RED" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="178.41506408333"></Linea>
+  </Encabezado>
+</Sagemobile>

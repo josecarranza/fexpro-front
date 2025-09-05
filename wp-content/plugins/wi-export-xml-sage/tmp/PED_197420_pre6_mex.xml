@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="197420" Cliente="SEAR" Nombre="Alejandro Servin" Fecha="07/02/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="LAGO ZURICH 245 EDIFICIO PRESA FALCON PISO 9 " Direccion2="Mexico Ciudad de México CIUDAD DE MÉXICO 11529" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Alejandro Servin" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBSL524203BL1" Color="BL1" Cantidad="6" size_7="24" size_8="36" size_9="48" size_10="24" size_11="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="221.10191083333"></Linea>
+    <Linea Producto="MLBSL524203RD1" Color="RD1" Cantidad="6" size_7="24" size_8="36" size_9="48" size_10="24" size_11="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="221.10191083333"></Linea>
+    <Linea Producto="MLBSL524204NV1" Color="NV1" Cantidad="6" size_7="24" size_8="36" size_9="48" size_10="24" size_11="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="221.10191083333"></Linea>
+    <Linea Producto="MLBSL524207NV1" Color="NV1" Cantidad="8" size_7="32" size_8="48" size_9="64" size_10="32" size_11="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="165.68789808333"></Linea>
+    <Linea Producto="MLBSL524207RD1" Color="RD1" Cantidad="8" size_7="32" size_8="48" size_9="64" size_10="32" size_11="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="165.68789808333"></Linea>
+    <Linea Producto="NBASL524203BK1" Color="BK1" Cantidad="8" size_7="32" size_8="48" size_9="64" size_10="32" size_11="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="165.68789808333"></Linea>
+    <Linea Producto="NBASL524203BK3" Color="BK3" Cantidad="8" size_7="32" size_8="48" size_9="64" size_10="32" size_11="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="165.68789808333"></Linea>
+    <Linea Producto="NBASL524205RD1" Color="RD1" Cantidad="6" size_7="24" size_8="36" size_9="48" size_10="24" size_11="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="276.51592358333"></Linea>
+    <Linea Producto="NBASL524205BL1" Color="BL1" Cantidad="6" size_7="24" size_8="36" size_9="48" size_10="24" size_11="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="276.51592358333"></Linea>
+    <Linea Producto="NBASL524206BK2" Color="BK2" Cantidad="6" size_7="24" size_8="36" size_9="48" size_10="24" size_11="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="276.51592358333"></Linea>
+    <Linea Producto="MLBSL624202BK1" Color="BK1" Cantidad="4" size_36="8" size_37="16" size_38="24" size_39="24" size_40="16" size_41="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="193.39490445833"></Linea>
+    <Linea Producto="MLBSL624202WH1" Color="WH1" Cantidad="4" size_36="8" size_37="16" size_38="24" size_39="24" size_40="16" size_41="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="193.39490445833"></Linea>
+  </Encabezado>
+</Sagemobile>

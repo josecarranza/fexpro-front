@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:InventarioResponse xmlns:m="http://tempuri.org/">
+      <m:InventarioResult><Productos/>
+鴲䭁唀蠀oSageWebServices</m:InventarioResult>
+    </m:InventarioResponse>
+  </soap:Body>
+</soap:Envelope>

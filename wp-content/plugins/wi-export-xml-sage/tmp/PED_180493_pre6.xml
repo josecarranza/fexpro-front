@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="180493" Cliente="0453" Nombre="Ruperto Gallegos" Fecha="15/08/2023" Tipo="1" Direccion="GALO PLAZA LASSO N60-122 Y SANTA LUCIA " Direccion2="Ecuador Pichincha QUITO 170512" AgenteEmbarcador="" Observaciones="PEDIDO ETATEX INTER MIAMI KIDS Q4 2023" ResponsablePedido="" ResponsableImportacion="" Contacto="Ruperto Gallegos" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MIATS323201-BK1" Color="BK1" Cantidad="20" size_4="40" size_6="80" size_8="80" size_10="80" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="5"></Linea>
+    <Linea Producto="MIATS323201-WH1" Color="WH1" Cantidad="20" size_4="40" size_6="80" size_8="80" size_10="80" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="5"></Linea>
+    <Linea Producto="MIATS323201-PK1" Color="PK1" Cantidad="20" size_4="40" size_6="80" size_8="80" size_10="80" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="5"></Linea>
+    <Linea Producto="MIAHD323201-BK1" Color="BK1" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="11"></Linea>
+    <Linea Producto="MIASH323201-BK1" Color="BK1" Cantidad="13" size_4="26" size_6="52" size_8="52" size_10="52" size_12="52" size_14="52" size_16="26" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="9"></Linea>
+    <Linea Producto="MIAPT323201-BK1" Color="BK1" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="11"></Linea>
+  </Encabezado>
+</Sagemobile>

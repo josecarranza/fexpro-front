@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="91713" Cliente="LAMARINA" Nombre="Veronica Cervantes" Fecha="14/12/2021" Tipo="1" Fecha_Entrega="14/12/2021" Direccion="AVENIDA JOSE MERCED CABRERA COLONIA VILLA DE ALVAREZ COLIMA " Direccion2="Mexico Colima COLIMA 28989" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Veronica Cervantes" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="ATRPJ522201BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="426.25"></Linea>
+    <Linea Producto="ATRPJ522202GRY" Color="GRY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="378.836206875"></Linea>
+    <Linea Producto="KISPJ522202BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="378.836206875"></Linea>
+    <Linea Producto="NASPJ522201BLK" Color="BLK" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="426.25"></Linea>
+    <Linea Producto="NASPJ522202BLU" Color="BLU" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="378.836206875"></Linea>
+    <Linea Producto="PCPJ522201NVY" Color="NVY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="426.25"></Linea>
+    <Linea Producto="PCPJ522202LBL" Color="LBL" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="378.836206875"></Linea>
+    <Linea Producto="WWEPJ522202BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="378.836206875"></Linea>
+    <Linea Producto="" Color="" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="127.54310345833"></Linea>
+    <Linea Producto="ACSO522202GRY" Color="GRY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="94.353448291667"></Linea>
+    <Linea Producto="ATRSO522201BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="94.353448291667"></Linea>
+    <Linea Producto="ATRSO522202BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="127.54310345833"></Linea>
+    <Linea Producto="BABSO522201GRY" Color="GRY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="127.54310345833"></Linea>
+    <Linea Producto="CCSO522202RED" Color="RED" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="94.353448291667"></Linea>
+    <Linea Producto="CCSO522201BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="127.54310345833"></Linea>
+    <Linea Producto="FDSO522201GRY" Color="GRY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="127.54310345833"></Linea>
+    <Linea Producto="FDSO522202BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="94.353448291667"></Linea>
+    <Linea Producto="KISSO522202BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="127.54310345833"></Linea>
+    <Linea Producto="KISSO522201NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="94.353448291667"></Linea>
+    <Linea Producto="NASSO522201NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="127.54310345833"></Linea>
+    <Linea Producto="NASSO522202BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="94.353448291667"></Linea>
+    <Linea Producto="PCSO522201NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="127.54310345833"></Linea>
+    <Linea Producto="PCSO522202NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="94.353448291667"></Linea>
+    <Linea Producto="SOUSO522202BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="94.353448291667"></Linea>
+    <Linea Producto="GFSO522201RED" Color="RED" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="94.353448291667"></Linea>
+    <Linea Producto="TGSO522201BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="127.54310345833"></Linea>
+    <Linea Producto="TGSO522202NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="94.353448291667"></Linea>
+    <Linea Producto="WWESO522201BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="127.54310345833"></Linea>
+    <Linea Producto="WWESO522202GRY" Color="GRY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="94.353448291667"></Linea>
+    <Linea Producto="ACBX522201GRY" Color="GRY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="265.04310345833"></Linea>
+    <Linea Producto="ATRBX522201BLU" Color="BLU" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="265.04310345833"></Linea>
+    <Linea Producto="ATRBX522202NVY" Color="NVY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="265.04310345833"></Linea>
+    <Linea Producto="FDBX522202GRY" Color="GRY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="236.59482758333"></Linea>
+    <Linea Producto="KISBX522202BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="265.04310345833"></Linea>
+    <Linea Producto="KISBX522201BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="265.04310345833"></Linea>
+    <Linea Producto="PCBX522201LBL" Color="LBL" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="236.59482758333"></Linea>
+  </Encabezado>
+</Sagemobile>

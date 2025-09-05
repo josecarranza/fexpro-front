@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="154767" Cliente="0514" Nombre="Gonzalo Escobar" Fecha="02/12/2022" Tipo="1" Direccion="AV LO ESPEJO 01565 " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Gonzalo Escobar" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBHD323204-BK1" Color="BK1" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="14"></Linea>
+    <Linea Producto="MLBHD323204-NV1" Color="NV1" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="14"></Linea>
+    <Linea Producto="MLBHD323204-RD1" Color="RD1" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="14"></Linea>
+    <Linea Producto="MLBJP323203-BK1" Color="BK1" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="10.5"></Linea>
+    <Linea Producto="MLBJP323203-NV1" Color="NV1" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="10.5"></Linea>
+    <Linea Producto="MLBJP323203-NV2" Color="NV2" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="10.5"></Linea>
+    <Linea Producto="MLBSH323201-BK1" Color="BK1" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="10"></Linea>
+    <Linea Producto="MLBSH323201-NV1" Color="NV1" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="10"></Linea>
+    <Linea Producto="MLBSH323201-NV2" Color="NV2" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="10"></Linea>
+    <Linea Producto="MLBTS323208-NV2" Color="NV2" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="5.5"></Linea>
+    <Linea Producto="MLBTS323208-WH3" Color="WH3" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="5.5"></Linea>
+    <Linea Producto="MLBTT323201-BK1" Color="BK1" Cantidad="16" size_4="32" size_6="64" size_8="64" size_10="64" size_12="64" size_14="64" size_16="32" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="10"></Linea>
+    <Linea Producto="MLBTT323201-NV2" Color="NV2" Cantidad="16" size_4="32" size_6="64" size_8="64" size_10="64" size_12="64" size_14="64" size_16="32" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="10"></Linea>
+    <Linea Producto="MLBTT323201-NV1" Color="NV1" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="10"></Linea>
+    <Linea Producto="MLBTT323201-RD1" Color="RD1" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="10"></Linea>
+  </Encabezado>
+</Sagemobile>

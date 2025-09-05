@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="59132" Cliente="0000" Nombre="julio de la peña" Fecha="16/08/2021" Tipo="1" Fecha_Entrega="16/08/2021" Direccion="503 SCARONI AVENUE " Direccion2="United States (US) California CALEXICO 92231" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="julio de la peña" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="ACSO52202-BLK" Color="BLK" Cantidad="209" size_OS="5016" Unit_Box_Qty="24" Total_Box_Qty="5016" Precio="2.5"></Linea>
+    <Linea Producto="COCSO52202-BLK" Color="BLK" Cantidad="209" size_OS="5016" Unit_Box_Qty="24" Total_Box_Qty="5016" Precio="2.5"></Linea>
+    <Linea Producto="NASSO52202-BLU" Color="BLU" Cantidad="209" size_OS="5016" Unit_Box_Qty="24" Total_Box_Qty="5016" Precio="2.5"></Linea>
+    <Linea Producto="PCSO52202-NVY" Color="NVY" Cantidad="209" size_OS="5016" Unit_Box_Qty="24" Total_Box_Qty="5016" Precio="2.5"></Linea>
+    <Linea Producto="PWSO52202-NVY" Color="NVY" Cantidad="209" size_OS="5016" Unit_Box_Qty="24" Total_Box_Qty="5016" Precio="2.5"></Linea>
+    <Linea Producto="SOUSO52202-NVY" Color="NVY" Cantidad="209" size_OS="5016" Unit_Box_Qty="24" Total_Box_Qty="5016" Precio="2.5"></Linea>
+    <Linea Producto="WWESO52202-BLK" Color="BLK" Cantidad="209" size_OS="5016" Unit_Box_Qty="24" Total_Box_Qty="5016" Precio="2.5"></Linea>
+    <Linea Producto="NBASO52201-BLK" Color="BLK" Cantidad="105" size_OS="2520" Unit_Box_Qty="24" Total_Box_Qty="2520" Precio="3"></Linea>
+    <Linea Producto="NBASO52203-BLK" Color="BLK" Cantidad="105" size_OS="2520" Unit_Box_Qty="24" Total_Box_Qty="2520" Precio="3"></Linea>
+  </Encabezado>
+</Sagemobile>

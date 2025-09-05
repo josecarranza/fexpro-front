@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="181494" Cliente="0000" Nombre="Juan Lopez" Fecha="29/08/2023" Tipo="1" Direccion="AVENIDA IMPERIO SUR 49 COLONIA LA EXPERIENCIA" Direccion2="Mexico Jalisco ZAPOPAN 45198" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Juan Lopez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBBK523102NVY3" Color="NVY3" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="421.50862070833"></Linea>
+    <Linea Producto="MLBDB523104BLK" Color="BLK" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="321.93965516667"></Linea>
+    <Linea Producto="PSGBK523103NVY" Color="NVY" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="331.42241379167"></Linea>
+    <Linea Producto="PSGBK523104BLK" Color="BLK" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="378.83620691667"></Linea>
+    <Linea Producto="PSGDB523104NVY" Color="NVY" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="321.93965516667"></Linea>
+    <Linea Producto="PSGMB523101NVY" Color="NVY" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="222.37068966667"></Linea>
+    <Linea Producto="PSGFB523105NVY" Color="NVY" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="2.8448275833333"></Linea>
+    <Linea Producto="MLBTS524102BK1" Color="BK1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="189.1810345"></Linea>
+    <Linea Producto="MLBTS524102WH2" Color="WH2" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="189.1810345"></Linea>
+    <Linea Producto="MLBTS524102BL1" Color="BL1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="189.1810345"></Linea>
+  </Encabezado>
+</Sagemobile>

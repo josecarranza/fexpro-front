@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="181541" Cliente="0458" Nombre="Paulina Valderrama" Fecha="31/08/2023" Tipo="1" Direccion="AV. KENNEDY 9001, LAS CONDES SANTIAGO, CHILE 7560356 PISO 4" Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 56" AgenteEmbarcador="" Observaciones="PARIS CHILE - NBA KIDS - TEENS TIENDA SS24 Q2" ResponsablePedido="" ResponsableImportacion="" Contacto="Paulina Valderrama" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS324106-BK1" Color="BK1" Cantidad="13" size_4="52" size_6="104" size_8="104" size_10="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="5"></Linea>
+    <Linea Producto="NBALS324101-RD1" Color="RD1" Cantidad="23" size_4="92" size_6="184" size_8="184" size_10="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="5.5"></Linea>
+    <Linea Producto="NBAHD324103-BK1" Color="BK1" Cantidad="13" size_4="52" size_6="104" size_8="104" size_10="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="12"></Linea>
+    <Linea Producto="NBAHD324103-BK2" Color="BK2" Cantidad="8" size_4="32" size_6="64" size_8="64" size_10="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="12"></Linea>
+    <Linea Producto="NBAPT324103-BK1" Color="BK1" Cantidad="13" size_4="52" size_6="104" size_8="104" size_10="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="10"></Linea>
+    <Linea Producto="NBAPT324103-BK2" Color="BK2" Cantidad="8" size_4="32" size_6="64" size_8="64" size_10="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="10"></Linea>
+    <Linea Producto="NBATS324108-BK1" Color="BK1" Cantidad="18" size_10="72" size_12="144" size_14="144" size_16="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="5.5"></Linea>
+    <Linea Producto="NBALS324102-BK1" Color="BK1" Cantidad="13" size_10="52" size_12="104" size_14="104" size_16="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="5.5"></Linea>
+    <Linea Producto="NBAHD324106-RD1" Color="RD1" Cantidad="8" size_10="32" size_12="64" size_14="64" size_16="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="12"></Linea>
+    <Linea Producto="NBAHD324106-BK1" Color="BK1" Cantidad="8" size_10="32" size_12="64" size_14="64" size_16="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="12"></Linea>
+    <Linea Producto="NBAPT324104-BK1" Color="BK1" Cantidad="13" size_10="52" size_12="104" size_14="104" size_16="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="11.5"></Linea>
+    <Linea Producto="NBAPT324104-BK2" Color="BK2" Cantidad="8" size_10="32" size_12="64" size_14="64" size_16="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="11.5"></Linea>
+    <Linea Producto="NBAHD324105-BK1" Color="BK1" Cantidad="18" size_4="36" size_6="72" size_8="72" size_10="72" size_12="72" size_14="72" size_16="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="11"></Linea>
+    <Linea Producto="NBAHD324105-RD1" Color="RD1" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="11"></Linea>
+    <Linea Producto="NBAHD324105-BK3" Color="BK3" Cantidad="18" size_4="36" size_6="72" size_8="72" size_10="72" size_12="72" size_14="72" size_16="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="11"></Linea>
+    <Linea Producto="NBAHD324105-GY2" Color="GY2" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="11"></Linea>
+  </Encabezado>
+</Sagemobile>

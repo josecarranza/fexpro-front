@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="192822" Cliente="0487" Nombre="deprati" Fecha="13/12/2023" Tipo="1" Fecha_Entrega="15/05/2024" Direccion="Ecuador " Direccion2="Panama Colón Ecuador 111201" AgenteEmbarcador="" Observaciones="DEPRATI KIDS Q3 FW24" ResponsablePedido="evelyn ortiz" ResponsableImportacion="" Contacto="evelyn ortiz" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS324203-BK3" Color="BK3" Cantidad="6" size_4="24" size_6="48" size_8="48" size_10="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="5"></Linea>
+    <Linea Producto="NBAPT324202-BK2" Color="BK2" Cantidad="6" size_4="24" size_6="48" size_8="48" size_10="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10"></Linea>
+    <Linea Producto="NBAHD324202-BK2" Color="BK2" Cantidad="6" size_4="24" size_6="48" size_8="48" size_10="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="12"></Linea>
+    <Linea Producto="NBATS724203-WH1" Color="WH1" Cantidad="6" size_10="24" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="5.5"></Linea>
+    <Linea Producto="NBATS724203-BK2" Color="BK2" Cantidad="5" size_10="20" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="5.5"></Linea>
+    <Linea Producto="NBASH724202-BK1" Color="BK1" Cantidad="4" size_10="16" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9"></Linea>
+    <Linea Producto="NBASH724202-BK2" Color="BK2" Cantidad="4" size_10="16" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9"></Linea>
+    <Linea Producto="NBAHD724202-BK1" Color="BK1" Cantidad="6" size_10="24" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="12"></Linea>
+    <Linea Producto="MLBTS320200-BLU2" Color="BLU2" Cantidad="5" size_4="10" size_6="20" size_8="20" size_10="20" size_12="20" size_14="20" size_16="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6"></Linea>
+    <Linea Producto="MLBTS320200-NVY" Color="NVY" Cantidad="5" size_4="10" size_6="20" size_8="20" size_10="20" size_12="20" size_14="20" size_16="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6"></Linea>
+    <Linea Producto="MLBHD324204-BK1" Color="BK1" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="11"></Linea>
+    <Linea Producto="BCJS323108-NVY" Color="NVY" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6.5"></Linea>
+  </Encabezado>
+</Sagemobile>

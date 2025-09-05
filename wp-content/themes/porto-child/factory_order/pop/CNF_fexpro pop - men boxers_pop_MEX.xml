@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sage>
+  <Confirmacion Cia="08" NoConfirm="Fexpro POP - MEN Boxers" Fecha="30/09/2021" Suplidor="" Temporada="212" FechaEntrega="30/09/2021" FechaEmbarque="05/10/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021">
+    <Linea Producto="COCBX52102RED" Color="RED" size_S="64" size_M="128" size_L="128" size_XL="64" Total_Box_Qty="384" Costo="3.27" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCBX52101BLK" Color="BLK" size_S="64" size_M="128" size_L="128" size_XL="64" Total_Box_Qty="384" Costo="3.80" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SOPBX52102BLU" Color="BLU" size_S="64" size_M="128" size_L="128" size_XL="64" Total_Box_Qty="384" Costo="3.74" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="ACBX52102BLK" Color="BLK" size_S="64" size_M="128" size_L="128" size_XL="64" Total_Box_Qty="384" Costo="3.27" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="KISBX52102DGRY" Color="DGRY" size_S="64" size_M="128" size_L="128" size_XL="64" Total_Box_Qty="384" Costo="3.53" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="TWBX52101NVY" Color="NVY" size_S="64" size_M="128" size_L="128" size_XL="64" Total_Box_Qty="384" Costo="4.30" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="ACBX52101BLK" Color="BLK" size_S="36" size_M="72" size_L="72" size_XL="36" Total_Box_Qty="216" Costo="3.80" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+  </Confirmacion>
+</Sage>

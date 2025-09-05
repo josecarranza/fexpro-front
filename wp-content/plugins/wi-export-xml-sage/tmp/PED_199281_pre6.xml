@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="199281" Cliente="0459" Nombre="Rodrigo Sepulveda" Fecha="14/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AMÉRICO VESPUCIO SUR N° 866 " Direccion2="Chile Región Metropolitana de Santiago LAS CONDES - SANTIAGO 7550000" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Rodrigo Sepulveda" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="HHSS3264-CBUYYPPPRDBK" Color="CBUYYPPPRDBK" Cantidad="183" size_OS="1098" Unit_Box_Qty="6" Total_Box_Qty="1098" Precio="10"></Linea>
+    <Linea Producto="HHSS3264-MHEYYPPPBKRD" Color="MHEYYPPPBKRD" Cantidad="183" size_OS="1098" Unit_Box_Qty="6" Total_Box_Qty="1098" Precio="10"></Linea>
+    <Linea Producto="HHSS3264-TRAYYPPPBKRD" Color="TRAYYPPPBKRD" Cantidad="50" size_OS="300" Unit_Box_Qty="6" Total_Box_Qty="300" Precio="10"></Linea>
+    <Linea Producto="HHSS3267-CBUYYPPPRDBK" Color="CBUYYPPPRDBK" Cantidad="183" size_OS="1098" Unit_Box_Qty="6" Total_Box_Qty="1098" Precio="10"></Linea>
+    <Linea Producto="HP8446-IMCBLCK" Color="IMCBLCK" Cantidad="183" size_OS="1098" Unit_Box_Qty="6" Total_Box_Qty="1098" Precio="10"></Linea>
+    <Linea Producto="HS8445-IMCBLCK" Color="IMCBLCK" Cantidad="183" size_OS="1098" Unit_Box_Qty="6" Total_Box_Qty="1098" Precio="10"></Linea>
+    <Linea Producto="HHSS3256-BNEYYPPPBLCK" Color="BNEYYPPPBLCK" Cantidad="183" size_OS="1098" Unit_Box_Qty="6" Total_Box_Qty="1098" Precio="10"></Linea>
+    <Linea Producto="HHSS3256-LALYYPPPPURP" Color="LALYYPPPPURP" Cantidad="100" size_OS="600" Unit_Box_Qty="6" Total_Box_Qty="600" Precio="10"></Linea>
+    <Linea Producto="HHSS3256-MHEYYPPPMARO" Color="MHEYYPPPMARO" Cantidad="183" size_OS="1098" Unit_Box_Qty="6" Total_Box_Qty="1098" Precio="10"></Linea>
+    <Linea Producto="HHSS3258-TRAYYPPPPURP" Color="TRAYYPPPPURP" Cantidad="50" size_OS="300" Unit_Box_Qty="6" Total_Box_Qty="300" Precio="10"></Linea>
+    <Linea Producto="HHSS4538-ORAYYPPPBLCK" Color="ORAYYPPPBLCK" Cantidad="183" size_OS="1098" Unit_Box_Qty="6" Total_Box_Qty="1098" Precio="10"></Linea>
+    <Linea Producto="HHSS2976-BCEYYPPPBLCK" Color="BCEYYPPPBLCK" Cantidad="150" size_OS="900" Unit_Box_Qty="6" Total_Box_Qty="900" Precio="10"></Linea>
+    <Linea Producto="HHSS2976-CBUYYPPPBLCK" Color="CBUYYPPPBLCK" Cantidad="183" size_OS="1098" Unit_Box_Qty="6" Total_Box_Qty="1098" Precio="10"></Linea>
+    <Linea Producto="HHSS2976-LALYYPPPBLCK" Color="LALYYPPPBLCK" Cantidad="183" size_OS="1098" Unit_Box_Qty="6" Total_Box_Qty="1098" Precio="10"></Linea>
+  </Encabezado>
+</Sagemobile>

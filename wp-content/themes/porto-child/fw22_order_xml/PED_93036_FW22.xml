@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="93036" Cliente="0451" Nombre="Felipe Orellana" Fecha="22/12/2021" Tipo="1" Fecha_Entrega="22/12/2021" Direccion="MANUEL RODRIGUEZ 730 " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO CENTRO " Vendedor="01" AgenteEmbarcador="" Observaciones="FALABELLA NAME AND NUMBER FW22&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Felipe Orellana" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBCT622202-AQA" Color="AQA" Cantidad="37" size_S="148" size_M="296" size_L="296" size_XL="148" Unit_Box_Qty="24" Total_Box_Qty="888" Precio="12"></Linea>
+    <Linea Producto="NBATT522222-PUR" Color="PUR" Cantidad="37" size_S="148" size_M="296" size_L="296" size_XL="148" Unit_Box_Qty="24" Total_Box_Qty="888" Precio="12"></Linea>
+    <Linea Producto="NBATT522222-BLU" Color="BLU" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12"></Linea>
+    <Linea Producto="NBATT522222-GRN" Color="GRN" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="12"></Linea>
+    <Linea Producto="NBATT522222-GRY" Color="GRY" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="12"></Linea>
+  </Encabezado>
+</Sagemobile>

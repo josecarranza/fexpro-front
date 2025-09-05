@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="199418" Cliente="0514" Nombre="Gonzalo Escobar" Fecha="01/04/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AV LO ESPEJO 01565 " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Gonzalo Escobar" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBACA524216-OW1" Color="OW1" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8.5"></Linea>
+    <Linea Producto="NBACA524216-OW2" Color="OW2" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8.5"></Linea>
+    <Linea Producto="NBACA524217-NV4" Color="NV4" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8.5"></Linea>
+    <Linea Producto="NBACA524216-NV2" Color="NV2" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-GRY" Color="GRY" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-BLU4" Color="BLU4" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-BLK4" Color="BLK4" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500005-BL1" Color="BL1" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8"></Linea>
+    <Linea Producto="NBACA500005-BK4" Color="BK4" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8"></Linea>
+    <Linea Producto="NBACA500005-GY1" Color="GY1" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8"></Linea>
+    <Linea Producto="NBACA500005-BK5" Color="BK5" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8"></Linea>
+    <Linea Producto="NBACA500005-GN1" Color="GN1" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8"></Linea>
+    <Linea Producto="NBACA500005-NV1" Color="NV1" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8"></Linea>
+    <Linea Producto="NBACA500013-PR1" Color="PR1" Cantidad="6" size_S-M="72" size_L-XL="72" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500013-BL2" Color="BL2" Cantidad="6" size_S-M="72" size_L-XL="72" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8.5"></Linea>
+  </Encabezado>
+</Sagemobile>

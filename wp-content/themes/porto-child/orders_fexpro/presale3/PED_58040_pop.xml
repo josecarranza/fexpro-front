@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="58040" Cliente="0002" Nombre="Tzaji Levy" Fecha="09/08/2021" Tipo="1" Fecha_Entrega="09/08/2021" Direccion="ALBROOK MALL " Direccion2="Panama  panama 0801" Vendedor="01" AgenteEmbarcador="" Observaciones="PIJAMAS POP SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="Tzaji Levy" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PCPJ52201-BLU" Color="BLU" Cantidad="7" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="10"></Linea>
+    <Linea Producto="SOPPJ52201-NVY" Color="NVY" Cantidad="7" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="10"></Linea>
+    <Linea Producto="NASPJ52201-BLK" Color="BLK" Cantidad="7" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="10"></Linea>
+    <Linea Producto="COCPJ52201-BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="10"></Linea>
+    <Linea Producto="STFPJ52201-GRY" Color="GRY" Cantidad="7" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="10"></Linea>
+    <Linea Producto="PWPJ52201-NVY" Color="NVY" Cantidad="7" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="10"></Linea>
+    <Linea Producto="BBHPJ52201-GRY" Color="GRY" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="10"></Linea>
+    <Linea Producto="TRPJ52201-BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="10"></Linea>
+  </Encabezado>
+</Sagemobile>

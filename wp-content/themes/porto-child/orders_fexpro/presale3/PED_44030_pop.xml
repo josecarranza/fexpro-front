@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="44030" Cliente="0000" Nombre="Guillermo Rodriguez" Fecha="21/07/2021" Tipo="1" Fecha_Entrega="21/07/2021" Direccion="Avenida Cañaveral 1090, Quilicura Región Metropolitana" Direccion2="Chile  Santiago " Vendedor="01" AgenteEmbarcador="" Observaciones="G2 HOMBRE POP - PACMAN" ResponsablePedido="" ResponsableImportacion="" Contacto="Guillermo Rodriguez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="" Color="" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="12"></Linea>
+  </Encabezado>
+</Sagemobile>

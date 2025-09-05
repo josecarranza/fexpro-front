@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="216133" Cliente="0418" Nombre="Ignacia Caulier" Fecha="12/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="KENNEDY 5413 PISO 6, LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 7550000" AgenteEmbarcador="" Observaciones="RIPLEY CHILE - KIDS CORE SS25 Q1" ResponsablePedido="" ResponsableImportacion="" Contacto="Ignacia Caulier" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBTS32002-WHT" Color="WHT" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="9"></Linea>
+    <Linea Producto="BCJS32203-BLU" Color="BLU" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="7.5"></Linea>
+    <Linea Producto="BCHD323103-NVY" Color="NVY" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="12"></Linea>
+    <Linea Producto="RMHD323104-BLK" Color="BLK" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="12"></Linea>
+  </Encabezado>
+</Sagemobile>

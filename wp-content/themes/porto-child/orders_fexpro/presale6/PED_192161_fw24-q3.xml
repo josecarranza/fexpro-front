@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="192161" Cliente="0001" Nombre="Oren Shabetay" Fecha="29/11/2023" Tipo="1" Fecha_Entrega="29/11/2023" Direccion="Grupo Tova Grupo Tova" Direccion2="Panama Panamá Panama 9999" Vendedor="01" AgenteEmbarcador="" Observaciones="NBA GORRAS TOVA Q3 FW24" ResponsablePedido="" ResponsableImportacion="" Contacto="Oren Shabetay" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBACA524223-BK1" Color="BK1" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8.5"></Linea>
+    <Linea Producto="NBACA524223-BK2" Color="BK2" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8.5"></Linea>
+    <Linea Producto="NBACA524223-BK3" Color="BK3" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8.5"></Linea>
+    <Linea Producto="NBACA524220-RD1" Color="RD1" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="9.5"></Linea>
+    <Linea Producto="NBACA524220-PR1" Color="PR1" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="9.5"></Linea>
+    <Linea Producto="NBACA524222-BK1" Color="BK1" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8"></Linea>
+    <Linea Producto="NBACA524222-OW1" Color="OW1" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8"></Linea>
+    <Linea Producto="NBACA524222-RD1" Color="RD1" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8"></Linea>
+    <Linea Producto="NBACA524206-PR1" Color="PR1" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8.5"></Linea>
+    <Linea Producto="NBACA524206-RD1" Color="RD1" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8.5"></Linea>
+    <Linea Producto="NBACA524206-GN1" Color="GN1" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8.5"></Linea>
+    <Linea Producto="NBACA524221-BK1" Color="BK1" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9.5"></Linea>
+    <Linea Producto="NBACA524221-BK2" Color="BK2" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9.5"></Linea>
+    <Linea Producto="NBACA524221-BK4" Color="BK4" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9.5"></Linea>
+    <Linea Producto="NBACA524221-BK5" Color="BK5" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9.5"></Linea>
+  </Encabezado>
+</Sagemobile>

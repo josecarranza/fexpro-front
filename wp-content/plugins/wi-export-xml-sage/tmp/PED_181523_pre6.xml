@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="181523" Cliente="0445" Nombre="Samantha Feijoo" Fecha="30/08/2023" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Av. Galo Plaza Lasso 13205 y de los Cerezos " Direccion2="Ecuador Pichincha Quito 170303" AgenteEmbarcador="" Observaciones="MLB KIDS MARATHON SS24 Q2" ResponsablePedido="" ResponsableImportacion="" Contacto="Samantha Feijoo" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBTS32002-WHT" Color="WHT" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="9"></Linea>
+    <Linea Producto="MLBJS320220-WHT" Color="WHT" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="12.5"></Linea>
+    <Linea Producto="MLBJS320220-BLU" Color="BLU" Cantidad="4" size_4="8" size_6="16" size_8="16" size_10="16" size_12="16" size_14="16" size_16="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="12.5"></Linea>
+    <Linea Producto="MLBTS324102-NV1" Color="NV1" Cantidad="4" size_4="16" size_6="32" size_8="32" size_10="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="5"></Linea>
+    <Linea Producto="MLBTS324102-WH2" Color="WH2" Cantidad="4" size_4="16" size_6="32" size_8="32" size_10="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="5"></Linea>
+    <Linea Producto="MLBHD324102-NV1" Color="NV1" Cantidad="4" size_4="16" size_6="32" size_8="32" size_10="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="12"></Linea>
+    <Linea Producto="MLBHD324102-BK1" Color="BK1" Cantidad="4" size_4="16" size_6="32" size_8="32" size_10="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="12"></Linea>
+    <Linea Producto="MLBPT324102-NV1" Color="NV1" Cantidad="4" size_4="16" size_6="32" size_8="32" size_10="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="10"></Linea>
+    <Linea Producto="MLBTS324106-WH1" Color="WH1" Cantidad="4" size_10="16" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="5"></Linea>
+    <Linea Producto="MLBTS324106-LB1" Color="LB1" Cantidad="4" size_10="16" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="5"></Linea>
+  </Encabezado>
+</Sagemobile>

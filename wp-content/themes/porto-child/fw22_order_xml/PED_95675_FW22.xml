@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="95675" Cliente="0002" Nombre="Tzaji Levy" Fecha="03/01/2022" Tipo="1" Fecha_Entrega="03/01/2022" Direccion="ALBROOK MALL " Direccion2="Panama  panama 0801" Vendedor="01" AgenteEmbarcador="" Observaciones="COLLECTION MLB MEN / KIDS KADIMA" ResponsablePedido="" ResponsableImportacion="" Contacto="Tzaji Levy" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="RMBX522201-NVY" Color="NVY" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS522201-AQA" Color="AQA" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS522201-BLK" Color="BLK" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS522201-BLK1" Color="BLK1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS522201-BUR" Color="BUR" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS522201-NVY" Color="NVY" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS522201-RED" Color="RED" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="12.5"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="136152" Cliente="GARDEA" Nombre="Rubi Mendoza" Fecha="08/07/2022" Tipo="1" Fecha_Entrega="08/07/2022" Direccion="CALLE LIBERTAD 1205. COL. CENTRO " Direccion2="Mexico Chihuahua CHIHUAHUA 31000" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Rubi Mendoza" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASB321201-RED" Color="RED" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="189.1810345"></Linea>
+    <Linea Producto="NBASB321201-BLK" Color="BLK" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="189.1810345"></Linea>
+    <Linea Producto="NBASB321201-BLK2" Color="BLK2" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="189.1810345"></Linea>
+    <Linea Producto="NBASB321201-BLK3" Color="BLK3" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="189.1810345"></Linea>
+    <Linea Producto="NBASB321201-BLU" Color="BLU" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="189.1810345"></Linea>
+    <Linea Producto="NBASB321201-GRN" Color="GRN" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="189.1810345"></Linea>
+    <Linea Producto="NBASB321201-BLK6" Color="BLK6" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="189.1810345"></Linea>
+    <Linea Producto="NBASB321204-BLK" Color="BLK" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="189.1810345"></Linea>
+    <Linea Producto="NBASB321204-RED" Color="RED" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="189.1810345"></Linea>
+    <Linea Producto="NBASB321204-BLK2" Color="BLK2" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="189.1810345"></Linea>
+    <Linea Producto="NBASB321204-BLK3" Color="BLK3" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="189.1810345"></Linea>
+    <Linea Producto="NBASB321204-BLK4" Color="BLK4" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="189.1810345"></Linea>
+    <Linea Producto="NBASB321204-BLU" Color="BLU" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="189.1810345"></Linea>
+  </Encabezado>
+</Sagemobile>

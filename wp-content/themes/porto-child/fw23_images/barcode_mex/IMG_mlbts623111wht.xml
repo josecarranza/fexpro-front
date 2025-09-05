@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sage>
+  <Imagenes Producto="MLSCA500003BK1" MainImage="MLSCA500003-BK1.png">
+    <Secondary Archivo="MLSCA500003-BK1-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="MLSCA500002BK1" MainImage="MLSCA500002-BK1.png">
+    <Secondary Archivo="MLSCA500002-BK1-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="BCNCA300001BU1" MainImage="BCNCA500001-BU1.png">
+    <Secondary Archivo="BCNCA500001-BU1-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="BCNCA300001NV3" MainImage="BCNCA500001-NV3.png">
+    <Secondary Archivo="BCNCA500001-NV3-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="RMDCA300001BK2" MainImage="RMDCA500001-BK2.png">
+    <Secondary Archivo="RMDCA500001-BK2-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="RMDCA300001NV2" MainImage="RMDCA500001-NV2.png">
+    <Secondary Archivo="RMDCA500001-NV2-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGCA300001OW1" MainImage="PSGCA500001-OW1.png">
+    <Secondary Archivo="PSGCA500001-OW1-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="MLBHD600001GY1" MainImage="MLBHD600001-GY1-1.png">
+    <Secondary Archivo="MLBHD600001-GY1-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="MLBHD600001NV1" MainImage="MLBHD600001-NV1-1.png">
+    <Secondary Archivo="MLBHD600001-NV1-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="MLBCT600001NV1" MainImage="MLBCT600001-NV1-1.png">
+    <Secondary Archivo="MLBCT600001-NV1-back-1.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="MLBCT600001WH1" MainImage="MLBCT600001-WH1-1.png">
+    <Secondary Archivo="MLBCT600001-WH1-back-1.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAPT600002BK3" MainImage="NBAPT600002-BK3.png">
+    <Secondary Archivo="NBAPT600002-BK3-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASH600001DG1" MainImage="NBASH600001-DG1-1.png">
+    <Secondary Archivo="NBASH600001-DG1-back-1.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASW600001OW1" MainImage="NBASW600001-OW1-1.png">
+    <Secondary Archivo="NBASW600001-OW1-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASW600001PR1" MainImage="NBASW600001-PR1-1.png">
+    <Secondary Archivo="NBASW600001-PR1-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASW600001GY1" MainImage="NBASW600001-GY1-1.png">
+    <Secondary Archivo="NBASW600001-GY1-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATT600001RD1" MainImage="NBATT600001-RD1.png">
+    <Secondary Archivo="NBATT600001-RD1-back.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS600001BK1" MainImage="NBATS600001-BK1-1.png">
+    <Secondary Archivo="NBATS600001-BK2-back-1.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBACT600001PR1" MainImage="NBACT600001-PR1-1.png">
+    <Secondary Archivo="NBACT600001-PR1-back-1.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBACT600001OW1" MainImage="NBACT600001-OW1-1.png">
+    <Secondary Archivo="NBACT600001-OW1-back-1.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBACA600002BK3" MainImage="NBACA600002-BK3.png">
+    <Secondary Archivo="NBACA600002-BK3-back.png"></Secondary>
+    <Secondary Archivo="NBACA600002-BK3-side1.png"></Secondary>
+    <Secondary Archivo="NBACA600002-BK3-side2.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="MLBTS623111WHT" MainImage="MLBTS623111-WHT.png"><Secondary Archivo="MLBTS623111-WHT-back-1.png"></Secondary></Imagenes>
+</Sage>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Linea Cia="02" Drop="1" Referencia="MLBHD323201" Producto_reference="MLBHD323201-BL1" Dtll_Color="BL1" Description="MLB COMICS HOODIE" Description_spanish="ABRIGO CON CAPUCHA DE NINO MLB COMICS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / FRENCH TERRY 300G" Compesp="CVC 60% ALGODON 40% POLIESTER / FRENCH TERRY 300G" Price="12.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="MLB" Group="AP" Sub_group="HD" Arancel="JD" Season="232" LOB="SPO" NoSuplidor="" Equipo="DOD" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / BACK LOGO: RUBBER PRINT / SLEEVE LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BL1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="MLBDB523104" Producto_reference="MLBDB523104-BLK" Dtll_Color="BLK" Description="MLB DUFFLE BAG WITH TEAM LOGO ON THE SIDE" Description_spanish="BOLSA DE VIAJE MLB CON EL LOGOTIPO DEL EQUIPO AL LADO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="600D POLYESTER SHELL FABRIC, LOWER PANEL: 600D POLYESTER WITH INVERTED PVC BACKING" Compesp="TEJIDO SHELL 600D POLIESTER, PANEL INFERIOR: POLIESTER 600D CON RESPALDO DE PVC INVERTIDO" Price="10" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="MLB" Group="ACC" Sub_group="DB" Arancel="BK" Season="CORE" LOB="SPO" NoSuplidor="" Equipo="YAN" Gender="05" Logo_specs="MLB: TPU PATCH or RUBBER PATCH">
+    <Colors Color="BLK" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="MLBBK523105" Producto_reference="MLBBK523105-NVY" Dtll_Color="NVY" Description="MLB BACKPACK TEAM NAME AND LOGO" Description_spanish="MOCHILA CON NOMBRE Y LOGO DEL EQUIPO MLB" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="TEJIDO SHELL 600D POLYESTER, PANEL INFERIOR: POLYESTER 600D CON RESPALDO DE PVC INVERTIDO" Compesp="TEJIDO SHELL 600D POLIESTER, PANEL INFERIOR: POLIESTER 600D CON RESPALDO DE PVC INVERTIDO" Price="11" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="MLB" Group="ACC" Sub_group="BK" Arancel="BK" Season="231" LOB="SPO" NoSuplidor="" Equipo="YAN" Gender="05" Logo_specs="Front Panel Artwork: Flat Embroidery       Front Pocket Artwork:     Rubber Patch                Strap Artwork: TPU Patch">
+    <Colors Color="NVY" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="MLBBK523102" Producto_reference="MLBBK523102-NVY3" Dtll_Color="NVY3" Description="MLB BACKPACKS" Description_spanish="MOCHILA CON NOMBRE DEL EQUIPO MLB" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="TEJIDO SHELL 600D POLYESTER, PANEL INFERIOR: POLYESTER 600D CON RESPALDO DE PVC INVERTIDO" Compesp="TEJIDO SHELL 600D POLIESTER, PANEL INFERIOR: POLIESTER 600D CON RESPALDO DE PVC INVERTIDO" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="MLB" Group="ACC" Sub_group="BK" Arancel="BK" Season="231" LOB="SPO" NoSuplidor="" Equipo="YAN" Gender="05" Logo_specs="Front Panel Artwork: Print        Front Pocket                Strap Artwork: TPU Patch">
+    <Colors Color="NVY3" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBADB523104" Producto_reference="NBADB523104-BLK" Dtll_Color="BLK" Description="NBA DUFFLE BAG WITH TEAM NAME" Description_spanish="BOLSA DE VIAJE CON EL NOMBRE DEL EQUIPO NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="TEJIDO SHELL 600D POLYESTER, PANEL INFERIOR: POLYESTER 600D CON RESPALDO DE PVC INVERTIDO" Compesp="TEJIDO SHELL 600D POLIESTER, PANEL INFERIOR: POLIESTER 600D CON RESPALDO DE PVC INVERTIDO" Price="10" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="NBA" Group="ACC" Sub_group="DB" Arancel="BK" Season="231" LOB="SPO" NoSuplidor="" Equipo="LAK" Gender="05" Logo_specs="NBA:TPU PATCH; RUBBER PRINT/WOVEN LABEL">
+    <Colors Color="BLK" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBABK523105" Producto_reference="NBABK523105-BLK" Dtll_Color="BLK" Description="NBA BACKPACK TEAM NAME AND LOGO" Description_spanish="MOCHILA NBA NOMBRE Y LOGOTIPO DEL EQUIPO " Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER" Compesp="100% POLIESTER" Price="11" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="NBA" Group="ACC" Sub_group="BK" Arancel="BK" Season="231" LOB="SPO" NoSuplidor="" Equipo="BUL" Gender="05" Logo_specs="Front Panel Artwork: Flat Embroidery       Front Pocket Artwork:     Rubber Patch                Strap Artwork: TPU Patch">
+    <Colors Color="BLK" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBABK523105" Producto_reference="NBABK523105-BLK2" Dtll_Color="BLK2" Description="NBA BACKPACK TEAM NAME AND LOGO" Description_spanish="MOCHILA NBA NOMBRE Y LOGOTIPO DEL EQUIPO " Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER" Compesp="100% POLIESTER" Price="11" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="NBA" Group="ACC" Sub_group="BK" Arancel="BK" Season="231" LOB="SPO" NoSuplidor="" Equipo="LAK" Gender="05" Logo_specs="Front Panel Artwork: Flat Embroidery       Front Pockert Artwork:     Rubber Patch                Strap Artwork: TPU Patch">
+    <Colors Color="BLK2" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBABK523102" Producto_reference="NBABK523102-BLK" Dtll_Color="BLK" Description="NBA BACKPACK TEAM NAME" Description_spanish="MOCHILA CON NOMBRE DEL EQUIPO NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="TEJIDO SHELL 600D POLYESTER" Compesp=" PANEL INFERIOR: POLYESTER 600D CON RESPALDO DE PVC INVERTIDO" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="NBA" Group="ACC" Sub_group="BK" Arancel="BK" Season="231" LOB="SPO" NoSuplidor="" Equipo="BUL" Gender="05" Logo_specs="NBA: WOVEN PATCH WITH PLACEMENT EMBROIDERY, BULLS: HD RUBBER PRINT/ LOGO: RUBBER PRINT">
+    <Colors Color="BLK" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBABK523102" Producto_reference="NBABK523102-BLK2" Dtll_Color="BLK2" Description="NBA BACKPACK TEAM NAME" Description_spanish="MOCHILA CON NOMBRE DEL EQUIPO NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="TEJIDO SHELL 600D POLYESTER" Compesp=" PANEL INFERIOR: POLYESTER 600D CON RESPALDO DE PVC INVERTIDO" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="NBA" Group="ACC" Sub_group="BK" Arancel="BK" Season="231" LOB="SPO" NoSuplidor="" Equipo="LAK" Gender="05" Logo_specs="NBA: WOVEN PATCH WITH PLACEMENT EMBROIDERY, BULLS: HD RUBBER PRINT/ LOGO: RUBBER PRINT">
+    <Colors Color="BLK2" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBADB523102" Producto_reference="NBADB523102-BLK" Dtll_Color="BLK" Description="NBA DUFFLE BAG WITH TEAM BIG NAME" Description_spanish="BOLSA DE VIAJE CON EL NOMBRE DEL EQUIPO GRANDE NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="TEJIDO SHELL 600D POLYESTER" Compesp=" PANEL INFERIOR: POLYESTER 600D CON RESPALDO DE PVC INVERTIDO" Price="11" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="NBA" Group="ACC" Sub_group="DB" Arancel="BK" Season="231" LOB="SPO" NoSuplidor="" Equipo="BUL" Gender="05" Logo_specs="NBA:TPU PATCH, RUBBER PRINT/WOVEN LABEL">
+    <Colors Color="BLK" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="UNHVHD523100" Producto_reference="UNHVHD523100-BLK" Dtll_Color="BLK" Description="UNIVERSITY BASIC HOODIE" Description_spanish="UNIVERSITY BASIC ABRIGO CON CAPUCHA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / FRENCH TERRY 300G" Compesp="CVC 60% ALGOD?N 40% POLIESTER / FRENCH TERRY 300G" Price="13.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="UNIVERSITIES" Group="AP" Sub_group="HD" Arancel="HD" Season="232" LOB="UNI" NoSuplidor="" Equipo="" Gender="05" Logo_specs="FRONT LOGO: RUBBER PRINT / SLEEVE LOGO: RUBBER PRINT">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="UNLATS523102" Producto_reference="UNLATS523102-BLU" Dtll_Color="BLU" Description="UNIVERSITY BASIC LOGO T-SHIRT" Description_spanish="UNIVERSITY BASIC LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGOD?N 40% POLIESTER / 160G" Price="5.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="UNIVERSITIES" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="UNI" NoSuplidor="" Equipo="" Gender="05" Logo_specs="FRONT LOGO: RUBBER PRINT / BACK LOGO: HEAT TRANSFER">
+    <Colors Color="BLU" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="UNHVTS523100" Producto_reference="UNHVTS523100-BLK" Dtll_Color="BLK" Description="UNIVERSITY BASIC LOGO T-SHIRT" Description_spanish="UNIVERSITY BASIC LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGOD?N 40% POLIESTER / 160G" Price="5.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="UNIVERSITIES" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="UNI" NoSuplidor="" Equipo="" Gender="05" Logo_specs="FRONT LOGO: RUBBER PRINT / BACK LOGO: HEAT TRANSFER">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="UNHVTS523100" Producto_reference="UNHVTS523100-WHT" Dtll_Color="WHT" Description="UNIVERSITY BASIC LOGO T-SHIRT" Description_spanish="UNIVERSITY BASIC LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGOD?N 40% POLIESTER / 160G" Price="5.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="UNIVERSITIES" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="UNI" NoSuplidor="" Equipo="" Gender="05" Logo_specs="FRONT LOGO: RUBBER PRINT / BACK LOGO: HEAT TRANSFER">
+    <Colors Color="WHT" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="L"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="BCTS523108" Producto_reference="BCTS523108-BUR" Dtll_Color="BUR" Description="BARCELONA BASIC T-SHIRT" Description_spanish="CAMISETA DE MANGA CORTA BASIC BARCELONA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion=" BOTTOM: WOVEN CLIP LABEL" Compesp=" BACK: RUBBER PRINT" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="SOCCER" Group="AP" Sub_group="TS" Arancel="TS" Season="BASICS" LOB="SPO" NoSuplidor="" Equipo="BAR" Gender="05" Logo_specs="FRONT: RUBBER PRINT">
+    <Colors Color="BUR" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BUR" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BUR" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BUR" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="BCTS523108" Producto_reference="BCTS523108-NVY" Dtll_Color="NVY" Description="BARCELONA BASIC T-SHIRT" Description_spanish="CAMISETA DE MANGA CORTA BASIC BARCELONA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion=" BOTTOM: WOVEN CLIP LABEL" Compesp=" BACK: RUBBER PRINT" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="SOCCER" Group="AP" Sub_group="TS" Arancel="TS" Season="BASICS" LOB="SPO" NoSuplidor="" Equipo="BAR" Gender="05" Logo_specs="FRONT: RUBBER PRINT">
+    <Colors Color="NVY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="BCTS523108" Producto_reference="BCTS523108-BLK" Dtll_Color="BLK" Description="BARCELONA BASIC T-SHIRT" Description_spanish="CAMISETA DE MANGA CORTA BASIC BARCELONA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion=" BOTTOM: WOVEN CLIP LABEL" Compesp=" BACK: RUBBER PRINT" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="SOCCER" Group="AP" Sub_group="TS" Arancel="TS" Season="BASICS" LOB="SPO" NoSuplidor="" Equipo="BAR" Gender="05" Logo_specs="FRONT: RUBBER PRINT">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="MLBMB523101" Producto_reference="MLBMB523101-BLK2" Dtll_Color="BLK2" Description="MLB MESSENGER BAG" Description_spanish="BOLSA DE MENSAJERO CON LOGO MLB" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="TELA COBERTURA 600D POLYESTER                                      " Compesp="TELA COBERTURA 600D POLIESTER                                      " Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="MLB" Group="ACC" Sub_group="MB" Arancel="MB" Season="SPRING SUMMER 23" LOB="SPO" NoSuplidor="" Equipo="YAN" Gender="05" Logo_specs="MLB :WOVEN PATCH, LOGO: PRINTED PATCH w/PLACEMENT EMBROIDEY">
+    <Colors Color="BLK2" Barcode="7450130105206" Sizes="OS"></Colors>
+  </Linea>
+</Sagemobile>

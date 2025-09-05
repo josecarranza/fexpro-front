@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="220106" Cliente="LIVER" Nombre="Karen Lara" Fecha="30/08/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AVENIDA VALLE DE LAS ALAMEDAS #7 FRACCIONAMIENTO INDUSTRIAL LECH MEXICO ESTADO DE MÉXICO TULTITLAN 54940" Direccion2="Mexico Estado de México MEXICO 54940" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Karen Lara" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="RMDTS325109NV2" Color="NV2" Cantidad="28" size_4="56" size_6="112" size_8="112" size_10="112" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="189.1810345"></Linea>
+    <Linea Producto="BCNJS325105NV1" Color="NV1" Cantidad="28" size_4="56" size_6="112" size_8="112" size_10="112" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="189.1810345"></Linea>
+    <Linea Producto="RMDJS325105OW1" Color="OW1" Cantidad="28" size_4="56" size_6="112" size_8="112" size_10="112" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="284.00862070833"></Linea>
+    <Linea Producto="MLSJS325105PK1" Color="PK1" Cantidad="28" size_4="56" size_6="112" size_8="112" size_10="112" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="284.00862070833"></Linea>
+    <Linea Producto="BCNSH325104NV1" Color="NV1" Cantidad="28" size_4="56" size_6="112" size_8="112" size_10="112" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="260.301724125"></Linea>
+    <Linea Producto="RMDSH325104NV2" Color="NV2" Cantidad="28" size_4="56" size_6="112" size_8="112" size_10="112" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="260.301724125"></Linea>
+    <Linea Producto="MLSSH325104BK1" Color="BK1" Cantidad="28" size_4="56" size_6="112" size_8="112" size_10="112" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="260.301724125"></Linea>
+    <Linea Producto="CAAJS325103YL1" Color="YL1" Cantidad="29" size_4="58" size_6="116" size_8="116" size_10="116" size_12="116" size_14="116" size_16="58" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="284.00862070833"></Linea>
+    <Linea Producto="PUMJS325103BK1" Color="BK1" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="284.00862070833"></Linea>
+    <Linea Producto="CAASH325103NV1" Color="NV1" Cantidad="29" size_4="58" size_6="116" size_8="116" size_10="116" size_12="116" size_14="116" size_16="58" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="260.301724125"></Linea>
+    <Linea Producto="CAATS325108NV1" Color="NV1" Cantidad="28" size_4="56" size_6="112" size_8="112" size_10="112" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="179.698275875"></Linea>
+    <Linea Producto="NBATT32205BLK3" Color="BLK3" Cantidad="28" size_4="56" size_6="112" size_8="112" size_10="112" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="284.00862070833"></Linea>
+    <Linea Producto="NBATT32205BLK5" Color="BLK5" Cantidad="28" size_4="56" size_6="112" size_8="112" size_10="112" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="284.00862070833"></Linea>
+    <Linea Producto="NBATT32205BLU" Color="BLU" Cantidad="28" size_4="56" size_6="112" size_8="112" size_10="112" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="284.00862070833"></Linea>
+    <Linea Producto="NBATT32205YEL2" Color="YEL2" Cantidad="28" size_4="56" size_6="112" size_8="112" size_10="112" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="284.00862070833"></Linea>
+    <Linea Producto="MLBDB523102BLK2" Color="BLK2" Cantidad="13" size_OS="312" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="312.45689654167"></Linea>
+    <Linea Producto="MLBJT320220WHT" Color="WHT" Cantidad="28" size_4="56" size_6="112" size_8="112" size_10="112" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="265.04310345833"></Linea>
+    <Linea Producto="MLBJT320220NVY2" Color="NVY2" Cantidad="28" size_4="56" size_6="112" size_8="112" size_10="112" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="265.04310345833"></Linea>
+    <Linea Producto="MLBJT320220BLU" Color="BLU" Cantidad="28" size_4="56" size_6="112" size_8="112" size_10="112" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="265.04310345833"></Linea>
+    <Linea Producto="MLSTS325114BK3" Color="BK3" Cantidad="28" size_4="56" size_6="112" size_8="112" size_10="112" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="179.698275875"></Linea>
+  </Encabezado>
+</Sagemobile>

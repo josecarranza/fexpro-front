@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="154911" Cliente="0458" Nombre="Raisa Lefenda" Fecha="07/12/2022" Tipo="1" Fecha_Entrega="07/12/2022" Direccion="AV. KENNEDY 9001, LOS CONDES PISO 4" Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 7560356" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS CHILE - MUJER NBA PROGRAMA DE MESA TIENDA Q3 FW23" ResponsablePedido="" ResponsableImportacion="" Contacto="Raisa Lefenda" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBACT623208-GY1" Color="GY1" Cantidad="53" size_XS="212" size_S="424" size_M="424" size_L="212" Unit_Box_Qty="24" Total_Box_Qty="1272" Precio="7"></Linea>
+    <Linea Producto="NBATS623213-BK1" Color="BK1" Cantidad="53" size_XS="212" size_S="424" size_M="424" size_L="212" Unit_Box_Qty="24" Total_Box_Qty="1272" Precio="7.5"></Linea>
+    <Linea Producto="NBATS623214-WH1" Color="WH1" Cantidad="53" size_XS="212" size_S="424" size_M="424" size_L="212" Unit_Box_Qty="24" Total_Box_Qty="1272" Precio="7"></Linea>
+    <Linea Producto="NBACT623210-WH1" Color="WH1" Cantidad="53" size_XS="212" size_S="424" size_M="424" size_L="212" Unit_Box_Qty="24" Total_Box_Qty="1272" Precio="7"></Linea>
+    <Linea Producto="NBATS623217-LI1" Color="LI1" Cantidad="53" size_XS="212" size_S="424" size_M="424" size_L="212" Unit_Box_Qty="24" Total_Box_Qty="1272" Precio="7"></Linea>
+    <Linea Producto="NBACT623213-BG1" Color="BG1" Cantidad="53" size_XS="212" size_S="424" size_M="424" size_L="212" Unit_Box_Qty="24" Total_Box_Qty="1272" Precio="7"></Linea>
+  </Encabezado>
+</Sagemobile>

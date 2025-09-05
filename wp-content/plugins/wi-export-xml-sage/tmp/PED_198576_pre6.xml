@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="198576" Cliente="0036" Nombre="Nathalie Gutierrez" Fecha="19/02/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Paseo General Escalon " Direccion2="El Salvador San Salvador San Salvador 0000000" AgenteEmbarcador="" Observaciones="FW24-Q2-BALLS SOCCER-NATHALIE GUTIERREZ" ResponsablePedido="" ResponsableImportacion="" Contacto="Nathalie Gutierrez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="RMDBA524201-BK1" Color="BK1" Cantidad="32" size_OS="768" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="6"></Linea>
+    <Linea Producto="PSGBA524202-NV1" Color="NV1" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

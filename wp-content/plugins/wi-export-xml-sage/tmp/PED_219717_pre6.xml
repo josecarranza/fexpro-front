@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="219717" Cliente="0458" Nombre="Aurelie Manas" Fecha="19/08/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="V. KENNEDY 9001, LAS CONDES SANTIAGO " Direccion2="Chile Región Metropolitana de Santiago LAS CONDES 7560356" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Aurelie Manas" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBABN500002-BK1" Color="BK1" Cantidad="70" size_OS="1680" Unit_Box_Qty="24" Total_Box_Qty="1680" Precio="5"></Linea>
+    <Linea Producto="NBABN500002-RD1" Color="RD1" Cantidad="30" size_OS="720" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="5"></Linea>
+    <Linea Producto="NBABN500002-BK2" Color="BK2" Cantidad="40" size_OS="960" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="5"></Linea>
+    <Linea Producto="NBABN500002-PR1" Color="PR1" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="5"></Linea>
+    <Linea Producto="NBABN500002-NV1" Color="NV1" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="5"></Linea>
+    <Linea Producto="NBABN500002-BK4" Color="BK4" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="5"></Linea>
+  </Encabezado>
+</Sagemobile>

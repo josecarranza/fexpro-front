@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="177887" Cliente="0000" Nombre="OMAR CELIS" Fecha="27/06/2023" Tipo="1" Fecha_Entrega="27/06/2023" Direccion="RADIATAS 42 BOSQUES DE LAS LOMAS " Direccion2="Mexico Ciudad de México CUAJIMALPA DE MORELOS 05120" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="OMAR CELIS" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="CAAJS524102BK1" Color="BK1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="317.47"></Linea>
+    <Linea Producto="CAAJS524104YL1" Color="YL1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="290.97"></Linea>
+    <Linea Producto="CAAHD524103NV1" Color="NV1" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="555.97"></Linea>
+    <Linea Producto="CAAJK524104NV1" Color="NV1" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="396.97"></Linea>
+    <Linea Producto="CAAPT524104NV1" Color="NV1" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="476.47"></Linea>
+  </Encabezado>
+</Sagemobile>

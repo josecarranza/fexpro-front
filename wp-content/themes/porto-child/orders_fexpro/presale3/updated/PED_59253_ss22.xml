@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="59253" Cliente="0450" Nombre="Paola Galeano" Fecha="27/08/2021" Tipo="1" Fecha_Entrega="27/08/2021" Direccion="CALLE 99 #11A32 " Direccion2="Colombia  BOGOTÁ " Vendedor="01" AgenteEmbarcador="" Observaciones="FALABELLA COLOMBIA - GORRAS NBA SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="Paola Galeano" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASB52234-GRN" Color="GRN" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52234-BLK" Color="BLK" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52234-PUR" Color="PUR" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52229-BLK2" Color="BLK2" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52229-BLU" Color="BLU" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52229-BLK1" Color="BLK1" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52229-PUR" Color="PUR" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52225-RED1" Color="RED1" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52225-GRY" Color="GRY" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52225-GRN" Color="GRN" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52225-PUR" Color="PUR" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52223-BLK3" Color="BLK3" Cantidad="11" size_OS="264" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52220-LBL3" Color="LBL3" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52219-GRN" Color="GRN" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52219-RED" Color="RED" Cantidad="11" size_OS="264" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52219-PUR" Color="PUR" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52217-GRY" Color="GRY" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52217-BLK" Color="BLK" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52217-PUR" Color="PUR" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52217-RED" Color="RED" Cantidad="11" size_OS="264" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52225-RED" Color="RED" Cantidad="11" size_OS="264" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52229-BLK" Color="BLK" Cantidad="11" size_OS="264" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52234-RED" Color="RED" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="8.5"></Linea>
+  </Encabezado>
+</Sagemobile>

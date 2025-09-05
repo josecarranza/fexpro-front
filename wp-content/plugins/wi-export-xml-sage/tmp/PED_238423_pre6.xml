@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="238423" Cliente="0633" Nombre="MARIANA SURIANO" Fecha="19/11/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Panamericana Km 25,6, B1611 Don Torcuato, Provincia de Buenos Aires, Argentina " Direccion2="Argentina Buenos Aires Buenos Aires 555555" AgenteEmbarcador="" Observaciones="COMPRA NIKE DRABRA MOOV FW25 Q3" ResponsablePedido="" ResponsableImportacion="" Contacto="MARIANA SURIANO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="02TI-4DZ-Q9P-UE8" Color="UE8" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="15"></Linea>
+    <Linea Producto="02TI-65N-Q8K-UE8" Color="UE8" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="15"></Linea>
+    <Linea Producto="N199-06G-7G-93P" Color="93P" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="14.5"></Linea>
+    <Linea Producto="N199-41S-Q8I-93P" Color="93P" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="14.5"></Linea>
+    <Linea Producto="N199-4DA-8KV-93P" Color="93P" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="14.5"></Linea>
+    <Linea Producto="N199-4DA-9TV-93P" Color="93P" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="14.5"></Linea>
+    <Linea Producto="N199-4DZ-9PV-93P" Color="93P" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="14.5"></Linea>
+    <Linea Producto="N199-65N-7G-93P" Color="93P" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="14.5"></Linea>
+    <Linea Producto="NKPU-0DD6-7G-LDC" Color="LDC" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="29"></Linea>
+    <Linea Producto="NKPU-0DD6-8KV-LDC" Color="LDC" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="29"></Linea>
+    <Linea Producto="NKPU-0DD6-9PV-LDC" Color="LDC" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="29"></Linea>
+    <Linea Producto="NKPU-0DD6-9TV-LDC" Color="LDC" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="29"></Linea>
+    <Linea Producto="NKPU-0DD6-Q8I-LDC" Color="LDC" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="29"></Linea>
+    <Linea Producto="NKPU-11T2-7G-LDC" Color="LDC" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="29"></Linea>
+    <Linea Producto="NKDK-2FE-7G-WUG" Color="WUG" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="35"></Linea>
+    <Linea Producto="NKDK-41S-Q8I-WUG" Color="WUG" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="35"></Linea>
+    <Linea Producto="NKDK-4DA-8KV-WUG" Color="WUG" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="35"></Linea>
+    <Linea Producto="NKDK-4DA-9TV-WUG" Color="WUG" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="35"></Linea>
+    <Linea Producto="NKDK-4DZ-9PV-WUG" Color="WUG" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="35"></Linea>
+    <Linea Producto="NKDK-65N-7G-WUG" Color="WUG" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="35"></Linea>
+    <Linea Producto="67NM-DCGH-7RF-2NI" Color="2NI" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="48"></Linea>
+    <Linea Producto="67NM-KCGH-7GF-2NA" Color="2NA" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="48"></Linea>
+  </Encabezado>
+</Sagemobile>

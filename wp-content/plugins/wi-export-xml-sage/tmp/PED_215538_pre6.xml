@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="215538" Cliente="0000" Nombre="Pablo Munoz" Fecha="05/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Av. Pdte. Kennedy 5413 " Direccion2="Chile Región Metropolitana de Santiago Santiago " AgenteEmbarcador="" Observaciones="MARATHON CHILE - NIKE MEN SS25 Q1" ResponsablePedido="" ResponsableImportacion="" Contacto="Pablo Munoz" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="N199-00A-LD-0U5" Color="0U5" Cantidad="15" size_S="30" size_M="60" size_L="60" size_XL="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="13.5"></Linea>
+    <Linea Producto="N199-10A-NK-0U5" Color="0U5" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="13.5"></Linea>
+    <Linea Producto="N199-44B-NK-0U5" Color="0U5" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="13.5"></Linea>
+    <Linea Producto="N199-4EW-LD-0U5" Color="0U5" Cantidad="15" size_S="30" size_M="60" size_L="60" size_XL="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="13.5"></Linea>
+    <Linea Producto="N199-10A-NK-CJP" Color="CJP" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="13.5"></Linea>
+    <Linea Producto="N199-44B-NK-CJP" Color="CJP" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="13.5"></Linea>
+    <Linea Producto="01B3-00A-GIA-Y8P" Color="Y8P" Cantidad="15" size_S="30" size_M="60" size_L="60" size_XL="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="15"></Linea>
+    <Linea Producto="01B3-00A-PTB-Y8P" Color="Y8P" Cantidad="15" size_S="30" size_M="60" size_L="60" size_XL="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="15"></Linea>
+    <Linea Producto="01B3-44B-NK-Y8P" Color="Y8P" Cantidad="15" size_S="30" size_M="60" size_L="60" size_XL="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="15"></Linea>
+    <Linea Producto="01B3-4EW-LD-Y8P" Color="Y8P" Cantidad="15" size_S="30" size_M="60" size_L="60" size_XL="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="15"></Linea>
+    <Linea Producto="01D4-007P-LD-G64" Color="G64" Cantidad="15" size_XS="30" size_S="60" size_M="60" size_L="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="15"></Linea>
+    <Linea Producto="01D4-022N-NK-G64" Color="G64" Cantidad="15" size_XS="30" size_S="60" size_M="60" size_L="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="15"></Linea>
+    <Linea Producto="01D4-036N-BQ-G64" Color="G64" Cantidad="25" size_XS="50" size_S="100" size_M="100" size_L="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="15"></Linea>
+    <Linea Producto="N199-00A-LD-9UX" Color="9UX" Cantidad="20" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="12" Total_Box_Qty="240" Precio="15"></Linea>
+    <Linea Producto="N199-44B-ANG-9UX" Color="9UX" Cantidad="20" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="12" Total_Box_Qty="240" Precio="15"></Linea>
+    <Linea Producto="N199-10A-NK-9UX" Color="9UX" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="15"></Linea>
+    <Linea Producto="N199-10A-RX-9UX" Color="9UX" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="15"></Linea>
+    <Linea Producto="N199-62Q-BQ-9UX" Color="9UX" Cantidad="20" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="12" Total_Box_Qty="240" Precio="15"></Linea>
+    <Linea Producto="N199-62Q-TER-9UX" Color="9UX" Cantidad="20" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="12" Total_Box_Qty="240" Precio="15"></Linea>
+    <Linea Producto="N199-89L-NME-9UX" Color="9UX" Cantidad="25" size_S="50" size_M="100" size_L="100" size_XL="50" Unit_Box_Qty="12" Total_Box_Qty="300" Precio="15"></Linea>
+  </Encabezado>
+</Sagemobile>

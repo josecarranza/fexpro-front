@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="199192" Cliente="0455" Nombre="Matias Jimenez" Fecha="13/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="SANTA ELVIRA 175 " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Matias Jimenez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="6HSSMM19224-CBUBKWH" Color="CBUBKWH" Cantidad="21" size_OS="126" Unit_Box_Qty="6" Total_Box_Qty="126" Precio="11.5"></Linea>
+    <Linea Producto="6HSSMM19224-CBUYLBK" Color="CBUYLBK" Cantidad="21" size_OS="126" Unit_Box_Qty="6" Total_Box_Qty="126" Precio="11.5"></Linea>
+    <Linea Producto="6HSSMM19226-CBUWHBK" Color="CBUWHBK" Cantidad="21" size_OS="126" Unit_Box_Qty="6" Total_Box_Qty="126" Precio="11.5"></Linea>
+    <Linea Producto="6HSSMM19229-CBUBKGD" Color="CBUBKGD" Cantidad="21" size_OS="126" Unit_Box_Qty="6" Total_Box_Qty="126" Precio="11.5"></Linea>
+    <Linea Producto="HS8033-CBUBKWH" Color="CBUBKWH" Cantidad="21" size_OS="126" Unit_Box_Qty="6" Total_Box_Qty="126" Precio="12"></Linea>
+    <Linea Producto="HS8033-CBURDBK" Color="CBURDBK" Cantidad="21" size_OS="126" Unit_Box_Qty="6" Total_Box_Qty="126" Precio="12"></Linea>
+    <Linea Producto="HHSS5822-CBUYYPPPBLCK" Color="CBUYYPPPBLCK" Cantidad="21" size_OS="126" Unit_Box_Qty="6" Total_Box_Qty="126" Precio="12"></Linea>
+    <Linea Producto="HHSS6741-CBUYYPPPBKGD" Color="CBUYYPPPBKGD" Cantidad="21" size_OS="126" Unit_Box_Qty="6" Total_Box_Qty="126" Precio="12.5"></Linea>
+    <Linea Producto="HHSS6741-CBUYYPPPBLCK" Color="CBUYYPPPBLCK" Cantidad="21" size_OS="126" Unit_Box_Qty="6" Total_Box_Qty="126" Precio="12.5"></Linea>
+    <Linea Producto="HHSS6741-CBUYYPPPWHBK" Color="CBUYYPPPWHBK" Cantidad="21" size_OS="126" Unit_Box_Qty="6" Total_Box_Qty="126" Precio="12.5"></Linea>
+    <Linea Producto="HHSS6741-CBUYYPPPWHRD" Color="CBUYYPPPWHRD" Cantidad="21" size_OS="126" Unit_Box_Qty="6" Total_Box_Qty="126" Precio="12.5"></Linea>
+    <Linea Producto="HHSS1102-CBUYYPPPGREY" Color="CBUYYPPPGREY" Cantidad="13" size_OS="78" Unit_Box_Qty="6" Total_Box_Qty="78" Precio="13"></Linea>
+    <Linea Producto="HHSS1102-CBUYYPPPGYBK" Color="CBUYYPPPGYBK" Cantidad="13" size_OS="78" Unit_Box_Qty="6" Total_Box_Qty="78" Precio="13"></Linea>
+    <Linea Producto="HHSS1102-CBUYYPPPGYRD" Color="CBUYYPPPGYRD" Cantidad="13" size_OS="78" Unit_Box_Qty="6" Total_Box_Qty="78" Precio="13"></Linea>
+    <Linea Producto="HHSS1102-CBUYYPPPGYWH" Color="CBUYYPPPGYWH" Cantidad="13" size_OS="78" Unit_Box_Qty="6" Total_Box_Qty="78" Precio="13"></Linea>
+    <Linea Producto="HHSS1102-CBUYYPPPYWWH" Color="CBUYYPPPYWWH" Cantidad="12" size_OS="72" Unit_Box_Qty="6" Total_Box_Qty="72" Precio="13"></Linea>
+  </Encabezado>
+</Sagemobile>

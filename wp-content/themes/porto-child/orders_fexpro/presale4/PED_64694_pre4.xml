@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="64694" Cliente="0000" Nombre="RICARDO BAZAN" Fecha="18/10/2021" Tipo="1" Fecha_Entrega="18/10/2021" Direccion="AV. PASEO DE LA REPUBLICA 3220 " Direccion2="Peru Lima SAN ISIDRO 15047" Vendedor="01" AgenteEmbarcador="" Observaciones="FALABELLA PERU - GORRAS SOCCER SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="RICARDO BAZAN" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PSGSB52202-WHT" Color="WHT" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8.5"></Linea>
+    <Linea Producto="PSGSB52202-BLK" Color="BLK" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="PSGSB52206-WHT" Color="WHT" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7.5"></Linea>
+    <Linea Producto="PSGSB52206-NVY" Color="NVY" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7.5"></Linea>
+    <Linea Producto="PSGSB52207-BLK" Color="BLK" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="7.5"></Linea>
+    <Linea Producto="PSGSB52207-NVY" Color="NVY" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7.5"></Linea>
+    <Linea Producto="RMSB52201-GRY" Color="GRY" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7.5"></Linea>
+    <Linea Producto="RMSB52201-BLK" Color="BLK" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7.5"></Linea>
+    <Linea Producto="RMSB52203-WHT" Color="WHT" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7.5"></Linea>
+    <Linea Producto="RMSB52207-GRY" Color="GRY" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8.5"></Linea>
+    <Linea Producto="BCSB52208-BUR" Color="BUR" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7.5"></Linea>
+    <Linea Producto="BCSB52209-NVY" Color="NVY" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8.5"></Linea>
+    <Linea Producto="JVSB52205-BLK" Color="BLK" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8.5"></Linea>
+    <Linea Producto="JVSB52206-BLK" Color="BLK" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8.5"></Linea>
+    <Linea Producto="JVSB52207-BLK" Color="BLK" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7.5"></Linea>
+  </Encabezado>
+</Sagemobile>

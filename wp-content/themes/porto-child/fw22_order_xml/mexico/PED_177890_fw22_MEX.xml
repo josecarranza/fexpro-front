@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="177890" Cliente="0000" Nombre="OMAR CELIS" Fecha="27/06/2023" Tipo="1" Fecha_Entrega="27/06/2023" Direccion="RADIATAS 42 BOSQUES DE LAS LOMAS " Direccion2="Mexico Ciudad de México CUAJIMALPA DE MORELOS 05120" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="OMAR CELIS" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS521000GRN" Color="GRN" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="211.47"></Linea>
+    <Linea Producto="NBAJS552201BLK3" Color="BLK3" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="317.47"></Linea>
+    <Linea Producto="NBAHD521001GRN" Color="GRN" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="555.97"></Linea>
+    <Linea Producto="NBATS524108BK3" Color="BK3" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="237.97"></Linea>
+    <Linea Producto="NBAJS624101RD1" Color="RD1" Cantidad="15" size_XS="60" size_S="120" size_M="120" size_L="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="306.87"></Linea>
+    <Linea Producto="NBAJK624101RD1" Color="RD1" Cantidad="18" size_XS="72" size_S="144" size_M="144" size_L="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="900.47"></Linea>
+    <Linea Producto="NBAHD624107OW1" Color="OW1" Cantidad="21" size_XS="84" size_S="168" size_M="168" size_L="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="741.47"></Linea>
+    <Linea Producto="NBATS324104WH2" Color="WH2" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="184.97"></Linea>
+    <Linea Producto="NBAHD324102BK3/FLE" Color="BK3/FLE" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="449.97"></Linea>
+    <Linea Producto="NBAHD521001RED" Color="RED" Cantidad="37" size_S="148" size_M="296" size_L="296" size_XL="148" Unit_Box_Qty="24" Total_Box_Qty="888" Precio="555.97"></Linea>
+  </Encabezado>
+</Sagemobile>

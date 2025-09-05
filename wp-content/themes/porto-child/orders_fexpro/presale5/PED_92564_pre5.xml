@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="92564" Cliente="0458" Nombre="Jose Fonseca" Fecha="18/12/2021" Tipo="1" Fecha_Entrega="18/12/2021" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES " Direccion2="Chile  SANTIAGO 7560356" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS CHILE - SOCCER TIENDA E1 FW22&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Jose Fonseca" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PSGTT52201-WHT" Color="WHT" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="12"></Linea>
+    <Linea Producto="PSGTT52201-BLU" Color="BLU" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="12"></Linea>
+    <Linea Producto="PSGHD52203-BLK" Color="BLK" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="15"></Linea>
+    <Linea Producto="PSGSH52201-BLK" Color="BLK" Cantidad="43" size_S="172" size_M="344" size_L="344" size_XL="172" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="12"></Linea>
+    <Linea Producto="PSGTT52202-BLK" Color="BLK" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="12"></Linea>
+    <Linea Producto="PSGJS52203-GRY" Color="GRY" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="9"></Linea>
+    <Linea Producto="PSGTS52202-NVY" Color="NVY" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="7"></Linea>
+    <Linea Producto="PSGTS52202-BLK" Color="BLK" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="7"></Linea>
+    <Linea Producto="PSGTS52203-WHT" Color="WHT" Cantidad="54" size_S="216" size_M="432" size_L="432" size_XL="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="6.5"></Linea>
+    <Linea Producto="PSGTS52203-NVY" Color="NVY" Cantidad="54" size_S="216" size_M="432" size_L="432" size_XL="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="6.5"></Linea>
+    <Linea Producto="PSGTS52201-WHT" Color="WHT" Cantidad="54" size_S="216" size_M="432" size_L="432" size_XL="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="7"></Linea>
+    <Linea Producto="PSGTS52201-NVY" Color="NVY" Cantidad="54" size_S="216" size_M="432" size_L="432" size_XL="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="7"></Linea>
+    <Linea Producto="PSGJP52201-BLU" Color="BLU" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="13"></Linea>
+    <Linea Producto="PSGJP52204-NVY" Color="NVY" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="12"></Linea>
+    <Linea Producto="PSGJP52204-BLK" Color="BLK" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="12"></Linea>
+    <Linea Producto="PSGTS52212-BLK" Color="BLK" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="7"></Linea>
+    <Linea Producto="PSGTS52212-BLU" Color="BLU" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="7"></Linea>
+    <Linea Producto="PSGJS52205-RED" Color="RED" Cantidad="43" size_S="172" size_M="344" size_L="344" size_XL="172" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="9"></Linea>
+    <Linea Producto="PSGTS52211-BLK1" Color="BLK1" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="6.5"></Linea>
+    <Linea Producto="PSGTS52211-WHT1" Color="WHT1" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="6.5"></Linea>
+    <Linea Producto="PSGHD52201-BLU" Color="BLU" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="14"></Linea>
+    <Linea Producto="PSGHD52202-BLK" Color="BLK" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="15"></Linea>
+    <Linea Producto="PSGHD52202-NVY" Color="NVY" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="15"></Linea>
+    <Linea Producto="RMJS522202-BLK" Color="BLK" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="9"></Linea>
+    <Linea Producto="RMTS522201-NVY" Color="NVY" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="6.5"></Linea>
+    <Linea Producto="RMJS522204-LHB" Color="LHB" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="9"></Linea>
+    <Linea Producto="RMTS522202-GRY" Color="GRY" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="6.5"></Linea>
+    <Linea Producto="RMJS522207-BLK" Color="BLK" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="9"></Linea>
+    <Linea Producto="RMPT522201-GRY" Color="GRY" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="12"></Linea>
+    <Linea Producto="RMPT522201-NVY" Color="NVY" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="12"></Linea>
+    <Linea Producto="RMJK522201-GRY" Color="GRY" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="18"></Linea>
+    <Linea Producto="RMSH522201-NVY" Color="NVY" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="11"></Linea>
+    <Linea Producto="RMSH522201-WHT" Color="WHT" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="11"></Linea>
+    <Linea Producto="BCJS522204-RED" Color="RED" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="9"></Linea>
+    <Linea Producto="BCJS522203-NVY" Color="NVY" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="9"></Linea>
+    <Linea Producto="BCTS522204-BLK" Color="BLK" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="6.5"></Linea>
+    <Linea Producto="BCPT522202-BLK" Color="BLK" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="12"></Linea>
+    <Linea Producto="BCPT522201-NVY" Color="NVY" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="11"></Linea>
+    <Linea Producto="BCHD522202-BLK" Color="BLK" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="15"></Linea>
+  </Encabezado>
+</Sagemobile>

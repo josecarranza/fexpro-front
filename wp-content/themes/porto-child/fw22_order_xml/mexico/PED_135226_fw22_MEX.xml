@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="135226" Cliente="CHAPUR" Nombre="Silvia Angulo" Fecha="06/07/2022" Tipo="1" Fecha_Entrega="06/07/2022" Direccion="calle 58 por 63 y 65, Centro, MERIDA" Direccion2="Mexico Ciudad de México MERIDA 970000" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Silvia Angulo" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NASSO522202BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="85.775862083333"></Linea>
+    <Linea Producto="PCPJ522203NVY" Color="NVY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="344.39655170833"></Linea>
+    <Linea Producto="ACPJ52102BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="344.39655170833"></Linea>
+    <Linea Producto="GFPJ52102RED" Color="RED" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="344.39655170833"></Linea>
+    <Linea Producto="GFSO52102BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="72.844827583333"></Linea>
+  </Encabezado>
+</Sagemobile>

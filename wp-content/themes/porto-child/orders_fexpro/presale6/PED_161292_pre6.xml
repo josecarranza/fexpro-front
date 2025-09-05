@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="161292" Cliente="0447" Nombre="Briggitte Cabello" Fecha="06/02/2023" Tipo="1" Fecha_Entrega="06/02/2023" Direccion="Avenida Ricardo Palma 141 (alt. Cuadra 54 Av. Arequipa) " Direccion2="Peru Lima Miraflores 15074" Vendedor="01" AgenteEmbarcador="" Observaciones="MARATHON PERU - SLIDES NBA Q4 FW23&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Briggitte Cabello" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASL523201-BK1" Color="BK1" Cantidad="10" size_7="40" size_8="60" size_9="80" size_10="40" size_11="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7"></Linea>
+    <Linea Producto="NBASL523201-BK2" Color="BK2" Cantidad="5" size_7="20" size_8="30" size_9="40" size_10="20" size_11="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7"></Linea>
+    <Linea Producto="NBASL523201-BK4" Color="BK4" Cantidad="5" size_7="20" size_8="30" size_9="40" size_10="20" size_11="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7"></Linea>
+    <Linea Producto="NBAFS523202-PR1" Color="PR1" Cantidad="5" size_7="20" size_8="30" size_9="40" size_10="20" size_11="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="3.5"></Linea>
+    <Linea Producto="NBAFS523202-BK1" Color="BK1" Cantidad="8" size_7="32" size_8="48" size_9="64" size_10="32" size_11="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="3.5"></Linea>
+    <Linea Producto="NBASL523203-RD1" Color="RD1" Cantidad="10" size_7="40" size_8="60" size_9="80" size_10="40" size_11="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.5"></Linea>
+    <Linea Producto="NBASL523203-PR1" Color="PR1" Cantidad="5" size_7="20" size_8="30" size_9="40" size_10="20" size_11="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+    <Linea Producto="NBASL523204-RD1" Color="RD1" Cantidad="8" size_7="32" size_8="48" size_9="64" size_10="32" size_11="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="7"></Linea>
+    <Linea Producto="NBASL523204-PR1" Color="PR1" Cantidad="5" size_7="20" size_8="30" size_9="40" size_10="20" size_11="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7"></Linea>
+    <Linea Producto="NBASL523205-BK2" Color="BK2" Cantidad="5" size_7="20" size_8="30" size_9="40" size_10="20" size_11="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7"></Linea>
+    <Linea Producto="NBASL523205-BK1" Color="BK1" Cantidad="8" size_7="32" size_8="48" size_9="64" size_10="32" size_11="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="7"></Linea>
+  </Encabezado>
+</Sagemobile>

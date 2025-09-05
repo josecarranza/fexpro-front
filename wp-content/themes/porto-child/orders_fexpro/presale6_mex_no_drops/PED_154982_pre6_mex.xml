@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="154982" Cliente="LIVER" Nombre="LAURA ELENA PEREZ DE LEON ESPINOSA" Fecha="12/12/2022" Tipo="1" Fecha_Entrega="12/12/2022" Direccion="mario pani 200 corporativo liverpool" Direccion2="Mexico Ciudad de México CDMX 05348" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="LAURA ELENA PEREZ DE LEON ESPINOSA" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASO500001-BLK1" Color="BLK1" Cantidad="17" size_OS="408" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="151.25"></Linea>
+    <Linea Producto="NBASO500001-WHT1" Color="WHT1" Cantidad="17" size_OS="408" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="151.25"></Linea>
+    <Linea Producto="NBASO500003-BLK1" Color="BLK1" Cantidad="17" size_OS="408" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="132.28448275"></Linea>
+    <Linea Producto="NBASO500004-WHT1" Color="WHT1" Cantidad="17" size_OS="408" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="151.25"></Linea>
+    <Linea Producto="NBASO500004-WHT2" Color="WHT2" Cantidad="17" size_OS="408" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="151.25"></Linea>
+    <Linea Producto="NBASO500006-WHT1" Color="WHT1" Cantidad="17" size_OS="408" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="132.28448275"></Linea>
+    <Linea Producto="NBASO500006-WHT2" Color="WHT2" Cantidad="17" size_OS="408" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="132.28448275"></Linea>
+    <Linea Producto="NBASO500006-WHT4" Color="WHT4" Cantidad="17" size_OS="408" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="132.28448275"></Linea>
+  </Encabezado>
+</Sagemobile>

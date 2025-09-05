@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="161127" Cliente="0450" Nombre="CARLOS NAKAMOTO" Fecha="27/01/2023" Tipo="1" Fecha_Entrega="27/01/2023" Direccion="AV. PASEO DE LA REPUBLICA 3220, SAN ISIDRO " Direccion2="Peru Lima LIMA 111111111" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="CARLOS NAKAMOTO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCTS523109-NVY" Color="NVY" Cantidad="22" size_S="88" size_M="176" size_L="176" size_XL="88" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="6.5"></Linea>
+    <Linea Producto="RMTS523111-WHT" Color="WHT" Cantidad="22" size_S="88" size_M="176" size_L="176" size_XL="88" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="6.5"></Linea>
+    <Linea Producto="PSGTS523112-WHT" Color="WHT" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="7"></Linea>
+    <Linea Producto="BCJS523108-NVY" Color="NVY" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="7.5"></Linea>
+    <Linea Producto="RMTS523112-BLK" Color="BLK" Cantidad="22" size_S="88" size_M="176" size_L="176" size_XL="88" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="6.5"></Linea>
+  </Encabezado>
+</Sagemobile>

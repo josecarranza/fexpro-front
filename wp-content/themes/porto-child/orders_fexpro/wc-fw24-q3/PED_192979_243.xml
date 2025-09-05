@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="192979" Cliente="0453" Nombre="ETA FASHION" Fecha="15/12/2023" Tipo="1" Fecha_Entrega="15/05/2024" Direccion="GALO PLAZA LASSO N60-122 Y SANTA LUCIA " Direccion2="Ecuador Pichincha QUITO 170512" AgenteEmbarcador="" Observaciones="ETATEX DAMA Q3 FW24" ResponsablePedido="Ruperto Gallegos" ResponsableImportacion="" Contacto="Ruperto Gallegos" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBACT600001-OW1" Color="OW1" Cantidad="13" size_XS="52" size_S="104" size_M="104" size_L="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="5"></Linea>
+    <Linea Producto="NBACT600001-PR1" Color="PR1" Cantidad="12" size_XS="48" size_S="96" size_M="96" size_L="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="5"></Linea>
+    <Linea Producto="NBASH600001-DG1" Color="DG1" Cantidad="11" size_XS="44" size_S="88" size_M="88" size_L="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="7"></Linea>
+    <Linea Producto="NBATS600001-BK1" Color="BK1" Cantidad="13" size_XS="52" size_S="104" size_M="104" size_L="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="5.5"></Linea>
+    <Linea Producto="NBASW600001-GY1" Color="GY1" Cantidad="13" size_XS="52" size_S="104" size_M="104" size_L="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="10"></Linea>
+    <Linea Producto="NBAPT600002-BK3" Color="BK3" Cantidad="21" size_XS="84" size_S="168" size_M="168" size_L="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="9.5"></Linea>
+    <Linea Producto="MLBTS624203-LB1" Color="LB1" Cantidad="13" size_XS="52" size_S="104" size_M="104" size_L="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="6"></Linea>
+    <Linea Producto="MLBJK624202-BL1" Color="BL1" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="17"></Linea>
+    <Linea Producto="MLBCT624204-WH1" Color="WH1" Cantidad="15" size_XS="60" size_S="120" size_M="120" size_L="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="6"></Linea>
+    <Linea Producto="MLBSW624202-WH1" Color="WH1" Cantidad="13" size_XS="52" size_S="104" size_M="104" size_L="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="12"></Linea>
+    <Linea Producto="MLBSH624203-WH1" Color="WH1" Cantidad="10" size_XS="40" size_S="80" size_M="80" size_L="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="10"></Linea>
+    <Linea Producto="MLBCT624204-BL1" Color="BL1" Cantidad="12" size_XS="48" size_S="96" size_M="96" size_L="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="6"></Linea>
+    <Linea Producto="MLBPT624203-BL1" Color="BL1" Cantidad="17" size_XS="68" size_S="136" size_M="136" size_L="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="12"></Linea>
+    <Linea Producto="MLBSW624202-BL1" Color="BL1" Cantidad="14" size_XS="56" size_S="112" size_M="112" size_L="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="12"></Linea>
+  </Encabezado>
+</Sagemobile>

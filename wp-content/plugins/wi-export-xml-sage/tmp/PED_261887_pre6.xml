@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="261887" Cliente="0447" Nombre="Paulo Muñoz" Fecha="19/06/2025" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="ISIDORA GOYENECHEA 3365 LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 0000" AgenteEmbarcador="" Observaciones="MARATHON CHILE - HW NIKE MEN SS26 Q1" ResponsablePedido="" ResponsableImportacion="" Contacto="Paulo Muñoz" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NB01-00A-RX-BEK" Color="BEK" Cantidad="3" Almacen="" size_M-L="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="11"></Linea>
+    <Linea Producto="NB01-4EU-LD-BEK" Color="BEK" Cantidad="4" Almacen="" size_M-L="48" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="11"></Linea>
+    <Linea Producto="NB01-4EW-NME-BEK" Color="BEK" Cantidad="3" Almacen="" size_M-L="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="11"></Linea>
+    <Linea Producto="NB01-4FA-BQ-BEK" Color="BEK" Cantidad="3" Almacen="" size_M-L="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="11"></Linea>
+    <Linea Producto="NB01-4FA-NK-BEK" Color="BEK" Cantidad="6" Almacen="" size_M-L="72" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="11"></Linea>
+    <Linea Producto="NB01-6DL-BQ-BEK" Color="BEK" Cantidad="3" Almacen="" size_M-L="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="11"></Linea>
+    <Linea Producto="NB01-89L-NME-BEK" Color="BEK" Cantidad="3" Almacen="" size_M-L="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="11"></Linea>
+    <Linea Producto="NB02-00A-GIA-T0X" Color="T0X" Cantidad="3" Almacen="" size_M-L="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="11.5"></Linea>
+    <Linea Producto="NB02-00A-RX-T0X" Color="T0X" Cantidad="3" Almacen="" size_M-L="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="11.5"></Linea>
+    <Linea Producto="NB02-10A-LD-T0X" Color="T0X" Cantidad="4" Almacen="" size_M-L="48" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="11.5"></Linea>
+    <Linea Producto="NB02-10A-NK-T0X" Color="T0X" Cantidad="6" Almacen="" size_M-L="72" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="11.5"></Linea>
+    <Linea Producto="NB02-20Q-PYP-T0X" Color="T0X" Cantidad="3" Almacen="" size_M-L="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="11.5"></Linea>
+    <Linea Producto="NB02-4EU-LD-T0X" Color="T0X" Cantidad="4" Almacen="" size_M-L="48" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="11.5"></Linea>
+    <Linea Producto="NB02-4EW-NME-T0X" Color="T0X" Cantidad="3" Almacen="" size_M-L="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="11.5"></Linea>
+    <Linea Producto="NB02-4FA-BQ-T0X" Color="T0X" Cantidad="3" Almacen="" size_M-L="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="11.5"></Linea>
+    <Linea Producto="NB02-4FA-NK-T0X" Color="T0X" Cantidad="6" Almacen="" size_M-L="72" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="11.5"></Linea>
+    <Linea Producto="NB02-6DL-BQ-T0X" Color="T0X" Cantidad="3" Almacen="" size_M-L="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="11.5"></Linea>
+    <Linea Producto="NB02-78H-PYP-T0X" Color="T0X" Cantidad="3" Almacen="" size_M-L="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="11.5"></Linea>
+    <Linea Producto="NB02-89L-NME-T0X" Color="T0X" Cantidad="3" Almacen="" size_M-L="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="11.5"></Linea>
+    <Linea Producto="NB03-194N-NK-JRS" Color="JRS" Cantidad="6" Almacen="" size_M-L="72" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="11.5"></Linea>
+    <Linea Producto="NB03-194R-LD-JRS" Color="JRS" Cantidad="4" Almacen="" size_M-L="48" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="11.5"></Linea>
+    <Linea Producto="NB09-088N-GIA-8KY" Color="8KY" Cantidad="3" Almacen="" size_M-L="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="12"></Linea>
+    <Linea Producto="NB09-093N-RX-8KY" Color="8KY" Cantidad="3" Almacen="" size_M-L="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="12"></Linea>
+    <Linea Producto="NB09-156N-NME-8KY" Color="8KY" Cantidad="3" Almacen="" size_M-L="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="12"></Linea>
+    <Linea Producto="NB09-194N-NK-8KY" Color="8KY" Cantidad="6" Almacen="" size_M-L="72" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="12"></Linea>
+    <Linea Producto="NB09-194R-LD-8KY" Color="8KY" Cantidad="4" Almacen="" size_M-L="48" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="12"></Linea>
+    <Linea Producto="NB09-19N4-BQ-8KY" Color="8KY" Cantidad="3" Almacen="" size_M-L="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="12"></Linea>
+    <Linea Producto="NB09-007P-M89-F0J" Color="F0J" Cantidad="3" Almacen="" size_M-L="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="12"></Linea>
+    <Linea Producto="NB42-0AOP-NK-FA7" Color="FA7" Cantidad="6" Almacen="" size_M-L="72" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="13"></Linea>
+    <Linea Producto="NB45-0I8A-N27-U8F" Color="U8F" Cantidad="6" Almacen="" size_M-L="72" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="12"></Linea>
+  </Encabezado>
+</Sagemobile>

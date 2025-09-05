@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="220014" Cliente="0000" Nombre="MARIANA SURIANO" Fecha="27/08/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Panamericana Km 25,6, B1611 Don Torcuato, Provincia de Buenos Aires, Argentina " Direccion2="Argentina Buenos Aires Buenos Aires 555555" AgenteEmbarcador="" Observaciones="COMPRA MOOV SS25 Q2 CORE HEADWEAR&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="MARIANA SURIANO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBACA500002-BK1" Color="BK1" Cantidad="5" size_S-M="60" size_L-XL="60" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500002-RD1" Color="RD1" Cantidad="10" size_S-M="120" size_L-XL="120" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500002-YL1" Color="YL1" Cantidad="5" size_S-M="60" size_L-XL="60" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500002-BK4" Color="BK4" Cantidad="10" size_S-M="120" size_L-XL="120" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500002-BK5" Color="BK5" Cantidad="10" size_S-M="120" size_L-XL="120" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500005-BK9" Color="BK9" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500010-BK1" Color="BK1" Cantidad="10" size_S-M="120" size_L-XL="120" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500010-RD1" Color="RD1" Cantidad="5" size_S-M="60" size_L-XL="60" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500010-BK2" Color="BK2" Cantidad="10" size_S-M="120" size_L-XL="120" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500010-RD2" Color="RD2" Cantidad="10" size_S-M="120" size_L-XL="120" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500012-BK3" Color="BK3" Cantidad="10" size_S-M="120" size_L-XL="120" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8"></Linea>
+    <Linea Producto="NBACA500012-BK4" Color="BK4" Cantidad="10" size_S-M="120" size_L-XL="120" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8"></Linea>
+    <Linea Producto="NBACA500012-RD2" Color="RD2" Cantidad="10" size_S-M="120" size_L-XL="120" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8"></Linea>
+    <Linea Producto="NBACA500012-BK6" Color="BK6" Cantidad="10" size_S-M="120" size_L-XL="120" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8"></Linea>
+    <Linea Producto="NBACA600001-BK1" Color="BK1" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6.5"></Linea>
+  </Encabezado>
+</Sagemobile>

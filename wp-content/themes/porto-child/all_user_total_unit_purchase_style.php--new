@@ -1,0 +1,270 @@
+<?php
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
+include('../../../wp-load.php');
+$return_array = array();
+$return_array1 = array();
+$return_array2 = array();
+global $wpdb;
+
+$orders = wc_get_orders( array(
+    'limit'    => -1,
+    'status'   => array('wc-pending'),
+	'return' => 'ids',
+) );
+
+foreach($orders as $order_id)
+{
+	
+	$order = wc_get_order( $order_id );
+	//$order_items  = $order->get_items( apply_filters( 'woocommerce_purchase_order_item_types', 'line_item' ) );
+	foreach ( $order->get_items() as $item_id => $item ) {
+	$a = array();
+	   $product_id = $item->get_product_id();
+	   $variation_id = $item->get_variation_id();
+	    if(!empty($product_id) && !empty($variation_id))
+	    {
+			$getCustomerID = get_post_meta($order_id, '_customer_user', true);
+			$final_result1[$variation_id][] = $order_id;
+			$final_result3[$variation_id][$getCustomerID][] = $item_id;
+		}
+	}
+}
+/* echo "<pre>";
+print_r($final_result1);
+echo "</pre>"
+ */
+ 
+foreach($final_result1 as $key => $value)
+{
+  foreach($value as $ak)
+  {
+	$user_meta = get_post_meta($ak, '_customer_user', true);	
+	if(!in_array($user_meta, $return_array1))
+	{
+		array_push($return_array1, $user_meta);
+	}
+  }
+}
+
+foreach($final_result3 as $key3 => $value3)
+{
+	//echo "<p>" . $key3. "</p>";
+	foreach($value3 as $key4 => $abc)
+	{
+		$sum = 0;
+		foreach($abc as $c)
+		{
+			$c1 = 0;
+			$variation_size = wc_get_order_item_meta( $c, 'item_variation_size', true );
+			foreach ($variation_size as $key => $size) 
+			{
+				$c1 += $size['value'];
+			}
+			
+			$ap = wc_get_order_item_meta( $c, '_qty', true );
+			$sum += $c1 * $ap; 
+		}
+		//echo "<p>" . $key4 . " " . $sum . "</p>";
+		$merge[$key3][$key4][] = $sum;
+	}
+}
+
+
+foreach($merge as $key => $value)
+{
+	$_product =  wc_get_product( $key); 
+	$main_product = wc_get_product( $_product->get_parent_id() );
+	$brands = $main_product->get_attribute( 'pa_brand' );
+	if(!in_array($brands, $return_array2))
+	{
+		array_push($return_array2, $brands);
+	}
+}
+
+?>
+
+<!DOCTYPE html>
+<html lang='en' xml:lang='en' xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<meta charset='utf-8' />
+<meta content='en' name='language' />
+<meta content='width=device-width, initial-scale=1' name='viewport' />
+
+  <title>Fexpro - Purchase content</title>
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+	<script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+
+  
+  <style>
+	h2 {
+    text-align: center;
+    margin: 15px 0;
+    text-transform: uppercase;
+    font-weight: bold;
+	}
+	tbody#myTable > tr > td:first-child img {
+		width: 100px;
+	}	
+	.multiple-search {
+    float: left;
+    width: 100%;
+    padding: 20px 0;
+    margin-bottom: 15px;
+	}
+	.multiple-search input, .multiple-search select {
+		width: auto;
+		float: left;
+		margin: 0 2px;
+		border-width: 2px !important;
+	}
+	.multiple-search input#myInput1 {
+		width: 19%;
+	}
+  </style>
+</head>
+<body>
+
+<h2>My Customers Role -- Purchase List</h2>
+
+<div class="multiple-search">
+<input class="form-control border border-success filter" id="myInput" type="text" placeholder="Search from SKU.." data-col='sku'>
+<?php
+echo "<select id='brand_selection' class='form-control border border-success filter' data-col='brand'>";
+echo "<option value=''>Search by Brand...</option>";
+foreach($return_array2 as $key => $value)
+{
+	echo "<option value='" . $value ."'>" . ucfirst(strtolower($value)) . "</option>";
+}
+echo "</select>";
+?>
+<input class="form-control border border-success filter" type="text" id="myInput1" placeholder="Search by Mens, Womens, Boys, Girls and All.." data-col='category'>
+<input class="form-control border border-success filter" type="text" id="myInput2" placeholder="Search by Season.." data-col='season'>
+</div>
+
+<table class="table table-bordered" id="custom_table">
+   <thead>
+        <tr>
+          <th rowspan="2" style="vertical-align : middle;text-align:center;">Product image</th>
+          <th  style="vertical-align : middle;text-align:center;">Style name</th>
+          <th  style="vertical-align : middle;text-align:center;">Style sku</th>
+          <th  style="vertical-align : middle;text-align:center; display: none;">Brand</th>
+          <th  style="vertical-align : middle;text-align:center; display: none;">Main Category</th>
+          <th  style="vertical-align : middle;text-align:center; display: none;">Season</th>
+		  <?php
+		  foreach($return_array1 as $key1 => $value1)
+		  {
+				$user_info = get_userdata($value1);
+				$first_name = $user_info->first_name;
+				$last_name = $user_info->last_name;
+				echo "<th>" . $first_name  . " " . $last_name . "</th>";			 
+		  }
+		  ?>
+          <th rowspan="2" style="vertical-align : middle;text-align:center;">Total Unit Purchased</th>
+        </tr>
+      </thead>
+	<tbody id="myTable">
+		<?php 
+			foreach($merge as $key => $value)
+			{
+				$_product =  wc_get_product( $key); 
+				$main_product = wc_get_product( $_product->get_parent_id() );
+				echo "<tr>";
+					echo "<td style='vertical-align : middle;text-align:center;'>";
+						$image_id			= $_product->get_image_id();
+						$gallery_thumbnail 	= wc_get_image_size( array(100, 100) );
+						$thumbnail_size    	= apply_filters( 'woocommerce_gallery_thumbnail_size', array( $gallery_thumbnail['width'], $gallery_thumbnail['height'] ) );
+						$thumbnail_src     	= wp_get_attachment_image_src( $image_id, $thumbnail_size );
+						echo "<img src='" . $thumbnail_src[0] . "'/>";
+					echo "</td>";
+					echo "<td>";
+						echo $_product->get_title() . " - " . $_product->get_attribute( 'pa_color' );
+					echo "</td>";
+					echo "<td>";
+						echo $_product->get_sku();
+					echo "</td>";
+					echo "<td style='display: none;'>";
+						echo $main_product->get_attribute( 'pa_brand' );
+					echo "</td>";
+					echo "<td style='display: none;'>";
+						$cat = get_the_terms( $_product->get_parent_id() , 'product_cat' );
+						/* $terms_string = join(', ', wp_list_pluck($cat, 'name'));
+						echo $terms_string; */
+						$css_slug = array();
+						foreach($cat as $cvalue)
+						{
+							$css_slug[] = $cvalue->name;
+							if($cvalue->parent != 0)
+							{
+								$term = get_term_by( 'id', $cvalue->parent, 'product_cat' );
+								$css_slug[] = $term->name;
+							}
+						}
+						echo implode(", ", $css_slug);
+					echo "</td>";
+					echo "<td style='display: none;'>";
+						echo $main_product->get_attribute( 'pa_season' );
+					echo "</td>";
+					
+					$apk = 0;
+					foreach($return_array1 as $key1 => $value1)
+					{
+						echo "<td>" . $value[$value1][0] . "</td>";
+						$apk += $value[$value1][0];
+					}				
+					echo "<td>" . $apk . "</td>";					
+				echo "</tr>";
+			}
+		?>
+	</tbody>
+</table>
+
+<script>
+/* $(document).ready(function(){
+  $("#myInput").on("keyup", function() {
+    var value = $(this).val().toLowerCase();	
+	$("#myTable tr:visible").filter(function() {	  
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1);
+	  
+    });
+  });
+  
+  $("#brand_selection").on("change", function() {
+    var value = $(this).val().toLowerCase();
+	
+	$("#myTable tr:visible > td:nth-child(4)").filter(function() {
+		$(this).parent().toggle($(this).text().toLowerCase().indexOf(value) > -1);
+    });
+  });
+  
+  $("#myInput1").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+	$("#myTable tr:visible > td:nth-child(5)").filter(function() {		
+		$(this).parent().toggle($(this).text().toLowerCase().indexOf(value) > -1);	
+		
+    });
+  });
+  
+  $("#myInput2").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    $("#myTable tr:visible > td:nth-child(6)").filter(function() {	  
+	  $(this).parent().toggle($(this).text().toLowerCase().indexOf(value) > -1);	
+	  
+    });
+  });
+});
+ */
+</script>
+<script src='multifilter.js'></script>
+<script type='text/javascript'>
+    //<![CDATA[
+      $(document).ready(function() {
+        $('.filter').multifilter();
+      })
+    //]]>
+  </script>
+</body>
+</html>

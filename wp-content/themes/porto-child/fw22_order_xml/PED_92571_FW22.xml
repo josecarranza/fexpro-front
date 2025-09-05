@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="92571" Cliente="0000" Nombre="Catalina Cabrera" Fecha="18/12/2021" Tipo="1" Fecha_Entrega="18/12/2021" Direccion="KENNEDY 5413 PISO 6, LAS CONDES, SANTIAGO, CHILE Región Metropolitana" Direccion2="Chile  SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="RIPLEY CHILE - FIFA22 NIÑOS FW22" ResponsablePedido="" ResponsableImportacion="" Contacto="Catalina Cabrera" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PSGSB32206-NVY" Color="NVY" Cantidad="20" size_4="40" size_6="80" size_8="80" size_10="80" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="7.5"></Linea>
+    <Linea Producto="FIJS322207-LHB" Color="LHB" Cantidad="20" size_4="40" size_6="80" size_8="80" size_10="80" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="7.5"></Linea>
+    <Linea Producto="FIJS322207-YEL" Color="YEL" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7.5"></Linea>
+    <Linea Producto="FIJS322207-WHT" Color="WHT" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7.5"></Linea>
+    <Linea Producto="FIJS322207-NVY" Color="NVY" Cantidad="40" size_4="80" size_6="160" size_8="160" size_10="160" size_12="160" size_14="160" size_16="80" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="7.5"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="99665" Cliente="0094" Nombre="TZAJI LEVY" Fecha="28/01/2022" Tipo="1" Fecha_Entrega="28/01/2022" Direccion="COLON AVE CENTRAL " Direccion2="Panama Colón COLON 0000" Vendedor="01" AgenteEmbarcador="" Observaciones="FIFA MENS AND WOMENS - DOYAN" ResponsablePedido="" ResponsableImportacion="" Contacto="TZAJI LEVY" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="FIJS522204-LHB" Color="LHB" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="9"></Linea>
+    <Linea Producto="FIJS522204-YEL" Color="YEL" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="9"></Linea>
+    <Linea Producto="FIJS522205-LHB" Color="LHB" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="7"></Linea>
+    <Linea Producto="FIJS522205-YEL" Color="YEL" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="7"></Linea>
+    <Linea Producto="FIJS622204-LHB" Color="LHB" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="9"></Linea>
+    <Linea Producto="FIJS622204-YEL" Color="YEL" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="9"></Linea>
+    <Linea Producto="FIJS622209-LHB" Color="LHB" Cantidad="3" size_XS="12" size_S="24" size_M="24" size_L="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="7"></Linea>
+    <Linea Producto="FIJS622209-YEL" Color="YEL" Cantidad="3" size_XS="12" size_S="24" size_M="24" size_L="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="7"></Linea>
+    <Linea Producto="FIJS522204-RED4" Color="RED4" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="9"></Linea>
+    <Linea Producto="FIJS522205-RED4" Color="RED4" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="7"></Linea>
+    <Linea Producto="FIJS522207-RED4" Color="RED4" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="9"></Linea>
+    <Linea Producto="FIJS622204-RED4" Color="RED4" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="9"></Linea>
+    <Linea Producto="FIJS622209-RED4" Color="RED4" Cantidad="3" size_XS="12" size_S="24" size_M="24" size_L="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="7"></Linea>
+    <Linea Producto="FIJS622207-RED4" Color="RED4" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="9"></Linea>
+  </Encabezado>
+</Sagemobile>

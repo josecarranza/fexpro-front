@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="92881" Cliente="0450" Nombre="Bruno Chiappe" Fecha="21/12/2021" Tipo="1" Fecha_Entrega="21/12/2021" Direccion="AV. PASEO DE LA REPUBLICA 3220 " Direccion2="Peru Lima SAN ISIDRO 15047" Vendedor="01" AgenteEmbarcador="" Observaciones="FALABELLA PERU - HOMBRE NBA FW22" ResponsablePedido="" ResponsableImportacion="" Contacto="Bruno Chiappe" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="RMSH522201-WHT" Color="WHT" Cantidad="9" size_OS="216" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="3.5"></Linea>
+    <Linea Producto="NBASO522202-WHT" Color="WHT" Cantidad="9" size_OS="216" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="3.5"></Linea>
+    <Linea Producto="NBASO522202-GRN" Color="GRN" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="11"></Linea>
+    <Linea Producto="NBAPJ522201-RED" Color="RED" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="11"></Linea>
+    <Linea Producto="NBAPJ522201-YEL" Color="YEL" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="11"></Linea>
+    <Linea Producto="NBAPJ522201-GRY" Color="GRY" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="11"></Linea>
+    <Linea Producto="NBAPJ522202-RED" Color="RED" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="11"></Linea>
+    <Linea Producto="NBAPJ522202-PUR" Color="PUR" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="11"></Linea>
+    <Linea Producto="NBAPJ522202-GRY" Color="GRY" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="11"></Linea>
+    <Linea Producto="NBAPJ522202-GRN" Color="GRN" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="11"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="92537" Cliente="0036" Nombre="Wendy Mejía" Fecha="17/12/2021" Tipo="1" Fecha_Entrega="17/12/2021" Direccion="Avenida Samuel Lewis, Calle 54, Edif. Afra " Direccion2="Panama  Panamá City 00000" Vendedor="01" AgenteEmbarcador="" Observaciones="Orden - El Salvador" ResponsablePedido="" ResponsableImportacion="" Contacto="Wendy Mejía" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="FIJS622204-LHB" Color="LHB" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="9"></Linea>
+    <Linea Producto="FIJS622204-YEL" Color="YEL" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="9"></Linea>
+    <Linea Producto="FIJS622204-WHT" Color="WHT" Cantidad="5" size_XS="20" size_S="40" size_M="40" size_L="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9"></Linea>
+    <Linea Producto="FIJS622204-BLU" Color="BLU" Cantidad="5" size_XS="20" size_S="40" size_M="40" size_L="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9"></Linea>
+    <Linea Producto="FIJS622204-RED" Color="RED" Cantidad="5" size_XS="20" size_S="40" size_M="40" size_L="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9"></Linea>
+    <Linea Producto="FIJS622204-NVY" Color="NVY" Cantidad="5" size_XS="20" size_S="40" size_M="40" size_L="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="9"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="138267" Cliente="0000" Nombre="Pablo Irarrazaval" Fecha="04/08/2022" Tipo="1" Fecha_Entrega="04/08/2022" Direccion="AV. KENNEDY 9001, LAS CONDES, 7560356 PESO $" Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 7560356" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS CHILE - NBA-MENS DIC-E1 TIENDA SS23" ResponsablePedido="" ResponsableImportacion="" Contacto="Pablo Irarrazaval" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAHD521001-RED" Color="RED" Cantidad="26" size_S="104" size_M="208" size_L="208" size_XL="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="13"></Linea>
+    <Linea Producto="NBAHD521001-YEL" Color="YEL" Cantidad="26" size_S="104" size_M="208" size_L="208" size_XL="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="13"></Linea>
+    <Linea Producto="NBAHD521001-ROY" Color="ROY" Cantidad="26" size_S="104" size_M="208" size_L="208" size_XL="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="13"></Linea>
+    <Linea Producto="NBAHD521002-BLK" Color="BLK" Cantidad="26" size_S="104" size_M="208" size_L="208" size_XL="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="13"></Linea>
+    <Linea Producto="NBAHD521002-BLU" Color="BLU" Cantidad="26" size_S="104" size_M="208" size_L="208" size_XL="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="13"></Linea>
+    <Linea Producto="NBAPT521001-BLK" Color="BLK" Cantidad="64" size_S="256" size_M="512" size_L="512" size_XL="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="12"></Linea>
+    <Linea Producto="NBAPT521001-BLK2" Color="BLK2" Cantidad="64" size_S="256" size_M="512" size_L="512" size_XL="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="12"></Linea>
+    <Linea Producto="NBAPT521001-BLK3" Color="BLK3" Cantidad="64" size_S="256" size_M="512" size_L="512" size_XL="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="12"></Linea>
+    <Linea Producto="NBAPT521001-GRY" Color="GRY" Cantidad="43" size_S="172" size_M="344" size_L="344" size_XL="172" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="12"></Linea>
+    <Linea Producto="NBAPT521001-BLU" Color="BLU" Cantidad="43" size_S="172" size_M="344" size_L="344" size_XL="172" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="12"></Linea>
+    <Linea Producto="NBAPT521001-BLK4" Color="BLK4" Cantidad="26" size_S="104" size_M="208" size_L="208" size_XL="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="12"></Linea>
+    <Linea Producto="NBAPT52205-BLK" Color="BLK" Cantidad="43" size_S="172" size_M="344" size_L="344" size_XL="172" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="12"></Linea>
+    <Linea Producto="NBAPT52205-BLK2" Color="BLK2" Cantidad="43" size_S="172" size_M="344" size_L="344" size_XL="172" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="12"></Linea>
+  </Encabezado>
+</Sagemobile>

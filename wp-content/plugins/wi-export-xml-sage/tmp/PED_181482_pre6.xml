@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="181482" Cliente="0000" Nombre="Fernanda Orellana" Fecha="28/08/2023" Tipo="1" Direccion="PANAMA " Direccion2="Panama Panamá PANAMA 00000" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Fernanda Orellana" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBDB523104-BLK" Color="BLK" Cantidad="9" size_OS="216" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="10"></Linea>
+    <Linea Producto="PSGBK523104-BLK" Color="BLK" Cantidad="9" size_OS="216" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="13"></Linea>
+    <Linea Producto="PSGDB523104-NVY" Color="NVY" Cantidad="9" size_OS="216" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="10"></Linea>
+  </Encabezado>
+</Sagemobile>

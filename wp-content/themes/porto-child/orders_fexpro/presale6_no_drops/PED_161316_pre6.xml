@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="161316" Cliente="0455" Nombre="Matias Jimenez" Fecha="08/02/2023" Tipo="1" Direccion="SANTA ELVIRA 175 " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Matias Jimenez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS523224-BK1" Color="BK1" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="7"></Linea>
+    <Linea Producto="NBATS523224-RD1" Color="RD1" Cantidad="39" size_S="156" size_M="312" size_L="312" size_XL="156" Unit_Box_Qty="24" Total_Box_Qty="936" Precio="7"></Linea>
+    <Linea Producto="NBATS523224-BK4" Color="BK4" Cantidad="39" size_S="156" size_M="312" size_L="312" size_XL="156" Unit_Box_Qty="24" Total_Box_Qty="936" Precio="7"></Linea>
+    <Linea Producto="NBATS523224-WH1" Color="WH1" Cantidad="39" size_S="156" size_M="312" size_L="312" size_XL="156" Unit_Box_Qty="24" Total_Box_Qty="936" Precio="7"></Linea>
+    <Linea Producto="MLBHD523207-BK1" Color="BK1" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="16.5"></Linea>
+    <Linea Producto="MLBJK523202-NV1" Color="NV1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="30"></Linea>
+    <Linea Producto="MLBTS523217-NV1" Color="NV1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="7"></Linea>
+    <Linea Producto="MLBTS523217-WH1" Color="WH1" Cantidad="28" size_S="112" size_M="224" size_L="224" size_XL="112" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="7"></Linea>
+    <Linea Producto="MLBSH523207-BK1" Color="BK1" Cantidad="38" size_S="152" size_M="304" size_L="304" size_XL="152" Unit_Box_Qty="24" Total_Box_Qty="912" Precio="12"></Linea>
+    <Linea Producto="MLBTS520200-WHT" Color="WHT" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="6"></Linea>
+    <Linea Producto="MLBTS520200-BLK" Color="BLK" Cantidad="28" size_S="112" size_M="224" size_L="224" size_XL="112" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="6"></Linea>
+    <Linea Producto="MLBJT520220-WHT" Color="WHT" Cantidad="7" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="10"></Linea>
+    <Linea Producto="MLBPT520201-BLK" Color="BLK" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="12"></Linea>
+    <Linea Producto="NBASH523203-BK2" Color="BK2" Cantidad="64" size_S="256" size_M="512" size_L="512" size_XL="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="12.5"></Linea>
+    <Linea Producto="NBASH523203-BK4" Color="BK4" Cantidad="64" size_S="256" size_M="512" size_L="512" size_XL="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="12.5"></Linea>
+    <Linea Producto="MLBTS52002-WHT" Color="WHT" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="9"></Linea>
+    <Linea Producto="MLBJS520220-WHT" Color="WHT" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="13"></Linea>
+    <Linea Producto="MLBSH520201-NVY" Color="NVY" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="9"></Linea>
+  </Encabezado>
+</Sagemobile>

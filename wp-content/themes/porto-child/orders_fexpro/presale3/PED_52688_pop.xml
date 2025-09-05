@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="52688" Cliente="0000" Nombre="Joyce Shaul" Fecha="29/07/2021" Tipo="1" Fecha_Entrega="29/07/2021" Direccion="EDIFICIO R.J REALTY, CALLE 2 Y AVE. 3RA FRANCE FIE ZONA LIBRE DE COLÓN " Direccion2="Panama  PANAMA 03050" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Joyce Shaul" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="" Color="" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="12"></Linea>
+    <Linea Producto="" Color="" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="14"></Linea>
+    <Linea Producto="" Color="" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="20"></Linea>
+    <Linea Producto="" Color="" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="11"></Linea>
+    <Linea Producto="" Color="" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="18"></Linea>
+    <Linea Producto="" Color="" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="11"></Linea>
+    <Linea Producto="" Color="" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52227-RED" Color="RED" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52227-PUR" Color="PUR" Cantidad="8" size_OS="192" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52227-GRY" Color="GRY" Cantidad="8" size_OS="192" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52251-RED" Color="RED" Cantidad="16" size_OS="384" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52253-RED" Color="RED" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52253-PUR" Color="PUR" Cantidad="8" size_OS="192" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52253-GRY" Color="GRY" Cantidad="16" size_OS="384" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52233-RED" Color="RED" Cantidad="8" size_OS="192" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52233-BLK" Color="BLK" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="220578" Cliente="MARTI" Nombre="DANIEL DE LA CRUZ" Fecha="04/09/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Boulevard Benito Juárez #10 " Direccion2="Mexico Estado de México Tultitlán de Mariano Escobedo 54900" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="DANIEL DE LA CRUZ" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="CAATS525107NV1" Color="NV1" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="215.08620691667"></Linea>
+    <Linea Producto="CAATS525107YL1" Color="YL1" Cantidad="41" size_S="164" size_M="328" size_L="328" size_XL="164" Unit_Box_Qty="24" Total_Box_Qty="984" Precio="215.08620691667"></Linea>
+    <Linea Producto="CAALS525103NV1" Color="NV1" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="344.39655170833"></Linea>
+    <Linea Producto="CAAJS525105NV1" Color="NV1" Cantidad="41" size_S="164" size_M="328" size_L="328" size_XL="164" Unit_Box_Qty="24" Total_Box_Qty="984" Precio="258.18965516667"></Linea>
+    <Linea Producto="CAAJS525105YL1" Color="YL1" Cantidad="41" size_S="164" size_M="328" size_L="328" size_XL="164" Unit_Box_Qty="24" Total_Box_Qty="984" Precio="258.18965516667"></Linea>
+    <Linea Producto="CAATS525108NV1" Color="NV1" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="193.53448275"></Linea>
+    <Linea Producto="CAATS525108GY1" Color="GY1" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="193.53448275"></Linea>
+    <Linea Producto="CAATS525110BL1" Color="BL1" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="193.53448275"></Linea>
+    <Linea Producto="CAATS325107NV1" Color="NV1" Cantidad="31" size_4="62" size_6="124" size_8="124" size_10="124" size_12="124" size_14="124" size_16="62" Unit_Box_Qty="24" Total_Box_Qty="744" Precio="171.982758625"></Linea>
+    <Linea Producto="CAATS325107YL1" Color="YL1" Cantidad="31" size_4="62" size_6="124" size_8="124" size_10="124" size_12="124" size_14="124" size_16="62" Unit_Box_Qty="24" Total_Box_Qty="744" Precio="171.982758625"></Linea>
+    <Linea Producto="CAAJS325103NV1" Color="NV1" Cantidad="31" size_4="62" size_6="124" size_8="124" size_10="124" size_12="124" size_14="124" size_16="62" Unit_Box_Qty="24" Total_Box_Qty="744" Precio="258.18965516667"></Linea>
+    <Linea Producto="CAAJS325103YL1" Color="YL1" Cantidad="31" size_4="62" size_6="124" size_8="124" size_10="124" size_12="124" size_14="124" size_16="62" Unit_Box_Qty="24" Total_Box_Qty="744" Precio="258.18965516667"></Linea>
+  </Encabezado>
+</Sagemobile>

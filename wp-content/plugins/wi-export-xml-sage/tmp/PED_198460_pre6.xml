@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="198460" Cliente="0000" Nombre="SEBASTIAN BARRIENTOS" Fecha="15/02/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AV. PRESIDENTE RIESCO 5685 PISO 4 " Direccion2="Chile Región Metropolitana de Santiago Santiago " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="SEBASTIAN BARRIENTOS" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBACA500001-BK1" Color="BK1" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8"></Linea>
+    <Linea Producto="NBACA500002-BK2" Color="BK2" Cantidad="15" size_S-M="180" size_L-XL="180" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500002-PR1" Color="PR1" Cantidad="10" size_S-M="120" size_L-XL="120" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500002-BK4" Color="BK4" Cantidad="10" size_S-M="120" size_L-XL="120" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500002-GY1" Color="GY1" Cantidad="10" size_S-M="120" size_L-XL="120" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500002-BK5" Color="BK5" Cantidad="10" size_S-M="120" size_L-XL="120" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500002-BU1" Color="BU1" Cantidad="10" size_S-M="120" size_L-XL="120" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500005-BK7" Color="BK7" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8"></Linea>
+    <Linea Producto="NBACA524202-BK1" Color="BK1" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="9.5"></Linea>
+    <Linea Producto="NBACA524202-BK3" Color="BK3" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="9.5"></Linea>
+    <Linea Producto="NBACA524203-BK1" Color="BK1" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="9"></Linea>
+    <Linea Producto="NBASB521201-BLK3" Color="BLK3" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521201-BLK" Color="BLK" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521201-RED" Color="RED" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521201-BK1" Color="BK1" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521204-BLK8" Color="BLK8" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-BLK3" Color="BLK3" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-PUR" Color="PUR" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-RED" Color="RED" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-BLK" Color="BLK" Cantidad="25" size_OS="600" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521206-BLK" Color="BLK" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="8.5"></Linea>
+  </Encabezado>
+</Sagemobile>

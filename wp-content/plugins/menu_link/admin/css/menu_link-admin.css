@@ -1,0 +1,29 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+/*.menu-item-bar .menu-item-handle{
+	padding: 10px 5px;
+}*/
+.item-controls {
+	right: 10px;
+}
+.nav-menus-php .item-edit {
+    right: 27px !important;
+    top: 0 !important;
+    width: 20px;
+}
+span.remove-custom {
+    display: inline-block;
+    padding: 0px 6px;
+    color: #646970;
+    font-size: 12px;
+    line-height: 1.5;
+    border: 1px solid red;
+    border-radius: 50px;
+    background: red;
+}
+span.remove-custom a{
+	color: #fff;
+}

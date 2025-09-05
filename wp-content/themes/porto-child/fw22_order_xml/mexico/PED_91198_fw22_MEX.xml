@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="91198" Cliente="MARTI" Nombre="DANIEL DE LA CRUZ" Fecha="08/12/2021" Tipo="1" Fecha_Entrega="08/12/2021" Direccion="Boulevard Benito Juárez #10 " Direccion2="Mexico Estado de México Tultitlán de Mariano Escobedo 54900" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="DANIEL DE LA CRUZ" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS521000RED" Color="RED" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="170.14655170833"></Linea>
+    <Linea Producto="NBATS521000BLK2" Color="BLK2" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="170.14655170833"></Linea>
+    <Linea Producto="NBATS521000PUR" Color="PUR" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="170.14655170833"></Linea>
+    <Linea Producto="NBATS521000BLK" Color="BLK" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="170.14655170833"></Linea>
+    <Linea Producto="NBAPT52205BLK" Color="BLK" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="296.1810345"></Linea>
+    <Linea Producto="NBAPT52205BLK2" Color="BLK2" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="296.1810345"></Linea>
+    <Linea Producto="NBAHD62208BLK" Color="BLK" Cantidad="10" size_XS="40" size_S="80" size_M="80" size_L="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="407.38793104167"></Linea>
+    <Linea Producto="NBAHD62208PUR" Color="PUR" Cantidad="10" size_XS="40" size_S="80" size_M="80" size_L="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="407.38793104167"></Linea>
+    <Linea Producto="NBATS321000BLK" Color="BLK" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="147.90517241667"></Linea>
+    <Linea Producto="NBATS321000RED" Color="RED" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="147.90517241667"></Linea>
+    <Linea Producto="NBATS321000BLK2" Color="BLK2" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="147.90517241667"></Linea>
+    <Linea Producto="NBASB321204BLK" Color="BLK" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="147.90517241667"></Linea>
+    <Linea Producto="NBASB321201RED" Color="RED" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="147.90517241667"></Linea>
+    <Linea Producto="NBASB321201BLK" Color="BLK" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="147.90517241667"></Linea>
+    <Linea Producto="NBASB321201BLK2" Color="BLK2" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="147.90517241667"></Linea>
+    <Linea Producto="MLBSW52205BLU" Color="BLU" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="333.25"></Linea>
+    <Linea Producto="MLBSW52205NVY2" Color="NVY2" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="333.25"></Linea>
+    <Linea Producto="MLBTS520200BLU2" Color="BLU2" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="170.14655170833"></Linea>
+    <Linea Producto="MLBTS520200BLK" Color="BLK" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="170.14655170833"></Linea>
+    <Linea Producto="MLBTS520200NVY" Color="NVY" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="170.14655170833"></Linea>
+    <Linea Producto="MLBTS520200BLK3" Color="BLK3" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="170.14655170833"></Linea>
+    <Linea Producto="MLBTS62207NVY2" Color="NVY2" Cantidad="15" size_XS="60" size_S="120" size_M="120" size_L="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="166.43965516667"></Linea>
+    <Linea Producto="MLBTS62207NVY" Color="NVY" Cantidad="15" size_XS="60" size_S="120" size_M="120" size_L="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="166.43965516667"></Linea>
+    <Linea Producto="MLBCT622211WHT" Color="WHT" Cantidad="10" size_XS="40" size_S="80" size_M="80" size_L="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="170.14655170833"></Linea>
+    <Linea Producto="MLBCT622211BLK" Color="BLK" Cantidad="10" size_XS="40" size_S="80" size_M="80" size_L="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="170.14655170833"></Linea>
+    <Linea Producto="MLBTS520200NVY2" Color="NVY2" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="170.14655170833"></Linea>
+    <Linea Producto="MLBTS62207NVY3" Color="NVY3" Cantidad="15" size_XS="60" size_S="120" size_M="120" size_L="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="166.43965516667"></Linea>
+    <Linea Producto="MLBCT622211WHT1" Color="WHT1" Cantidad="10" size_XS="40" size_S="80" size_M="80" size_L="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="170.14655170833"></Linea>
+    <Linea Producto="NBATS62212BLK" Color="BLK" Cantidad="15" size_XS="60" size_S="120" size_M="120" size_L="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="170.14655170833"></Linea>
+    <Linea Producto="NBATS62212PUR" Color="PUR" Cantidad="15" size_XS="60" size_S="120" size_M="120" size_L="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="170.14655170833"></Linea>
+    <Linea Producto="NBASW52209BLK3" Color="BLK3" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="296.1810345"></Linea>
+    <Linea Producto="NBASW52209YEL" Color="YEL" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="296.1810345"></Linea>
+    <Linea Producto="NBASW52209BLK" Color="BLK" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="296.1810345"></Linea>
+    <Linea Producto="MLBHD52001BLU" Color="BLU" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="407.38793104167"></Linea>
+    <Linea Producto="MLBHD52001NVY2" Color="NVY2" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="407.38793104167"></Linea>
+    <Linea Producto="MLBHD52001NVY" Color="NVY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="407.38793104167"></Linea>
+    <Linea Producto="NBAJS552201BLK3" Color="BLK3" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="277.64655170833"></Linea>
+    <Linea Producto="NBAJS552201RED" Color="RED" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="277.64655170833"></Linea>
+    <Linea Producto="NBAJS552201YEL" Color="YEL" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="277.64655170833"></Linea>
+    <Linea Producto="NBAHD521001BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="407.38793104167"></Linea>
+    <Linea Producto="NBAHD521001RED" Color="RED" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="407.38793104167"></Linea>
+  </Encabezado>
+</Sagemobile>

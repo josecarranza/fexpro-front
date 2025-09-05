@@ -1,0 +1,5 @@
+group,product_sku,min_quantity,%_discount,flat_price
+regular_buyers,SK100541,10,10,
+regular_buyers,SK100541,20,15,
+gold_members,SK100541,10,,100
+gold_members,SK100541,20,,90

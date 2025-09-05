@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="92159" Cliente="0000" Nombre="Raquel Quezada" Fecha="15/12/2021" Tipo="1" Fecha_Entrega="15/12/2021" Direccion="PASEO GENERAL ESCALÓN #3700 CENTRO COMERCIAL GALERIAS. SAN SALVADOR-EL SALVADOR" Direccion2="El Salvador  El Salvador 11101" Vendedor="01" AgenteEmbarcador="" Observaciones="ORDEN REGIONAL PJ FIFA WOMEN" ResponsablePedido="" ResponsableImportacion="" Contacto="Raquel Quezada" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAFP22244-BLK1" Color="BLK1" Cantidad="9" size_XS="36" size_S="72" size_M="72" size_L="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="11"></Linea>
+    <Linea Producto="FIPJ622202-NVY" Color="NVY" Cantidad="9" size_XS="36" size_S="72" size_M="72" size_L="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="11"></Linea>
+    <Linea Producto="FIPJ622202-BLU" Color="BLU" Cantidad="7" size_XS="28" size_S="56" size_M="56" size_L="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="11"></Linea>
+    <Linea Producto="FIPJ622202-NVY2" Color="NVY2" Cantidad="7" size_XS="28" size_S="56" size_M="56" size_L="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="11"></Linea>
+    <Linea Producto="FIPJ622202-BLK" Color="BLK" Cantidad="7" size_XS="28" size_S="56" size_M="56" size_L="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="11"></Linea>
+    <Linea Producto="FIPJ622202-NVY4" Color="NVY4" Cantidad="4" size_XS="16" size_S="32" size_M="32" size_L="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="11"></Linea>
+    <Linea Producto="FIPJ622202-RED" Color="RED" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="11"></Linea>
+    <Linea Producto="FIPJ622201-WHT2" Color="WHT2" Cantidad="7" size_XS="28" size_S="56" size_M="56" size_L="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="11"></Linea>
+    <Linea Producto="FIPJ622201-WHT3" Color="WHT3" Cantidad="10" size_XS="40" size_S="80" size_M="80" size_L="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="11"></Linea>
+    <Linea Producto="FIPJ622201-LHB" Color="LHB" Cantidad="10" size_XS="40" size_S="80" size_M="80" size_L="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="11"></Linea>
+    <Linea Producto="FIPJ622201-YEL" Color="YEL" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="11"></Linea>
+    <Linea Producto="FIPJ622201-BLU" Color="BLU" Cantidad="7" size_XS="28" size_S="56" size_M="56" size_L="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="11"></Linea>
+  </Encabezado>
+</Sagemobile>

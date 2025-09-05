@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="54230" Cliente="0514" Nombre="Gonzalo Escobar" Fecha="01/08/2021" Tipo="1" Fecha_Entrega="01/08/2021" Direccion="AV LO ESPEJO 01565 " Direccion2="Chile  SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="PIMPS MEN - MLB SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="Gonzalo Escobar" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBJK52201-GRY" Color="GRY" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="18"></Linea>
+    <Linea Producto="MLBJK52201-NVY" Color="NVY" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="18"></Linea>
+    <Linea Producto="MLBJK52201-BLU" Color="BLU" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="18"></Linea>
+    <Linea Producto="MLBJP52201-GRY" Color="GRY" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="10"></Linea>
+    <Linea Producto="MLBJP52201-NVY2" Color="NVY2" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="10"></Linea>
+    <Linea Producto="MLBJP52202-NVY" Color="NVY" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="10"></Linea>
+    <Linea Producto="MLBJP52202-BLU" Color="BLU" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="10"></Linea>
+    <Linea Producto="MLBJP52202-NVY2" Color="NVY2" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="10"></Linea>
+    <Linea Producto="MLBHD52203-NVY" Color="NVY" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="12"></Linea>
+    <Linea Producto="MLBHD52203-BLU2" Color="BLU2" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="12"></Linea>
+    <Linea Producto="MLBHD52203-NVY2" Color="NVY2" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="12"></Linea>
+    <Linea Producto="MLBHD52202-WHT" Color="WHT" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="12"></Linea>
+    <Linea Producto="MLBHD52202-NVY" Color="NVY" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="12"></Linea>
+    <Linea Producto="MLBHD52202-GRY" Color="GRY" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="12"></Linea>
+    <Linea Producto="MLBHD52201-NVY" Color="NVY" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="12"></Linea>
+    <Linea Producto="MLBHD52201-GRY" Color="GRY" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="12"></Linea>
+    <Linea Producto="MLBSW52202-WHT" Color="WHT" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="10"></Linea>
+    <Linea Producto="MLBSW52202-BLU" Color="BLU" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="10"></Linea>
+    <Linea Producto="MLBSW52202-NVY" Color="NVY" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="10"></Linea>
+    <Linea Producto="MLBHD52201-BLK" Color="BLK" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="12"></Linea>
+    <Linea Producto="MLBSW52201-NVY" Color="NVY" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="7.5"></Linea>
+    <Linea Producto="MLBSW52201-GRY" Color="GRY" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="7.5"></Linea>
+    <Linea Producto="MLBLS52202-NVY" Color="NVY" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="7.5"></Linea>
+    <Linea Producto="MLBLS52202-RED" Color="RED" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="7.5"></Linea>
+    <Linea Producto="MLBLS52202-BLU" Color="BLU" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="7.5"></Linea>
+    <Linea Producto="MLBSW52201-RED" Color="RED" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="7.5"></Linea>
+    <Linea Producto="MLBTS52206-NVY" Color="NVY" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="6"></Linea>
+    <Linea Producto="MLBTS52206-RED" Color="RED" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="6"></Linea>
+    <Linea Producto="MLBTS52206-BLU" Color="BLU" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="6"></Linea>
+    <Linea Producto="MLBTS52202-NVY" Color="NVY" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="6"></Linea>
+    <Linea Producto="MLBTS52202-RED" Color="RED" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="6"></Linea>
+    <Linea Producto="MLBTS52202-BLU" Color="BLU" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="6"></Linea>
+    <Linea Producto="MLBJP52201-NVY" Color="NVY" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="10"></Linea>
+  </Encabezado>
+</Sagemobile>

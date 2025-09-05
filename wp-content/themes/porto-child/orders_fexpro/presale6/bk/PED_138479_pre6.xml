@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="138479" Cliente="0000" Nombre="Mishka Ibaceta" Fecha="15/08/2022" Tipo="1" Fecha_Entrega="15/08/2022" Direccion="HUERFANOS 1052 PASAJE INTERIOR PISO 4 " Direccion2="Chile Región Metropolitana de Santiago Santiago " Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Mishka Ibaceta" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBHD623112-BLK" Color="BLK" Cantidad="20" size_XS="80" size_S="160" size_M="160" size_L="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="14"></Linea>
+    <Linea Producto="MLBHD623113-LIL" Color="LIL" Cantidad="20" size_XS="80" size_S="160" size_M="160" size_L="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="14"></Linea>
+    <Linea Producto="MLBJP623108-LIL" Color="LIL" Cantidad="20" size_XS="80" size_S="160" size_M="160" size_L="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="14"></Linea>
+    <Linea Producto="MLBHD623109-GRY" Color="GRY" Cantidad="20" size_XS="80" size_S="160" size_M="160" size_L="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="14"></Linea>
+    <Linea Producto="MLBHD623109-WHT" Color="WHT" Cantidad="20" size_XS="80" size_S="160" size_M="160" size_L="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="14"></Linea>
+    <Linea Producto="MLBHD623109-NVY" Color="NVY" Cantidad="20" size_XS="80" size_S="160" size_M="160" size_L="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="14"></Linea>
+    <Linea Producto="MLBJP623106-GRY" Color="GRY" Cantidad="20" size_XS="80" size_S="160" size_M="160" size_L="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="12.5"></Linea>
+    <Linea Producto="MLBJP623106-NVY" Color="NVY" Cantidad="20" size_XS="80" size_S="160" size_M="160" size_L="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="12.5"></Linea>
+  </Encabezado>
+</Sagemobile>

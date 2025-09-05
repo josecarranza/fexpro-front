@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="99657" Cliente="0458" Nombre="Fernanda Salas" Fecha="27/01/2022" Tipo="1" Fecha_Entrega="27/01/2022" Direccion="MANUEL RODRIGUEZ 2571 Región Metropolitana" Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Fernanda Salas" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="UNLATS522203-BLK" Color="BLK" Cantidad="60" size_S="240" size_M="480" size_L="480" size_XL="240" Unit_Box_Qty="24" Total_Box_Qty="1440" Precio="7"></Linea>
+    <Linea Producto="UNYLTS522206-GRY" Color="GRY" Cantidad="60" size_S="240" size_M="480" size_L="480" size_XL="240" Unit_Box_Qty="24" Total_Box_Qty="1440" Precio="8"></Linea>
+    <Linea Producto="UNHVTS522203-BLK" Color="BLK" Cantidad="60" size_S="240" size_M="480" size_L="480" size_XL="240" Unit_Box_Qty="24" Total_Box_Qty="1440" Precio="8"></Linea>
+    <Linea Producto="UNYLTS522205-BLK" Color="BLK" Cantidad="57" size_S="228" size_M="456" size_L="456" size_XL="228" Unit_Box_Qty="24" Total_Box_Qty="1368" Precio="7"></Linea>
+    <Linea Producto="UNFLTS522205-BLK" Color="BLK" Cantidad="57" size_S="228" size_M="456" size_L="456" size_XL="228" Unit_Box_Qty="24" Total_Box_Qty="1368" Precio="8"></Linea>
+    <Linea Producto="UNLATS522206-BLK" Color="BLK" Cantidad="54" size_S="216" size_M="432" size_L="432" size_XL="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="8"></Linea>
+    <Linea Producto="UNHVTS522201-BLK" Color="BLK" Cantidad="54" size_S="216" size_M="432" size_L="432" size_XL="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="7"></Linea>
+    <Linea Producto="UNHVTS522203-GRY" Color="GRY" Cantidad="54" size_S="216" size_M="432" size_L="432" size_XL="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="8"></Linea>
+    <Linea Producto="UNHVTS522202-GRY" Color="GRY" Cantidad="49" size_S="196" size_M="392" size_L="392" size_XL="196" Unit_Box_Qty="24" Total_Box_Qty="1176" Precio="7"></Linea>
+    <Linea Producto="UNGTTS522205-OWHT" Color="OWHT" Cantidad="49" size_S="196" size_M="392" size_L="392" size_XL="196" Unit_Box_Qty="24" Total_Box_Qty="1176" Precio="8"></Linea>
+    <Linea Producto="UNFLTS522207-BLK" Color="BLK" Cantidad="49" size_S="196" size_M="392" size_L="392" size_XL="196" Unit_Box_Qty="24" Total_Box_Qty="1176" Precio="7"></Linea>
+    <Linea Producto="UNLATS522203-BLU" Color="BLU" Cantidad="49" size_S="196" size_M="392" size_L="392" size_XL="196" Unit_Box_Qty="24" Total_Box_Qty="1176" Precio="7"></Linea>
+    <Linea Producto="UNYLTS522205-WHT" Color="WHT" Cantidad="49" size_S="196" size_M="392" size_L="392" size_XL="196" Unit_Box_Qty="24" Total_Box_Qty="1176" Precio="7"></Linea>
+    <Linea Producto="UNYLTS522206-NVY" Color="NVY" Cantidad="49" size_S="196" size_M="392" size_L="392" size_XL="196" Unit_Box_Qty="24" Total_Box_Qty="1176" Precio="8"></Linea>
+    <Linea Producto="UNHVSH522201-GRY" Color="GRY" Cantidad="54" size_S="216" size_M="432" size_L="432" size_XL="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="11"></Linea>
+    <Linea Producto="UNHVSH522201-WIN" Color="WIN" Cantidad="36" size_S="144" size_M="288" size_L="288" size_XL="144" Unit_Box_Qty="24" Total_Box_Qty="864" Precio="11"></Linea>
+    <Linea Producto="UNYLTS522201-NVY" Color="NVY" Cantidad="49" size_S="196" size_M="392" size_L="392" size_XL="196" Unit_Box_Qty="24" Total_Box_Qty="1176" Precio="7"></Linea>
+    <Linea Producto="UNLATS522203-WHT" Color="WHT" Cantidad="46" size_S="184" size_M="368" size_L="368" size_XL="184" Unit_Box_Qty="24" Total_Box_Qty="1104" Precio="7"></Linea>
+    <Linea Producto="UNLATS522206-GRY" Color="GRY" Cantidad="46" size_S="184" size_M="368" size_L="368" size_XL="184" Unit_Box_Qty="24" Total_Box_Qty="1104" Precio="8"></Linea>
+    <Linea Producto="UNHVTS522203-RED" Color="RED" Cantidad="46" size_S="184" size_M="368" size_L="368" size_XL="184" Unit_Box_Qty="24" Total_Box_Qty="1104" Precio="8"></Linea>
+    <Linea Producto="UNFLTS522205-WHT" Color="WHT" Cantidad="46" size_S="184" size_M="368" size_L="368" size_XL="184" Unit_Box_Qty="24" Total_Box_Qty="1104" Precio="8"></Linea>
+    <Linea Producto="UNGTSH522201-NVY" Color="NVY" Cantidad="54" size_S="216" size_M="432" size_L="432" size_XL="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="11"></Linea>
+    <Linea Producto="UNGTSH522201-GRY" Color="GRY" Cantidad="43" size_S="172" size_M="344" size_L="344" size_XL="172" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="11"></Linea>
+    <Linea Producto="UNYLTS522201-WHT" Color="WHT" Cantidad="46" size_S="184" size_M="368" size_L="368" size_XL="184" Unit_Box_Qty="24" Total_Box_Qty="1104" Precio="7"></Linea>
+    <Linea Producto="UNHVTS522201-WIN" Color="WIN" Cantidad="46" size_S="184" size_M="368" size_L="368" size_XL="184" Unit_Box_Qty="24" Total_Box_Qty="1104" Precio="7"></Linea>
+    <Linea Producto="UNFLTS522208-BLU" Color="BLU" Cantidad="46" size_S="184" size_M="368" size_L="368" size_XL="184" Unit_Box_Qty="24" Total_Box_Qty="1104" Precio="7"></Linea>
+    <Linea Producto="UNHVTS522202-RED" Color="RED" Cantidad="43" size_S="172" size_M="344" size_L="344" size_XL="172" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="7"></Linea>
+    <Linea Producto="UNFLSH522202-BLU" Color="BLU" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="10"></Linea>
+    <Linea Producto="UNFLSH522202-GRY" Color="GRY" Cantidad="43" size_S="172" size_M="344" size_L="344" size_XL="172" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="10"></Linea>
+    <Linea Producto="UNGTTS522204-WHT" Color="WHT" Cantidad="43" size_S="172" size_M="344" size_L="344" size_XL="172" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="8"></Linea>
+    <Linea Producto="UNFLTS522207-WHT" Color="WHT" Cantidad="43" size_S="172" size_M="344" size_L="344" size_XL="172" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="7"></Linea>
+    <Linea Producto="UNGTTS522204-NVY" Color="NVY" Cantidad="36" size_S="144" size_M="288" size_L="288" size_XL="144" Unit_Box_Qty="24" Total_Box_Qty="864" Precio="8"></Linea>
+    <Linea Producto="UNGTTS522205-GRY" Color="GRY" Cantidad="36" size_S="144" size_M="288" size_L="288" size_XL="144" Unit_Box_Qty="24" Total_Box_Qty="864" Precio="8"></Linea>
+    <Linea Producto="UNFLSH522204-NVY" Color="NVY" Cantidad="54" size_S="216" size_M="432" size_L="432" size_XL="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="11"></Linea>
+    <Linea Producto="UNFLSH522204-BLU" Color="BLU" Cantidad="43" size_S="172" size_M="344" size_L="344" size_XL="172" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="11"></Linea>
+    <Linea Producto="UNFLTS522208-ORG" Color="ORG" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="7"></Linea>
+    <Linea Producto="UNCASH522201-RED" Color="RED" Cantidad="43" size_S="172" size_M="344" size_L="344" size_XL="172" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="11"></Linea>
+    <Linea Producto="UNCASH522201-BLK" Color="BLK" Cantidad="49" size_S="196" size_M="392" size_L="392" size_XL="196" Unit_Box_Qty="24" Total_Box_Qty="1176" Precio="11"></Linea>
+    <Linea Producto="UNLATS522208-BLK" Color="BLK" Cantidad="54" size_S="216" size_M="432" size_L="432" size_XL="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="10"></Linea>
+    <Linea Producto="UNLATS522208-WHT" Color="WHT" Cantidad="46" size_S="184" size_M="368" size_L="368" size_XL="184" Unit_Box_Qty="24" Total_Box_Qty="1104" Precio="10"></Linea>
+    <Linea Producto="UNLSTS522203-NVY" Color="NVY" Cantidad="57" size_S="228" size_M="456" size_L="456" size_XL="228" Unit_Box_Qty="24" Total_Box_Qty="1368" Precio="8"></Linea>
+    <Linea Producto="UNLSTS522203-PUR" Color="PUR" Cantidad="43" size_S="172" size_M="344" size_L="344" size_XL="172" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="8"></Linea>
+    <Linea Producto="UNLSTS522203-WHT" Color="WHT" Cantidad="49" size_S="196" size_M="392" size_L="392" size_XL="196" Unit_Box_Qty="24" Total_Box_Qty="1176" Precio="8"></Linea>
+    <Linea Producto="UNLSTS522208-NVY" Color="NVY" Cantidad="54" size_S="216" size_M="432" size_L="432" size_XL="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="7"></Linea>
+    <Linea Producto="UNLSTS522208-YLW" Color="YLW" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="7"></Linea>
+    <Linea Producto="UNLSSH522203-NVY" Color="NVY" Cantidad="54" size_S="216" size_M="432" size_L="432" size_XL="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="11"></Linea>
+    <Linea Producto="UNLSSH522203-PUR" Color="PUR" Cantidad="36" size_S="144" size_M="288" size_L="288" size_XL="144" Unit_Box_Qty="24" Total_Box_Qty="864" Precio="11"></Linea>
+    <Linea Producto="UNLSSH522202-GRY" Color="GRY" Cantidad="49" size_S="196" size_M="392" size_L="392" size_XL="196" Unit_Box_Qty="24" Total_Box_Qty="1176" Precio="11"></Linea>
+    <Linea Producto="UNCATS522202-RED" Color="RED" Cantidad="43" size_S="172" size_M="344" size_L="344" size_XL="172" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="7"></Linea>
+    <Linea Producto="UNCATS522202-WHT" Color="WHT" Cantidad="49" size_S="196" size_M="392" size_L="392" size_XL="196" Unit_Box_Qty="24" Total_Box_Qty="1176" Precio="7"></Linea>
+    <Linea Producto="UNFLTS522203-ORG" Color="ORG" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="8"></Linea>
+    <Linea Producto="UNFLTS522203-BLK" Color="BLK" Cantidad="49" size_S="196" size_M="392" size_L="392" size_XL="196" Unit_Box_Qty="24" Total_Box_Qty="1176" Precio="8"></Linea>
+    <Linea Producto="UNLASH522201-NVY" Color="NVY" Cantidad="46" size_S="184" size_M="368" size_L="368" size_XL="184" Unit_Box_Qty="24" Total_Box_Qty="1104" Precio="7"></Linea>
+    <Linea Producto="UNLASH522201-BLK" Color="BLK" Cantidad="54" size_S="216" size_M="432" size_L="432" size_XL="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="7"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="161720" Cliente="0445" Nombre="Samantha Feijoo" Fecha="17/02/2023" Tipo="1" Direccion="Av. Galo Plaza Lasso 13205 y de los Cerezos " Direccion2="Ecuador Pichincha Quito 170303" AgenteEmbarcador="" Observaciones="COMPLEMENTO FW23 MARATHON ECUADOR" ResponsablePedido="" ResponsableImportacion="" Contacto="Samantha Feijoo" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBJT320220-NVY2" Color="NVY2" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="9.5"></Linea>
+    <Linea Producto="MLBTS520207-BLK" Color="BLK" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6.5"></Linea>
+  </Encabezado>
+</Sagemobile>

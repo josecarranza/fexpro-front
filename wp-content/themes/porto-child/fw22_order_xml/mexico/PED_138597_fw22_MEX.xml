@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="138597" Cliente="0000" Nombre="OMAR CELIS" Fecha="19/08/2022" Tipo="1" Fecha_Entrega="19/08/2022" Direccion="RADIATAS 42 BOSQUES DE LAS LOMAS " Direccion2="Mexico Ciudad de México CUAJIMALPA DE MORELOS 05120" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="OMAR CELIS" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBTS520200NVY" Color="NVY" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="211.47"></Linea>
+    <Linea Producto="MLBTS520200NVY2" Color="NVY2" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="211.47"></Linea>
+    <Linea Producto="MLBTS520200BLU2" Color="BLU2" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="211.47"></Linea>
+    <Linea Producto="NBATS521000BLK" Color="BLK" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="211.47"></Linea>
+    <Linea Producto="MLBTS520200BLK3" Color="BLK3" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="211.47"></Linea>
+    <Linea Producto="NBATS521000GRN" Color="GRN" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="211.47"></Linea>
+    <Linea Producto="NBATS523119RED" Color="RED" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="222.07"></Linea>
+    <Linea Producto="MLBJS520220WHT" Color="WHT" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="476.47"></Linea>
+    <Linea Producto="NBATS523120BLK" Color="BLK" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="211.47"></Linea>
+  </Encabezado>
+</Sagemobile>

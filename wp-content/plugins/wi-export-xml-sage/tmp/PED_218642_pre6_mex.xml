@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="218642" Cliente="FANTOWN" Nombre="Roberto Caballero" Fecha="25/07/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Boulevard Independencia #1300, Col. Navarro Int. 212-A" Direccion2="Mexico Coahuila Torreón 27360" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Roberto Caballero" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="CO2300CJKBUCT" Color="UCT" Cantidad="12" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="12" Total_Box_Qty="144" Precio="1206.46551725"></Linea>
+    <Linea Producto="CO23009XN15UCT" Color="UCT" Cantidad="15" size_S="30" size_M="60" size_L="60" size_XL="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7GWLDA2LDG23" Color="G23" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1120.2586206667"></Linea>
+    <Linea Producto="T7GWNKHONKG23" Color="G23" Cantidad="3" size_XS="6" size_S="12" size_M="12" size_L="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1120.2586206667"></Linea>
+    <Linea Producto="T7LMLDA1LDL23" Color="L23" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LMLDA2LDL23" Color="L23" Cantidad="12" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="12" Total_Box_Qty="144" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LMLDHOLDL23" Color="L23" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LMNKA2NKL23" Color="L23" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LMNKHONKL23" Color="L23" Cantidad="18" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="12" Total_Box_Qty="216" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7GWBQA1BQG23" Color="G23" Cantidad="3" size_XS="6" size_S="12" size_M="12" size_L="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1120.2586206667"></Linea>
+    <Linea Producto="CO23009RBRSUCT" Color="UCT" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LM0ECYBQL23" Color="L23" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LMBQA1BQL23" Color="L23" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LMBQA2BQL23" Color="L23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7GWHUA2HUSG23" Color="G23" Cantidad="3" size_XS="6" size_S="12" size_M="12" size_L="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1120.2586206667"></Linea>
+    <Linea Producto="T7LMANA4ANGL23" Color="L23" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="1206.46551725"></Linea>
+    <Linea Producto="CO2300CAH94UCT" Color="UCT" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LMHUA1HUSL23" Color="L23" Cantidad="12" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="12" Total_Box_Qty="144" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LMHUA2HUSL23" Color="L23" Cantidad="12" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="12" Total_Box_Qty="144" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LMSCA2SCNL23" Color="L23" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LMTOA2TORL23" Color="L23" Cantidad="6" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="1206.46551725"></Linea>
+    <Linea Producto="CO23009TPBBUCT" Color="UCT" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LMAWA1AWL23" Color="L23" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1206.46551725"></Linea>
+    <Linea Producto="CO23OKC1OKAUCT" Color="UCT" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LM01O2AWL23" Color="L23" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1378.8793103333"></Linea>
+    <Linea Producto="T7LM03K2PPL23" Color="L23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LMPPHOPPL23" Color="L23" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LMPTA1PTBL23" Color="L23" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LMRXA2RXL23" Color="L23" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LMRXHORXL23" Color="L23" Cantidad="6" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="1206.46551725"></Linea>
+    <Linea Producto="CO23009VC94UCT" Color="UCT" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LM01N7MVRL23" Color="L23" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="1378.8793103333"></Linea>
+    <Linea Producto="T7LMPYC1PYPL23" Color="L23" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1378.8793103333"></Linea>
+    <Linea Producto="T7LMPYHOPYPL23" Color="L23" Cantidad="6" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LMPYRDPYPL23" Color="L23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LM03VYMZBL23" Color="L23" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1378.8793103333"></Linea>
+    <Linea Producto="T7LM0E6BTPAL23" Color="L23" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="1206.46551725"></Linea>
+    <Linea Producto="T7LMGIHOGIAL23" Color="L23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1206.46551725"></Linea>
+    <Linea Producto="035844BBQCHJ" Color="CHJ" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="559.91379308333"></Linea>
+    <Linea Producto="03584EWLDCHJ" Color="CHJ" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="559.91379308333"></Linea>
+    <Linea Producto="035844BNKCHJ" Color="CHJ" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="559.91379308333"></Linea>
+    <Linea Producto="035844BHUSCHJ" Color="CHJ" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="559.91379308333"></Linea>
+  </Encabezado>
+</Sagemobile>

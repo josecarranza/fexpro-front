@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="138139" Cliente="0511" Nombre="Diego Cabrera" Fecha="26/07/2022" Tipo="1" Fecha_Entrega="26/07/2022" Direccion="Parque Empresarial Siberia Bodegas 1 a 5 – Tenjo, Cund. – COLOMBIA " Direccion2="Colombia Cundinamarca BOGOTÁ " Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Diego Cabrera" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NFLJS521000-NVY" Color="NVY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-NVY2" Color="NVY2" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-AQU" Color="AQU" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-BLK2" Color="BLK2" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-BLK3" Color="BLK3" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-RED" Color="RED" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-RED2" Color="RED2" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-RED3" Color="RED3" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-BLK6" Color="BLK6" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12.5"></Linea>
+    <Linea Producto="NFLJS521000-BLU2" Color="BLU2" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="12.5"></Linea>
+  </Encabezado>
+</Sagemobile>

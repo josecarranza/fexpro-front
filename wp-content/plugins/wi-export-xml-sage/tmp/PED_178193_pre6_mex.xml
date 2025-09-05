@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="178193" Cliente="0INN" Nombre="Paulina Sepulveda" Fecha="10/07/2023" Tipo="1" Direccion="Manuel Santos 540A " Direccion2="Mexico Nuevo León Monterrey 66228" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Paulina Sepulveda" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAJS624101RD1" Color="RD1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="249.5689655"></Linea>
+    <Linea Producto="NBAJS624101OW1" Color="OW1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="249.5689655"></Linea>
+    <Linea Producto="NBAHD624107OW1" Color="OW1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="603.017241375"></Linea>
+    <Linea Producto="MLBSW624103NV1" Color="NV1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="603.017241375"></Linea>
+    <Linea Producto="MLBCT624104NV1" Color="NV1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="344.39655170833"></Linea>
+    <Linea Producto="MLBPT624102NV1" Color="NV1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="430.60344829167"></Linea>
+    <Linea Producto="MLBCT624106OW1" Color="OW1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="215.08620691667"></Linea>
+    <Linea Producto="MLBCT624107WH1" Color="WH1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="284.051724125"></Linea>
+    <Linea Producto="MLBSH624102NV1" Color="NV1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="4.3103448333333"></Linea>
+    <Linea Producto="MLBCT624113BL1" Color="BL1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="171.982758625"></Linea>
+    <Linea Producto="NBACT624121RD1" Color="RD1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="180.60344829167"></Linea>
+    <Linea Producto="NBACT624123WH1" Color="WH1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="180.60344829167"></Linea>
+  </Encabezado>
+</Sagemobile>

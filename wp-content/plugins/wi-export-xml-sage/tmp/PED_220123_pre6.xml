@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="220123" Cliente="0445" Nombre="Samantha Feijoo" Fecha="02/09/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Av. Galo Plaza Lasso 13205 y de los Cerezos " Direccion2="Ecuador Pichincha Quito 170303" AgenteEmbarcador="" Observaciones="TAF M&amp;N Q2 2025" ResponsablePedido="" ResponsableImportacion="" Contacto="Samantha Feijoo" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="6HSSMM19224-CBUBKGY" Color="CBUBKGY" Cantidad="3" size_OS="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="11.5"></Linea>
+    <Linea Producto="6HSSMM19224-CBUBKWH" Color="CBUBKWH" Cantidad="4" size_OS="48" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="11.5"></Linea>
+    <Linea Producto="6HSSMM19224-CBUWHIT" Color="CBUWHIT" Cantidad="3" size_OS="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="11.5"></Linea>
+    <Linea Producto="HHSS1102-CBUYYPPPBKWH" Color="CBUYYPPPBKWH" Cantidad="4" size_OS="48" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="13"></Linea>
+    <Linea Producto="HHSS4374-CBUYYPPPBROW" Color="CBUYYPPPBROW" Cantidad="3" size_OS="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="11.5"></Linea>
+    <Linea Producto="HHSS5822-CBUYYPPPBKRD" Color="CBUYYPPPBKRD" Cantidad="4" size_OS="48" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="12"></Linea>
+    <Linea Producto="HHSS5822-CBUYYPPPLBHR" Color="CBUYYPPPLBHR" Cantidad="3" size_OS="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="12"></Linea>
+    <Linea Producto="HHSS5822-CBUYYPPPWHRD" Color="CBUYYPPPWHRD" Cantidad="4" size_OS="48" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="12"></Linea>
+    <Linea Producto="HHSS6741-CBUYYPPPBKGD" Color="CBUYYPPPBKGD" Cantidad="3" size_OS="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="12.5"></Linea>
+    <Linea Producto="HS8033-CBUWHIT" Color="CBUWHIT" Cantidad="3" size_OS="36" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="12"></Linea>
+  </Encabezado>
+</Sagemobile>

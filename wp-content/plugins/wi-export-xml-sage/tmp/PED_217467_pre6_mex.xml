@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="217467" Cliente="0000" Nombre="ARTURO PACHECO" Fecha="27/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="SUPERMANZANA 63, MANZANA 6, LOTE 2, ENTRE CALLE 2 Y 4, COLONIA CENTRO " Direccion2="Mexico Quintana Roo CANCUN 77513" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="ARTURO PACHECO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="T7GMBQA1BQG23" Color="G23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1120.2586206667"></Linea>
+    <Linea Producto="T7GMBQHOBQG23" Color="G23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1120.2586206667"></Linea>
+    <Linea Producto="T7GMLDA2LDG23" Color="G23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1120.2586206667"></Linea>
+    <Linea Producto="T7GMLDHOLDG23" Color="G23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1120.2586206667"></Linea>
+    <Linea Producto="T7GMNKHONKG23" Color="G23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1120.2586206667"></Linea>
+    <Linea Producto="T7GMNKA2NKG23" Color="G23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1120.2586206667"></Linea>
+    <Linea Producto="T7GWBQHOBQG23" Color="G23" Cantidad="1" size_XS="2" size_S="4" size_M="4" size_L="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="1120.2586206667"></Linea>
+    <Linea Producto="T7GWLDA2LDG23" Color="G23" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="1120.2586206667"></Linea>
+    <Linea Producto="T7GWNKHONKG23" Color="G23" Cantidad="1" size_XS="2" size_S="4" size_M="4" size_L="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="1120.2586206667"></Linea>
+  </Encabezado>
+</Sagemobile>

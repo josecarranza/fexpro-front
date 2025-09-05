@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="197472" Cliente="0550" Nombre="Claudio Ramello" Fecha="08/02/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Av. Sta. Clara 207, " Direccion2="Chile Región Metropolitana de Santiago Santiago 8581125" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Claudio Ramello" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PSGBA524201-NV1" Color="NV1" Cantidad="42" size_OS="1008" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="6"></Linea>
+    <Linea Producto="RMDBA524201-BK1" Color="BK1" Cantidad="42" size_OS="1008" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="6"></Linea>
+    <Linea Producto="PSGBA524202-NV1" Color="NV1" Cantidad="63" size_OS="1512" Unit_Box_Qty="24" Total_Box_Qty="1512" Precio="6"></Linea>
+    <Linea Producto="RMDBA524202-BL1" Color="BL1" Cantidad="63" size_OS="1512" Unit_Box_Qty="24" Total_Box_Qty="1512" Precio="6"></Linea>
+    <Linea Producto="RMDBA524203-BL1" Color="BL1" Cantidad="42" size_OS="1008" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="6"></Linea>
+    <Linea Producto="PSGBA524203-NV1" Color="NV1" Cantidad="42" size_OS="1008" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="6"></Linea>
+    <Linea Producto="RMDBA524205-BK1" Color="BK1" Cantidad="42" size_OS="1008" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="6"></Linea>
+    <Linea Producto="PSGBA524205-BK2" Color="BK2" Cantidad="42" size_OS="1008" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

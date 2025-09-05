@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="58450" Cliente="0458" Nombre="Tamara Montecinos" Fecha="11/08/2021" Tipo="1" Fecha_Entrega="11/08/2021" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES " Direccion2="Chile  SANTIAGO 7560356" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS KIDS - NBA SS22 TIENDAS" ResponsablePedido="" ResponsableImportacion="" Contacto="Tamara Montecinos" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="RMHD32202-NVY" Color="NVY" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="10"></Linea>
+    <Linea Producto="RMTS32201-WHT2" Color="WHT2" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="4.5"></Linea>
+    <Linea Producto="RMTS32201-NVY" Color="NVY" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="4.5"></Linea>
+    <Linea Producto="BCPT32203-NVY" Color="NVY" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="8"></Linea>
+    <Linea Producto="BCHD32201-NVY" Color="NVY" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="10"></Linea>
+    <Linea Producto="BCTS32205-NVY" Color="NVY" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="4.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="10.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="16" size_4="32" size_6="64" size_8="64" size_10="64" size_12="64" size_14="64" size_16="32" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="10.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="8"></Linea>
+    <Linea Producto="NBAHD321001-BLK" Color="BLK" Cantidad="16" size_4="32" size_6="64" size_8="64" size_10="64" size_12="64" size_14="64" size_16="32" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="16" size_4="32" size_6="64" size_8="64" size_10="64" size_12="64" size_14="64" size_16="32" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="10.5"></Linea>
+    <Linea Producto="NBATS321000-BLK2" Color="BLK2" Cantidad="16" size_4="32" size_6="64" size_8="64" size_10="64" size_12="64" size_14="64" size_16="32" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="4.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="10.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="10.5"></Linea>
+  </Encabezado>
+</Sagemobile>

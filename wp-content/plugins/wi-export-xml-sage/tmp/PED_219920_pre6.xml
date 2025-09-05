@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="219920" Cliente="0455" Nombre="Matias Jimenez" Fecha="23/08/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="SANTA ELVIRA 175 " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="COMPRA MEN SS25 Q2&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Matias Jimenez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS525104-WH1" Color="WH1" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="7.5"></Linea>
+    <Linea Producto="NBATS525105-BK1" Color="BK1" Cantidad="35" size_S="140" size_M="280" size_L="280" size_XL="140" Unit_Box_Qty="24" Total_Box_Qty="840" Precio="7.5"></Linea>
+    <Linea Producto="NBAJK525101-BK1" Color="BK1" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="33"></Linea>
+    <Linea Producto="NBAJS525102-RD1" Color="RD1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="15"></Linea>
+    <Linea Producto="NBAHD525103-BK1" Color="BK1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="17"></Linea>
+    <Linea Producto="NBAPT525102-BK1" Color="BK1" Cantidad="26" size_S="104" size_M="208" size_L="208" size_XL="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="15"></Linea>
+    <Linea Producto="MLBJK525102-BK1" Color="BK1" Cantidad="7" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="25"></Linea>
+    <Linea Producto="MLBJK525102-NV1" Color="NV1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="25"></Linea>
+    <Linea Producto="MLBJS525103-NV1" Color="NV1" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="15.5"></Linea>
+    <Linea Producto="MLBJS525103-GY1" Color="GY1" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="15.5"></Linea>
+    <Linea Producto="MLBHD525108-NV1" Color="NV1" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="17"></Linea>
+    <Linea Producto="MLBPT525105-NV1" Color="NV1" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="15"></Linea>
+    <Linea Producto="NBABN525101-BK1" Color="BK1" Cantidad="16" size_OS="384" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="7"></Linea>
+    <Linea Producto="NBABN525101-BK2" Color="BK2" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="7"></Linea>
+    <Linea Producto="MLBTS525113-GY1" Color="GY1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="7.5"></Linea>
+    <Linea Producto="MLBTS525113-NV1" Color="NV1" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="7.5"></Linea>
+    <Linea Producto="MLBTS525112-WH1" Color="WH1" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="7.5"></Linea>
+    <Linea Producto="MLBTS525112-WH2" Color="WH2" Cantidad="26" size_S="104" size_M="208" size_L="208" size_XL="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="7.5"></Linea>
+  </Encabezado>
+</Sagemobile>

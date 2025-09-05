@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="54304" Cliente="0494" Nombre="ALEX RAY" Fecha="02/08/2021" Tipo="1" Fecha_Entrega="02/08/2021" Direccion="Ernesto Guevara y Gua’a Hovy 2483 " Direccion2="Paraguay Asunción Ita Enramada 2024" Vendedor="01" AgenteEmbarcador="" Observaciones="ZAVIDORO_GORRAS SS22 URUGUAY" ResponsablePedido="" ResponsableImportacion="" Contacto="ALEX RAY" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASB52256-GRY" Color="GRY" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52256-GRY1" Color="GRY1" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52256-GRY3" Color="GRY3" Cantidad="3" size_OS="72" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="7.5"></Linea>
+  </Encabezado>
+</Sagemobile>

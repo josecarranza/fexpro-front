@@ -1,0 +1,186 @@
+.import-export-header{
+    font-weight: bold !important;
+    font-size: 16px !important;
+    color: rgba(35, 40, 45, 0.79);
+}
+
+label[for=dd_show_export_options]
+{
+    font-weight:700;
+    /* ...definitions here... */
+}
+
+table.wdm_csp_export_table th , table.wdm_csp_bulk_export_table th{
+	text-align: left;
+    width: 21%;
+}
+
+/* SKU information message on export tab page. */
+.csp-sku-export-info {
+    display: none;
+    margin-top:25px;
+}
+
+ul.wdm_csp_ul > li {
+    display: inline-block;
+}
+
+.wdm_csp_ul li{
+    margin-bottom: auto;
+    margin-right: 15px;
+}
+
+#export, #export_bulk, #get-product-list {
+    margin-top: 16px;
+}
+
+div.export-parent-wrap{
+    display: flex;
+}
+
+.export-col {
+    flex: 1 0 auto;
+    width: 50%;
+}
+.export-col-left {
+    order: 1;
+}
+.export-col-right {
+    order: 2;
+}
+
+@media all and (max-width: 640px) {
+    .export-parent-wrap {
+        flex-flow:column wrap;  
+    }
+
+}
+
+input#get-product-list {
+    color: #848484;
+    border-color: #848484;
+}
+
+
+.csp-tab-header {
+    /* font-weight: bold !important; */
+    font-size: 19px !important;
+    color: rgba(35, 40, 45, 0.79);
+}
+
+.export-all-wrap {
+    text-align: center;
+    margin: 26px;
+}
+
+button.btn-csv-export-all > .dashicons-media-archive {
+    font-size: 32px;
+}
+
+button.button.button-primary.btn-csv-export-all {
+    font-size: 16px;
+}
+
+.csp-export-header-options {
+    font-weight: bold;
+}
+
+.csp-export-header-options > a {
+    text-decoration:none;
+}
+
+/* Scheduled Backups */
+
+.csp-flex-container {
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    text-align: center;
+}
+  
+.csp-flex-item-left {
+    padding: 10px;
+    flex: 30%;
+}
+  
+.csp-flex-item-mid {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: left;
+    flex: 40%;
+}
+  
+ .csp-flex-item-right {
+    padding: 10px;
+    flex: 30%;
+  }
+  
+/* Responsive layout - makes a one column-layout instead of two-column layout */
+@media (max-width: 800px) {
+    .csp-flex-container {
+      flex-direction: column;
+    }
+  }
+
+.csp-flex-container-list {
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    text-align: center;
+}
+  
+.csp-flex-item-left-list {
+    padding: 10px;
+    flex: 20%;
+}
+  
+.csp-flex-item-mid-list {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: left;
+    flex: 60%;
+}
+  
+ .csp-flex-item-right-list {
+    padding: 10px;
+    flex: 20%;
+  }
+  
+/* Responsive layout - makes a one column-layout instead of two-column layout */
+@media (max-width: 800px) {
+    .csp-flex-container {
+      flex-direction: column;
+    }
+  }
+
+.schedule-form {
+    font-size: medium;
+  }
+
+.schedule-form-fields {
+    width: 100%; 
+    line-height: 3;
+}
+
+.button-container {
+    text-align: center;
+    padding-top: 16px;
+}
+
+div.backup-list {
+    padding: 20px;
+    background-color: #e6e6e6;
+    border-radius: 4px;
+    font-size: 20px;
+    text-align: center;
+}
+
+table.backup-table {
+    text-align: center;
+    width: 100%;
+    line-height: 1.5;
+}
+
+td.date-of-creation {
+    font-size: 18px;
+}

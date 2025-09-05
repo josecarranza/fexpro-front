@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="192686" Cliente="0INN" Nombre="ALFREDO PIFFERI" Fecha="07/12/2023" Tipo="1" Fecha_Entrega="07/12/2023" Direccion="Humberto Lobo 540-A, Col. Del Valle 540-A" Direccion2="Mexico Nuevo León San Pedro Garza García 66220" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="ALFREDO PIFFERI" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="RMDJS524201NV2" Color="NV2" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="3.8793103333333"></Linea>
+    <Linea Producto="RMDJS524201WH2" Color="WH2" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="3.8793103333333"></Linea>
+    <Linea Producto="RMDSH524201NV2" Color="NV2" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="3.6637930833333"></Linea>
+    <Linea Producto="RMDLS524201NV2" Color="NV2" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="5.1724137916667"></Linea>
+    <Linea Producto="RMDJS524206OW2" Color="OW2" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="3.8793103333333"></Linea>
+    <Linea Producto="RMDJS524206BK2" Color="BK2" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="3.8793103333333"></Linea>
+    <Linea Producto="RMDSH524203BK2" Color="BK2" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="3.8793103333333"></Linea>
+    <Linea Producto="RMDJS724201WH2" Color="WH2" Cantidad="5" size_10="20" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="3.232758625"></Linea>
+    <Linea Producto="RMDSH724202NV2" Color="NV2" Cantidad="5" size_10="20" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="314.22413791667"></Linea>
+    <Linea Producto="RMDLS724202NV2" Color="NV2" Cantidad="5" size_10="20" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="314.22413791667"></Linea>
+  </Encabezado>
+</Sagemobile>

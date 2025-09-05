@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="18988" Cliente="0463" Nombre="JUAN CARLOS GARCIA" Fecha="23/04/2021" Tipo="1" Fecha_Entrega="23/04/2021" Direccion="AV FRAY MARCOS DE NIZA, 3510 SUR INT. A COL SAN RAFAEL, CULUIACAN DE ROSALES " Direccion2="Mexico Sinaloa CULIACAN 80150" Vendedor="01" AgenteEmbarcador="" Observaciones="FW21 - PIJAMAS &amp;amp; UNDERWEAR - GRUPO CALZZAPATO MX" ResponsablePedido="" ResponsableImportacion="" Contacto="JUAN CARLOS GARCIA" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBBX52104NVY" Color="NVY" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="219.45"></Linea>
+    <Linea Producto="MLBBX52104BLU" Color="BLU" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="219.45"></Linea>
+    <Linea Producto="NBABX52103BLK" Color="BLK" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="219.45"></Linea>
+    <Linea Producto="NBABX52103BLK2" Color="BLK2" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="219.45"></Linea>
+    <Linea Producto="NBABX52103ROY" Color="ROY" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="219.45"></Linea>
+    <Linea Producto="NBAPJ52102GRN" Color="GRN" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="329.45"></Linea>
+    <Linea Producto="NBAPJ52102BLK4" Color="BLK4" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="329.45"></Linea>
+    <Linea Producto="NBAPJ52101BLK4" Color="BLK4" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="340.45"></Linea>
+    <Linea Producto="NBAPJ52101BLK" Color="BLK" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="340.45"></Linea>
+    <Linea Producto="NBAPJ52101BLK2" Color="BLK2" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="340.45"></Linea>
+    <Linea Producto="MLBPT520201NVY" Color="NVY" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="417.45"></Linea>
+    <Linea Producto="MLBBBJ521177NVY" Color="NVY" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="769.45"></Linea>
+    <Linea Producto="MLBBBJ521177BLU" Color="BLU" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="769.45"></Linea>
+    <Linea Producto="NBAPT521813BLK" Color="BLK" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="439.45"></Linea>
+    <Linea Producto="NBAPT521817GRY" Color="GRY" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="439.45"></Linea>
+    <Linea Producto="NBAPT52149BLK" Color="BLK" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="549.45"></Linea>
+    <Linea Producto="MLBPJ52102NVY" Color="NVY" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="329.45"></Linea>
+    <Linea Producto="MLBPJ52101WHT" Color="WHT" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="340.45"></Linea>
+  </Encabezado>
+</Sagemobile>

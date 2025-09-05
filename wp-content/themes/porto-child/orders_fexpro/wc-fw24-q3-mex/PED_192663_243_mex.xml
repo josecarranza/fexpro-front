@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="192663" Cliente="0000" Nombre="ARTURO PACHECO" Fecha="06/12/2023" Tipo="1" Fecha_Entrega="06/12/2023" Direccion="SUPERMANZANA 63, MANZANA 6, LOTE 2, ENTRE CALLE 2 Y 4, COLONIA CENTRO " Direccion2="Mexico Quintana Roo CANCUN 77513" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="ARTURO PACHECO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="CAAJS724201YL1" Color="YL1" Cantidad="1" size_10="4" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="223.70689654167"></Linea>
+    <Linea Producto="CAAJS724201NV2" Color="NV2" Cantidad="1" size_10="4" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="223.70689654167"></Linea>
+    <Linea Producto="PUMJS724201NV1" Color="NV1" Cantidad="1" size_10="4" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="223.70689654167"></Linea>
+    <Linea Producto="CAAPL724201YL1" Color="YL1" Cantidad="1" size_10="4" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="215.08620691667"></Linea>
+    <Linea Producto="CAASH724201NV2" Color="NV2" Cantidad="1" size_10="4" size_12="8" size_14="8" size_16="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="215.08620691667"></Linea>
+  </Encabezado>
+</Sagemobile>

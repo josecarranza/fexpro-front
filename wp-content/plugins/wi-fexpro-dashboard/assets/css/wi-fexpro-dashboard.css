@@ -1,0 +1,216 @@
+.wi-fexpro-dashboard-menu {
+    display: block;
+    border-bottom: 1px solid #ccc;
+}
+
+.wi-fexpro-dashboard-menu .nav-item {
+    display: inline-block;
+    padding: 10px;
+    border-left: 1px solid #ccc;
+    margin-bottom: 0px;
+    background: #eee;
+}
+
+.wi-fexpro-dashboard-menu .nav-item:last-child {
+    border-right: 1px solid #ccc;
+}
+
+.wi-fexpro-dashboard-menu .nav-item.active {
+    background: #fff;
+}
+
+.wi-fexpro-dashboard-menu .nav-item a {}
+
+.wi-fexpro-dashboard-container {
+    padding: 30px;
+}
+
+.list-checkbox {
+    padding-left: 0px;
+}
+
+.area-grafica-1 {
+    width: 100%;
+    height: 400px;
+}
+
+.area-grafica-paises {
+    width: 100%;
+    min-height: 500px;
+}
+
+.fexpro-escalas {
+    position: relative;
+}
+
+.fexpro-escalas .item-escala {
+    text-align: center;
+    border-left: 5px solid;
+    padding: 5px 5px;
+    font-size: 14px;
+}
+
+.fexpro-escalas .item-escala label {
+    display: block;
+}
+
+.fexpro-escalas .item-escala.escala-drop {
+    border-color: #ff3030;
+}
+
+.fexpro-escalas .item-escala.escala-ok {
+    border-color: #75b675
+}
+
+.fexpro-escalas .item-escala.escala-stock {
+    border-color: #fd9c41;
+}
+
+.fexpro-escalas .item-escala.escala-total {
+    border-color: #2a68dd;
+}
+
+.loader {
+    width: 60px;
+    display: inline-block;
+}
+
+.loader-wheel {
+    animation: spin 1s infinite linear;
+    border: 2px solid rgba(30, 30, 30, 0.5);
+    border-left: 4px solid #5a5a5a;
+    border-radius: 50%;
+    height: 50px;
+    margin-bottom: 10px;
+    width: 50px;
+}
+
+.loader-text {
+    color: #878787;
+    font-family: arial, sans-serif;
+}
+
+.loader-text:after {
+    content: 'Loading';
+    animation: load 2s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes load {
+    0% {
+        content: 'Loading';
+    }
+    33% {
+        content: 'Loading.';
+    }
+    67% {
+        content: 'Loading..';
+    }
+    100% {
+        content: 'Loading...';
+    }
+}
+
+.progress-box {
+    max-width: 300px;
+    display: inline-block;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.progress-box .processing {
+    font-size: 18px;
+}
+
+.progress-box .congratulation {
+    font-size: 18px;
+    font-weight: bold;
+    color: #75b675;
+    display: none;
+}
+
+.progress-box .progress-bar1 {
+    display: inline-block;
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    position: relative;
+    overflow: hidden;
+}
+
+.progress-box .progress-bar1:after {
+    content: '';
+    display: inline-block;
+    width: 25%;
+    height: 100%;
+    background: #ccc;
+    animation: borealisBar 2s linear infinite;
+    position: absolute;
+}
+
+.progress-box.finish .progress-bar1 {
+    background: #75b675;
+}
+
+.progress-box.finish .progress-bar1::after {
+    display: none;
+}
+
+.progress-box.finish .processing {
+    display: none;
+}
+
+.progress-box.finish .congratulation {
+    display: inline-block;
+}
+
+@keyframes borealisBar {
+    0% {
+        left: 0%;
+        right: 100%;
+        width: 0%;
+    }
+    10% {
+        left: 0%;
+        right: 75%;
+        width: 25%;
+    }
+    90% {
+        right: 0%;
+        left: 75%;
+        width: 25%;
+    }
+    100% {
+        left: 100%;
+        right: 0%;
+        width: 0%;
+    }
+}
+
+.msj-error {
+    color: #ff3030;
+    padding: 15px 0px;
+}
+
+.images-log {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 14px;
+    color: #5a5a5a;
+    max-height: 300px;
+    overflow-y: scroll;
+}
+
+.images-log label {
+    font-weight: bold;
+}

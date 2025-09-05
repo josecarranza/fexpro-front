@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="92489" Cliente="0000" Nombre="Boris Ulloa" Fecha="16/12/2021" Tipo="1" Fecha_Entrega="16/12/2021" Direccion="GALO PLAZA LASSO N60-122 Y SANTA LUCIA, QUITO, ECUADOR 170512 " Direccion2="Ecuador  ECUADOR 0000" Vendedor="01" AgenteEmbarcador="" Observaciones="FIFA ETA FASHION" ResponsablePedido="" ResponsableImportacion="" Contacto="Boris Ulloa" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASB522248-RED" Color="RED" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="9"></Linea>
+    <Linea Producto="FIJS522203-NVY3" Color="NVY3" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="9"></Linea>
+    <Linea Producto="FIJS522204-LHB" Color="LHB" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="9"></Linea>
+    <Linea Producto="FIJS522204-YEL" Color="YEL" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="9"></Linea>
+    <Linea Producto="FIJS522204-WHT" Color="WHT" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="9"></Linea>
+    <Linea Producto="FIJS522204-NVY" Color="NVY" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="9"></Linea>
+    <Linea Producto="FIJS522204-YEL2" Color="YEL2" Cantidad="90" size_S="360" size_M="720" size_L="720" size_XL="360" Unit_Box_Qty="24" Total_Box_Qty="2160" Precio="9"></Linea>
+    <Linea Producto="FIJS522207-YEL3" Color="YEL3" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="6.5"></Linea>
+    <Linea Producto="FITS522201-YEL3" Color="YEL3" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="12"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="238782" Cliente="0447" Nombre="Pablo Munoz" Fecha="21/11/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="ISIDORA GOYENECHEA 3365 LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago Santiago " AgenteEmbarcador="" Observaciones="MARATHON CHILE - HOMBRE NIKE FW25 Q3&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Pablo Munoz" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="02ET-00A-Q96-U5T" Color="U5T" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="15"></Linea>
+    <Linea Producto="02ET-4DA-Q7R-U5T" Color="U5T" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="15"></Linea>
+    <Linea Producto="02TI-41S-Q7T-UE8" Color="UE8" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="15"></Linea>
+    <Linea Producto="02TI-4DZ-Q9P-UE8" Color="UE8" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="15"></Linea>
+    <Linea Producto="02ET-4DA-Q8K-U5T" Color="U5T" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="15"></Linea>
+    <Linea Producto="02ET-30R-Q9Z-U5T" Color="U5T" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="15"></Linea>
+    <Linea Producto="02TI-4DA-Q8K-UE8" Color="UE8" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="15"></Linea>
+    <Linea Producto="67NM-KCGH-7GF-2NA" Color="2NA" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="48"></Linea>
+    <Linea Producto="67NM-DCGH-7RF-2NI" Color="2NI" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="56"></Linea>
+  </Encabezado>
+</Sagemobile>

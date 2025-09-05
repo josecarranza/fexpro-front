@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="87811" Cliente="0000" Nombre="ALEJANDRO DIAZ" Fecha="26/11/2021" Tipo="1" Fecha_Entrega="26/11/2021" Direccion="Lomas De San Francisco San Salvador, El Salvador" Direccion2="El Salvador  Antiguo Cuscatlan 1105" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="ALEJANDRO DIAZ" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="FIST522201-BLU" Color="BLU" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="10.5"></Linea>
+    <Linea Producto="FIST522201-NVY" Color="NVY" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10.5"></Linea>
+    <Linea Producto="FIST522201-BLK" Color="BLK" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10.5"></Linea>
+    <Linea Producto="FIST522201-NVY2" Color="NVY2" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="10.5"></Linea>
+    <Linea Producto="FIST522201-RED" Color="RED" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10.5"></Linea>
+    <Linea Producto="FIST522201-BLU2" Color="BLU2" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10.5"></Linea>
+    <Linea Producto="FIST522201-WHT" Color="WHT" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="10.5"></Linea>
+    <Linea Producto="FIST522201-BLK2" Color="BLK2" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10.5"></Linea>
+    <Linea Producto="FIST522201-RED2" Color="RED2" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="10.5"></Linea>
+    <Linea Producto="FIST522201-RED3" Color="RED3" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="10.5"></Linea>
+    <Linea Producto="FIST522201-BLU3" Color="BLU3" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="10.5"></Linea>
+    <Linea Producto="FIST522201-LHB" Color="LHB" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="10.5"></Linea>
+    <Linea Producto="FIST522201-RED4" Color="RED4" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10.5"></Linea>
+  </Encabezado>
+</Sagemobile>

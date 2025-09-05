@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="161269" Cliente="0451" Nombre="ALFONSO NAVARRO" Fecha="03/02/2023" Tipo="1" Fecha_Entrega="03/02/2023" Direccion="MANUEL RODRIGUEZ NORTE 730, SANTIAGO CENTRO " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="ALFONSO NAVARRO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAPJ523204-BK1" Color="BK1" Cantidad="40" size_S="160" size_M="320" size_L="320" size_XL="160" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="10"></Linea>
+    <Linea Producto="NBAPJ523204-PR1" Color="PR1" Cantidad="55" size_S="220" size_M="440" size_L="440" size_XL="220" Unit_Box_Qty="24" Total_Box_Qty="1320" Precio="10"></Linea>
+    <Linea Producto="NBAPJ523204-RD1" Color="RD1" Cantidad="65" size_S="260" size_M="520" size_L="520" size_XL="260" Unit_Box_Qty="24" Total_Box_Qty="1560" Precio="10"></Linea>
+    <Linea Producto="NBASS523204-BK1" Color="BK1" Cantidad="65" size_7="260" size_8="390" size_9="520" size_10="260" size_11="130" Unit_Box_Qty="24" Total_Box_Qty="1560" Precio="5"></Linea>
+    <Linea Producto="NBASS523204-BK2" Color="BK2" Cantidad="55" size_7="220" size_8="330" size_9="440" size_10="220" size_11="110" Unit_Box_Qty="24" Total_Box_Qty="1320" Precio="5"></Linea>
+    <Linea Producto="NBASS523204-BK3" Color="BK3" Cantidad="40" size_7="160" size_8="240" size_9="320" size_10="160" size_11="80" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="5"></Linea>
+    <Linea Producto="MLBPJ523203-BK1" Color="BK1" Cantidad="62" size_S="248" size_M="496" size_L="496" size_XL="248" Unit_Box_Qty="24" Total_Box_Qty="1488" Precio="10"></Linea>
+    <Linea Producto="MLBSS523202-BK1" Color="BK1" Cantidad="62" size_7="248" size_8="372" size_9="496" size_10="248" size_11="124" Unit_Box_Qty="24" Total_Box_Qty="1488" Precio="5"></Linea>
+  </Encabezado>
+</Sagemobile>

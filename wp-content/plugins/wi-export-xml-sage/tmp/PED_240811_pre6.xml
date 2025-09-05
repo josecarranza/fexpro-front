@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="240811" Cliente="0629" Nombre="Ricardo Villaroel R." Fecha="26/12/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="JOSE GALVEZ BARRENECHEA #1076 DISTRITO DE SAN ISIDRO " Direccion2="Peru Lima Lima 15036" AgenteEmbarcador="" Observaciones="INVERSIONES CARLOS - NBA HW MEN M&amp;amp;N FW25 Q3 FINALS&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Ricardo Villaroel R." OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="HS13867-CBUBKBK" Color="CBUBKBK" Cantidad="20" size_OS="240" Unit_Box_Qty="12" Total_Box_Qty="240" Precio="16"></Linea>
+    <Linea Producto="HS13867-CBUBLCK" Color="CBUBLCK" Cantidad="34" size_OS="408" Unit_Box_Qty="12" Total_Box_Qty="408" Precio="16"></Linea>
+    <Linea Producto="HS13867-CBURED1" Color="CBURED1" Cantidad="15" size_OS="180" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="16"></Linea>
+    <Linea Producto="HS13867-CBUROYA" Color="CBUROYA" Cantidad="15" size_OS="180" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="16"></Linea>
+  </Encabezado>
+</Sagemobile>

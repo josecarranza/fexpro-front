@@ -1,0 +1,45 @@
+<?php
+    ini_set('display_errors', 1);
+    ini_set('display_startup_errors', 1);
+    error_reporting(E_ALL);
+    include("wp-load.php");
+    
+ global $wpdb;
+
+$wpdb->query('TRUNCATE TABLE wp_fw_22');
+
+$query = new WP_Query( array(
+    'post_type'       => 'product',
+    'post_status'     => 'publish',
+    'posts_per_page'  => -1,
+    'tax_query' => array(
+        array (
+            'taxonomy' => 'product_cat',
+            'field' => 'slug',
+            'terms' => 'fall-winter-22',
+        )
+    ),
+) );
+
+foreach($query->posts as $products){
+    $products_ID = $products->ID;
+    
+    $brand = get_the_terms($products_ID,'pa_brand');
+    $brand_key = $brand[0]->term_id;
+    $brand_value = $brand[0]->name;
+    $br[$brand_key] = $brand_value;
+}
+foreach($br as $key => $value){
+     global $wpdb;
+         $tablename = $wpdb->prefix.'fw_22';
+
+        $wpdb->insert( $tablename, array(
+            'term_id' => $key, 
+            'name' => $value),
+            array( '%s', '%s') 
+        );
+}
+
+
+
+?>

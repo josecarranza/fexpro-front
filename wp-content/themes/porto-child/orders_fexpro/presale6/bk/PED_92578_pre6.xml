@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="92578" Cliente="0451" Nombre="ALFONSO NAVARRO" Fecha="20/12/2021" Tipo="1" Fecha_Entrega="20/12/2021" Direccion="MANUEL RODRIGUEZ NORTE 730, SANTIAGO CENTRO " Direccion2="Chile  SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="FALABELLA FOOTWARE POP FW22&#13;&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="ALFONSO NAVARRO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NASSL52201-BLK1" Color="BLK1" Cantidad="80" size_40="320" size_41="480" size_43="640" size_44="320" size_45="160" Unit_Box_Qty="24" Total_Box_Qty="1920" Precio="6"></Linea>
+    <Linea Producto="NASSL52202-NVY" Color="NVY" Cantidad="80" size_40="320" size_41="480" size_43="640" size_44="320" size_45="160" Unit_Box_Qty="24" Total_Box_Qty="1920" Precio="6"></Linea>
+    <Linea Producto="NASCS52201-BLK" Color="BLK" Cantidad="30" size_40="120" size_41="180" size_43="240" size_44="120" size_45="60" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="5"></Linea>
+  </Encabezado>
+</Sagemobile>

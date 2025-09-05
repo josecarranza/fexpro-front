@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="99707" Cliente="0000" Nombre="Paula Mostajo" Fecha="02/02/2022" Tipo="1" Fecha_Entrega="02/02/2022" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago CHILE 0000" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS CHILE - MUJER UNIVERSIDADES INTERNET AGOSTO FW22" ResponsablePedido="" ResponsableImportacion="" Contacto="Paula Mostajo" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="UNYLSW622201-GRY" Color="GRY" Cantidad="64" size_XS="256" size_S="512" size_M="512" size_L="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="14"></Linea>
+    <Linea Producto="UNYLSW622201-NVY" Color="NVY" Cantidad="64" size_XS="256" size_S="512" size_M="512" size_L="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="14"></Linea>
+    <Linea Producto="UNYLSW622201-WHT" Color="WHT" Cantidad="64" size_XS="256" size_S="512" size_M="512" size_L="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="14"></Linea>
+    <Linea Producto="UNYLSW622203-WHT" Color="WHT" Cantidad="64" size_XS="256" size_S="512" size_M="512" size_L="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="13"></Linea>
+    <Linea Producto="UNYLPT622201-NVY" Color="NVY" Cantidad="36" size_XS="144" size_S="288" size_M="288" size_L="144" Unit_Box_Qty="24" Total_Box_Qty="864" Precio="12.5"></Linea>
+    <Linea Producto="UNGTSW622201-GRY" Color="GRY" Cantidad="64" size_XS="256" size_S="512" size_M="512" size_L="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="12"></Linea>
+    <Linea Producto="UNGTSW622201-WHT" Color="WHT" Cantidad="64" size_XS="256" size_S="512" size_M="512" size_L="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="12"></Linea>
+    <Linea Producto="UNGTSW622202-BLK" Color="BLK" Cantidad="64" size_XS="256" size_S="512" size_M="512" size_L="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="13"></Linea>
+    <Linea Producto="UNGTPT622202-BLK" Color="BLK" Cantidad="36" size_XS="144" size_S="288" size_M="288" size_L="144" Unit_Box_Qty="24" Total_Box_Qty="864" Precio="12"></Linea>
+    <Linea Producto="UNHVSW622202-RED" Color="RED" Cantidad="64" size_XS="256" size_S="512" size_M="512" size_L="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="12.5"></Linea>
+    <Linea Producto="UNHVSW622202-BEI" Color="BEI" Cantidad="64" size_XS="256" size_S="512" size_M="512" size_L="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="12.5"></Linea>
+    <Linea Producto="UNHVSW622202-GRY" Color="GRY" Cantidad="64" size_XS="256" size_S="512" size_M="512" size_L="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="12.5"></Linea>
+    <Linea Producto="UNHVPT622201-GRY" Color="GRY" Cantidad="36" size_XS="144" size_S="288" size_M="288" size_L="144" Unit_Box_Qty="24" Total_Box_Qty="864" Precio="12.5"></Linea>
+    <Linea Producto="UNCASW622201-TEAL" Color="TEAL" Cantidad="64" size_XS="256" size_S="512" size_M="512" size_L="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="12.5"></Linea>
+    <Linea Producto="UNCASW622201-RED" Color="RED" Cantidad="64" size_XS="256" size_S="512" size_M="512" size_L="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="12.5"></Linea>
+    <Linea Producto="UNCASW622201-GRY" Color="GRY" Cantidad="64" size_XS="256" size_S="512" size_M="512" size_L="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="12.5"></Linea>
+    <Linea Producto="UNCAPT622201-RED" Color="RED" Cantidad="36" size_S="144" size_M="288" size_L="288" size_XL="144" Unit_Box_Qty="24" Total_Box_Qty="864" Precio="12"></Linea>
+    <Linea Producto="UNLASW622203-WHT" Color="WHT" Cantidad="64" size_XS="256" size_S="512" size_M="512" size_L="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="13"></Linea>
+    <Linea Producto="UNLASW622203-BLU" Color="BLU" Cantidad="64" size_XS="256" size_S="512" size_M="512" size_L="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="13"></Linea>
+    <Linea Producto="UNFLSW622201-WHT" Color="WHT" Cantidad="64" size_XS="256" size_S="512" size_M="512" size_L="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="12"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="239342" Cliente="0INN" Nombre="Alfredo Pifferi" Fecha="28/11/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Humberto Lobo, Num. Ext.: 540, Num. Int.: A, Col.: Del Valle, CP.:66220, Del. ó Mun.:San Pedro Garza García, Ciudad:San Pedro Garza García, " Direccion2="Mexico Nuevo León Nuevo León, 66220" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Alfredo Pifferi" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS520400BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="210.01612904167"></Linea>
+    <Linea Producto="NBATS520400WHT" Color="WHT" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="210.01612904167"></Linea>
+    <Linea Producto="NBATS325204BK1" Color="BK1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="177.27419354167"></Linea>
+    <Linea Producto="NBATS325204YL1" Color="YL1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="177.27419354167"></Linea>
+    <Linea Producto="NBATS325204WH1" Color="WH1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="177.27419354167"></Linea>
+    <Linea Producto="NBATS325204BU1" Color="BU1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="177.27419354167"></Linea>
+    <Linea Producto="NBASH325202BK1" Color="BK1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="280.177419375"></Linea>
+    <Linea Producto="NBASH325202BK2" Color="BK2" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="280.177419375"></Linea>
+    <Linea Producto="NBASH325202BL1" Color="BL1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="280.177419375"></Linea>
+    <Linea Producto="NBPTT325203BK1" Color="BK1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="326.95161291667"></Linea>
+    <Linea Producto="NBPTT325203BK2" Color="BK2" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="326.95161291667"></Linea>
+    <Linea Producto="NBASH325204BK1" Color="BK1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="350.33870966667"></Linea>
+    <Linea Producto="NBASH325204BK2" Color="BK2" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="246.03225808333"></Linea>
+    <Linea Producto="NBASH525201BK1" Color="BK1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="397.11290320833"></Linea>
+    <Linea Producto="NBASH525201BK2" Color="BK2" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="397.11290320833"></Linea>
+    <Linea Producto="NBAHD525201BK1" Color="BK1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="630.98387095833"></Linea>
+    <Linea Producto="NBAHD525201OW1" Color="OW1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="630.98387095833"></Linea>
+    <Linea Producto="NBACT600001PR1" Color="PR1" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="177.27419354167"></Linea>
+    <Linea Producto="NBACT600001BK1" Color="BK1" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="177.27419354167"></Linea>
+    <Linea Producto="NBACT600001WH1" Color="WH1" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="177.27419354167"></Linea>
+    <Linea Producto="NBAHD600001PR1" Color="PR1" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="467.27419354167"></Linea>
+    <Linea Producto="NBAHD600001BK1" Color="BK1" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="467.27419354167"></Linea>
+    <Linea Producto="NBAHD600001BU1" Color="BU1" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="467.27419354167"></Linea>
+    <Linea Producto="NBASB321201RED" Color="RED" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="186.62903225"></Linea>
+    <Linea Producto="NBASB321201BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="186.62903225"></Linea>
+    <Linea Producto="NBASB321201BLK2" Color="BLK2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="186.62903225"></Linea>
+  </Encabezado>
+</Sagemobile>

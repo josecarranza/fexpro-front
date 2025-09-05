@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="91594" Cliente="0455" Nombre="Matias Jimenez" Fecha="10/12/2021" Tipo="1" Fecha_Entrega="10/12/2021" Direccion="SANTA ELVIRA 175 " Direccion2="Chile  SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="THE LINE MENS BIGGIE MLB&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Matias Jimenez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAJP622201-GRY3" Color="GRY3" Cantidad="38" size_S="152" size_M="304" size_L="304" size_XL="152" Unit_Box_Qty="24" Total_Box_Qty="912" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522203-BLK" Color="BLK" Cantidad="31" size_S="124" size_M="248" size_L="248" size_XL="124" Unit_Box_Qty="24" Total_Box_Qty="744" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522203-WHT" Color="WHT" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522204-GRY" Color="GRY" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522204-NVY" Color="NVY" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="14"></Linea>
+    <Linea Producto="MLBSW522201-BLK" Color="BLK" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="15"></Linea>
+    <Linea Producto="MLBHD522203-BLK" Color="BLK" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="11"></Linea>
+    <Linea Producto="MLBSH522202-BLK" Color="BLK" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="13"></Linea>
+    <Linea Producto="MLBJS522201-BLK" Color="BLK" Cantidad="22" size_S="88" size_M="176" size_L="176" size_XL="88" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="13"></Linea>
+    <Linea Producto="MLBJS522202-BLK" Color="BLK" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="13"></Linea>
+  </Encabezado>
+</Sagemobile>

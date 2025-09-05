@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="42429" Cliente="0455" Nombre="Matias Jimenez" Fecha="20/07/2021" Tipo="1" Fecha_Entrega="20/07/2021" Direccion="SANTA ELVIRA 175 " Direccion2="Chile  SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="THE LINE MUJER SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="Matias Jimenez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS62207-BLK" Color="BLK" Cantidad="25" size_XS="100" size_S="200" size_M="200" size_L="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6"></Linea>
+    <Linea Producto="NBAHD62206-BLK" Color="BLK" Cantidad="25" size_XS="100" size_S="200" size_M="200" size_L="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="12"></Linea>
+    <Linea Producto="NBAJP62205-BLK" Color="BLK" Cantidad="25" size_XS="100" size_S="200" size_M="200" size_L="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="10"></Linea>
+    <Linea Producto="NBATS62208-BWN" Color="BWN" Cantidad="25" size_XS="100" size_S="200" size_M="200" size_L="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="7"></Linea>
+    <Linea Producto="NBASW62205-BLK" Color="BLK" Cantidad="25" size_XS="100" size_S="200" size_M="200" size_L="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="11"></Linea>
+    <Linea Producto="NBAPT62204-BWN" Color="BWN" Cantidad="25" size_XS="100" size_S="200" size_M="200" size_L="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="9"></Linea>
+    <Linea Producto="NBALS62202-GRY" Color="GRY" Cantidad="25" size_XS="100" size_S="200" size_M="200" size_L="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="11"></Linea>
+    <Linea Producto="NBATS62209-GRY" Color="GRY" Cantidad="25" size_XS="100" size_S="200" size_M="200" size_L="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="7.5"></Linea>
+    <Linea Producto="NBASW62206-GRY" Color="GRY" Cantidad="25" size_XS="100" size_S="200" size_M="200" size_L="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="11"></Linea>
+    <Linea Producto="NBAJP62206-GRY" Color="GRY" Cantidad="25" size_XS="100" size_S="200" size_M="200" size_L="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="11"></Linea>
+    <Linea Producto="NBACT62206-RED" Color="RED" Cantidad="25" size_XS="100" size_S="200" size_M="200" size_L="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6"></Linea>
+    <Linea Producto="NBATS622011-BLK" Color="BLK" Cantidad="25" size_XS="100" size_S="200" size_M="200" size_L="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6"></Linea>
+    <Linea Producto="NBASW62208-BLK" Color="BLK" Cantidad="25" size_XS="100" size_S="200" size_M="200" size_L="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="11"></Linea>
+    <Linea Producto="NBAJP62208-BLK" Color="BLK" Cantidad="25" size_XS="100" size_S="200" size_M="200" size_L="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="10"></Linea>
+  </Encabezado>
+</Sagemobile>

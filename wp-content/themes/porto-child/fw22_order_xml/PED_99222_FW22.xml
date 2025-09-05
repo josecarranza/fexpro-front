@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="99222" Cliente="0458" Nombre="Josefina Bezanilla" Fecha="12/01/2022" Tipo="1" Fecha_Entrega="12/01/2022" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 7560356" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS CHILE - FOOTWEAR MEN TIENDA FW22&#13;&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Josefina Bezanilla" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="CCTS622206-OWHT" Color="OWHT" Cantidad="20" size_40="100" size_41="100" size_43="100" size_44="100" size_45="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="6.5"></Linea>
+    <Linea Producto="NBASL52108-PUR" Color="PUR" Cantidad="80" size_40="320" size_41="480" size_43="640" size_44="320" size_45="160" Unit_Box_Qty="24" Total_Box_Qty="1920" Precio="5"></Linea>
+    <Linea Producto="NBASL52035-BLK" Color="BLK" Cantidad="80" size_40="320" size_41="480" size_43="640" size_44="320" size_45="160" Unit_Box_Qty="24" Total_Box_Qty="1920" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="80" size_40="320" size_41="480" size_43="640" size_44="320" size_45="160" Unit_Box_Qty="24" Total_Box_Qty="1920" Precio="6"></Linea>
+    <Linea Producto="NBASL52101-BLK" Color="BLK" Cantidad="80" size_40="320" size_41="480" size_43="640" size_44="320" size_45="160" Unit_Box_Qty="24" Total_Box_Qty="1920" Precio="6.5"></Linea>
+    <Linea Producto="NBASL522207-BLK" Color="BLK" Cantidad="20" size_40="100" size_41="100" size_43="100" size_44="100" size_45="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="6"></Linea>
+    <Linea Producto="NBACS52102-BLK1" Color="BLK1" Cantidad="40" size_40="160" size_41="240" size_43="320" size_44="160" size_45="80" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="3.7"></Linea>
+    <Linea Producto="MLBFF522202-NVY" Color="NVY" Cantidad="60" size_40="240" size_41="360" size_43="480" size_44="240" size_45="120" Unit_Box_Qty="24" Total_Box_Qty="1440" Precio="3.7"></Linea>
+    <Linea Producto="NBAFF522202-RED" Color="RED" Cantidad="60" size_40="240" size_41="360" size_43="480" size_44="240" size_45="120" Unit_Box_Qty="24" Total_Box_Qty="1440" Precio="3.7"></Linea>
+    <Linea Producto="NBAFF522202-PUR" Color="PUR" Cantidad="80" size_40="320" size_41="480" size_43="640" size_44="320" size_45="160" Unit_Box_Qty="24" Total_Box_Qty="1920" Precio="6.5"></Linea>
+    <Linea Producto="NBASL522202-RED" Color="RED" Cantidad="40" size_40="160" size_41="240" size_43="320" size_44="160" size_45="80" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="6.5"></Linea>
+    <Linea Producto="NBASL522202-PUR" Color="PUR" Cantidad="40" size_7="160" size_8="240" size_9="320" size_10="160" size_11="80" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="6.5"></Linea>
+  </Encabezado>
+</Sagemobile>

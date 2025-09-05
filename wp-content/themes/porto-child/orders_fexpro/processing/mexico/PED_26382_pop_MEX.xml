@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="26382" Cliente="SEAR" Nombre="Marcela Lopez" Fecha="26/05/2021" Tipo="1" Fecha_Entrega="26/05/2021" Direccion="Lago Zurich No. 245, Edificio Presa Falcon, Piso 7, Colonia Granada Ampliacion " Direccion2="Mexico Ciudad de México ciudad de mexico 11529" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Marcela Lopez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="COCSW62101RED" Color="RED" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="5.5"></Linea>
+    <Linea Producto="COCSW62101BLU" Color="BLU" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="5.5"></Linea>
+    <Linea Producto="ACTS62102BLK" Color="BLK" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="202.95"></Linea>
+    <Linea Producto="ACCT62101WHT" Color="WHT" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="202.95"></Linea>
+    <Linea Producto="ACCT62101BLK" Color="BLK" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="202.95"></Linea>
+    <Linea Producto="CBTS62106WHT" Color="WHT" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="202.95"></Linea>
+    <Linea Producto="JLTS62103WHT" Color="WHT" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="219.45"></Linea>
+    <Linea Producto="JLTS62101PNK" Color="PNK" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="246.95"></Linea>
+    <Linea Producto="KITS62104GRY" Color="GRY" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="202.95"></Linea>
+    <Linea Producto="KIHD62101BLK" Color="BLK" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="494.45"></Linea>
+    <Linea Producto="NIRTS62102BLK" Color="BLK" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="202.95"></Linea>
+    <Linea Producto="NIRTS62102WHT" Color="WHT" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="202.95"></Linea>
+    <Linea Producto="NIRCT62108WHT" Color="WHT" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="191.95"></Linea>
+    <Linea Producto="NIRHD62102BLK" Color="BLK" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="494.45"></Linea>
+    <Linea Producto="NIRTS62103WHT" Color="WHT" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="202.95"></Linea>
+    <Linea Producto="SMCT621201GRY" Color="GRY" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="246.95"></Linea>
+    <Linea Producto="SMCT621201WHT" Color="WHT" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="246.95"></Linea>
+    <Linea Producto="SMTS621201PUR" Color="PUR" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="274.45"></Linea>
+    <Linea Producto="SMHD621201BLU" Color="BLU" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="494.45"></Linea>
+    <Linea Producto="SMHD621201GRY" Color="GRY" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="494.45"></Linea>
+    <Linea Producto="TWCT62101BLK" Color="BLK" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="191.95"></Linea>
+    <Linea Producto="TWCT62102WHT" Color="WHT" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="191.95"></Linea>
+    <Linea Producto="COCCT62113WHT" Color="WHT" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="191.95"></Linea>
+    <Linea Producto="COCHD62113BLK" Color="BLK" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="494.45"></Linea>
+  </Encabezado>
+</Sagemobile>

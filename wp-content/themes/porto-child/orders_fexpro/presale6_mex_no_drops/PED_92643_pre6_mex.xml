@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="92643" Cliente="LIVER" Nombre="Karen Hernández" Fecha="20/12/2021" Tipo="1" Fecha_Entrega="20/12/2021" Direccion="Av Centro Industrial 9 Buenavista" Direccion2="Mexico Estado de México Estado de México 54900" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Karen Hernández" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PSGTS32206-NVY" Color="NVY" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="217.62931033333"></Linea>
+    <Linea Producto="PSGTS32201-WHT" Color="WHT" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="217.62931033333"></Linea>
+    <Linea Producto="PSGHD32201-BLU" Color="BLU" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="473.66379308333"></Linea>
+    <Linea Producto="PSGJS32205-RED" Color="RED" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="284.00862066667"></Linea>
+    <Linea Producto="PSGHD32202-NVY" Color="NVY" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="473.66379308333"></Linea>
+    <Linea Producto="PSGSB32205-NVY" Color="NVY" Cantidad="25" size_OS="600" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="189.1810345"></Linea>
+    <Linea Producto="PSGSB32206-WHT" Color="WHT" Cantidad="25" size_OS="600" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="189.1810345"></Linea>
+    <Linea Producto="PSGSB32206-NVY" Color="NVY" Cantidad="25" size_OS="600" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="189.1810345"></Linea>
+  </Encabezado>
+</Sagemobile>

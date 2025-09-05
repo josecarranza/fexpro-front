@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="181186" Cliente="0550" Nombre="Claudio Ramello" Fecha="18/08/2023" Tipo="1" Direccion="Av. Sta. Clara 207, " Direccion2="Chile Región Metropolitana de Santiago Santiago 8581125" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Claudio Ramello" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="RMDHD524105-BK2" Color="BK2" Cantidad="84" size_S="336" size_M="672" size_L="672" size_XL="336" Unit_Box_Qty="24" Total_Box_Qty="2016" Precio="13"></Linea>
+    <Linea Producto="RMDHD524105-NV1" Color="NV1" Cantidad="63" size_S="252" size_M="504" size_L="504" size_XL="252" Unit_Box_Qty="24" Total_Box_Qty="1512" Precio="13"></Linea>
+    <Linea Producto="BCNHD524105-BK4" Color="BK4" Cantidad="84" size_S="336" size_M="672" size_L="672" size_XL="336" Unit_Box_Qty="24" Total_Box_Qty="2016" Precio="13"></Linea>
+    <Linea Producto="BCNHD524105-NV3" Color="NV3" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="13"></Linea>
+    <Linea Producto="BCNHD524105-BU1" Color="BU1" Cantidad="34" size_S="136" size_M="272" size_L="272" size_XL="136" Unit_Box_Qty="24" Total_Box_Qty="816" Precio="13"></Linea>
+    <Linea Producto="MIASW524101-WH1" Color="WH1" Cantidad="34" size_S="136" size_M="272" size_L="272" size_XL="136" Unit_Box_Qty="24" Total_Box_Qty="816" Precio="11"></Linea>
+    <Linea Producto="RMDSW524101-GY1" Color="GY1" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="11"></Linea>
+    <Linea Producto="RMDSW524101-NV1" Color="NV1" Cantidad="63" size_S="252" size_M="504" size_L="504" size_XL="252" Unit_Box_Qty="24" Total_Box_Qty="1512" Precio="11"></Linea>
+    <Linea Producto="BCNSW524101-BK2" Color="BK2" Cantidad="84" size_S="336" size_M="672" size_L="672" size_XL="336" Unit_Box_Qty="24" Total_Box_Qty="2016" Precio="11"></Linea>
+    <Linea Producto="BCNSW524101-NV3" Color="NV3" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="11"></Linea>
+    <Linea Producto="MIAPT524104-BK1" Color="BK1" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="11"></Linea>
+    <Linea Producto="RMDPT524104-BK2" Color="BK2" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="11"></Linea>
+    <Linea Producto="RMDPT524104-NV1" Color="NV1" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="11"></Linea>
+    <Linea Producto="PSGPT524104-NV2" Color="NV2" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="11"></Linea>
+    <Linea Producto="BCNPT524104-NV3" Color="NV3" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="11"></Linea>
+    <Linea Producto="MIASW524101-BK1" Color="BK1" Cantidad="67" size_S="268" size_M="536" size_L="536" size_XL="268" Unit_Box_Qty="24" Total_Box_Qty="1608" Precio="11"></Linea>
+  </Encabezado>
+</Sagemobile>

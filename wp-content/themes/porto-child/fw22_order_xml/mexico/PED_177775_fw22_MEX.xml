@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="177775" Cliente="GARDEA" Nombre="Eduardo Gardea" Fecha="24/06/2023" Tipo="1" Fecha_Entrega="24/06/2023" Direccion="CALLE LIBERTAD 1205. COL. CENTRO " Direccion2="Mexico Chihuahua CHIHUAHUA 31000" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Eduardo Gardea" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBACA324101TQ1" Color="TQ1" Cantidad="9" size_OS="216" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="198.66379308333"></Linea>
+    <Linea Producto="NBACA324101BK1" Color="BK1" Cantidad="9" size_OS="216" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="198.66379308333"></Linea>
+    <Linea Producto="NBACA324101BK2" Color="BK2" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="198.66379308333"></Linea>
+    <Linea Producto="NBACA324101DG1" Color="DG1" Cantidad="9" size_OS="216" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="198.66379308333"></Linea>
+    <Linea Producto="NBACA324101BK3" Color="BK3" Cantidad="9" size_OS="216" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="198.66379308333"></Linea>
+    <Linea Producto="NBACA324101BL1" Color="BL1" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="198.66379308333"></Linea>
+    <Linea Producto="NBACA324101NV3" Color="NV3" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="198.66379308333"></Linea>
+    <Linea Producto="NBACA324101NV4" Color="NV4" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="198.66379308333"></Linea>
+    <Linea Producto="NBACA324102BK1" Color="BK1" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="212.88793104167"></Linea>
+    <Linea Producto="NBACA324102BK2" Color="BK2" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="212.88793104167"></Linea>
+    <Linea Producto="NBACA324102BK3" Color="BK3" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="212.88793104167"></Linea>
+  </Encabezado>
+</Sagemobile>

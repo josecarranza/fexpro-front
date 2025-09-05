@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="181543" Cliente="0514" Nombre="Gonzalo Escobar" Fecha="31/08/2023" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AV LO ESPEJO 01565 " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Gonzalo Escobar" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAST324102-BK2" Color="BK2" Cantidad="35" size_4="140" size_6="280" size_8="280" size_10="140" Unit_Box_Qty="24" Total_Box_Qty="840" Precio="17"></Linea>
+    <Linea Producto="MLBST324101-NV1" Color="NV1" Cantidad="35" size_4="140" size_6="280" size_8="280" size_10="140" Unit_Box_Qty="24" Total_Box_Qty="840" Precio="11.5"></Linea>
+    <Linea Producto="MLBST324101-BK1" Color="BK1" Cantidad="35" size_4="140" size_6="280" size_8="280" size_10="140" Unit_Box_Qty="24" Total_Box_Qty="840" Precio="11.5"></Linea>
+  </Encabezado>
+</Sagemobile>

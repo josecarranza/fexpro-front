@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="240019" Cliente="0453" Nombre="Boris Ulloa" Fecha="12/12/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="GALO PLAZA LASSO N60-122 Y SANTA LUCIA, QUITO, ECUADOR 170512 " Direccion2="Ecuador Sucumbíos ECUADOR 0000" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Boris Ulloa" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="AFAPT525211-BL1" Color="BL1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="14.5"></Linea>
+    <Linea Producto="AFAJS500001-LB1" Color="LB1" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="9"></Linea>
+    <Linea Producto="AFAPL500001-WH1" Color="WH1" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="9"></Linea>
+    <Linea Producto="AFAJK500001-BK1" Color="BK1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="11"></Linea>
+    <Linea Producto="AFAPT500002-BK1" Color="BK1" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="9.5"></Linea>
+    <Linea Producto="AFAST500001-NV1" Color="NV1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="20"></Linea>
+  </Encabezado>
+</Sagemobile>

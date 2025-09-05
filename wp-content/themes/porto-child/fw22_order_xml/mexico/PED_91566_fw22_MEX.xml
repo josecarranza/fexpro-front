@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="91566" Cliente="LIVER" Nombre="LAURA ELENA PEREZ DE LEON ESPINOSA" Fecha="09/12/2021" Tipo="1" Fecha_Entrega="09/12/2021" Direccion="mario pani 200 corporativo liverpool" Direccion2="Mexico Ciudad de México CDMX 05348" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="LAURA ELENA PEREZ DE LEON ESPINOSA" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="ATRBX522202NVY" Color="NVY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="265.04310345833"></Linea>
+    <Linea Producto="PCBX522201LBL" Color="LBL" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="236.59482758333"></Linea>
+    <Linea Producto="STBX522204BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="236.59482758333"></Linea>
+    <Linea Producto="LCPBX522204BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="265.04310345833"></Linea>
+    <Linea Producto="LCPBX522201NVY" Color="NVY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="265.04310345833"></Linea>
+    <Linea Producto="ATRSO522202BLK" Color="BLK" Cantidad="14" size_OS="336" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="127.54310345833"></Linea>
+    <Linea Producto="LCPSO522201GRY" Color="GRY" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="127.54310345833"></Linea>
+    <Linea Producto="LCPSO522203RED" Color="RED" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="127.54310345833"></Linea>
+    <Linea Producto="LCPSO522202BLK" Color="BLK" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="94.353448291667"></Linea>
+    <Linea Producto="LCPSO522204BLK" Color="BLK" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="94.353448291667"></Linea>
+    <Linea Producto="SOUSO522201BLK" Color="BLK" Cantidad="14" size_OS="336" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="127.54310345833"></Linea>
+    <Linea Producto="SOUSO522202BLK" Color="BLK" Cantidad="14" size_OS="336" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="94.353448291667"></Linea>
+    <Linea Producto="STSO522201NVY" Color="NVY" Cantidad="14" size_OS="336" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="127.54310345833"></Linea>
+    <Linea Producto="STSO522203BLK" Color="BLK" Cantidad="14" size_OS="336" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="127.54310345833"></Linea>
+    <Linea Producto="STPJ52201NVY" Color="NVY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="378.836206875"></Linea>
+    <Linea Producto="STPJ52204BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="426.25"></Linea>
+    <Linea Producto="LCPPJ522205BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="5.21551725"></Linea>
+    <Linea Producto="LCPPJ522206RED" Color="RED" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="5.21551725"></Linea>
+  </Encabezado>
+</Sagemobile>

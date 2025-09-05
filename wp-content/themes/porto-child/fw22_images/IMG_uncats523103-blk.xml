@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sage>
+  <Imagenes Producto="NBAHD623101-NVY" MainImage="NBAHD623101-NVY-1024x1024.png">
+    <Secondary Archivo="NBAHD623101-NVY-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD623101-GRY" MainImage="NBAHD623101-GRY-1024x1024.png">
+    <Secondary Archivo="NBAHD623101-GRY-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASW623101-PUR" MainImage="NBASW623101-PUR-1024x1024.png">
+    <Secondary Archivo="NBASW623101-PUR-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASW623101-NVY" MainImage="NBASW623101-NVY-1024x1024.png">
+    <Secondary Archivo="NBASW623101-NVY-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASW623101-GRY" MainImage="NBASW623101-GRY-1024x1024.png">
+    <Secondary Archivo="NBASW623101-GRY-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASW623101-BLK" MainImage="NBASW623101-BLK-1024x1024.png">
+    <Secondary Archivo="NBASW623101-BLK-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASW623101-PNK" MainImage="NBASW623101-PNK-1024x1024.png">
+    <Secondary Archivo="NBASW623101-PNK-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASW623101-BLK1" MainImage="NBASW623101-BLK1-1024x1024.png">
+    <Secondary Archivo="NBASW623101-BLK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBACT623106-ORG" MainImage="NBACT623106-ORG-1024x1024.png">
+    <Secondary Archivo="NBACT623106-ORG-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBACT623106-WHT1" MainImage="NBACT623106-WHT1-1024x1024.png">
+    <Secondary Archivo="NBACT623106-WHT1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBACT623106-LIL" MainImage="NBACT623106-LIL-1024x1024.png">
+    <Secondary Archivo="NBACT623106-LIL-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBATS623101-LIL1" MainImage="NBATS623101-LIL1-1.png"/>
+  <Imagenes Producto="NBATS623101-PUR" MainImage="NBATS623101-PUR-1.png"/>
+  <Imagenes Producto="NBATS623101-LIL" MainImage="NBATS623101-LIL-1.png"/>
+  <Imagenes Producto="NBATS623101-GRY" MainImage="NBATS623101-GRY-1.png"/>
+  <Imagenes Producto="NBASW523106-RED2" MainImage="NBASW523101-RED2.png"/>
+  <Imagenes Producto="NBACA323165-ORG" MainImage="NBACA523165-ORG-1024x1024.png">
+    <Secondary Archivo="NBACA523165-ORG-back-1024x1024.png"></Secondary>
+    <Secondary Archivo="NBACA523165-ORG-side2-1024x1024.png"></Secondary>
+    <Secondary Archivo="NBACA523165-ORG-side1-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBACA323165-BLU" MainImage="NBACA523165-BLU-1024x1024.png">
+    <Secondary Archivo="NBACA523165-BLU-back-1024x1024.png"></Secondary>
+    <Secondary Archivo="NBACA523165-BLU-side1-1024x1024.png"></Secondary>
+    <Secondary Archivo="NBACA523165-BLU-side2-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBACA323165-GRN" MainImage="NBACA523165-GRN-1024x1024.png">
+    <Secondary Archivo="NBACA523165-GRN-back-1024x1024.png"></Secondary>
+    <Secondary Archivo="NBACA523165-GRN-side2-1024x1024.png"></Secondary>
+    <Secondary Archivo="NBACA523165-GRN-side1-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBACA323165-PUR" MainImage="NBACA523165-PUR-1024x1024.png">
+    <Secondary Archivo="NBACA523165-PUR-back-1024x1024.png"></Secondary>
+    <Secondary Archivo="NBACA523165-PUR-side2-1024x1024.png"></Secondary>
+    <Secondary Archivo="NBACA523165-PUR-side1-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBACA323165-RED" MainImage="NBACA523165-RED-1024x1024.png">
+    <Secondary Archivo="NBACA523165-RED-back-1024x1024.png"></Secondary>
+    <Secondary Archivo="NBACA523165-RED-side2-1024x1024.png"></Secondary>
+    <Secondary Archivo="NBACA523165-RED-side1-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="UNLASB523101-LHB" MainImage="UNLASB523101-LHB-1024x1024.png"/>
+  <Imagenes Producto="UNTXSB523101-ORG" MainImage="UNTXSB523101-ORG-1024x1024.png"/>
+  <Imagenes Producto="UNTXSB523101-BLK" MainImage="UNTXSB523101-BLK-1024x1024.png"/>
+  <Imagenes Producto="UNMISB523101-BLK" MainImage="UNMISB523101-BLK-1024x1024.png"/>
+  <Imagenes Producto="UNMISB523101-GRN" MainImage="UNMISB523101-GRN-1024x1024.png"/>
+  <Imagenes Producto="UNHVSB523101-BLK" MainImage="UNHVSB523101-BLK-1024x1024.png"/>
+  <Imagenes Producto="UNHVSB523101-RED" MainImage="UNHVSB523101-RED-1024x1024.png"/>
+  <Imagenes Producto="UNFLSB523101-ORG" MainImage="UNFLSB523101-ORG-1024x1024.png"/>
+  <Imagenes Producto="UNFLSB523101-BLU" MainImage="UNFLSB523101-BLU-1024x1024.png"/>
+  <Imagenes Producto="PSGPT623102-BLK" MainImage="PSGPT623102-BLK-1024x1024.png">
+    <Secondary Archivo="PSGPT623102-BLK-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGBH623101-NVY" MainImage="PSGBH623101-NVY-1024x1024.png">
+    <Secondary Archivo="PSGBH623101-NVY-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGBH623101-PNK" MainImage="PSGBH623101-PNK-1024x1024.png">
+    <Secondary Archivo="PSGBH623101-PNK-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGHD623102-GRY" MainImage="PSGHD623102-GRY-1024x1024.png">
+    <Secondary Archivo="PSGHD623102-GRY-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGHD623102-LBL" MainImage="PSGHD623102-LBL-1024x1024.png">
+    <Secondary Archivo="PSGHD623102-LBL-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGSW623101-NVY" MainImage="PSGSW623101-NVY-1024x1024.png">
+    <Secondary Archivo="PSGSW623101-NVY-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGSW623101-WHT" MainImage="PSGSW623101-WHT-1024x1024.png">
+    <Secondary Archivo="PSGSW623101-WHT-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGCT623103-WHT" MainImage="PSGCT623103-WHT-1024x1024.png">
+    <Secondary Archivo="PSGCT623103-WHT-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGCT623103-TUR" MainImage="PSGCT623103-TUR-1024x1024.png">
+    <Secondary Archivo="PSGCT623103-TUR-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGLS623103-WHT" MainImage="PSGLS623103-WHT-1024x1024.png">
+    <Secondary Archivo="PSGLS623103-WHT-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGLS623103-TUR" MainImage="PSGLS623103-TUR-1024x1024.png">
+    <Secondary Archivo="PSGLS623103-TUR-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGTS623103-WHT" MainImage="PSGTS623103-WHT-1024x1024.png">
+    <Secondary Archivo="PSGTS623103-WHT-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGTS623103-PNK" MainImage="PSGTS623103-PNK-1024x1024.png">
+    <Secondary Archivo="PSGTS623103-PNK-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGCT623102-NVY" MainImage="PSGCT623102-NVY-1024x1024.png">
+    <Secondary Archivo="PSGCT623102-NVY-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGCT623102-PNK" MainImage="PSGCT623102-PNK-1024x1024.png">
+    <Secondary Archivo="PSGCT623102-PNK-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGHD623101-PNK" MainImage="PSGHD623101-PNK-1024x1024.png">
+    <Secondary Archivo="PSGHD623101-PNK-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGSH623101-BGE" MainImage="PSGSH623101-BGE-1024x1024.png">
+    <Secondary Archivo="PSGSH623101-BGE-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGTS623102-RED" MainImage="PSGTS623102-RED-1024x1024.png">
+    <Secondary Archivo="PSGTS623102-RED-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGTS623101-NVY" MainImage="PSGTS623101-NVY-1024x1024.png">
+    <Secondary Archivo="PSGTS623101-NVY-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGTS623101-BGE" MainImage="PSGTS623101-BGE-1024x1024.png">
+    <Secondary Archivo="PSGTS623101-BGE-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGLS623102-NVY" MainImage="PSGLS623102-NVY-1024x1024.png">
+    <Secondary Archivo="PSGLS623102-NVY-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGLS623102-BGE" MainImage="PSGLS623102-BGE-1024x1024.png">
+    <Secondary Archivo="PSGLS623102-BGE-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGLS623101-NVY" MainImage="PSGLS623101-NVY-1024x1024.png">
+    <Secondary Archivo="PSGLS623101-NVY-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGLS623101-BGE" MainImage="PSGLS623101-BGE-1024x1024.png">
+    <Secondary Archivo="PSGLS623101-BGE-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASW523108-GRY" MainImage="NBASW523108-GRY-1024x1024.png">
+    <Secondary Archivo="NBASW523108-GRY-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASW523108-BLU" MainImage="NBASW523108-BLU-1024x1024.png">
+    <Secondary Archivo="NBASW523108-BLU-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASW523108-BLU2" MainImage="NBASW523108-BLU2-1024x1024.png">
+    <Secondary Archivo="NBASW523108-BLU2-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASW523106-PUR" MainImage="NBASW523106-PUR-1024x1024.png">
+    <Secondary Archivo="NBASW523106-PUR-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASW523106-BLK5" MainImage="NBASW523106-BLK5-1024x1024.png">
+    <Secondary Archivo="NBASW523106-BLK5-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASW523106-BLU" MainImage="NBASW523106-BLU-1024x1024.png">
+    <Secondary Archivo="NBASW523106-BLU-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAJP523107-BLK8" MainImage="NBAJP523107-BLK8-1024x1024.png">
+    <Secondary Archivo="NBAJP523107-BLK8-back-1024x1024.png"></Secondary>
+    <Secondary Archivo="NBAJP523107-BLK8-side1-1024x1024.png"></Secondary>
+    <Secondary Archivo="NBAJP523107-BLK8-side2-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAJP523107-BLK9" MainImage="NBAJP523107-BLK9-1024x1024.png">
+    <Secondary Archivo="NBAJP523107-BLK9-side2-1024x1024.png"></Secondary>
+    <Secondary Archivo="NBAJP523107-BLK9-side1-1024x1024.png"></Secondary>
+    <Secondary Archivo="NBAJP523107-BLK9-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAJP523107-BLK6" MainImage="NBAJP523107-BLK6-1024x1024.png">
+    <Secondary Archivo="NBAJP523107-BLK6-side2-1024x1024.png"></Secondary>
+    <Secondary Archivo="NBAJP523107-BLK6-side1-1024x1024.png"></Secondary>
+    <Secondary Archivo="NBAJP523107-BLK6-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAJP523107-BLK7" MainImage="NBAJP523107-BLK7-1024x1024.png">
+    <Secondary Archivo="NBAJP523107-BLK7-side2-1024x1024.png"></Secondary>
+    <Secondary Archivo="NBAJP523107-BLK7-side1-1024x1024.png"></Secondary>
+    <Secondary Archivo="NBAJP523107-BLK7-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAJP523107-BLK10" MainImage="NBAJP523107-BLK10-1024x1024.png">
+    <Secondary Archivo="NBAJP523107-BLK10-side2-1024x1024.png"></Secondary>
+    <Secondary Archivo="NBAJP523107-BLK10-side1-1024x1024.png"></Secondary>
+    <Secondary Archivo="NBAJP523107-BLK10-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD523112-PUR" MainImage="NBAHD523112-PUR-1024x1024.png">
+    <Secondary Archivo="NBAHD523112-PUR-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD523112-BLU2" MainImage="NBAHD523112-BLU2-1024x1024.png">
+    <Secondary Archivo="NBAHD523112-BLU2-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD523112-BLU3" MainImage="NBAHD523112-BLU3-1024x1024.png">
+    <Secondary Archivo="NBAHD523112-BLU3-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD523112-BLK4" MainImage="NBAHD523112-BLK4-1024x1024.png">
+    <Secondary Archivo="NBAHD523112-BLK4-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD523111-BLK7" MainImage="NBAHD523111-BLK7-1024x1024.png">
+    <Secondary Archivo="NBAHD523111-BLK7-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD523111-BLK6" MainImage="NBAHD523111-BLK6-1024x1024.png">
+    <Secondary Archivo="NBAHD523111-BLK6-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD523111-BLK5" MainImage="NBAHD523111-BLK5-1024x1024.png">
+    <Secondary Archivo="NBAHD523111-BLK5-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBASW523108-PUR" MainImage="NBASW523108-PUR-1024x1024.png">
+    <Secondary Archivo="NBASW523108-PUR-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBACA523115-TUR" MainImage="NBACA523115-TUR1-1024x1024.png">
+    <Secondary Archivo="NBACA523115-TUR-side21-1024x1024.png"></Secondary>
+    <Secondary Archivo="NBACA523115-TUR-back1-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD523102-BLU" MainImage="NBAHD523102-BLU-1024x1024.png">
+    <Secondary Archivo="NBAHD523102-BLU-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD523102-BLK4" MainImage="NBAHD523102-BLK4-1024x1024.png">
+    <Secondary Archivo="NBAHD523102-BLK4-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="NBAHD523102-BLK1" MainImage="NBAHD523102-BLK1-1024x1024.png">
+    <Secondary Archivo="NBAHD523102-BLK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGCA523102-WHT" MainImage="PSGCA523102-WHT-1024x1024.png">
+    <Secondary Archivo="PSGCA523102-WHT-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGCA523102-NVY" MainImage="PSGCA523102-NVY-1024x1024.png">
+    <Secondary Archivo="PSGCA523102-NVY-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="UNMIHD523103-GRN" MainImage="UNMIHD523103-GRN-1024x1024.png"/>
+  <Imagenes Producto="UNTXHD523102-BLK" MainImage="UNTXHD523102-BLK-1024x1024.png"/>
+  <Imagenes Producto="UNGTHD523102-BLK" MainImage="UNGTHD523102-BLK-1024x1024.png"/>
+  <Imagenes Producto="UNYLHD523102-NVY" MainImage="UNYLHD523102-NVY-1024x1024.png"/>
+  <Imagenes Producto="UNCATS523103-BLK" MainImage="UNCATS523103-BLK1-1024x1024.png"></Imagenes>
+</Sage>

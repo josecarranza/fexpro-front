@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="216938" Cliente="0621" Nombre="Ignacio Zavala" Fecha="26/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Balmoral 309 Oficina 308" Direccion2="Chile Región Metropolitana de Santiago Los Condes, Santiago " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Ignacio Zavala" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="SMJYAC18017-MHEBLCK05SON" Color="MHEBLCK05SON" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="38.5"></Linea>
+    <Linea Producto="SMJYGS18142-BCEKYGN85LBI" Color="BCEKYGN85LBI" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="38.5"></Linea>
+    <Linea Producto="SMJYGS18154-CBUSCAR97DRD" Color="CBUSCAR97DRD" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="38.5"></Linea>
+    <Linea Producto="SMJYGS18156-CCANAVY08LJA" Color="CCANAVY08LJA" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="38.5"></Linea>
+    <Linea Producto="SMJYGS18175-LALLTGD84EJH" Color="LALLTGD84EJH" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="38.5"></Linea>
+    <Linea Producto="SMJYGS18179-LALLTGD99SON" Color="LALLTGD99SON" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="38.5"></Linea>
+    <Linea Producto="SMJYGS18186-NYKROYA91PEW" Color="NYKROYA91PEW" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="38.5"></Linea>
+    <Linea Producto="SMJYGS18208-SASBLCK98TDU" Color="SASBLCK98TDU" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="38.5"></Linea>
+    <Linea Producto="SMJYGS18392-MTIBLCK97KGA" Color="MTIBLCK97KGA" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="38.5"></Linea>
+    <Linea Producto="SMJYGS18149-CBUBLCK95SPI" Color="CBUBLCK95SPI" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="27"></Linea>
+  </Encabezado>
+</Sagemobile>

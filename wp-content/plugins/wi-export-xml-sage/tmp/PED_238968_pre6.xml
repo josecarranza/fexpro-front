@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="238968" Cliente="0000" Nombre="Paulo Maiera" Fecha="22/11/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="ROD GOVERNADOR MARIO COVAS, 10600, GALPAO 10 LOTE TABAJARA, CEP: 29.147-030, BAIRRO SERRA" Direccion2="Brazil São Paulo CARIACICA 01000-000" AgenteEmbarcador="" Observaciones="GRUPO EIXO BRAZIL - NIKE NFL FEXSS25Q3039 FW25 Q3&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Paulo Maiera" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="N199-52M-8G-CLH" Color="CLH" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13.5"></Linea>
+    <Linea Producto="N199-4DA-81-CLH" Color="CLH" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13.5"></Linea>
+    <Linea Producto="N199-10A-7RD-CLH" Color="CLH" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13.5"></Linea>
+    <Linea Producto="N199-41S-7RD-CLH" Color="CLH" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13.5"></Linea>
+    <Linea Producto="N199-65N-7G-CLH" Color="CLH" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13.5"></Linea>
+    <Linea Producto="N199-00A-8D-CLH" Color="CLH" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13.5"></Linea>
+    <Linea Producto="N199-3GT-9P-CLH" Color="CLH" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13.5"></Linea>
+    <Linea Producto="N199-00A-7L-CLH" Color="CLH" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13.5"></Linea>
+    <Linea Producto="N199-6DL-9B-CLH" Color="CLH" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13.5"></Linea>
+    <Linea Producto="NKAQ-06F-7G-WQA" Color="WQA" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="29"></Linea>
+    <Linea Producto="NKAQ-06F-7L-WQA" Color="WQA" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="29"></Linea>
+    <Linea Producto="NKAQ-06F-8D-WQA" Color="WQA" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="29"></Linea>
+    <Linea Producto="NKAQ-06F-9P-WQA" Color="WQA" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="29"></Linea>
+    <Linea Producto="NKAQ-41S-7RD-WQA" Color="WQA" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="29"></Linea>
+  </Encabezado>
+</Sagemobile>

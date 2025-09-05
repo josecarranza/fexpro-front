@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="92579" Cliente="0000" Nombre="ALFONSO NAVARRO" Fecha="20/12/2021" Tipo="1" Fecha_Entrega="20/12/2021" Direccion="MANUEL RODRIGUEZ NORTE 730, SANTIAGO CENTRO " Direccion2="Chile  SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="FALABELLA FOOTWARE FW22&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="ALFONSO NAVARRO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBTS520200-BLK3" Color="BLK3" Cantidad="30" size_7="150" size_8="150" size_9="150" size_10="150" size_11="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="6"></Linea>
+    <Linea Producto="MLBCS52102-NVY1" Color="NVY1" Cantidad="80" size_40="320" size_41="480" size_43="640" size_44="320" size_45="160" Unit_Box_Qty="24" Total_Box_Qty="1920" Precio="6"></Linea>
+    <Linea Producto="NBASL52056-PUR" Color="PUR" Cantidad="28" size_7="112" size_8="168" size_9="224" size_10="112" size_11="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="6"></Linea>
+    <Linea Producto="MLBFF518401-WHT" Color="WHT" Cantidad="28" size_7="112" size_8="168" size_9="224" size_10="112" size_11="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="6"></Linea>
+    <Linea Producto="MLBFF518401-NVY" Color="NVY" Cantidad="18" size_7="90" size_8="90" size_9="90" size_10="90" size_11="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="5"></Linea>
+    <Linea Producto="NBACS52203-RED" Color="RED" Cantidad="18" size_7="90" size_8="90" size_9="90" size_10="90" size_11="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="5"></Linea>
+    <Linea Producto="NBACS52203-YEL" Color="YEL" Cantidad="40" size_7="160" size_8="240" size_9="320" size_10="160" size_11="80" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="5"></Linea>
+    <Linea Producto="NBACS52204-RED" Color="RED" Cantidad="40" size_7="160" size_8="240" size_9="320" size_10="160" size_11="80" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="5"></Linea>
+    <Linea Producto="NBACS52204-BLK" Color="BLK" Cantidad="20" size_40="80" size_41="120" size_43="160" size_44="80" size_45="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="6.5"></Linea>
+    <Linea Producto="NBASL522201-RED" Color="RED" Cantidad="20" size_40="80" size_41="120" size_43="160" size_44="80" size_45="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="6.5"></Linea>
+    <Linea Producto="NBASL522201-PUR" Color="PUR" Cantidad="80" size_40="320" size_41="480" size_43="640" size_44="320" size_45="160" Unit_Box_Qty="24" Total_Box_Qty="1920" Precio="6"></Linea>
+    <Linea Producto="PSGSL522201-BLK" Color="BLK" Cantidad="60" size_40="240" size_41="360" size_43="480" size_44="240" size_45="120" Unit_Box_Qty="24" Total_Box_Qty="1440" Precio="7"></Linea>
+    <Linea Producto="PSGSL522202-BLU" Color="BLU" Cantidad="80" size_40="320" size_41="480" size_43="640" size_44="320" size_45="160" Unit_Box_Qty="24" Total_Box_Qty="1920" Precio="6"></Linea>
+    <Linea Producto="NBASL52056-BLK" Color="BLK" Cantidad="60" size_40="240" size_41="360" size_43="480" size_44="240" size_45="120" Unit_Box_Qty="24" Total_Box_Qty="1440" Precio="7"></Linea>
+    <Linea Producto="MLBSL522201-BLK" Color="BLK" Cantidad="16" size_40="64" size_41="96" size_43="128" size_44="64" size_45="32" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="6.5"></Linea>
+    <Linea Producto="NBASL522207-RED" Color="RED" Cantidad="16" size_40="64" size_41="96" size_43="128" size_44="64" size_45="32" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="6.5"></Linea>
+  </Encabezado>
+</Sagemobile>

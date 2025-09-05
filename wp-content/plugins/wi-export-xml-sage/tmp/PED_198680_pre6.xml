@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="198680" Cliente="0000" Nombre="SEBASTIAN BARRIENTOS" Fecha="27/02/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AV. PRESIDENTE RIESCO 5685 PISO 4 " Direccion2="Chile Región Metropolitana de Santiago Santiago " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="SEBASTIAN BARRIENTOS" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASL524202-RD1" Color="RD1" Cantidad="40" size_7="160" size_8="240" size_9="320" size_10="160" size_11="80" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="5"></Linea>
+    <Linea Producto="NBASL524202-BK1" Color="BK1" Cantidad="40" size_7="160" size_8="240" size_9="320" size_10="160" size_11="80" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="5"></Linea>
+    <Linea Producto="MLBSL524202-NV1" Color="NV1" Cantidad="40" size_7="160" size_8="240" size_9="320" size_10="160" size_11="80" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="5"></Linea>
+    <Linea Producto="MLBSL524202-BK1" Color="BK1" Cantidad="40" size_7="160" size_8="240" size_9="320" size_10="160" size_11="80" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="5"></Linea>
+  </Encabezado>
+</Sagemobile>

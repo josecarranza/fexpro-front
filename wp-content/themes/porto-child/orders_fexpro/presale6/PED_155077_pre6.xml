@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="155077" Cliente="0451" Nombre="Claudio Ruiz" Fecha="21/12/2022" Tipo="1" Fecha_Entrega="21/12/2022" Direccion="MANUEL RODRIGUEZ 730, SANTIAGO CENTRO " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Claudio Ruiz" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASB521201-BLK6" Color="BLK6" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521201-BLK4" Color="BLK4" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521201-BLU" Color="BLU" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521201-BLK3" Color="BLK3" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521201-BLK2" Color="BLK2" Cantidad="23" size_OS="552" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521201-PUR" Color="PUR" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521201-BLK" Color="BLK" Cantidad="28" size_OS="672" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521201-RED" Color="RED" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521204-BLK8" Color="BLK8" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-BLU4" Color="BLU4" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-BLK4" Color="BLK4" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-BLK3" Color="BLK3" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-RED" Color="RED" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-BLK" Color="BLK" Cantidad="25" size_OS="600" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521206-BLK" Color="BLK" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521242-BLK1" Color="BLK1" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521242-BLK2" Color="BLK2" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-RED2" Color="RED2" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-BLU" Color="BLU" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="8.5"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="199371" Cliente="LIVER" Nombre="Karen Lara" Fecha="19/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AVENIDA VALLE DE LAS ALAMEDAS #7 FRACCIONAMIENTO INDUSTRIAL LECH MEXICO ESTADO DE MÉXICO TULTITLAN 54940" Direccion2="Mexico Estado de México MEXICO 54940" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Karen Lara" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MSPST324203BK1" Color="BK1" Cantidad="18" size_4="72" size_6="144" size_8="144" size_10="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="378.83620691667"></Linea>
+    <Linea Producto="MSPTS724208BK6" Color="BK6" Cantidad="20" size_10="80" size_12="160" size_14="160" size_16="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="212.88793104167"></Linea>
+    <Linea Producto="MSPTS324208PK1" Color="PK1" Cantidad="18" size_4="72" size_6="144" size_8="144" size_10="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="212.88793104167"></Linea>
+  </Encabezado>
+</Sagemobile>

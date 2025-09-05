@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="220059" Cliente="0000" Nombre="Marco Bautista" Fecha="27/08/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Norte 45 1077 Col.Industria Vallejo " Direccion2="Mexico Ciudad de México CDMX 02300" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Marco Bautista" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBHD525103BK1" Color="BK1" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="544.78448275"></Linea>
+    <Linea Producto="MLBHD525103NV1" Color="NV1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="544.78448275"></Linea>
+    <Linea Producto="MLBTS525105WH1" Color="WH1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="212.88793104167"></Linea>
+    <Linea Producto="MLBTS525114BG1" Color="BG1" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="274.52586208333"></Linea>
+    <Linea Producto="MLBJS525103NV1" Color="NV1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="473.66379308333"></Linea>
+    <Linea Producto="NBAHD525104BK1" Color="BK1" Cantidad="24" size_S="96" size_M="192" size_L="192" size_XL="96" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="592.198275875"></Linea>
+    <Linea Producto="NBAHD525111BK2" Color="BK2" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="568.49137929167"></Linea>
+    <Linea Producto="NBATT525102BK1" Color="BK1" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="402.54310345833"></Linea>
+    <Linea Producto="NBATT525106BK3" Color="BK3" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="307.71551725"></Linea>
+    <Linea Producto="CAAJS525105NV1" Color="NV1" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="284.00862070833"></Linea>
+    <Linea Producto="CAAJS525105YL1" Color="YL1" Cantidad="34" size_S="136" size_M="272" size_L="272" size_XL="136" Unit_Box_Qty="24" Total_Box_Qty="816" Precio="284.00862070833"></Linea>
+    <Linea Producto="CAAHD525104NV1" Color="NV1" Cantidad="26" size_S="104" size_M="208" size_L="208" size_XL="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="521.07758620833"></Linea>
+    <Linea Producto="PUMHD525104NV2" Color="NV2" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="521.07758620833"></Linea>
+    <Linea Producto="MLSJS525107BK1" Color="BK1" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="284.00862070833"></Linea>
+    <Linea Producto="BCNWR525102BG1" Color="BG1" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="687.02586208333"></Linea>
+    <Linea Producto="RMDJS525107WH1" Color="WH1" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="284.00862070833"></Linea>
+    <Linea Producto="MLBHD600001NV1" Color="NV1" Cantidad="10" size_XS="40" size_S="80" size_M="80" size_L="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="449.95689654167"></Linea>
+    <Linea Producto="NBATT625102BK1" Color="BK1" Cantidad="18" size_XS="72" size_S="144" size_M="144" size_L="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="260.301724125"></Linea>
+    <Linea Producto="NBAHD625102RD1" Color="RD1" Cantidad="14" size_XS="56" size_S="112" size_M="112" size_L="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="426.25"></Linea>
+    <Linea Producto="PUMJS525105WH1" Color="WH1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="284.00862070833"></Linea>
+    <Linea Producto="MLSHD525103BK1" Color="BK1" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="521.07758620833"></Linea>
+    <Linea Producto="NBAHD525102BK4" Color="BK4" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="521.07758620833"></Linea>
+  </Encabezado>
+</Sagemobile>

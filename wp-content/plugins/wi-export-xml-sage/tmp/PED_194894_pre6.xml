@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="194894" Cliente="0458" Nombre="Aurelie Manas" Fecha="29/01/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="V. KENNEDY 9001, LAS CONDES SANTIAGO " Direccion2="Chile Región Metropolitana de Santiago LAS CONDES 7560356" AgenteEmbarcador="" Observaciones="PARIS CHILE - MEN PROGRAMA MESA POLERA FW24 Q4" ResponsablePedido="" ResponsableImportacion="" Contacto="Aurelie Manas" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBTS524213-NV1" Color="NV1" Cantidad="120" size_S="480" size_M="960" size_L="960" size_XL="480" Unit_Box_Qty="24" Total_Box_Qty="2880" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS524213-WH1" Color="WH1" Cantidad="60" size_S="240" size_M="480" size_L="480" size_XL="240" Unit_Box_Qty="24" Total_Box_Qty="1440" Precio="6.5"></Linea>
+    <Linea Producto="NBATS524208-BK1" Color="BK1" Cantidad="120" size_S="480" size_M="960" size_L="960" size_XL="480" Unit_Box_Qty="24" Total_Box_Qty="2880" Precio="6.5"></Linea>
+    <Linea Producto="NBATS524208-WH1" Color="WH1" Cantidad="120" size_S="480" size_M="960" size_L="960" size_XL="480" Unit_Box_Qty="24" Total_Box_Qty="2880" Precio="6.5"></Linea>
+    <Linea Producto="NBATS524208-BK2" Color="BK2" Cantidad="120" size_S="480" size_M="960" size_L="960" size_XL="480" Unit_Box_Qty="24" Total_Box_Qty="2880" Precio="6.5"></Linea>
+    <Linea Producto="NBATS524208-BK3" Color="BK3" Cantidad="80" size_S="320" size_M="640" size_L="640" size_XL="320" Unit_Box_Qty="24" Total_Box_Qty="1920" Precio="6.5"></Linea>
+    <Linea Producto="NBATS524208-GY1" Color="GY1" Cantidad="60" size_S="240" size_M="480" size_L="480" size_XL="240" Unit_Box_Qty="24" Total_Box_Qty="1440" Precio="6.5"></Linea>
+    <Linea Producto="NBATS524208-BL1" Color="BL1" Cantidad="60" size_S="240" size_M="480" size_L="480" size_XL="240" Unit_Box_Qty="24" Total_Box_Qty="1440" Precio="6.5"></Linea>
+    <Linea Producto="NBATS524208-BK7" Color="BK7" Cantidad="80" size_S="320" size_M="640" size_L="640" size_XL="320" Unit_Box_Qty="24" Total_Box_Qty="1920" Precio="6.5"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sage>
+  <Confirmacion Cia="02" NoConfirm="Fexpro POP - MEN Pijamas" Fecha="30/09/2021" Suplidor="135" Temporada="212" FechaEntrega="30/09/2021" FechaEmbarque="05/10/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021">
+    <Linea Producto="ACPJ52101-BLK" Color="BLK" size_S="96" size_M="192" size_L="192" size_XL="96" Total_Box_Qty="576" Costo="5.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="ACPJ52102-BLK" Color="BLK" size_S="32" size_M="64" size_L="64" size_XL="32" Total_Box_Qty="192" Costo="5.25" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="ACPJ52103-BLK" Color="BLK" size_S="36" size_M="72" size_L="72" size_XL="36" Total_Box_Qty="216" Costo="3.10" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCPJ52104-GRN" Color="GRN" size_S="88" size_M="176" size_L="176" size_XL="88" Total_Box_Qty="528" Costo="5.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCPJ52105-GRN" Color="GRN" size_S="116" size_M="232" size_L="232" size_XL="116" Total_Box_Qty="696" Costo="3.10" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCPJ52106-BLK" Color="BLK" size_S="140" size_M="280" size_L="280" size_XL="140" Total_Box_Qty="840" Costo="5.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCPJ52108-BLK" Color="BLK" size_S="84" size_M="168" size_L="168" size_XL="84" Total_Box_Qty="504" Costo="3.10" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="GJPJ52101-GRY" Color="GRY" size_S="132" size_M="264" size_L="264" size_XL="132" Total_Box_Qty="792" Costo="5.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="GJPJ52103-GRY" Color="GRY" size_S="128" size_M="256" size_L="256" size_XL="128" Total_Box_Qty="768" Costo="3.10" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="KISPJ52101-BLK" Color="BLK" size_S="92" size_M="184" size_L="184" size_XL="92" Total_Box_Qty="552" Costo="5.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="KISPJ52103-BLK" Color="BLK" size_S="36" size_M="72" size_L="72" size_XL="36" Total_Box_Qty="216" Costo="3.10" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NASPJ52101-BLK" Color="BLK" size_S="92" size_M="184" size_L="184" size_XL="92" Total_Box_Qty="552" Costo="5.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NASPJ52102-BLK" Color="BLK" size_S="80" size_M="160" size_L="160" size_XL="80" Total_Box_Qty="480" Costo="5.25" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NASPJ52103-BLK" Color="BLK" size_S="36" size_M="72" size_L="72" size_XL="36" Total_Box_Qty="216" Costo="3.10" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NASPJ52104-BLU" Color="BLU" size_S="96" size_M="192" size_L="192" size_XL="96" Total_Box_Qty="576" Costo="5.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NASPJ52106-BLU" Color="BLU" size_S="36" size_M="72" size_L="72" size_XL="36" Total_Box_Qty="216" Costo="3.10" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SMPPJ52101-NVY" Color="NVY" size_S="84" size_M="168" size_L="168" size_XL="84" Total_Box_Qty="504" Costo="5.40" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SMPPJ52103-NVY" Color="NVY" size_S="112" size_M="224" size_L="224" size_XL="112" Total_Box_Qty="672" Costo="2.70" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SOPPJ52101-BLU" Color="BLU" size_S="140" size_M="280" size_L="280" size_XL="140" Total_Box_Qty="840" Costo="5.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SOPPJ52103-BLU" Color="BLU" size_S="116" size_M="232" size_L="232" size_XL="116" Total_Box_Qty="696" Costo="3.10" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SOPPJ52107-BLK" Color="BLK" size_S="132" size_M="264" size_L="264" size_XL="132" Total_Box_Qty="792" Costo="5.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SOPPJ52109-BLK" Color="BLK" size_S="128" size_M="256" size_L="256" size_XL="128" Total_Box_Qty="768" Costo="3.10" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="GFPJ52102-RED" Color="RED" size_S="140" size_M="280" size_L="280" size_XL="140" Total_Box_Qty="840" Costo="5.25" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="GFPPJ52101-BLU2" Color="BLU2" size_S="60" size_M="120" size_L="120" size_XL="60" Total_Box_Qty="360" Costo="5.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="GFPPJ52102-BLU2" Color="BLU2" size_S="80" size_M="160" size_L="160" size_XL="80" Total_Box_Qty="480" Costo="5.25" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="GFPPJ52103-BLU2" Color="BLU2" size_S="196" size_M="392" size_L="392" size_XL="196" Total_Box_Qty="1176" Costo="3.10" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+  </Confirmacion>
+</Sage>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="177873" Cliente="0INN" Nombre="Mario Antonio Ruiz" Fecha="27/06/2023" Tipo="1" Direccion="Humberto Lobo 540-A Colonia del Valle" Direccion2="Mexico Nuevo León San Pedro Garza Garcia 66220" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Mario Antonio Ruiz" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAJS624101RD1" Color="RD1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="249.5689655"></Linea>
+    <Linea Producto="NBAJS624101OW1" Color="OW1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="249.5689655"></Linea>
+    <Linea Producto="NBACT624103RD1" Color="RD1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="171.982758625"></Linea>
+    <Linea Producto="NBACT624103BK1" Color="BK1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="171.982758625"></Linea>
+    <Linea Producto="NBACT624121RD1" Color="RD1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="180.60344829167"></Linea>
+    <Linea Producto="NBATS624119BK1" Color="BK1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="193.53448275"></Linea>
+    <Linea Producto="NBATS624119RD1" Color="RD1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="193.53448275"></Linea>
+  </Encabezado>
+</Sagemobile>

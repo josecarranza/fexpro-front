@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="58857" Cliente="0000" Nombre="ALFONSO NAVARRO" Fecha="13/08/2021" Tipo="1" Fecha_Entrega="13/08/2021" Direccion="MANUEL RODRIGUEZ NORTE 730, SANTIAGO CENTRO " Direccion2="Chile  SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="FALABELLA CHILE - SPORTS PIJAMAS SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="ALFONSO NAVARRO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="RMPJ52206-NVY" Color="NVY" Cantidad="63" size_S="252" size_M="504" size_L="504" size_XL="252" Unit_Box_Qty="24" Total_Box_Qty="1512" Precio="10"></Linea>
+    <Linea Producto="NBAPJ52206-BLK" Color="BLK" Cantidad="63" size_S="252" size_M="504" size_L="504" size_XL="252" Unit_Box_Qty="24" Total_Box_Qty="1512" Precio="10"></Linea>
+    <Linea Producto="NBAPJ52206-PUR" Color="PUR" Cantidad="63" size_S="252" size_M="504" size_L="504" size_XL="252" Unit_Box_Qty="24" Total_Box_Qty="1512" Precio="10"></Linea>
+    <Linea Producto="NBAPJ52206-BLK2" Color="BLK2" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10"></Linea>
+    <Linea Producto="NBAPJ52206-GRN" Color="GRN" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10"></Linea>
+    <Linea Producto="MLBPJ52203-GRY" Color="GRY" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10"></Linea>
+    <Linea Producto="MLBPJ52203-BLU" Color="BLU" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10"></Linea>
+    <Linea Producto="BCPJ52206-NVY" Color="NVY" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10"></Linea>
+    <Linea Producto="RMPJ52206-NVY" Color="NVY" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="10"></Linea>
+  </Encabezado>
+</Sagemobile>

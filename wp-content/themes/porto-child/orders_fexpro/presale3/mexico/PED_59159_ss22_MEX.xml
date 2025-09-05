@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="59159" Cliente="0463" Nombre="Eduardo Gardea" Fecha="17/08/2021" Tipo="1" Fecha_Entrega="17/08/2021" Direccion="CALLE LIBERTAD 1205. COL. CENTRO " Direccion2="Mexico Chihuahua CHIHUAHUA 31000" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Eduardo Gardea" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="ACSB52201BLK" Color="BLK" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="301.95"></Linea>
+    <Linea Producto="ATASB52201WHT" Color="WHT" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="274.45"></Linea>
+    <Linea Producto="ATASB52202BLK" Color="BLK" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="301.95"></Linea>
+    <Linea Producto="ATASB52203BLK" Color="BLK" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="301.95"></Linea>
+    <Linea Producto="BRSB52201BRW" Color="BRW" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="274.45"></Linea>
+    <Linea Producto="BRSB52202LBL" Color="LBL" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="274.45"></Linea>
+    <Linea Producto="FDSB52203BLK" Color="BLK" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="274.45"></Linea>
+    <Linea Producto="MTSB52201BLU" Color="BLU" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="274.45"></Linea>
+    <Linea Producto="MTSB52205BLK" Color="BLK" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="274.45"></Linea>
+    <Linea Producto="MTSB52202BLK" Color="BLK" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="301.95"></Linea>
+    <Linea Producto="MTSB52203BLK" Color="BLK" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="274.45"></Linea>
+    <Linea Producto="NIRSB52203BLK" Color="BLK" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="274.45"></Linea>
+    <Linea Producto="NIRSB52204BLK" Color="BLK" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="274.45"></Linea>
+    <Linea Producto="PCSB52201BLK" Color="BLK" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="274.45"></Linea>
+    <Linea Producto="PCSB52202GRY" Color="GRY" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="274.45"></Linea>
+    <Linea Producto="PCSB52204NVY" Color="NVY" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="274.45"></Linea>
+  </Encabezado>
+</Sagemobile>

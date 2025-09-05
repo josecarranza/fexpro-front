@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Linea Cia="02" Referencia="FABN52201" Producto_reference="FABN52201-ORG" Description="FANTA PRIMARY LOGO BEANIE" Description_spanish="FANTA PRIMARY LOGO GORRO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="FANTA" Group="ACC" Sub_group="BN" Arancel="MCA" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="ORG" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="DCOSB52204" Producto_reference="DCOSB52204-BLK" Description="DIET COKE PRIMARY LOGO STRETCH SNAP CAP" Description_spanish="DIET COKE PRIMARY LOGO GORRA STRETCH SNAP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="7.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="DIET COKE" Group="" Sub_group="" Arancel="" Season="" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="DCOSB52203" Producto_reference="DCOSB52203-GRY" Description="DIET COKE SCRIPT LOGO FLAT PROFILE CAP" Description_spanish="DIET COKE SCRIPT LOGO GORRA PERFIL PLANO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="8.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="DIET COKE" Group="" Sub_group="" Arancel="" Season="" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="GRY" Barcode="7453110000000" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="DCOSB52202" Producto_reference="DCOSB52202-BLK" Description="DIET COKE PRIMARY LOGO FLAT PROFILE CAP" Description_spanish="DIET COKE PRIMARY LOGO GORRA PERFIL PLANO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="8.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="DIET COKE" Group="" Sub_group="" Arancel="" Season="" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="DCOSB52201" Producto_reference="DCOSB52201-BLK" Description="DIET COKE SMALL SCRIPT LOGO CURVED STRUCTURED CAP" Description_spanish="DIET COKE SMALL SCRIPT LOGO GORRA ESTRUCTURADA CURVA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="7.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="DIET COKE" Group="" Sub_group="" Arancel="" Season="" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="FDSB52203" Producto_reference="FDSB52203-BLK" Description="FORD OVAL PRIMARY LOGO STRETCH SNAP CAP" Description_spanish="FORD OVAL PRIMARY LOGO GORRA STRETCH SNAP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="7.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="FORD" Group="UN" Sub_group="SB" Arancel="SB" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLK" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="FDSB52202" Producto_reference="FDSB52202-LBL" Description="FORD SIDE SCRIPT LOGO CURVED STRUCTURED CAP" Description_spanish="FORD SIDE SCRIPT LOGO GORRA ESTRUCTURADA CURVA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="7.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="FORD" Group="UN" Sub_group="SB" Arancel="SB" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="LBL" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="FDSB52201" Producto_reference="FDSB52201-BLU" Description="FORD SCRIPT OFFICIAL LOGO CURVED STRUCTURED CAP" Description_spanish="FORD SCRIPT OFFICIAL LOGO GORRA ESTRUCTURADA CURVA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="7.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="FORD" Group="UN" Sub_group="SB" Arancel="SB" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLU" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BRSB52202" Producto_reference="BRSB52202-LBL" Description="BRONCO LOGO STRIPES STRETCH SNAP CAP" Description_spanish="BRONCO LOGO STRIPES GORRA STRETCH SNAP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="7.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BRONCO" Group="" Sub_group="" Arancel="" Season="" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="LBL" Barcode="7453110000000" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BRSB52201" Producto_reference="BRSB52201-BRW" Description="BRONCO FORD TOUGH LOGO STRETCH SNAP CAP" Description_spanish="BRONCO FORD TOUGH LOGO GORRA STRETCH SNAP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="7.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="FORD" Group="UN" Sub_group="SB" Arancel="SB" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BRW" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDSB52212" Producto_reference="BUDSB52212-RED" Description="BUDWEISER SCRIPT LOGO STRETCH SNAP CAP" Description_spanish="BUDWEISER SCRIPT LOGO GORRA STRETCH SNAP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="7.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BUDWEISER" Group="ACC" Sub_group="CA" Arancel="SB" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="RED" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDSB52211" Producto_reference="BUDSB52211-NVY" Description="BUDWEISER STRETCH SNAP CAP" Description_spanish="BUDWEISER GORRA STRETCH SNAP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% ALGOD?N" Compesp="100% COTTON TWILL" Price="7.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BUDWEISER" Group="ACC" Sub_group="CA" Arancel="SB" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="NVY" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDSB52210" Producto_reference="BUDSB52210-RED" Description="BUDWEISER LABEL RINGER STRETCH SNAP CAP" Description_spanish="BUDWEISER LABEL RINGER GORRA STRETCH SNAP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="7.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BUDWEISER" Group="ACC" Sub_group="CA" Arancel="SB" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="RED" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDSB52209" Producto_reference="BUDSB52209-GRY" Description="BUDWEISER BOWTIE LOGO CURVED STRUCTURED CAP" Description_spanish="BUDWEISER BOWTIE LOGO GORRA ESTRUCTURADA CURVA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="7.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BUDWEISER" Group="ACC" Sub_group="CA" Arancel="SB" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="GRY" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDSB52208" Producto_reference="BUDSB52208-BLK" Description="BUDWEISER BOWTIE LOGO FLAT PROFILE CAP" Description_spanish="BUDWEISER BOWTIE LOGO GORRA PERFIL PLANO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="8.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BUDWEISER" Group="ACC" Sub_group="CA" Arancel="SB" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLK" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDSB52207" Producto_reference="BUDSB52207-RED" Description="BUDWEISER LABEL RINGER FLAT PROFILE CAP" Description_spanish="BUDWEISER LABEL RINGER GORRA PERFIL PLANO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="8.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BUDWEISER" Group="ACC" Sub_group="CA" Arancel="SB" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="RED" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDSB52206" Producto_reference="BUDSB52206-BLK" Description="BUDWEISER MULTI BOWTIE LOGO FLAT PROFILE CAP" Description_spanish="BUDWEISER MULTI BOWTIE LOGO GORRA PERFIL PLANO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="8.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BUDWEISER" Group="ACC" Sub_group="CA" Arancel="SB" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLK" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDSB52205" Producto_reference="BUDSB52205-RED" Description="BUDWEISER KING OF BEERS CURVED STRUCTURED CAP" Description_spanish="BUDWEISER KING OF BEERS GORRA ESTRUCTURADA CURVA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="7.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BUDWEISER" Group="ACC" Sub_group="CA" Arancel="SB" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="RED" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDSB52204" Producto_reference="BUDSB52204-BLK" Description="BUDWEISER 3D LOGO CURVED STRUCTURED CAP" Description_spanish="BUDWEISER 3D LOGO GORRA ESTRUCTURADA CURVA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="7.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BUDWEISER" Group="ACC" Sub_group="CA" Arancel="SB" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLK" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDBC52202" Producto_reference="BUDBC52202-RED" Description="BUDWEISER LABEL RINGER BUCKET HAT" Description_spanish="BUDWEISER LABEL RINGER BUCKET SOMBRERO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="10.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BUDWEISER" Group="ACC" Sub_group="BC" Arancel="SB" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="RED" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDSB52203" Producto_reference="BUDSB52203-BLU" Description="BUD LIGHT LOGO AND STRIPES STRETCH SNAP CAP" Description_spanish="BUD LIGHT LOGO &amp;amp; STRIPES GORRA STRETCH SNAP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="7.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BUD LIGHT" Group="" Sub_group="" Arancel="" Season="" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLU" Barcode="7453110000000" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDSB52202" Producto_reference="BUDSB52202-GRY" Description="BUD LIGHT PRIMARY LOGO CURVED STRUCTURED CAP" Description_spanish="BUD LIGHT PRIMARY LOGO GORRA ESTRUCTURADA CURVA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="7.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BUD LIGHT" Group="" Sub_group="" Arancel="" Season="" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="GRY" Barcode="7453110000000" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDSB52201" Producto_reference="BUDSB52201-BLU" Description="BUD LIGHT PRIMARY LOGO CURVED UNSTRUCTURED CAP" Description_spanish="BUD LIGHT PRIMARY LOGO GORRA NO ESTRUCTURADA CURVA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="7.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BUD LIGHT" Group="" Sub_group="" Arancel="" Season="" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLU" Barcode="7453110000000" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDBC52201" Producto_reference="BUDBC52201-BLU" Description="BUD LIGHT OFFICILA LOGO BUCKET HAT" Description_spanish="BUD LIGHT OFFICILA LOGO BUCKET SOMBRERO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="10.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BUD LIGHT" Group="" Sub_group="" Arancel="" Season="" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLU" Barcode="7453110000000" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDBN52201" Producto_reference="BUDBN52201-NVY" Description="BUD LIGHT PRINCE OF BEERS LOGO BEANIE" Description_spanish="BUD LIGHT PRINCE OF BEERS LOGO GORRO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BUD LIGHT" Group="" Sub_group="" Arancel="" Season="" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="NVY" Barcode="7453110000000" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="ATASB52203" Producto_reference="ATASB52203-BLK" Description="ATARI RAINBOW LOGO FLAT PROFILE CAP" Description_spanish="ATARI RAINBOW LOGO GORRA PERFIL PLANO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% LANA" Compesp="100% WOOL" Price="8.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="" Group="" Sub_group="" Arancel="" Season="" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="ATASB52201" Producto_reference="ATASB52201-WHT" Description="ATARI PRIMARY LOGO CURVED STRUCTURED CAP" Description_spanish="ATARI PRIMARY LOGO GORRA ESTRUCTURADA CURVA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="SARGA DE ALGOD?N" Compesp="COTTON TWILL" Price="7.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="" Group="" Sub_group="" Arancel="" Season="" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="WHT" Barcode="7453110000000" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="ATABN52201" Producto_reference="ATABN52201-BLK" Description="ATARI RAINBOW LOGO BEANIE" Description_spanish="ATARI RAINBOW LOGO GORRO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="95% ACR?LICO / 5% ELASTANO 68g" Compesp="95% ACRYLIC / 5% SPANDEX 68g" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="" Group="" Sub_group="" Arancel="" Season="" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="AUSSB52202" Producto_reference="AUSSB52202-BLK" Description="WWE STEVE AUSTIN 3:16 SKULL STRETCH SNAP CAP" Description_spanish="WWE STEVE AUSTIN 3:16 SKULL GORRA STRETCH SNAP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="7.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="WWE" Group="" Sub_group="" Arancel="" Season="" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="AUSSB52203" Producto_reference="AUSSB52203-BLU" Description="WWE STONE COLD STEVE AUSTIN 3:16 CURVED STRUCTURED CAP" Description_spanish="WWE STONE COLD STEVE AUSTIN 3:16 GORRA ESTRUCTURADA CURVA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="7.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="WWE" Group="" Sub_group="" Arancel="" Season="" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLU" Barcode="7453110000000" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="AUSSB52201" Producto_reference="AUSSB52201-BLK" Description="WWE STONE COLD STEVE AUSTIN 3:16 FLAT PROFILE CAP" Description_spanish="WWE STONE COLD STEVE AUSTIN 3:16 GORRA PERFIL PLANO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="8.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="WWE" Group="" Sub_group="" Arancel="" Season="" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="ACSB52203" Producto_reference="ACSB52203-BLK" Description="AC/DC PRIMARY LOGO STRETCH SNAP CAP" Description_spanish="AC/DC PRIMARY LOGO GORRA STRETCH SNAP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="7.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="AC/DC" Group="ACC" Sub_group="CA" Arancel="SB" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLK" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="ACSB52201" Producto_reference="ACSB52201-BLK" Description="AC/DC BACK IN BLACK FLAT PROFILE CAP" Description_spanish="AC/DC BACK IN BLACK GORRA PERFIL PLANO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="8.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="AC/DC" Group="ACC" Sub_group="CA" Arancel="SB" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="MLBSW52205" Producto_reference="MLBSW52205-BLU" Description="MLB PRIMARY LOGO SWEATSHIRT" Description_spanish="MLB PRIMARY LOGO SUDADERA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="Front: Rubber print" Compesp="CVC 60% COTTON / 40% POLYESTER FLEECE 300G" Price="14.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="MLB" Group="AP " Sub_group="SW" Arancel="SW" Season="BASICS" LOB="SPO" Equipo="DOD" Gender="" Logo_specs="Body fabric: 60% Cotton / 40% Polyester. 280G French Terry">
+    <Colors Color="BLU" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="MLBSW52205" Producto_reference="MLBSW52205-NVY" Description="MLB PRIMARY LOGO SWEATSHIRT" Description_spanish="MLB PRIMARY LOGO SUDADERA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="Front: Rubber print" Compesp="" Price="14.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="MLB" Group="AP " Sub_group="SW" Arancel="SW" Season="BASICS" LOB="SPO" Equipo="RED" Gender="" Logo_specs="Body fabric: 60% Cotton / 40% Polyester. 280G French Terry">
+    <Colors Color="NVY" Barcode="7450000000000" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7450000000000" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7450000000000" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="7450000000000" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="MLBSW52205" Producto_reference="MLBSW52205-GRY" Description="MLB PRIMARY LOGO SWEATSHIRT" Description_spanish="MLB PRIMARY LOGO SUDADERA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="Front: Rubber print" Compesp="" Price="14.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="MLB" Group="AP " Sub_group="SW" Arancel="SW" Season="BASICS" LOB="SPO" Equipo="YAN" Gender="" Logo_specs="Body fabric: 60% Cotton / 40% Polyester. 280G French Terry">
+    <Colors Color="GRY" Barcode="7450000000000" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="7450000000000" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="7450000000000" Sizes="L"></Colors>
+    <Colors Color="GRY" Barcode="7450000000000" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="MLBSW52205" Producto_reference="MLBSW52205-NVY2" Description="MLB PRIMARY LOGO SWEATSHIRT" Description_spanish="MLB PRIMARY LOGO SUDADERA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="Front: Rubber print" Compesp="" Price="14.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="MLB" Group="AP " Sub_group="SW" Arancel="SW" Season="BASICS" LOB="SPO" Equipo="YAN" Gender="" Logo_specs="Body fabric: 60% Cotton / 40% Polyester. 280G French Terry">
+    <Colors Color="NVY2" Barcode="7450000000000" Sizes="S"></Colors>
+    <Colors Color="NVY2" Barcode="7450000000000" Sizes="M"></Colors>
+    <Colors Color="NVY2" Barcode="7450000000000" Sizes="L"></Colors>
+    <Colors Color="NVY2" Barcode="7450000000000" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="MLBTS52002" Producto_reference="MLBTS52002-WHT" Description="MLB BASIC PINSTRIPE LONG SLEEVE T-SHIRT" Description_spanish="MLB BASIC PINSTRIPE CAMISETA MANGA LARGA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="Body: All Over print, FRONT AND BACK RUBBER PRINT" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="9.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="MLB" Group="AP " Sub_group="TS" Arancel="TS" Season="BASICS" LOB="SPO" Equipo="YAN" Gender="" Logo_specs="CVC (60% Cotton / 40% Polyester) 160g">
+    <Colors Color="WHT" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="L"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="GJHD62201" Producto_reference="GJHD62201-BLK" Description="GI JOE W PRIMARY LOGO BASIC HOODIE" Description_spanish="GI JOE W PRIMARY LOGO BASIC SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="GI JOE" Group="AP " Sub_group="HD" Arancel="HD" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="XS"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="NASHD62202" Producto_reference="NASHD62202-NVY" Description="NASA W PRIMARY LOGO BASIC HOODIE" Description_spanish="NASA W PRIMARY LOGO BASIC SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="NASA" Group="AP " Sub_group="HD" Arancel="HD" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="Front: Rubber print">
+    <Colors Color="NVY" Barcode="7453110000000" Sizes="XS"></Colors>
+    <Colors Color="NVY" Barcode="7453110000000" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7453110000000" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7453110000000" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="GYHD62201" Producto_reference="GYHD62201-BLK" Description="GREEN DAY W HEART SHAPED HAND GRENADE LOGO BASIC HOODIE" Description_spanish=" DAY W HEART SHAPED H&amp;amp; GRENADE LOGO BASIC SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="GREEN DAY" Group="AP " Sub_group="HD" Arancel="HD" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="XS"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDHD62202" Producto_reference="BUDHD62202-RED" Description="BUDWEISER W PRIMARY LOGO BASIC HOODIE" Description_spanish="BUDWEISER W PRIMARY LOGO BASIC SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="BUDWEISER" Group="AP " Sub_group="HD" Arancel="HD" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="RED" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="COCHD62203" Producto_reference="COCHD62203-BLK" Description="COCA COLA W PRIMARY LOGO BASIC HOODIE" Description_spanish="COCA COLA W PRIMARY LOGO BASIC SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="COCA COLA" Group="AP " Sub_group="HD" Arancel="HD" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLK" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="COCHD62203" Producto_reference="COCHD62203-RED" Description="COCA COLA W PRIMARY LOGO BASIC HOODIE" Description_spanish="COCA COLA W PRIMARY LOGO BASIC SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="COCA COLA" Group="AP " Sub_group="HD" Arancel="HD" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="RED" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="ATRTT62201" Producto_reference="ATRTT62201-BLK" Description="ATARI W PRIMARY LOGO BASIC TANK TOP" Description_spanish="ATARI W PRIMARY LOGO BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="ATARI" Group="AP " Sub_group="WT" Arancel="WT" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="XS"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="ATRTT62201" Producto_reference="ATRTT62201-GRY" Description="ATARI W PRIMARY LOGO BASIC TANK TOP" Description_spanish="ATARI W PRIMARY LOGO BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="ATARI" Group="AP " Sub_group="WT" Arancel="WT" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="GRY" Barcode="7453110000000" Sizes="XS"></Colors>
+    <Colors Color="GRY" Barcode="7453110000000" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="7453110000000" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="7453110000000" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="NASTT62201" Producto_reference="NASTT62201-BLK" Description="NASA W PRIMARY LOGO BASIC TANK TOP" Description_spanish="NASA W PRIMARY LOGO BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NASA" Group="AP " Sub_group="WT" Arancel="WT" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="Front: Rubber print">
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="NASTT62201" Producto_reference="NASTT62201-NVY" Description="NASA W PRIMARY LOGO BASIC TANK TOP" Description_spanish="NASA W PRIMARY LOGO BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NASA" Group="AP " Sub_group="WT" Arancel="WT" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="Front: Rubber print">
+    <Colors Color="NVY" Barcode="7453110000000" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7453110000000" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7453110000000" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="7453110000000" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="CNTT62201" Producto_reference="CNTT62201-NVY" Description="CORONA W PRIMARY LOGO BASIC TANK TOP" Description_spanish="CORONA W PRIMARY LOGO BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="CORONA" Group="AP " Sub_group="WT" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="NVY" Barcode="7450000000000" Sizes="XS"></Colors>
+    <Colors Color="NVY" Barcode="7450000000000" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7450000000000" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7450000000000" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="CNTT62201" Producto_reference="CNTT62201-GRY" Description="CORONA W PRIMARY LOGO BASIC TANK TOP" Description_spanish="CORONA W PRIMARY LOGO BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="CORONA" Group="AP " Sub_group="WT" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="GRY" Barcode="7450000000000" Sizes="XS"></Colors>
+    <Colors Color="GRY" Barcode="7450000000000" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="7450000000000" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="7450000000000" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="CNTT62201" Producto_reference="CNTT62201-WHT" Description="CORONA W PRIMARY LOGO BASIC TANK TOP" Description_spanish="CORONA W PRIMARY LOGO BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="CORONA" Group="AP " Sub_group="WT" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="WHT" Barcode="7450000000000" Sizes="XS"></Colors>
+    <Colors Color="WHT" Barcode="7450000000000" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="7450000000000" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="7450000000000" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDTT62201" Producto_reference="BUDTT62201-RED" Description="BUDWEISER W PRIMARY LOGO BASIC TANK TOP" Description_spanish="BUDWEISER W PRIMARY LOGO BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="BUDWEISER" Group="AP " Sub_group="WT" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="RED" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDTT62201" Producto_reference="BUDTT62201-WHT" Description="BUDWEISER W PRIMARY LOGO BASIC TANK TOP" Description_spanish="BUDWEISER W PRIMARY LOGO BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="BUDWEISER" Group="AP " Sub_group="WT" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="WHT" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="COCTT62201" Producto_reference="COCTT62201-RED" Description="COCA COLA W PRIMARY LOGO BASIC TANK TOP" Description_spanish="COCA COLA W PRIMARY LOGO BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="COCA COLA" Group="AP " Sub_group="WT" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="RED" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="COCTT62201" Producto_reference="COCTT62201-WHT" Description="COCA COLA W PRIMARY LOGO BASIC TANK TOP" Description_spanish="COCA COLA W PRIMARY LOGO BASIC CAMISETA SIN MANGAS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="COCA COLA" Group="AP " Sub_group="WT" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="WHT" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="GJCT62201" Producto_reference="GJCT62201-BLK" Description="GI JOE W PRIMARY LOGO BASIC CROP TOP" Description_spanish="GI JOE W PRIMARY LOGO BASIC CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="GI JOE" Group="AP " Sub_group="WT" Arancel="WT" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="XS"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="NASCT62206" Producto_reference="NASCT62206-BLK" Description="NASA W WORM LOGO BASIC CROP TOP" Description_spanish="NASA W WORM LOGO BASIC CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER - 160 G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="NASA" Group="AP " Sub_group="WT" Arancel="WT" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLK" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="NASCT62206" Producto_reference="NASCT62206-WHT" Description="NASA W WORM LOGO BASIC CROP TOP" Description_spanish="NASA W WORM LOGO BASIC CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER - 160 G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="NASA" Group="AP " Sub_group="WT" Arancel="WT" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="WHT" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="CNCT62203" Producto_reference="CNCT62203-GRY" Description="CORONA W PRIMARY LOGO BASIC CROP TOP" Description_spanish="CORONA W PRIMARY LOGO BASIC CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="CORONA" Group="AP " Sub_group="WT" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="GRY" Barcode="7450000000000" Sizes="XS"></Colors>
+    <Colors Color="GRY" Barcode="7450000000000" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="7450000000000" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="7450000000000" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="CNCT62203" Producto_reference="CNCT62203-WHT" Description="CORONA W PRIMARY LOGO BASIC CROP TOP" Description_spanish="CORONA W PRIMARY LOGO BASIC CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="CORONA" Group="AP " Sub_group="WT" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="WHT" Barcode="7450000000000" Sizes="XS"></Colors>
+    <Colors Color="WHT" Barcode="7450000000000" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="7450000000000" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="7450000000000" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="CNCT62203" Producto_reference="CNCT62203-NVY" Description="CORONA W PRIMARY LOGO BASIC CROP TOP" Description_spanish="CORONA W PRIMARY LOGO BASIC CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="CORONA" Group="AP " Sub_group="WT" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="NVY" Barcode="7450000000000" Sizes="XS"></Colors>
+    <Colors Color="NVY" Barcode="7450000000000" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7450000000000" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7450000000000" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="FTCT62202" Producto_reference="FTCT62202-GRN" Description="FANTA W PRIMARY LOGO BASIC CROP TOP" Description_spanish="FANTA W PRIMARY LOGO BASIC CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER - 160 G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="FANTA" Group="AP " Sub_group="WT" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="GRN" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="GRN" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRN" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRN" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="FTCT62202" Producto_reference="FTCT62202-ORG" Description="FANTA W PRIMARY LOGO BASIC CROP TOP" Description_spanish="FANTA W PRIMARY LOGO BASIC CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER - 160 G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="FANTA" Group="AP " Sub_group="WT" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="ORG" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="ORG" Barcode="" Sizes="S"></Colors>
+    <Colors Color="ORG" Barcode="" Sizes="M"></Colors>
+    <Colors Color="ORG" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDCT62203" Producto_reference="BUDCT62203-WHT" Description="BUDWEISER W PRIMARY LOGO BASIC CROP TOP" Description_spanish="BUDWEISER W PRIMARY LOGO BASIC CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="BUDWEISER" Group="AP " Sub_group="WT" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="WHT" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDCT62203" Producto_reference="BUDCT62203-RED" Description="BUDWEISER W PRIMARY LOGO BASIC CROP TOP" Description_spanish="BUDWEISER W PRIMARY LOGO BASIC CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="BUDWEISER" Group="AP " Sub_group="WT" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="RED" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="COCCT62206" Producto_reference="COCCT62206-WHT" Description="COCA COLA W PRIMARY LOGO BASIC CROP TOP" Description_spanish="COCA COLA W PRIMARY LOGO BASIC CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER - 160 G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="COCA COLA" Group="AP " Sub_group="WT" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="WHT" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="COCCT62206" Producto_reference="COCCT62206-RED" Description="COCA COLA W PRIMARY LOGO BASIC CROP TOP" Description_spanish="COCA COLA W PRIMARY LOGO BASIC CAMISETA MANGA CORTA CROP TOP" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER - 160 G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="COCA COLA" Group="AP " Sub_group="WT" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="RED" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="ATRTS62201" Producto_reference="ATRTS62201-BLK" Description="ATARI W PRIMARY LOGO BASIC T-SHIRT" Description_spanish="ATARI W PRIMARY LOGO BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER 160 G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="ATARI" Group="AP " Sub_group="TS" Arancel="WT" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLK" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="GJTS62201" Producto_reference="GJTS62201-BLK" Description="GI JOE W PRIMARY LOGO BASIC T-SHIRT" Description_spanish="GI JOE W PRIMARY LOGO BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="GI JOE" Group="AP " Sub_group="TS" Arancel="WT" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="XS"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="NASTS62203" Producto_reference="NASTS62203-WHT" Description="NASA W PRIMARY LOGO BASIC T-SHIRT" Description_spanish="NASA W PRIMARY LOGO BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER 160 G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="NASA" Group="AP " Sub_group="TS" Arancel="WT" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="WHT" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="CNTS62203" Producto_reference="CNTS62203-WHT" Description="CORONA W PRIMARY LOGO BASIC T-SHIRT" Description_spanish="CORONA W PRIMARY LOGO BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="CORONA" Group="AP " Sub_group="TS" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="WHT" Barcode="7450000000000" Sizes="XS"></Colors>
+    <Colors Color="WHT" Barcode="7450000000000" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="7450000000000" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="7450000000000" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="CNTS62203" Producto_reference="CNTS62203-GRY" Description="CORONA W PRIMARY LOGO BASIC T-SHIRT" Description_spanish="CORONA W PRIMARY LOGO BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="CORONA" Group="AP " Sub_group="TS" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="GRY" Barcode="7450000000000" Sizes="XS"></Colors>
+    <Colors Color="GRY" Barcode="7450000000000" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="7450000000000" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="7450000000000" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="CNTS62203" Producto_reference="CNTS62203-NVY" Description="CORONA W PRIMARY LOGO BASIC T-SHIRT" Description_spanish="CORONA W PRIMARY LOGO BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="CORONA" Group="AP " Sub_group="TS" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="NVY" Barcode="7450000000000" Sizes="XS"></Colors>
+    <Colors Color="NVY" Barcode="7450000000000" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7450000000000" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7450000000000" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDTS62204" Producto_reference="BUDTS62204-RED" Description="BUDWEISER W PRIMARY LOGO BASIC T-SHIRT" Description_spanish="BUDWEISER W PRIMARY LOGO BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="BUDWEISER" Group="AP " Sub_group="TS" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="RED" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDTS62204" Producto_reference="BUDTS62204-WHT" Description="BUDWEISER W PRIMARY LOGO BASIC T-SHIRT" Description_spanish="BUDWEISER W PRIMARY LOGO BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="BUDWEISER" Group="AP " Sub_group="TS" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="WHT" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="COCTS62204" Producto_reference="COCTS62204-BLK" Description="COCA COLA W PRIMARY LOGO BASIC T-SHIRT" Description_spanish="COCA COLA W PRIMARY LOGO BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER - 160 G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="COCA COLA" Group="AP " Sub_group="TS" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLK" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="COCTS62204" Producto_reference="COCTS62204-WHT" Description="COCA COLA W PRIMARY LOGO BASIC T-SHIRT" Description_spanish="COCA COLA W PRIMARY LOGO BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="WO" Brand="COCA COLA" Group="AP " Sub_group="TS" Arancel="WT" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="WHT" Barcode="" Sizes="XS"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="L"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="GJHD52201" Producto_reference="GJHD52201-BLK" Description="GI JOE PRIMARY LOGO BASIC HOODIE" Description_spanish="GI JOE PRIMARY LOGO BASIC SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="GI JOE" Group="AP " Sub_group="HD" Arancel="HD" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="NASHD52204" Producto_reference="NASHD52204-BLK" Description="NASA WORM LOGO BASIC HOODIE" Description_spanish="NASA WORM LOGO BASIC SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NASA" Group="AP " Sub_group="HD" Arancel="HD" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="Front: Rubber print">
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="NASHD52203" Producto_reference="NASHD52203-GRY" Description="NASA PRIMARY LOGO BASIC HOODIE" Description_spanish="NASA PRIMARY LOGO BASIC SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NASA" Group="AP " Sub_group="HD" Arancel="HD" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="Front: Rubber print">
+    <Colors Color="GRY" Barcode="7453110000000" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="7453110000000" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="7453110000000" Sizes="L"></Colors>
+    <Colors Color="GRY" Barcode="7453110000000" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="GFHD52202" Producto_reference="GFHD52202-BLK" Description="THE GODFATHER PRIMARY LOGO BASIC HOODIE" Description_spanish="THE GODFATHER PRIMARY LOGO BASIC SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="15" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="THE GODFATHER" Group="AP " Sub_group="HD" Arancel="HD" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="NIRHD52202" Producto_reference="NIRHD52202-BLK" Description="NIRVANA SMILEY PRIMARY LOGO BASIC HOODIE" Description_spanish="NIRVANA SMILEY PRIMARY LOGO BASIC SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER - FRENCH TERRY 300 GR" Compesp="CVC 60% COTTON / 40% POLYESTER - FRENCH TERRY 300 GR" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NIRVANA" Group="AP " Sub_group="HD" Arancel="HD" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="CNHD52204" Producto_reference="CNHD52204-NVY" Description="CORONA PRIMARY LOGO BASIC HOODIE" Description_spanish="CORONA PRIMARY LOGO BASIC SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="CORONA" Group="AP " Sub_group="HD" Arancel="HD" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="NVY" Barcode="7450000000000" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7450000000000" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7450000000000" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="7450000000000" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="CNHD52204" Producto_reference="CNHD52204-GRY" Description="CORONA PRIMARY LOGO BASIC HOODIE" Description_spanish="CORONA PRIMARY LOGO BASIC SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="CORONA" Group="AP " Sub_group="HD" Arancel="HD" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="GRY" Barcode="7450000000000" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="7450000000000" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="7450000000000" Sizes="L"></Colors>
+    <Colors Color="GRY" Barcode="7450000000000" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="CNHD52204" Producto_reference="CNHD52204-WHT" Description="CORONA PRIMARY LOGO BASIC HOODIE" Description_spanish="CORONA PRIMARY LOGO BASIC SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="CORONA" Group="AP " Sub_group="HD" Arancel="HD" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="WHT" Barcode="7450000000000" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="7450000000000" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="7450000000000" Sizes="L"></Colors>
+    <Colors Color="WHT" Barcode="7450000000000" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDHD52202" Producto_reference="BUDHD52202-BLK" Description="BUDWEISER PRIMARY LOGO BASIC HOODIE" Description_spanish="BUDWEISER PRIMARY LOGO BASIC SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="BUDWEISER" Group="AP " Sub_group="HD" Arancel="HD" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="BUDHD52202" Producto_reference="BUDHD52202-RED" Description="BUDWEISER PRIMARY LOGO BASIC HOODIE" Description_spanish="BUDWEISER PRIMARY LOGO BASIC SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="BUDWEISER" Group="AP " Sub_group="HD" Arancel="HD" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="RED" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="L"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="COCHD52205" Producto_reference="COCHD52205-RED" Description="COCA COLA PRIMARY LOGO BASIC HOODIE" Description_spanish="COCA COLA PRIMARY LOGO BASIC SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="COCA COLA" Group="AP " Sub_group="HD" Arancel="HD" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="RED" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="L"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="COCHD52205" Producto_reference="COCHD52205-WHT" Description="COCA COLA PRIMARY LOGO BASIC HOODIE" Description_spanish="COCA COLA PRIMARY LOGO BASIC SU?TER TIPO HOODIE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="COCA COLA" Group="AP " Sub_group="HD" Arancel="HD" Season="232" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="WHT" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="L"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="ATRTS52201" Producto_reference="ATRTS52201-BLK" Description="ATARI PRIMARY LOGO BASIC T-SHIRT" Description_spanish="ATARI PRIMARY LOGO BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER - 160 G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="" Group="AP " Sub_group="TS" Arancel="TS" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="GJTS52201" Producto_reference="GJTS52201-BLK" Description="GI JOE PRIMARY LOGO BASIC T-SHIRT" Description_spanish="GI JOE PRIMARY LOGO BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="GI JOE" Group="AP " Sub_group="TS" Arancel="TS" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="NASTS52206" Producto_reference="NASTS52206-BLK" Description="NASA WORM LOGO BASIC T-SHIRT" Description_spanish="NASA WORM LOGO BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NASA" Group="AP " Sub_group="TS" Arancel="TS" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="Front: Rubber print">
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="NASTS52206" Producto_reference="NASTS52206-NVY" Description="NASA WORM LOGO BASIC T-SHIRT" Description_spanish="NASA WORM LOGO BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NASA" Group="AP " Sub_group="TS" Arancel="TS" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="Front: Rubber print">
+    <Colors Color="NVY" Barcode="7453110000000" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7453110000000" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7453110000000" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="7453110000000" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="NASTS52205" Producto_reference="NASTS52205-GRY" Description="NASA PRIMARY LOGO BASIC T-SHIRT" Description_spanish="NASA PRIMARY LOGO BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER 160 G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NASA" Group="AP " Sub_group="TS" Arancel="TS" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="GRY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="NASTS52205" Producto_reference="NASTS52205-WHT" Description="NASA PRIMARY LOGO BASIC T-SHIRT" Description_spanish="NASA PRIMARY LOGO BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER 160 G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NASA" Group="AP " Sub_group="TS" Arancel="TS" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="WHT" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="L"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="GFTS52203" Producto_reference="GFTS52203-WHT" Description="THE GODFATHER PRIMARY LOGO BASIC T-SHIRT" Description_spanish="THE GODFATHER PRIMARY LOGO BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="7" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="THE GODFATHER" Group="AP " Sub_group="TS" Arancel="TS" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="WHT" Barcode="7453110000000" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="7453110000000" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="7453110000000" Sizes="L"></Colors>
+    <Colors Color="WHT" Barcode="7453110000000" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="GFTS52203" Producto_reference="GFTS52203-BLK" Description="THE GODFATHER PRIMARY LOGO BASIC T-SHIRT" Description_spanish="THE GODFATHER PRIMARY LOGO BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER 160 G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="7" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="THE GODFATHER" Group="AP " Sub_group="TS" Arancel="TS" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="AUSTS52201" Producto_reference="AUSTS52201-BLK" Description="WWE AUSTIN 3:16 PRIMARY LOGO BASIC T-SHIRT" Description_spanish="WWE AUSTIN 3:16 PRIMARY LOGO BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="" Compesp="" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="WWE" Group="AP " Sub_group="TS" Arancel="TS" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="FRONT: RUBBER PRINT - BACK: HEAT TRANSFER">
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7453110000000" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="GYTS52204" Producto_reference="GYTS52204-GRY" Description="GREEN DAY HEART SHAPED HAND GRENADE LOGO BASIC T-SHIRT" Description_spanish=" DAY HEART SHAPED H&amp;amp; GRENADE LOGO BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER 160 G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="GREEN DAY" Group="AP " Sub_group="TS" Arancel="TS" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="GRY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Referencia="NIRTS52203" Producto_reference="NIRTS52203-BLK" Description="NIRVANA SMILEY PRIMARY LOGO BASIC T-SHIRT" Description_spanish="NIRVANA SMILEY PRIMARY LOGO BASIC CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON / 40% POLIESTER 160 G" Compesp="CVC 60% COTTON / 40% POLYESTER 160G" Price="5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NIRVANA" Group="AP " Sub_group="TS" Arancel="TS" Season="222" LOB="POP" Equipo="" Gender="" Logo_specs="">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+</Sagemobile>

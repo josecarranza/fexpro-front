@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="220705" Cliente="0000" Nombre="MARIANA SURIANO" Fecha="16/09/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Panamericana Km 25,6, B1611 Don Torcuato, Provincia de Buenos Aires, Argentina " Direccion2="Argentina Buenos Aires Buenos Aires 555555" AgenteEmbarcador="" Observaciones="DABRA - MOOV NBA-MLB REEMPLAZO SS25 Q2" ResponsablePedido="" ResponsableImportacion="" Contacto="MARIANA SURIANO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBACA500010-PR1" Color="PR1" Cantidad="5" size_S-M="60" size_L-XL="60" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500013-PR1" Color="PR1" Cantidad="5" size_S-M="60" size_L-XL="60" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8.5"></Linea>
+    <Linea Producto="NBAHD525102-RD1" Color="RD1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="15"></Linea>
+    <Linea Producto="NBAHD525107-GY2" Color="GY2" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="15"></Linea>
+    <Linea Producto="MLBHD52001-GY1" Color="GY1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="15"></Linea>
+  </Encabezado>
+</Sagemobile>

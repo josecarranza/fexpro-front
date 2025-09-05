@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="161152" Cliente="0494" Nombre="Nelson Zeballos" Fecha="30/01/2023" Tipo="1" Fecha_Entrega="30/01/2023" Direccion="Ernesto Guevara y Gua’a Hovy 2483 " Direccion2="Paraguay Asunción Ita Enramada 2024" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Nelson Zeballos" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAFS523201-BK1" Color="BK1" Cantidad="5" size_7="20" size_8="30" size_9="40" size_10="20" size_11="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="3.5"></Linea>
+    <Linea Producto="NBAFS523201-BK2" Color="BK2" Cantidad="5" size_7="20" size_8="30" size_9="40" size_10="20" size_11="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="3.5"></Linea>
+    <Linea Producto="NBAFS523201-BL1" Color="BL1" Cantidad="5" size_7="20" size_8="30" size_9="40" size_10="20" size_11="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="3.5"></Linea>
+    <Linea Producto="NBASL523204-BL1" Color="BL1" Cantidad="7" size_7="28" size_8="42" size_9="56" size_10="28" size_11="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="7"></Linea>
+    <Linea Producto="NBASL523204-PR1" Color="PR1" Cantidad="7" size_7="28" size_8="42" size_9="56" size_10="28" size_11="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="7"></Linea>
+    <Linea Producto="NBASL523204-RD1" Color="RD1" Cantidad="7" size_7="28" size_8="42" size_9="56" size_10="28" size_11="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="7"></Linea>
+    <Linea Producto="NBASL523205-BK1" Color="BK1" Cantidad="7" size_7="28" size_8="42" size_9="56" size_10="28" size_11="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="7"></Linea>
+    <Linea Producto="NBASL523205-BK2" Color="BK2" Cantidad="7" size_7="28" size_8="42" size_9="56" size_10="28" size_11="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="7"></Linea>
+    <Linea Producto="NBASL523205-BK4" Color="BK4" Cantidad="7" size_7="28" size_8="42" size_9="56" size_10="28" size_11="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="7"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="138426" Cliente="0000" Nombre="Paulina Valderrama" Fecha="11/08/2022" Tipo="1" Fecha_Entrega="11/08/2022" Direccion="AV. KENNEDY 9001, LAS CONDES SANTIAGO, CHILE 7560356 PISO 4" Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 56" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS CHILE - KIDS BASICOS SOCCER TIENDA SS23" ResponsablePedido="" ResponsableImportacion="" Contacto="Paulina Valderrama" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCPT323104-BLK" Color="BLK" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="10"></Linea>
+    <Linea Producto="BCHD323103-BLK" Color="BLK" Cantidad="11" size_4="22" size_6="44" size_8="44" size_10="44" size_12="44" size_14="44" size_16="22" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="12"></Linea>
+    <Linea Producto="BCHD323103-GRY" Color="GRY" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="12"></Linea>
+    <Linea Producto="BCHD323103-NVY" Color="NVY" Cantidad="11" size_4="22" size_6="44" size_8="44" size_10="44" size_12="44" size_14="44" size_16="22" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="12"></Linea>
+    <Linea Producto="RMHD323104-BLK" Color="BLK" Cantidad="11" size_4="22" size_6="44" size_8="44" size_10="44" size_12="44" size_14="44" size_16="22" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="12"></Linea>
+    <Linea Producto="RMHD323104-GRY" Color="GRY" Cantidad="8" size_4="16" size_6="32" size_8="32" size_10="32" size_12="32" size_14="32" size_16="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="12"></Linea>
+    <Linea Producto="RMHD323104-NVY" Color="NVY" Cantidad="11" size_4="22" size_6="44" size_8="44" size_10="44" size_12="44" size_14="44" size_16="22" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="12"></Linea>
+    <Linea Producto="RMPT323102-NVY" Color="NVY" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="10"></Linea>
+  </Encabezado>
+</Sagemobile>

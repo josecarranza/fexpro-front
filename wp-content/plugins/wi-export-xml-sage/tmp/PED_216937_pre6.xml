@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="216937" Cliente="0621" Nombre="Ignacio Zavala" Fecha="26/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Balmoral 309 Oficina 308" Direccion2="Chile Región Metropolitana de Santiago Los Condes, Santiago " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Ignacio Zavala" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="6HSSMM19229-CBUBKGD" Color="CBUBKGD" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="11.5"></Linea>
+    <Linea Producto="HHSS1102-CBUYYPPPGYBK" Color="CBUYYPPPGYBK" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13"></Linea>
+    <Linea Producto="HHSS2976-BCEYYPPPBLCK" Color="BCEYYPPPBLCK" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="10"></Linea>
+    <Linea Producto="HHSS3256-AHAYYPPPRED1" Color="AHAYYPPPRED1" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="10"></Linea>
+    <Linea Producto="HHSS3256-MGRYYPPPBLUE" Color="MGRYYPPPBLUE" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="10"></Linea>
+    <Linea Producto="HHSS3256-SKIYYPPPPURP" Color="SKIYYPPPPURP" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="10"></Linea>
+    <Linea Producto="HHSS3258-GSWYYPPPNAVY" Color="GSWYYPPPNAVY" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="10"></Linea>
+    <Linea Producto="HHSS3258-P76YYPPPBLCK" Color="P76YYPPPBLCK" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="10"></Linea>
+    <Linea Producto="HHSS3267-DPIYYPPPTLBK" Color="DPIYYPPPTLBK" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="10"></Linea>
+    <Linea Producto="HHSS5131-MTIYYPPPWHIT" Color="MTIYYPPPWHIT" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="10"></Linea>
+    <Linea Producto="HHSS5133-VGRYYPPPBLCK" Color="VGRYYPPPBLCK" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="11.5"></Linea>
+    <Linea Producto="HHSS5822-CBUYYPPPBKRD" Color="CBUYYPPPBKRD" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="12"></Linea>
+    <Linea Producto="HHSS6741-CBUYYPPPBLCK" Color="CBUYYPPPBLCK" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="12.5"></Linea>
+    <Linea Producto="HS8033-CBUBKBL" Color="CBUBKBL" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="12"></Linea>
+    <Linea Producto="HS8547-LALBLCK" Color="LALBLCK" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="11.5"></Linea>
+    <Linea Producto="HS8549-CHOBLCK" Color="CHOBLCK" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="11.5"></Linea>
+    <Linea Producto="HS8549-DMABLCK" Color="DMABLCK" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="11.5"></Linea>
+    <Linea Producto="HS8549-DNUBLCK" Color="DNUBLCK" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="11.5"></Linea>
+    <Linea Producto="HS8549-SASBLCK" Color="SASBLCK" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="11.5"></Linea>
+    <Linea Producto="HS8549-TRABLCK" Color="TRABLCK" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="11.5"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="155023" Cliente="0000" Nombre="Gabriela Benitez" Fecha="15/12/2022" Tipo="1" Fecha_Entrega="15/12/2022" Direccion="PASEO GENERAL ESCALON #3700 CENTRO COMERCIAL GALERIAS " Direccion2="El Salvador San Salvador SAN SALVADOR 00000" Vendedor="01" AgenteEmbarcador="" Observaciones="UNIVERSITIES WOMEN NI" ResponsablePedido="" ResponsableImportacion="" Contacto="Gabriela Benitez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="HARCT623201-WH1" Color="WH1" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="5"></Linea>
+    <Linea Producto="HARSW623201-GY1" Color="GY1" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="10"></Linea>
+    <Linea Producto="HARTS623201-RD1" Color="RD1" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="HARTS623201-WH1" Color="WH1" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+    <Linea Producto="UCLTS623202-OW1" Color="OW1" Cantidad="1" size_XS="4" size_S="8" size_M="8" size_L="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

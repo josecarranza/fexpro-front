@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="262001" Cliente="0000" Nombre="EDUARDO COLMAN" Fecha="26/06/2025" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Ernesto Guevara y Gua’a Hovy 2483 " Direccion2="Paraguay Asunción Ita Enramada 2024" AgenteEmbarcador="" Observaciones="REEMPLAZO DROPS PARAGUAY SS26 Q1&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="EDUARDO COLMAN" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBJS526102-NV1" Color="NV1" Cantidad="5" Almacen="" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="13"></Linea>
+    <Linea Producto="BCTS323109-NVY" Color="NVY" Cantidad="6" Almacen="" size_4="12" size_6="12" size_8="24" size_10="24" size_12="24" size_14="24" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="5.5"></Linea>
+    <Linea Producto="BCNTS526112-BG1" Color="BG1" Cantidad="6" Almacen="" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="8"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="177620" Cliente="0001" Nombre="Oren Shabetay" Fecha="20/06/2023" Tipo="1" Direccion="Grupo Tova Grupo Tova" Direccion2="Panama Panamá Panama 9999" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Oren Shabetay" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASO500001-WHT1" Color="WHT1" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="5"></Linea>
+    <Linea Producto="NBASO524101-WH1" Color="WH1" Cantidad="4" size_S-M="48" size_L-XL="48" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="5"></Linea>
+    <Linea Producto="NBASO524101-BK1" Color="BK1" Cantidad="4" size_S-M="48" size_L-XL="48" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="5"></Linea>
+    <Linea Producto="MLBSO524101-GY2" Color="GY2" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="5.5"></Linea>
+    <Linea Producto="MLBSO524101-NV1" Color="NV1" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="5.5"></Linea>
+    <Linea Producto="NBACA500011-BK1" Color="BK1" Cantidad="6" size_S-M="72" size_L-XL="72" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="9"></Linea>
+    <Linea Producto="NBACA500011-BK2" Color="BK2" Cantidad="6" size_S-M="72" size_L-XL="72" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="9"></Linea>
+  </Encabezado>
+</Sagemobile>

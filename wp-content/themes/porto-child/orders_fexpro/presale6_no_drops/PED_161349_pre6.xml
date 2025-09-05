@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="161349" Cliente="0451" Nombre="Claudio Ruiz" Fecha="09/02/2023" Tipo="1" Direccion="MANUEL RODRIGUEZ 730, SANTIAGO CENTRO " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Claudio Ruiz" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATT523208-BL1" Color="BL1" Cantidad="28" size_S="112" size_M="224" size_L="224" size_XL="112" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="10.5"></Linea>
+    <Linea Producto="NBATT523208-RD1" Color="RD1" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="10.5"></Linea>
+    <Linea Producto="NBATT523208-GN1" Color="GN1" Cantidad="28" size_S="112" size_M="224" size_L="224" size_XL="112" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="10.5"></Linea>
+    <Linea Producto="NBATT523208-PR1" Color="PR1" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="10.5"></Linea>
+    <Linea Producto="NBATS523226-BL1" Color="BL1" Cantidad="38" size_S="152" size_M="304" size_L="304" size_XL="152" Unit_Box_Qty="24" Total_Box_Qty="912" Precio="7"></Linea>
+    <Linea Producto="NBATS523226-WH1" Color="WH1" Cantidad="38" size_S="152" size_M="304" size_L="304" size_XL="152" Unit_Box_Qty="24" Total_Box_Qty="912" Precio="7"></Linea>
+    <Linea Producto="NBATS523226-PR1" Color="PR1" Cantidad="40" size_S="160" size_M="320" size_L="320" size_XL="160" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="7"></Linea>
+    <Linea Producto="NBATS523226-WH2" Color="WH2" Cantidad="36" size_S="144" size_M="288" size_L="288" size_XL="144" Unit_Box_Qty="24" Total_Box_Qty="864" Precio="7"></Linea>
+    <Linea Producto="NBATS523226-BL2" Color="BL2" Cantidad="36" size_S="144" size_M="288" size_L="288" size_XL="144" Unit_Box_Qty="24" Total_Box_Qty="864" Precio="7"></Linea>
+    <Linea Producto="NBATT523210-PR1" Color="PR1" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="6"></Linea>
+    <Linea Producto="NBATT523210-BK2" Color="BK2" Cantidad="50" size_S="200" size_M="400" size_L="400" size_XL="200" Unit_Box_Qty="24" Total_Box_Qty="1200" Precio="6"></Linea>
+    <Linea Producto="NBATT523210-BL1" Color="BL1" Cantidad="38" size_S="152" size_M="304" size_L="304" size_XL="152" Unit_Box_Qty="24" Total_Box_Qty="912" Precio="6"></Linea>
+    <Linea Producto="NBATT523210-RD1" Color="RD1" Cantidad="46" size_S="184" size_M="368" size_L="368" size_XL="184" Unit_Box_Qty="24" Total_Box_Qty="1104" Precio="6"></Linea>
+    <Linea Producto="NBATT523210-BK4" Color="BK4" Cantidad="59" size_S="236" size_M="472" size_L="472" size_XL="236" Unit_Box_Qty="24" Total_Box_Qty="1416" Precio="6"></Linea>
+    <Linea Producto="NBATT523210-GY2" Color="GY2" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="6"></Linea>
+    <Linea Producto="NBASH523209-BK1" Color="BK1" Cantidad="63" size_S="252" size_M="504" size_L="504" size_XL="252" Unit_Box_Qty="24" Total_Box_Qty="1512" Precio="10"></Linea>
+    <Linea Producto="NBASH523209-RD1" Color="RD1" Cantidad="55" size_S="220" size_M="440" size_L="440" size_XL="220" Unit_Box_Qty="24" Total_Box_Qty="1320" Precio="10"></Linea>
+    <Linea Producto="NBASH523209-BK2" Color="BK2" Cantidad="55" size_S="220" size_M="440" size_L="440" size_XL="220" Unit_Box_Qty="24" Total_Box_Qty="1320" Precio="10"></Linea>
+    <Linea Producto="NBASH523209-BK3" Color="BK3" Cantidad="46" size_S="184" size_M="368" size_L="368" size_XL="184" Unit_Box_Qty="24" Total_Box_Qty="1104" Precio="10"></Linea>
+    <Linea Producto="NBASH523209-NV1" Color="NV1" Cantidad="46" size_S="184" size_M="368" size_L="368" size_XL="184" Unit_Box_Qty="24" Total_Box_Qty="1104" Precio="10"></Linea>
+    <Linea Producto="MLBSH523208-NV1" Color="NV1" Cantidad="63" size_S="252" size_M="504" size_L="504" size_XL="252" Unit_Box_Qty="24" Total_Box_Qty="1512" Precio="10"></Linea>
+    <Linea Producto="NBATS523220-WH1" Color="WH1" Cantidad="88" size_S="352" size_M="704" size_L="704" size_XL="352" Unit_Box_Qty="24" Total_Box_Qty="2112" Precio="6.5"></Linea>
+    <Linea Producto="NBATS523220-BK1" Color="BK1" Cantidad="100" size_S="400" size_M="800" size_L="800" size_XL="400" Unit_Box_Qty="24" Total_Box_Qty="2400" Precio="6.5"></Linea>
+    <Linea Producto="NBATS523220-WH4" Color="WH4" Cantidad="65" size_S="260" size_M="520" size_L="520" size_XL="260" Unit_Box_Qty="24" Total_Box_Qty="1560" Precio="6.5"></Linea>
+    <Linea Producto="NBATS523220-BK2" Color="BK2" Cantidad="78" size_S="312" size_M="624" size_L="624" size_XL="312" Unit_Box_Qty="24" Total_Box_Qty="1872" Precio="6.5"></Linea>
+    <Linea Producto="NBATS523220-NV1" Color="NV1" Cantidad="65" size_S="260" size_M="520" size_L="520" size_XL="260" Unit_Box_Qty="24" Total_Box_Qty="1560" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS523207-BK2" Color="BK2" Cantidad="92" size_S="368" size_M="736" size_L="736" size_XL="368" Unit_Box_Qty="24" Total_Box_Qty="2208" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS523207-NV1" Color="NV1" Cantidad="88" size_S="352" size_M="704" size_L="704" size_XL="352" Unit_Box_Qty="24" Total_Box_Qty="2112" Precio="6.5"></Linea>
+    <Linea Producto="NBATS523222-RD1" Color="RD1" Cantidad="82" size_S="328" size_M="656" size_L="656" size_XL="328" Unit_Box_Qty="24" Total_Box_Qty="1968" Precio="6.5"></Linea>
+    <Linea Producto="NBATS523222-BK1" Color="BK1" Cantidad="94" size_S="376" size_M="752" size_L="752" size_XL="376" Unit_Box_Qty="24" Total_Box_Qty="2256" Precio="6.5"></Linea>
+    <Linea Producto="NBATS523222-BK5" Color="BK5" Cantidad="65" size_S="260" size_M="520" size_L="520" size_XL="260" Unit_Box_Qty="24" Total_Box_Qty="1560" Precio="6.5"></Linea>
+    <Linea Producto="NBATS523222-PR1" Color="PR1" Cantidad="67" size_S="268" size_M="536" size_L="536" size_XL="268" Unit_Box_Qty="24" Total_Box_Qty="1608" Precio="6.5"></Linea>
+    <Linea Producto="NBATS523222-WH2" Color="WH2" Cantidad="82" size_S="328" size_M="656" size_L="656" size_XL="328" Unit_Box_Qty="24" Total_Box_Qty="1968" Precio="6.5"></Linea>
+  </Encabezado>
+</Sagemobile>

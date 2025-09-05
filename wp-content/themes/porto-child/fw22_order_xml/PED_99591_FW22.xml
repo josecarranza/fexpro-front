@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="99591" Cliente="0001" Nombre="Samy Eskenazi" Fecha="24/01/2022" Tipo="1" Fecha_Entrega="24/01/2022" Direccion="0000 " Direccion2="Panama Panamá PANAMA 0000" Vendedor="01" AgenteEmbarcador="" Observaciones="KIDS - TOVA - FIFA PANAMA" ResponsablePedido="" ResponsableImportacion="" Contacto="Samy Eskenazi" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASB522222-BLK4" Color="BLK4" Cantidad="60" size_4="120" size_6="240" size_8="240" size_10="240" size_12="240" size_14="240" size_16="120" Unit_Box_Qty="24" Total_Box_Qty="1440" Precio="8"></Linea>
+    <Linea Producto="FIJS322206-RED3" Color="RED3" Cantidad="60" size_4="120" size_6="240" size_8="240" size_10="240" size_12="240" size_14="240" size_16="120" Unit_Box_Qty="24" Total_Box_Qty="1440" Precio="7.5"></Linea>
+    <Linea Producto="FIJS322203-WHT5" Color="WHT5" Cantidad="60" size_4="120" size_6="240" size_8="240" size_10="240" size_12="240" size_14="240" size_16="120" Unit_Box_Qty="24" Total_Box_Qty="1440" Precio="7.5"></Linea>
+    <Linea Producto="FIJS322204-RED4" Color="RED4" Cantidad="60" size_4="120" size_6="240" size_8="240" size_10="240" size_12="240" size_14="240" size_16="120" Unit_Box_Qty="24" Total_Box_Qty="1440" Precio="6"></Linea>
+    <Linea Producto="FISH322202-RED2" Color="RED2" Cantidad="60" size_4="120" size_6="240" size_8="240" size_10="240" size_12="240" size_14="240" size_16="120" Unit_Box_Qty="24" Total_Box_Qty="1440" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="239549" Cliente="MARTI" Nombre="Nayeli Gutierrez" Fecha="03/12/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="BOULEVARD BENITO JUAREZ #10 " Direccion2="Mexico Estado de México TULTITLAN DE MARIANO ESCOBEDO 54948" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Nayeli Gutierrez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="RMDJS325202BL1" Color="BL1" Cantidad="30" size_4="60" size_6="120" size_8="120" size_10="120" size_12="120" size_14="120" size_16="60" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="236.63793104167"></Linea>
+    <Linea Producto="BCNTS325201BL1" Color="BL1" Cantidad="30" size_4="60" size_6="120" size_8="120" size_10="120" size_12="120" size_14="120" size_16="60" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="184.91379308333"></Linea>
+    <Linea Producto="BCNTS325201BU1" Color="BU1" Cantidad="30" size_4="60" size_6="120" size_8="120" size_10="120" size_12="120" size_14="120" size_16="60" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="184.91379308333"></Linea>
+    <Linea Producto="RMDTS325201WH1" Color="WH1" Cantidad="20" size_4="40" size_6="80" size_8="80" size_10="80" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="184.91379308333"></Linea>
+    <Linea Producto="RMDTS325202NV2" Color="NV2" Cantidad="30" size_4="60" size_6="120" size_8="120" size_10="120" size_12="120" size_14="120" size_16="60" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="193.53448275"></Linea>
+    <Linea Producto="BCNHD325201NV1" Color="NV1" Cantidad="40" size_4="80" size_6="160" size_8="160" size_10="160" size_12="160" size_14="160" size_16="80" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="193.53448275"></Linea>
+    <Linea Producto="RMDHD325201NV2" Color="NV2" Cantidad="20" size_4="40" size_6="80" size_8="80" size_10="80" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="430.60344829167"></Linea>
+    <Linea Producto="BCNHD325205NV1" Color="NV1" Cantidad="20" size_4="40" size_6="80" size_8="80" size_10="80" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="387.5"></Linea>
+    <Linea Producto="CAAJS325202NV1" Color="NV1" Cantidad="32" size_4="64" size_6="128" size_8="128" size_10="128" size_12="128" size_14="128" size_16="64" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="236.63793104167"></Linea>
+    <Linea Producto="CAATS325201NV1" Color="NV1" Cantidad="32" size_4="64" size_6="128" size_8="128" size_10="128" size_12="128" size_14="128" size_16="64" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="184.91379308333"></Linea>
+    <Linea Producto="CAATS325201YL1" Color="YL1" Cantidad="32" size_4="64" size_6="128" size_8="128" size_10="128" size_12="128" size_14="128" size_16="64" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="184.91379308333"></Linea>
+    <Linea Producto="CAAHD325202NV1" Color="NV1" Cantidad="32" size_4="64" size_6="128" size_8="128" size_10="128" size_12="128" size_14="128" size_16="64" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="430.60344829167"></Linea>
+    <Linea Producto="CAAJK325201NV1" Color="NV1" Cantidad="32" size_4="64" size_6="128" size_8="128" size_10="128" size_12="128" size_14="128" size_16="64" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="516.81034483333"></Linea>
+    <Linea Producto="BCNJK500001NV1" Color="NV1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="322.84482758333"></Linea>
+    <Linea Producto="BCHD523103NVY" Color="NVY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="473.70689654167"></Linea>
+    <Linea Producto="CAATS524114NV1" Color="NV1" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="193.53448275"></Linea>
+    <Linea Producto="CAATS524114YL1" Color="YL1" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="193.53448275"></Linea>
+    <Linea Producto="CAATS524115OW1" Color="OW1" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="193.53448275"></Linea>
+    <Linea Producto="CAATS524115NV1" Color="NV1" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="193.53448275"></Linea>
+    <Linea Producto="CAAHD525202NV1" Color="NV1" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="516.81034483333"></Linea>
+    <Linea Producto="CAAJK525201NV1" Color="NV1" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="559.91379308333"></Linea>
+    <Linea Producto="CAAHD525203BK1" Color="BK1" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="538.36206895833"></Linea>
+  </Encabezado>
+</Sagemobile>

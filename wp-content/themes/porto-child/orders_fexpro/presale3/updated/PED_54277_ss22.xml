@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="54277" Cliente="0511" Nombre="Diego Cabrera" Fecha="02/08/2021" Tipo="1" Fecha_Entrega="02/08/2021" Direccion="Parque Empresarial Siberia Bodegas 1 a 5 – Tenjo, Cund. – COLOMBIA " Direccion2="Colombia  BOGOTÁ " Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Diego Cabrera" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASL52034-PUR" Color="PUR" Cantidad="11" size_7="44" size_8="66" size_9="88" size_10="44" size_11="22" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="6"></Linea>
+    <Linea Producto="NBASL52056-BLK1" Color="BLK1" Cantidad="11" size_7="44" size_8="66" size_9="88" size_10="44" size_11="22" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="6.5"></Linea>
+    <Linea Producto="MLBFF518401-WHT" Color="WHT" Cantidad="11" size_7="44" size_8="66" size_9="88" size_10="44" size_11="22" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

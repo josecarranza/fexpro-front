@@ -1,0 +1,305 @@
+.container{
+
+    margin: 30px;
+    padding: 10px;
+    color: #37474f;
+    background-color: #eeeeee;
+
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-top: 20px;
+}
+#Collections{
+    padding: 10px;
+    font-weight: bolder;
+}
+
+#comment{
+    color: gray;
+    font-size: 12px;
+    padding: 5px;
+    font-style: italic;
+}
+.image{
+    width: 30px;
+    height: 30px;
+}
+#head{
+    background-color: #e8eaf6;
+    padding: 20px;
+    border-radius: 5px;
+    border-left: 3px solid #1c2a48;
+
+}
+#txt{
+
+    padding: 10px;
+}
+#setting{
+    margin-top: 20px;
+}
+#s{
+    width: 20px;
+}
+#ThumbnailCheckbox{
+
+    margin: 10px;
+    font-size: 14px;
+}
+
+#LightBoxCheckbox{
+
+    margin: 10px;
+    font-size: 14px;
+}
+#setrow{
+
+    padding: 30px;
+}
+.notice{
+
+    padding: 10px;
+}
+#collect{
+    float: right;
+    margin-right: 1.5%;
+}
+#set{
+    display: initial !important;
+}
+#setcomment{
+    background-color: lightgray;
+    padding: 4px;
+    font-style: italic;
+}
+#Search{
+    padding: 10px;
+    width: 250px;
+}
+#link{
+    text-decoration: underline;
+    background-color:#eeeeee;
+    color:#3F729B;
+    border: none;
+    margin-top: 20px;
+    cursor: pointer;
+}
+#links{
+    text-decoration: underline;
+    background-color:white;
+    color:#3F729B;
+    border: none;
+    margin-top: 20px;
+    cursor: pointer;
+}
+#setImage{
+
+    border-style: dashed;
+    height: 250px;
+    border-color: gray;
+    margin-top: 10px;
+    margin: -2px;
+}
+#setimagetext{
+    font-size: 25px;
+    margin-top: 50px;
+    text-align: center;
+    color: gray;
+}
+#setimagetexts{
+    margin-top: 20px;
+    text-align: center;
+}
+#js-upload-form{
+
+    margin-top: 10px;
+}
+#b1{
+
+    margin: 3px;
+    cursor: pointer;
+}
+#select{
+    width: 50%;
+}
+#bulk_action{
+    margin-top: 17px;
+}
+#table{
+
+    background-color: white;
+    margin-top: 25px;
+    margin: 10px;
+    border:1px solid lightgray;
+}
+
+#a{
+    color: red;
+}
+#submit{
+
+    margin-top: 20px;
+}
+#Collection{
+    padding: 20px;
+    margin-top: 20px;
+    background-color: white;
+}
+#RemoveImage{
+    float: right;
+    margin-top: 5px;
+}
+.image-name{
+
+    margin-left: 29px;
+    position: initial;
+    font-size: 14px;
+    font-weight: bold;
+}
+.imagethumbnail{
+
+    height: 60px;
+    width: auto;
+    float: left;
+    margin-right: 20px;
+}
+.handlediv{
+    visibility: visible;
+}
+#dropdownMenu1{
+    float: right;
+    margin: 9px;
+    cursor: pointer;
+
+}
+#dropdownMenu1:hover {
+
+    transform: scale(1.1);
+    background-color:#c7bbbb4d;
+}
+
+#abc{
+    background-color: white;
+    border-bottom: 1px solid lightgray;
+}
+
+
+#text{
+
+    margin-top: -9px;
+}
+#line{
+    margin-top: -66px;
+}
+.closeall{
+
+    padding: 30px;
+}
+
+#image_prev1{
+
+    margin-top: 3px;
+}
+#appendCollection{
+    margin-top: 10px;
+}
+#R_btn{
+
+    float: right;
+    margin-top: 10px;
+    margin-right: 35px;
+    border-radius: 20px;
+}
+#set{
+    display: inherit;
+}
+label{
+    margin-top: 20px;
+}
+/*.bootstrap-iso .btn{*/
+/*    margin-top: 3px;*/
+/*}*/
+.panel-default {
+    border-radius: 0;
+    border: none;
+    background: none;
+    margin-bottom: 0;
+    padding-bottom: 14px;
+}
+.panel-default > .panel-heading {
+    border: none;
+    background: none;
+    padding: 0;
+}
+.panel-default > .panel-heading + .panel-collapse .panel-body {
+    border: none;
+    padding: 0 0 0 32px;
+}
+.panel-default h5 {
+    font: 300 19px "Open Sans", Arial, sans-serif;
+    padding: 0;
+    margin: 0 0 5px;
+}
+.panel-group .panel+.panel {
+    margin-top: 15px;
+}
+.panel-default .accordion-toggle:before {
+    content: "";
+    width: 21px;
+    height: 21px;
+    display: inline-block;
+    background: #e54a1a url(http://keenthemes.com/assets/bootsnipp/toggle-icons.png) no-repeat 6px 10px;
+    border-radius: 50%;
+    margin-right: 10px;
+    position: relative;
+    top: 4px;
+}
+.panel-default .collapsed:before {
+    background: #495764 url(http://keenthemes.com/assets/bootsnipp/toggle-icons.png) no-repeat 6px -148px;
+}
+.panel-default .panel-title:hover .collapsed:before {
+    background-color: #e54a1a;
+}
+.panel-default .accordion-toggle,
+.panel-default .accordion-toggle:focus,
+.panel-default .accordion-toggle:hover,
+.panel-default .accordion-toggle:active {
+    color: #1ea9e3;
+    text-decoration: none;
+}
+.panel-default .collapsed {
+    color: #5f6f7e;
+}
+.bootstrap-iso .panel-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    color: inherit;
+    background-color: white;
+    padding: 20px;
+}
+#bulk-action-selector-top{
+    margin-left: 1.2%;
+}
+.cap, #cap{
+    text-transform: capitalize !important;
+}
+#tamplate_hedding{
+    margin-top: 10px;
+    padding: 12px;
+    font-weight: bolder;
+    background-color: #d0d6e2;
+    /* color: white; */
+    border-radius: 6px;
+    border-left: 4px solid #2a6598;
+}
+
+@media only screen and ( min-width :1000px) {
+    #vertical-line {
+        border-right : 0.5px solid lightgrey;
+    }
+    .lb>label {
+        padding-right: 10%;
+    }
+}

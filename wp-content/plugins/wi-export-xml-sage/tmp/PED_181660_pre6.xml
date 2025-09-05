@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="181660" Cliente="0451" Nombre="Claudio Ruiz" Fecha="10/09/2023" Tipo="1" Direccion="MANUEL RODRIGUEZ 730, SANTIAGO CENTRO " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Claudio Ruiz" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAHD524108-RD1" Color="RD1" Cantidad="55" size_S="220" size_M="440" size_L="440" size_XL="220" Unit_Box_Qty="24" Total_Box_Qty="1320" Precio="15"></Linea>
+    <Linea Producto="NBAHD524108-BK1" Color="BK1" Cantidad="65" size_S="260" size_M="520" size_L="520" size_XL="260" Unit_Box_Qty="24" Total_Box_Qty="1560" Precio="15"></Linea>
+    <Linea Producto="NBAHD524108-BK2" Color="BK2" Cantidad="55" size_S="220" size_M="440" size_L="440" size_XL="220" Unit_Box_Qty="24" Total_Box_Qty="1320" Precio="15"></Linea>
+    <Linea Producto="MLBHD524109-BK1" Color="BK1" Cantidad="35" size_S="140" size_M="280" size_L="280" size_XL="140" Unit_Box_Qty="24" Total_Box_Qty="840" Precio="15"></Linea>
+    <Linea Producto="MLBHD524109-NV1" Color="NV1" Cantidad="35" size_S="140" size_M="280" size_L="280" size_XL="140" Unit_Box_Qty="24" Total_Box_Qty="840" Precio="15"></Linea>
+    <Linea Producto="MLBHD524109-GY1" Color="GY1" Cantidad="35" size_S="140" size_M="280" size_L="280" size_XL="140" Unit_Box_Qty="24" Total_Box_Qty="840" Precio="15"></Linea>
+    <Linea Producto="MLBHD524105-BK1" Color="BK1" Cantidad="35" size_S="140" size_M="280" size_L="280" size_XL="140" Unit_Box_Qty="24" Total_Box_Qty="840" Precio="16"></Linea>
+    <Linea Producto="MLBSW524101-BK1" Color="BK1" Cantidad="50" size_S="200" size_M="400" size_L="400" size_XL="200" Unit_Box_Qty="24" Total_Box_Qty="1200" Precio="14"></Linea>
+    <Linea Producto="MLBPO524102-BK1" Color="BK1" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="17"></Linea>
+    <Linea Producto="MLBPT524102-BK1" Color="BK1" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="13"></Linea>
+    <Linea Producto="NBAJK524106-BK1" Color="BK1" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="26"></Linea>
+    <Linea Producto="NBAJK524106-BK2" Color="BK2" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="26"></Linea>
+    <Linea Producto="MLBJK524106-BK1" Color="BK1" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="26"></Linea>
+  </Encabezado>
+</Sagemobile>

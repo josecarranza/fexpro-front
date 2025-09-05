@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="199191" Cliente="0459" Nombre="sebastian jimenez" Fecha="13/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Av. Kennedy #7900 of 001, Vitacura " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="sebastian jimenez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="6HSSMM19224-CBUBKRD" Color="CBUBKRD" Cantidad="25" size_OS="150" Unit_Box_Qty="6" Total_Box_Qty="150" Precio="11.5"></Linea>
+    <Linea Producto="HS8033-CBURDBK" Color="CBURDBK" Cantidad="25" size_OS="150" Unit_Box_Qty="6" Total_Box_Qty="150" Precio="12"></Linea>
+    <Linea Producto="HHSS5822-CBUYYPPPBKRD" Color="CBUYYPPPBKRD" Cantidad="10" size_OS="60" Unit_Box_Qty="6" Total_Box_Qty="60" Precio="12"></Linea>
+    <Linea Producto="HHSS5822-CBUYYPPPBLCK" Color="CBUYYPPPBLCK" Cantidad="25" size_OS="150" Unit_Box_Qty="6" Total_Box_Qty="150" Precio="12"></Linea>
+    <Linea Producto="HHSS6741-CBUYYPPPBKGD" Color="CBUYYPPPBKGD" Cantidad="25" size_OS="150" Unit_Box_Qty="6" Total_Box_Qty="150" Precio="12.5"></Linea>
+    <Linea Producto="HHSS6741-CBUYYPPPBLCK" Color="CBUYYPPPBLCK" Cantidad="20" size_OS="120" Unit_Box_Qty="6" Total_Box_Qty="120" Precio="12.5"></Linea>
+  </Encabezado>
+</Sagemobile>

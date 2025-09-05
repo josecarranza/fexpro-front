@@ -1,0 +1,104 @@
+[10-Oct-2021 06:08:30 UTC] PHP Warning:  require_once(include/common.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/presale4/ss22_place_order_screen_re_gen_table.php on line 2
+[10-Oct-2021 06:08:30 UTC] PHP Fatal error:  require_once(): Failed opening required 'include/common.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/presale4/ss22_place_order_screen_re_gen_table.php on line 2
+[10-Oct-2021 06:08:48 UTC] PHP Warning:  include(../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:08:48 UTC] PHP Warning:  include(../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:08:48 UTC] PHP Warning:  include(): Failed opening '../../../wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:08:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_currentuserinfo() in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/presale4/ss22_place_order_screen_re_gen_table.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/presale4/ss22_place_order_screen_re_gen_table.php on line 3
+[10-Oct-2021 06:10:10 UTC] PHP Warning:  include(../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:10:10 UTC] PHP Warning:  include(../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:10:10 UTC] PHP Warning:  include(): Failed opening '../../../wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:10:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_currentuserinfo() in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/presale4/ss22_place_order_screen_re_gen_table.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/presale4/ss22_place_order_screen_re_gen_table.php on line 3
+[10-Oct-2021 06:10:30 UTC] PHP Warning:  include(../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:10:30 UTC] PHP Warning:  include(../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:10:30 UTC] PHP Warning:  include(): Failed opening '../../../wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:10:43 UTC] PHP Warning:  include(../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:10:43 UTC] PHP Warning:  include(../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:10:43 UTC] PHP Warning:  include(): Failed opening '../../../wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:10:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_currentuserinfo() in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/presale4/ss22_place_order_screen_re_gen_table.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/presale4/ss22_place_order_screen_re_gen_table.php on line 4
+[10-Oct-2021 06:11:15 UTC] PHP Warning:  include(../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:11:15 UTC] PHP Warning:  include(../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:11:15 UTC] PHP Warning:  include(): Failed opening '../../../wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:11:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_avatar_url() in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/sidebar.php:13
+Stack trace:
+#0 /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/presale4/ss22_place_order_screen_re_gen_table.php(210): require_once()
+#1 {main}
+  thrown in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/sidebar.php on line 13
+[10-Oct-2021 06:11:57 UTC] PHP Warning:  include(../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:11:57 UTC] PHP Warning:  include(../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:11:57 UTC] PHP Warning:  include(): Failed opening '../../../wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:11:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_avatar_url() in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/sidebar.php:13
+Stack trace:
+#0 /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/presale4/ss22_place_order_screen_re_gen_table.php(210): require_once()
+#1 {main}
+  thrown in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/sidebar.php on line 13
+[10-Oct-2021 06:12:46 UTC] PHP Warning:  include(../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:12:46 UTC] PHP Warning:  include(../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:12:46 UTC] PHP Warning:  include(): Failed opening '../../../wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:14:01 UTC] PHP Warning:  include(../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:14:01 UTC] PHP Warning:  include(../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:14:01 UTC] PHP Warning:  include(): Failed opening '../../../wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:15:42 UTC] PHP Warning:  include(../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:15:42 UTC] PHP Warning:  include(../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:15:42 UTC] PHP Warning:  include(): Failed opening '../../../wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:15:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_avatar_url() in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/sidebar.php:13
+Stack trace:
+#0 /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/presale4/ss22_place_order_screen_re_gen_table.php(209): require_once()
+#1 {main}
+  thrown in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/sidebar.php on line 13
+[10-Oct-2021 06:16:09 UTC] PHP Warning:  require_once(include/common.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/presale4/ss22_place_order_screen_re_gen_table.php on line 2
+[10-Oct-2021 06:16:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'include/common.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/presale4/ss22_place_order_screen_re_gen_table.php on line 2
+[10-Oct-2021 06:20:34 UTC] PHP Warning:  include(../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:20:34 UTC] PHP Warning:  include(../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:20:34 UTC] PHP Warning:  include(): Failed opening '../../../wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/include/common.php on line 8
+[10-Oct-2021 06:20:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_currentuserinfo() in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/presale4/ss22_place_order_screen_re_gen_table.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/presale4/ss22_place_order_screen_re_gen_table.php on line 3
+[10-Oct-2021 06:48:15 UTC] PHP Fatal error:  Cannot redeclare datatables_server_side_callback() (previously declared in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php:152) in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 2305
+[10-Oct-2021 06:49:04 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 1029
+[11-Oct-2021 04:00:05 UTC] 2 headers were NOT sent before
+[11-Oct-2021 04:21:51 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 1029
+[11-Oct-2021 04:38:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 280
+[11-Oct-2021 04:40:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 430
+[11-Oct-2021 04:40:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 430
+[11-Oct-2021 04:53:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/presale4/spring_summer_22.php on line 843
+[11-Oct-2021 04:53:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/presale4/spring_summer_22.php on line 1153
+[11-Oct-2021 10:48:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 745
+[11-Oct-2021 10:49:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 961
+[11-Oct-2021 10:49:12 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 3068
+[11-Oct-2021 10:49:17 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 3068
+[11-Oct-2021 10:49:22 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 3068
+[11-Oct-2021 10:49:42 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 134
+[11-Oct-2021 10:49:51 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '{' or '$' in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 546
+[11-Oct-2021 10:50:34 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 785
+[11-Oct-2021 10:57:36 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 1425
+[11-Oct-2021 10:58:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 695
+[11-Oct-2021 10:59:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 1150
+[11-Oct-2021 11:02:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 1258
+[11-Oct-2021 11:07:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 407
+[11-Oct-2021 11:07:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 1258
+[11-Oct-2021 11:38:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 1190
+[11-Oct-2021 11:39:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 4082
+[11-Oct-2021 11:41:17 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 4161
+[11-Oct-2021 11:48:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 633
+[11-Oct-2021 11:50:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fexpro/public_html/shop/wp-content/themes/porto-child/alpha/alpha_sage_ecoomerce_function.php on line 3261
+[11-Oct-2021 12:22:06 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or ',' in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/presale4/spring_summer_22.php on line 427
+[11-Oct-2021 12:22:08 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or ',' in /home/fexpro/public_html/shop/sagelogin/ecommerce/alpha/presale4/spring_summer_22.php on line 427
+[11-Oct-2021 13:33:04 UTC] 2 headers were NOT sent before
+[11-Oct-2021 13:33:04 UTC] 2 headers were NOT sent before
+[11-Oct-2021 14:35:08 UTC] 2 headers were NOT sent before
+[11-Oct-2021 17:06:00 UTC] 2 headers were NOT sent before
+[12-Oct-2021 20:00:10 UTC] 2 headers were NOT sent before
+[13-Oct-2021 15:48:51 UTC] 2 headers were NOT sent before
+[13-Oct-2021 15:49:13 UTC] 2 headers were NOT sent before
+[14-Oct-2021 19:00:22 UTC] 2 headers were NOT sent before
+[27-Oct-2021 22:26:49 UTC] 2 headers were NOT sent before

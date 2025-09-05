@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="161578" Cliente="0451" Nombre="Claudio Ruiz" Fecha="13/02/2023" Tipo="1" Direccion="MANUEL RODRIGUEZ 730, SANTIAGO CENTRO " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Claudio Ruiz" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBACA523208-BK1" Color="BK1" Cantidad="23" size_OS="552" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="9"></Linea>
+    <Linea Producto="NBACA523208-BK2" Color="BK2" Cantidad="23" size_OS="552" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="9"></Linea>
+    <Linea Producto="NBACA523208-BK3" Color="BK3" Cantidad="23" size_OS="552" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="9"></Linea>
+    <Linea Producto="NBACA523216-WH1" Color="WH1" Cantidad="23" size_OS="552" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="9"></Linea>
+    <Linea Producto="NBACA523216-WH2" Color="WH2" Cantidad="23" size_OS="552" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="9"></Linea>
+    <Linea Producto="NBACA523216-WH3" Color="WH3" Cantidad="23" size_OS="552" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="9"></Linea>
+    <Linea Producto="NBACA523206-PR1" Color="PR1" Cantidad="18" size_OS="432" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="9"></Linea>
+    <Linea Producto="NBACA523206-RD1" Color="RD1" Cantidad="18" size_OS="432" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="9"></Linea>
+    <Linea Producto="NBACA523206-BU1" Color="BU1" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="9"></Linea>
+    <Linea Producto="NBACA523206-GY1" Color="GY1" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="9"></Linea>
+    <Linea Producto="NBACA523206-BL1" Color="BL1" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="9"></Linea>
+    <Linea Producto="NBACA523207-BK1" Color="BK1" Cantidad="21" size_OS="504" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="9"></Linea>
+    <Linea Producto="NBACA523207-BK2" Color="BK2" Cantidad="25" size_OS="600" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="9"></Linea>
+    <Linea Producto="NBACA523207-BK3" Color="BK3" Cantidad="17" size_OS="408" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="9"></Linea>
+    <Linea Producto="NBASB521242-BLK2" Color="BLK2" Cantidad="21" size_OS="504" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521242-BLK7" Color="BLK7" Cantidad="30" size_OS="720" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521206-BLK" Color="BLK" Cantidad="23" size_OS="552" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521206-RED" Color="RED" Cantidad="27" size_OS="648" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521206-YL1" Color="YL1" Cantidad="18" size_OS="432" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521206-BK7" Color="BK7" Cantidad="25" size_OS="600" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521206-BU1" Color="BU1" Cantidad="18" size_OS="432" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521242-BLK5" Color="BLK5" Cantidad="30" size_OS="720" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521242-BLK1" Color="BLK1" Cantidad="26" size_OS="624" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-BK11" Color="BK11" Cantidad="28" size_OS="672" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521204-BK16" Color="BK16" Cantidad="25" size_OS="600" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521204-BK13" Color="BK13" Cantidad="25" size_OS="600" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521204-BK15" Color="BK15" Cantidad="25" size_OS="600" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521204-BK14" Color="BK14" Cantidad="25" size_OS="600" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521204-BK9" Color="BK9" Cantidad="28" size_OS="672" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521204-BLK8" Color="BLK8" Cantidad="24" size_OS="576" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-BLU4" Color="BLU4" Cantidad="24" size_OS="576" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-RED2" Color="RED2" Cantidad="24" size_OS="576" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-BLU" Color="BLU" Cantidad="24" size_OS="576" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-BLK4" Color="BLK4" Cantidad="24" size_OS="576" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-BLK3" Color="BLK3" Cantidad="25" size_OS="600" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-RED" Color="RED" Cantidad="24" size_OS="576" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521204-BLK" Color="BLK" Cantidad="35" size_OS="840" Unit_Box_Qty="24" Total_Box_Qty="840" Precio="8.5"></Linea>
+    <Linea Producto="NBASB521201-BLK6" Color="BLK6" Cantidad="23" size_OS="552" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521201-BLK4" Color="BLK4" Cantidad="23" size_OS="552" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521201-BLU" Color="BLU" Cantidad="23" size_OS="552" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521201-BLK3" Color="BLK3" Cantidad="23" size_OS="552" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521201-BLK2" Color="BLK2" Cantidad="29" size_OS="696" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521201-PUR" Color="PUR" Cantidad="21" size_OS="504" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521201-WHT" Color="WHT" Cantidad="36" size_OS="864" Unit_Box_Qty="24" Total_Box_Qty="864" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521201-BLK" Color="BLK" Cantidad="36" size_OS="864" Unit_Box_Qty="24" Total_Box_Qty="864" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521201-RED" Color="RED" Cantidad="27" size_OS="648" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="7.5"></Linea>
+    <Linea Producto="NBASB521201-BK1" Color="BK1" Cantidad="28" size_OS="672" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="7.5"></Linea>
+  </Encabezado>
+</Sagemobile>

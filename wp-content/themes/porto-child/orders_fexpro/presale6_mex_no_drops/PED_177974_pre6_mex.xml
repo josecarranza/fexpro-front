@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="177974" Cliente="TYPHOON" Nombre="PATRICIA OLIVO" Fecha="03/07/2023" Tipo="1" Fecha_Entrega="03/07/2023" Direccion="CERRADA LOMA BONITA NO. 33 INT. 204 COL. LOMAS ALTAS DEL. MIGUEL HIDALGO " Direccion2="Mexico Ciudad de México DISTRITO FEDERAL 11950" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="PATRICIA OLIVO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="CAATS524113NV1" Color="NV1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="137.58620691667"></Linea>
+    <Linea Producto="CAATS524113YL1" Color="YL1" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="137.58620691667"></Linea>
+    <Linea Producto="CAATS524114NV1" Color="NV1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="137.58620691667"></Linea>
+    <Linea Producto="CAAJK524101BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="258.27586208333"></Linea>
+    <Linea Producto="CAAHD524102BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="378.96551725"></Linea>
+    <Linea Producto="CAAPT524102BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="310"></Linea>
+    <Linea Producto="CAASH524102BK1" Color="BK1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="275.517241375"></Linea>
+    <Linea Producto="CAAJS524104YL1" Color="YL1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="189.31034483333"></Linea>
+    <Linea Producto="CAAHD524103NV1" Color="NV1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="361.72413791667"></Linea>
+    <Linea Producto="CAAJK524104NV1" Color="NV1" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="258.27586208333"></Linea>
+    <Linea Producto="CAAPT524104NV1" Color="NV1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="310"></Linea>
+    <Linea Producto="PSGTS524101BK1" Color="BK1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="165.17241379167"></Linea>
+    <Linea Producto="BCNTS524101BU1" Color="BU1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="165.17241379167"></Linea>
+    <Linea Producto="PSGHD524101BK1" Color="BK1" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="396.20689654167"></Linea>
+    <Linea Producto="BCNHD524101NV2" Color="NV2" Cantidad="7" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="396.20689654167"></Linea>
+    <Linea Producto="PSGLS524101BK1" Color="BK1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="275.517241375"></Linea>
+    <Linea Producto="BCNLS524101NV1" Color="NV1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="275.517241375"></Linea>
+    <Linea Producto="PSGPT524101BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="310"></Linea>
+    <Linea Producto="BCNPT524101NV2" Color="NV2" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="310"></Linea>
+    <Linea Producto="PSGSH524101BK1" Color="BK1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="189.31034483333"></Linea>
+    <Linea Producto="BCNSH524101NV2" Color="NV2" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="189.31034483333"></Linea>
+    <Linea Producto="BCNJS524102NV3" Color="NV3" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="206.551724125"></Linea>
+    <Linea Producto="BCNJS524103NV3" Color="NV3" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="206.551724125"></Linea>
+    <Linea Producto="PSGLS524102NV1" Color="NV1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="275.517241375"></Linea>
+    <Linea Producto="BCNLS524102NV3" Color="NV3" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="275.517241375"></Linea>
+    <Linea Producto="PSGPL524102NV1" Color="NV1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="223.79310345833"></Linea>
+    <Linea Producto="BCNPL524102NV3" Color="NV3" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="223.79310345833"></Linea>
+    <Linea Producto="PSGWR524102NV1" Color="NV1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="516.89655170833"></Linea>
+    <Linea Producto="BCNWR524102NV2" Color="NV2" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="516.89655170833"></Linea>
+    <Linea Producto="PSGJK524101NV1" Color="NV1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="516.89655170833"></Linea>
+    <Linea Producto="BCNPT524102NV3" Color="NV3" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="344.482758625"></Linea>
+    <Linea Producto="PSGJS524106BK1" Color="BK1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="241.03448275"></Linea>
+    <Linea Producto="PSGWR524104BK1" Color="BK1" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="551.37931033333"></Linea>
+  </Encabezado>
+</Sagemobile>

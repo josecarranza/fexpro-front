@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="239859" Cliente="0INN" Nombre="Mario Antonio Ruiz" Fecha="05/12/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Humberto Lobo 540-A Colonia del Valle" Direccion2="Mexico Nuevo León San Pedro Garza Garcia 66220" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Mario Antonio Ruiz" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="31NMBBLR81FEY0" Color="EY0" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1896.1206896667"></Linea>
+    <Linea Producto="31NMDCLR7RFKY0" Color="KY0" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1896.1206896667"></Linea>
+    <Linea Producto="31NMKCLR7GF9Y0" Color="9Y0" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1896.1206896667"></Linea>
+    <Linea Producto="31NMPTLR7LF9Y0" Color="9Y0" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1896.1206896667"></Linea>
+    <Linea Producto="31NMSALR9BFEZ4" Color="EZ4" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1896.1206896667"></Linea>
+    <Linea Producto="67NM0B8L8WFMZ0" Color="MZ0" Cantidad="20" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="12" Total_Box_Qty="240" Precio="1378.8793103333"></Linea>
+    <Linea Producto="94NMHLDC7RF1WG" Color="1WG" Cantidad="20" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="12" Total_Box_Qty="240" Precio="1292.6724138333"></Linea>
+    <Linea Producto="94NMHLDC7RF1WJ" Color="1WJ" Cantidad="20" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="12" Total_Box_Qty="240" Precio="1292.6724138333"></Linea>
+    <Linea Producto="94NM0B8L8WF9Z4" Color="9Z4" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="1292.6724138333"></Linea>
+    <Linea Producto="94NMHLGP7TFB55" Color="B55" Cantidad="20" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="12" Total_Box_Qty="240" Precio="1292.6724138333"></Linea>
+    <Linea Producto="94NMILGP7TFB55" Color="B55" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1292.6724138333"></Linea>
+    <Linea Producto="94NMCLKC7GF1WA" Color="1WA" Cantidad="20" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="12" Total_Box_Qty="240" Precio="1292.6724138333"></Linea>
+    <Linea Producto="94NMILKC7GF1XA" Color="1XA" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1292.6724138333"></Linea>
+    <Linea Producto="94NMHLNP8KF7G0" Color="7G0" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="1292.6724138333"></Linea>
+    <Linea Producto="94NMILNP8KF7G0" Color="7G0" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1292.6724138333"></Linea>
+    <Linea Producto="94NMHLPS7LF1WC" Color="1WC" Cantidad="20" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="12" Total_Box_Qty="240" Precio="1292.6724138333"></Linea>
+    <Linea Producto="94NMLHSA9BF01Q" Color="01Q" Cantidad="20" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="12" Total_Box_Qty="240" Precio="1292.6724138333"></Linea>
+    <Linea Producto="94NMLISA9BF01Q" Color="01Q" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1292.6724138333"></Linea>
+    <Linea Producto="22NM00A7RF902" Color="902" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="1378.8793103333"></Linea>
+    <Linea Producto="22NM00A7GF4G0" Color="4G0" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="1378.8793103333"></Linea>
+    <Linea Producto="22NM00A7LFS50" Color="S50" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="1378.8793103333"></Linea>
+    <Linea Producto="22NM00A9BF3N4" Color="3N4" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="1378.8793103333"></Linea>
+    <Linea Producto="94NW0F497TFB55" Color="B55" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="1292.6724138333"></Linea>
+    <Linea Producto="94NW0F5S7LF9Z2" Color="9Z2" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="1292.6724138333"></Linea>
+    <Linea Producto="034J00AZU35K9" Color="5K9" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="559.91379308333"></Linea>
+    <Linea Producto="034J00AZU45K9" Color="5K9" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="559.91379308333"></Linea>
+    <Linea Producto="034J00AZUA5K9" Color="5K9" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="559.91379308333"></Linea>
+    <Linea Producto="034J00AZUC5K9" Color="5K9" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="559.91379308333"></Linea>
+    <Linea Producto="034J00AZUL5K9" Color="5K9" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="559.91379308333"></Linea>
+    <Linea Producto="034J00AZUR5K9" Color="5K9" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="559.91379308333"></Linea>
+    <Linea Producto="034J00AZUS5K9" Color="5K9" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="559.91379308333"></Linea>
+    <Linea Producto="034J00AZUT5K9" Color="5K9" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="559.91379308333"></Linea>
+    <Linea Producto="034J00AZUU5K9" Color="5K9" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="559.91379308333"></Linea>
+    <Linea Producto="034J00AZU95K9" Color="5K9" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="559.91379308333"></Linea>
+    <Linea Producto="034J00AZUG5K9" Color="5K9" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="559.91379308333"></Linea>
+    <Linea Producto="03AZ00AZU3HAT" Color="HAT" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1206.46551725"></Linea>
+    <Linea Producto="03AZ00AZU4HAT" Color="HAT" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1206.46551725"></Linea>
+    <Linea Producto="03AZ00AZUAHAT" Color="HAT" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1206.46551725"></Linea>
+    <Linea Producto="03AZ00AZUCHAT" Color="HAT" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1206.46551725"></Linea>
+    <Linea Producto="03AZ00AZULHAT" Color="HAT" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1206.46551725"></Linea>
+    <Linea Producto="03AZ00AZURHAT" Color="HAT" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1206.46551725"></Linea>
+    <Linea Producto="03AZ00AZUSHAT" Color="HAT" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1206.46551725"></Linea>
+    <Linea Producto="03AZ00AZUTHAT" Color="HAT" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1206.46551725"></Linea>
+    <Linea Producto="03AZ00AZUUHAT" Color="HAT" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1206.46551725"></Linea>
+    <Linea Producto="03AZ00AZU9HAT" Color="HAT" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1206.46551725"></Linea>
+    <Linea Producto="03AZ00AZUGHAT" Color="HAT" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1206.46551725"></Linea>
+    <Linea Producto="03586DL9BR48" Color="R48" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="559.91379308333"></Linea>
+    <Linea Producto="035841S7RDR48" Color="R48" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="559.91379308333"></Linea>
+    <Linea Producto="03583EE7TR48" Color="R48" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="559.91379308333"></Linea>
+    <Linea Producto="035841S8KR48" Color="R48" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="559.91379308333"></Linea>
+    <Linea Producto="035800A7LR48" Color="R48" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="559.91379308333"></Linea>
+  </Encabezado>
+</Sagemobile>

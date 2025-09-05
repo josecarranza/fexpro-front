@@ -1,0 +1,195 @@
+/*Feature Header*/
+.csp-tab-header {
+    font-weight: 700 !important;
+    font-size: 19px !important;
+    color: rgba(35, 40, 45, 0.79);
+}
+
+/*Feature Status Switch Styling*/
+.switch {
+    position: relative;
+    width: 38px;
+    height: 23px;
+    float: left;
+  }
+  
+.switch input { 
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -o-transition: .4s;
+    transition: .4s;
+  }
+  
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 15px;
+    width: 15px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -o-transition: .4s;
+    transition: .4s;
+  }
+  
+input:checked + .slider {
+    background-color: #337ab7;
+  }
+  
+input:focus + .slider {
+    box-shadow: 0 0 1px #337ab7;
+  }
+  
+input:checked + .slider:before {
+    -webkit-transform: translateX(17px);
+    -ms-transform: translateX(17px);
+    transform: translateX(17px);
+  }
+  
+  /* Rounded sliders */
+.slider.round {
+    border-radius: 34px;
+  }  
+.slider.round:before {
+    border-radius: 50%;
+  }
+.feature-switch > div > div > label {
+    font-size: large;
+  }
+.feature-switch{
+      text-align: right;
+   margin:auto;
+  }
+.feature-switch-row {
+    margin-top: 10px;
+}
+.loading-text {
+    display: none;
+    -webkit-animation: color-change 1s infinite;
+    -moz-animation: color-change 1s infinite;
+    -o-animation: color-change 1s infinite;
+    -ms-animation: color-change 1s infinite;
+    animation: color-change 1s infinite;
+  }  
+@-webkit-keyframes color-change {
+    0% { color: #707070; }
+    25% {color: #505050;}
+    50% {color: #202020;}
+    75% {color: #505050;}
+    100% { color: #707070; }
+  }
+@-moz-keyframes color-change {
+    0% { color: #707070; }
+    25% {color: #505050;}
+    50% {color: #202020;}
+    75% {color: #505050;}
+    100% { color: #707070; }
+  }
+@-ms-keyframes color-change {
+    0% { color: #707070; }
+    25% {color: #505050;}
+    50% {color: #202020;}
+    75% {color: #505050;}
+    100% { color: #707070; }
+  }
+@-o-keyframes color-change {
+    0% { color: #707070; }
+    25% {color: #505050;}
+    50% {color: #202020;}
+    75% {color: #505050;}
+    100% { color: #707070; }
+  }
+@keyframes color-change {
+    0% { color: #707070; }
+    25% {color: #505050;}
+    50% {color: #202020;}
+    75% {color: #505050;}
+    100% { color: #707070; }
+  }
+
+/**/
+.csp-gd-main-div{
+    margin: auto;
+    padding: 0 30px;
+}
+.csp-gd-main-div-notes {
+      margin:auto 30px auto 30px;
+    }
+.gd-notes-title{
+        font-weight: 700;
+        cursor: pointer;
+        text-decoration: underline;
+        color: #337ab7;
+        margin-bottom: 5px;
+    }
+.gd-notes-content {
+        padding: 0 18px;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.5s ease-out;
+    }
+
+/*Collapse Styling */
+.csp-gd-collapse-wrapper{
+    margin: 10px auto auto auto;
+    /*width:95%;*/
+  }
+@media(max-width:992px){
+    .csp-gd-collapse-wrapper{
+        width:100%;
+    }
+  }
+.panel-heading {
+    padding: 0;
+    border:0;
+    }
+.panel-title>a, .panel-title>a:active{
+    display:block;
+    padding:15px;
+    color:#555;
+    font-size:14px;
+    font-weight:bold;
+    /* text-transform:uppercase; */
+    letter-spacing:1px;
+    word-spacing:3px;
+    text-decoration:none;
+    }
+.panel-heading  a:before {
+    font-family: 'Glyphicons Halflings';
+    content: "\e114";
+    float: right;
+    transition: all 0.5s;
+    }
+.panel-heading.active a:before {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    transform: rotate(180deg);
+    }
+
+
+    /*Rule Rows*/
+    .gd-rule-row {
+      max-width: 100%;
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 5px;
+  }
+
+button.btn.btn-primary.save-all-gd-rules {
+    /*margin-left: 27px;*/
+}

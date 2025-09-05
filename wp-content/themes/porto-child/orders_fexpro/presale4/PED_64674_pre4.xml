@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="64674" Cliente="0499" Nombre="Johanna Poujol" Fecha="14/10/2021" Tipo="1" Fecha_Entrega="14/10/2021" Direccion="39 Ave. 0-70 \&quot;A\&quot; zona 11 Colonia Toledo " Direccion2="Guatemala Guatemala Guatemala " Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Johanna Poujol" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="SC-HOMEGYM 200-BLK1" Color="BLK1" Cantidad="4" size_OS="4" Unit_Box_Qty="1" Total_Box_Qty="4" Precio="280.7"></Linea>
+    <Linea Producto="SC-PGYM-BLK1" Color="BLK1" Cantidad="4" size_OS="4" Unit_Box_Qty="1" Total_Box_Qty="4" Precio="204.6"></Linea>
+    <Linea Producto="SC-OMEGA390-BLK1" Color="BLK1" Cantidad="6" size_OS="6" Unit_Box_Qty="1" Total_Box_Qty="6" Precio="181.75"></Linea>
+    <Linea Producto="SC-FOLDB-BLK1" Color="BLK1" Cantidad="12" size_OS="12" Unit_Box_Qty="1" Total_Box_Qty="12" Precio="41.7"></Linea>
+    <Linea Producto="SC-SU140-B-BLK1" Color="BLK1" Cantidad="12" size_OS="12" Unit_Box_Qty="1" Total_Box_Qty="12" Precio="34.6"></Linea>
+    <Linea Producto="SC-SUB200-BLK1" Color="BLK1" Cantidad="10" size_OS="10" Unit_Box_Qty="1" Total_Box_Qty="10" Precio="107.75"></Linea>
+    <Linea Producto="SC-SBENCH-20-BLK1" Color="BLK1" Cantidad="8" size_OS="8" Unit_Box_Qty="1" Total_Box_Qty="8" Precio="83.6"></Linea>
+    <Linea Producto="SC-PTWB-BLK1" Color="BLK1" Cantidad="3" size_OS="3" Unit_Box_Qty="1" Total_Box_Qty="3" Precio="182.25"></Linea>
+    <Linea Producto="SC-S500-BLK1" Color="BLK1" Cantidad="6" size_OS="6" Unit_Box_Qty="1" Total_Box_Qty="6" Precio="212.65"></Linea>
+    <Linea Producto="RSV-SC42-2-BLK1" Color="BLK1" Cantidad="12" size_OS="12" Unit_Box_Qty="1" Total_Box_Qty="12" Precio="21.5"></Linea>
+    <Linea Producto="SC-WS-STEELSTAND-BLK1" Color="BLK1" Cantidad="6" size_OS="6" Unit_Box_Qty="1" Total_Box_Qty="6" Precio="61.35"></Linea>
+    <Linea Producto="SC-50LBS-WS-BLK2" Color="BLK2" Cantidad="6" size_50LB="6" Unit_Box_Qty="1" Total_Box_Qty="6" Precio="59.35"></Linea>
+    <Linea Producto="RSV-SC105-2-BLK1" Color="BLK1" Cantidad="6" size_OS="6" Unit_Box_Qty="1" Total_Box_Qty="6" Precio="37.9"></Linea>
+    <Linea Producto="SC-KBKIT-30LB-BLK1" Color="BLK1" Cantidad="12" size_OS="12" Unit_Box_Qty="1" Total_Box_Qty="12" Precio="28.2"></Linea>
+    <Linea Producto="SC-NDB-1KG-GRY1" Color="GRY1" Cantidad="2" size_1KG="40" Unit_Box_Qty="20" Total_Box_Qty="40" Precio="2.85"></Linea>
+    <Linea Producto="SC-NDB-2KG-GRY2" Color="GRY2" Cantidad="3" size_2KG="30" Unit_Box_Qty="10" Total_Box_Qty="30" Precio="5.75"></Linea>
+    <Linea Producto="SC-NDB-3KG-GRY3" Color="GRY3" Cantidad="4" size_3KG="24" Unit_Box_Qty="6" Total_Box_Qty="24" Precio="8.5"></Linea>
+    <Linea Producto="SC-NDB-4KG-GRY4" Color="GRY4" Cantidad="6" size_4KG="24" Unit_Box_Qty="4" Total_Box_Qty="24" Precio="11.3"></Linea>
+    <Linea Producto="SC-NDB-5KG-GRY5" Color="GRY5" Cantidad="6" size_5KG="24" Unit_Box_Qty="4" Total_Box_Qty="24" Precio="14.15"></Linea>
+    <Linea Producto="SC-NDB-6KG-GRY6" Color="GRY6" Cantidad="8" size_6KG="24" Unit_Box_Qty="3" Total_Box_Qty="24" Precio="16.95"></Linea>
+    <Linea Producto="SC-NKB-10LB-BLK1" Color="BLK1" Cantidad="6" size_10LB="6" Unit_Box_Qty="1" Total_Box_Qty="6" Precio="14"></Linea>
+    <Linea Producto="SC-NKB-15LB-BLK2" Color="BLK2" Cantidad="6" size_15LB="6" Unit_Box_Qty="1" Total_Box_Qty="6" Precio="21.25"></Linea>
+    <Linea Producto="SC-NKB-20LB-BLK3" Color="BLK3" Cantidad="6" size_20LB="6" Unit_Box_Qty="1" Total_Box_Qty="6" Precio="28.5"></Linea>
+    <Linea Producto="SC-NKB-25LB-BLK4" Color="BLK4" Cantidad="6" size_25LB="6" Unit_Box_Qty="1" Total_Box_Qty="6" Precio="35.9"></Linea>
+    <Linea Producto="HHA-SC005A-BLK1" Color="BLK1" Cantidad="3" size_5LB="24" Unit_Box_Qty="8" Total_Box_Qty="24" Precio="7.6"></Linea>
+    <Linea Producto="SC-BBOARD-BRW1" Color="BRW1" Cantidad="1" size_OS="5" Unit_Box_Qty="5" Total_Box_Qty="5" Precio="10.8"></Linea>
+    <Linea Producto="WSCRP12-WHT1" Color="WHT1" Cantidad="6" size_OS="6" Unit_Box_Qty="1" Total_Box_Qty="6" Precio="26.55"></Linea>
+    <Linea Producto="SC-FF-EX12-BLK1" Color="BLK1" Cantidad="4" size_OS="4" Unit_Box_Qty="1" Total_Box_Qty="4" Precio="43.7"></Linea>
+    <Linea Producto="SC-PBALL-TUR2" Color="TUR2" Cantidad="1" size_25CM="100" Unit_Box_Qty="100" Total_Box_Qty="100" Precio="2.55"></Linea>
+    <Linea Producto="SC-PR-BLK1" Color="BLK1" Cantidad="1" size_OS="10" Unit_Box_Qty="10" Total_Box_Qty="10" Precio="7.15"></Linea>
+    <Linea Producto="SC- BRA-BLK1" Color="BLK1" Cantidad="4" size_OS="4" Unit_Box_Qty="1" Total_Box_Qty="4" Precio="10.4"></Linea>
+    <Linea Producto="SC-ANITBB-LBL1" Color="LBL1" Cantidad="2" size_55CM="20" Unit_Box_Qty="10" Total_Box_Qty="20" Precio="5.35"></Linea>
+    <Linea Producto="SC-ANITBB-LBL2" Color="LBL2" Cantidad="2" size_65CM="20" Unit_Box_Qty="10" Total_Box_Qty="20" Precio="5.75"></Linea>
+    <Linea Producto="SC-RTUBE-LBL1" Color="LBL1" Cantidad="1" size_ULTRALIGHT="20" Unit_Box_Qty="20" Total_Box_Qty="20" Precio="4.75"></Linea>
+    <Linea Producto="SC-RTUBE-RED1" Color="RED1" Cantidad="1" size_LIGHT="20" Unit_Box_Qty="20" Total_Box_Qty="20" Precio="5.1"></Linea>
+    <Linea Producto="SC-RTUBE-CYAN1" Color="CYAN1" Cantidad="1" size_MEDIUM="20" Unit_Box_Qty="20" Total_Box_Qty="20" Precio="5.45"></Linea>
+    <Linea Producto="SC-RTUBE-YEL1" Color="YEL1" Cantidad="1" size_HEAVY="20" Unit_Box_Qty="20" Total_Box_Qty="20" Precio="6.1"></Linea>
+    <Linea Producto="SC-RTUBE-BLK1" Color="BLK1" Cantidad="1" size_ULTIMATE="20" Unit_Box_Qty="20" Total_Box_Qty="20" Precio="6.3"></Linea>
+    <Linea Producto="SC-PBAND-BLK2" Color="BLK2" Cantidad="1" size_LIGHT="40" Unit_Box_Qty="40" Total_Box_Qty="40" Precio="6.2"></Linea>
+    <Linea Producto="SC-PBAND-BLK3" Color="BLK3" Cantidad="1" size_MEDIUM="30" Unit_Box_Qty="30" Total_Box_Qty="30" Precio="8.15"></Linea>
+    <Linea Producto="SC-PBAND-BLK4" Color="BLK4" Cantidad="1" size_HEAVY="25" Unit_Box_Qty="25" Total_Box_Qty="25" Precio="11.5"></Linea>
+    <Linea Producto="SC-WOMGLO-BLK1" Color="BLK1" Cantidad="2" size_S-M="24" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="7.75"></Linea>
+    <Linea Producto="SC-WOMGLO-BLK2" Color="BLK2" Cantidad="2" size_M-L="24" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="7.75"></Linea>
+    <Linea Producto="SC-WOMGLO-BLK3" Color="BLK3" Cantidad="1" size_L-XL="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="7.75"></Linea>
+    <Linea Producto="SC-MENGLO-BLK1" Color="BLK1" Cantidad="1" size_S-M="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="8.15"></Linea>
+    <Linea Producto="SC-MENGLO-BLK2" Color="BLK2" Cantidad="2" size_M-L="24" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="8.15"></Linea>
+    <Linea Producto="SC-MENGLO-BLK3" Color="BLK3" Cantidad="2" size_L-XL="24" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="8.15"></Linea>
+    <Linea Producto="SC - EVABRICK-GRY1" Color="GRY1" Cantidad="1" size_OS="50" Unit_Box_Qty="50" Total_Box_Qty="50" Precio="2.05"></Linea>
+    <Linea Producto="SC-YMDP- DELUXE-GRY1" Color="GRY1" Cantidad="2" size_OS="24" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="7.05"></Linea>
+    <Linea Producto="SC-SPIN100-BLK1" Color="BLK1" Cantidad="6" size_OS="6" Unit_Box_Qty="1" Total_Box_Qty="6" Precio="217.9"></Linea>
+  </Encabezado>
+</Sagemobile>

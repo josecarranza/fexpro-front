@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="54381" Cliente="0000" Nombre="Dalia Teniente" Fecha="03/08/2021" Tipo="1" Fecha_Entrega="03/08/2021" Direccion="Av. J. Merced Cabrera 1200 La Comarca, Villa de Alvarez" Direccion2="Mexico Sinaloa COLIMA 28989" Vendedor="01" AgenteEmbarcador="" Observaciones="La Marina, interiores Caballero" ResponsablePedido="" ResponsableImportacion="" Contacto="Dalia Teniente" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBPJ52202BLU" Color="BLU" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="340.45"></Linea>
+    <Linea Producto="MLBPJ52202GRY" Color="GRY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="340.45"></Linea>
+    <Linea Producto="NBAPJ52204BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="362.45"></Linea>
+    <Linea Producto="NBAPJ52205PUR" Color="PUR" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="340.45"></Linea>
+    <Linea Producto="NASPJ52202BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="340.45"></Linea>
+    <Linea Producto="PCPJ52202BLU" Color="BLU" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="340.45"></Linea>
+    <Linea Producto="MTPJ52202GRY" Color="GRY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="340.45"></Linea>
+    <Linea Producto="ACPJ52202GRY" Color="GRY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="340.45"></Linea>
+    <Linea Producto="NASPJ52201BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="362.45"></Linea>
+    <Linea Producto="PCPJ52201BLU" Color="BLU" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="362.45"></Linea>
+    <Linea Producto="MTPJ52201GRY" Color="GRY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="362.45"></Linea>
+    <Linea Producto="SOPPJ52201NVY" Color="NVY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="362.45"></Linea>
+    <Linea Producto="TRPJ52201BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="362.45"></Linea>
+    <Linea Producto="GYPJ52201GRY" Color="GRY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="362.45"></Linea>
+    <Linea Producto="PWPJ52202NVY" Color="NVY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="340.45"></Linea>
+    <Linea Producto="ACSO52201GRY" Color="GRY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="109.45"></Linea>
+    <Linea Producto="BABSO52201BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="109.45"></Linea>
+    <Linea Producto="BABSO52202BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="92.95"></Linea>
+    <Linea Producto="COCSO52202BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="92.95"></Linea>
+    <Linea Producto="MTSO52201NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="109.45"></Linea>
+    <Linea Producto="MTSO52202NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="92.95"></Linea>
+    <Linea Producto="NASSO52201BLUE" Color="BLUE" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="109.45"></Linea>
+    <Linea Producto="NASSO52202BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="92.95"></Linea>
+    <Linea Producto="PCSO52201BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="109.45"></Linea>
+    <Linea Producto="PCSO52202NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="92.95"></Linea>
+    <Linea Producto="PWSO52201BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="109.45"></Linea>
+    <Linea Producto="SOUSO52201BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="109.45"></Linea>
+    <Linea Producto="SOUSO52202NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="92.95"></Linea>
+    <Linea Producto="GFSO52203GRY" Color="GRY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="92.95"></Linea>
+    <Linea Producto="ROCSO52201BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="109.45"></Linea>
+    <Linea Producto="ROCSO52202GRN" Color="GRN" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="92.95"></Linea>
+    <Linea Producto="NBASO52201BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="109.45"></Linea>
+    <Linea Producto="NBASO52202RED" Color="RED" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="109.45"></Linea>
+    <Linea Producto="NBASO52203BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="109.45"></Linea>
+    <Linea Producto="NBASO52205BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="109.45"></Linea>
+    <Linea Producto="NBASO52207BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="109.45"></Linea>
+    <Linea Producto="ACBX52202BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="230.45"></Linea>
+    <Linea Producto="BABBX52201NVY" Color="NVY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="230.45"></Linea>
+    <Linea Producto="COCBX52201BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="230.45"></Linea>
+    <Linea Producto="FDBX52202NVY" Color="NVY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="230.45"></Linea>
+    <Linea Producto="GLBX52202BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="230.45"></Linea>
+    <Linea Producto="NASBX52201BLU" Color="BLU" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="230.45"></Linea>
+    <Linea Producto="NASBX52202BLU" Color="BLU" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="230.45"></Linea>
+    <Linea Producto="PCBX52201NVY" Color="NVY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="230.45"></Linea>
+    <Linea Producto="PCBX52202BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="230.45"></Linea>
+    <Linea Producto="PWBX52201BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="230.45"></Linea>
+    <Linea Producto="PWBX52202BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="230.45"></Linea>
+    <Linea Producto="SOUBX52201NVY" Color="NVY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="230.45"></Linea>
+    <Linea Producto="ROCBX52201BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="230.45"></Linea>
+    <Linea Producto="ROCBX52202BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="230.45"></Linea>
+    <Linea Producto="WWEBX52201BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="230.45"></Linea>
+    <Linea Producto="MLBBX52203NVY" Color="NVY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="230.45"></Linea>
+    <Linea Producto="MLBBX52202GRY" Color="GRY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="230.45"></Linea>
+    <Linea Producto="MLBBX52204NVY" Color="NVY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="230.45"></Linea>
+    <Linea Producto="MLBBX52206BLK" Color="BLK" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="230.45"></Linea>
+  </Encabezado>
+</Sagemobile>

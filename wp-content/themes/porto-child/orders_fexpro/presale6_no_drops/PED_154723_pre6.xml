@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="154723" Cliente="0459" Nombre="Rodrigo Sepulveda" Fecha="01/12/2022" Tipo="1" Direccion="AMÉRICO VESPUCIO SUR N° 866 " Direccion2="Chile Región Metropolitana de Santiago LAS CONDES - SANTIAGO 7550000" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Rodrigo Sepulveda" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAHD323202-BK1" Color="BK1" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="12"></Linea>
+    <Linea Producto="NBAJP323202-BK1" Color="BK1" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="10.5"></Linea>
+    <Linea Producto="NBATS323203-RD1" Color="RD1" Cantidad="20" size_4="40" size_6="80" size_8="80" size_10="80" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="5.5"></Linea>
+    <Linea Producto="NBATS323204-BK1" Color="BK1" Cantidad="20" size_4="40" size_6="80" size_8="80" size_10="80" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="5.5"></Linea>
+    <Linea Producto="NBATS321000-BLK2" Color="BLK2" Cantidad="20" size_4="40" size_6="80" size_8="80" size_10="80" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="5.5"></Linea>
+    <Linea Producto="NBAPT32205-BLK" Color="BLK" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="10.5"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="97939" Cliente="0036" Nombre="Wilson Flores" Fecha="07/01/2022" Tipo="1" Fecha_Entrega="07/01/2022" Direccion="PASEO GENERAL ESCALÓN #3700 CENTRO COMERCIAL GALERIAS. SAN SALVADOR-EL SALVADOR" Direccion2="El Salvador  El Salvador 00000" Vendedor="01" AgenteEmbarcador="" Observaciones="FIFA CASUAL WOMEN&amp;amp;MEN" ResponsablePedido="" ResponsableImportacion="" Contacto="Wilson Flores" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBTS320201-BLU" Color="BLU" Cantidad="21" size_XS="84" size_S="168" size_M="168" size_L="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="7"></Linea>
+    <Linea Producto="FITS622276-NVY" Color="NVY" Cantidad="21" size_XS="84" size_S="168" size_M="168" size_L="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="7"></Linea>
+    <Linea Producto="FITS622276-NVY2" Color="NVY2" Cantidad="21" size_XS="84" size_S="168" size_M="168" size_L="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="7"></Linea>
+    <Linea Producto="FITS622276-BLK" Color="BLK" Cantidad="21" size_XS="84" size_S="168" size_M="168" size_L="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="7"></Linea>
+    <Linea Producto="FITS622276-RED" Color="RED" Cantidad="21" size_XS="84" size_S="168" size_M="168" size_L="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="7"></Linea>
+    <Linea Producto="FITS622276-BLU2" Color="BLU2" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="6"></Linea>
+    <Linea Producto="FITS522277-NVY" Color="NVY" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="6"></Linea>
+    <Linea Producto="FITS522277-NVY2" Color="NVY2" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="6"></Linea>
+    <Linea Producto="FITS522277-BLK" Color="BLK" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="6"></Linea>
+    <Linea Producto="FITS522277-RED" Color="RED" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="6"></Linea>
+    <Linea Producto="FITS522277-BLU2" Color="BLU2" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="6"></Linea>
+    <Linea Producto="FITS522277-BLU" Color="BLU" Cantidad="21" size_XS="84" size_S="168" size_M="168" size_L="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="7"></Linea>
+  </Encabezado>
+</Sagemobile>

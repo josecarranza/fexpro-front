@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="92526" Cliente="0459" Nombre="Fernando Radice" Fecha="17/12/2021" Tipo="1" Fecha_Entrega="17/12/2021" Direccion="AVENIDA KENNEDY 7900, PISO -1 (OF YÁNEKEN) " Direccion2="Chile  SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="BELSPORT ACCESORIOS FW22&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Fernando Radice" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PSGHD32201-BLU" Color="BLU" Cantidad="40" size_OS="960" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="9"></Linea>
+    <Linea Producto="PSGSB522203-NVY" Color="NVY" Cantidad="45" size_OS="1080" Unit_Box_Qty="24" Total_Box_Qty="1080" Precio="9"></Linea>
+    <Linea Producto="PSGMB522201-RED" Color="RED" Cantidad="50" size_OS="1200" Unit_Box_Qty="24" Total_Box_Qty="1200" Precio="8"></Linea>
+  </Encabezado>
+</Sagemobile>

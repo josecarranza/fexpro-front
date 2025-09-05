@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="91598" Cliente="0455" Nombre="Matias Jimenez" Fecha="10/12/2021" Tipo="1" Fecha_Entrega="10/12/2021" Direccion="SANTA ELVIRA 175 " Direccion2="Chile  SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="THE LINE WOMEN NBA&#13;&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Matias Jimenez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBACHD622201-BLK" Color="BLK" Cantidad="27" size_XS="108" size_S="216" size_M="216" size_L="108" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="15"></Linea>
+    <Linea Producto="NBACHD622201-RED" Color="RED" Cantidad="22" size_XS="88" size_S="176" size_M="176" size_L="88" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="15"></Linea>
+    <Linea Producto="NBACJK622202-BLK" Color="BLK" Cantidad="16" size_XS="64" size_S="128" size_M="128" size_L="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="18"></Linea>
+    <Linea Producto="NBACJK622202-RED" Color="RED" Cantidad="14" size_XS="56" size_S="112" size_M="112" size_L="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="18"></Linea>
+    <Linea Producto="NBACT622201-BLK" Color="BLK" Cantidad="66" size_XS="264" size_S="528" size_M="528" size_L="264" Unit_Box_Qty="24" Total_Box_Qty="1584" Precio="6"></Linea>
+    <Linea Producto="NBACT622201-RED" Color="RED" Cantidad="63" size_XS="252" size_S="504" size_M="504" size_L="252" Unit_Box_Qty="24" Total_Box_Qty="1512" Precio="6"></Linea>
+    <Linea Producto="NBAHD622201-BLK" Color="BLK" Cantidad="16" size_XS="64" size_S="128" size_M="128" size_L="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="15"></Linea>
+    <Linea Producto="NBAHD622201-BLK1" Color="BLK1" Cantidad="21" size_XS="84" size_S="168" size_M="168" size_L="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="15"></Linea>
+    <Linea Producto="NBALG622201-BLK1" Color="BLK1" Cantidad="17" size_XS="68" size_S="136" size_M="136" size_L="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="11"></Linea>
+    <Linea Producto="NBALG622201-RED" Color="RED" Cantidad="13" size_XS="52" size_S="104" size_M="104" size_L="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="11"></Linea>
+    <Linea Producto="NBATS622202-LHB" Color="LHB" Cantidad="26" size_XS="104" size_S="208" size_M="208" size_L="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="6.5"></Linea>
+    <Linea Producto="NBATS622202-NVY" Color="NVY" Cantidad="31" size_XS="124" size_S="248" size_M="248" size_L="124" Unit_Box_Qty="24" Total_Box_Qty="744" Precio="6.5"></Linea>
+    <Linea Producto="NBAJP622202-BLK1" Color="BLK1" Cantidad="24" size_XS="96" size_S="192" size_M="192" size_L="96" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="12"></Linea>
+    <Linea Producto="NBAJP622201-GRY" Color="GRY" Cantidad="23" size_XS="92" size_S="184" size_M="184" size_L="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="12"></Linea>
+    <Linea Producto="NBAJP622201-GRY3" Color="GRY3" Cantidad="23" size_XS="92" size_S="184" size_M="184" size_L="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="12"></Linea>
+  </Encabezado>
+</Sagemobile>

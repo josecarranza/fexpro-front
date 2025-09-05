@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Linea Cia="02" Reference="BCTS523101" Producto_reference="BCTS523101-GRY" Description="BARCELONA 99 CORE T-SHIRT" Description_spanish="CAMISETA DE MANGA CORTA CORE BARCELONA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160GR" Compesp="CVC 60% ALGODON / 40% POLIESTER 160GR" Price="7" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="BARCELONA" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="BAR" Gender="5" Logo_specs="FRONT LETTERS: Rubber print with outside high density - FRONT LOGO: Heat transfer - BACK LOGO: Rubber print - BOTTOM LOGO: Woven label stitched">
+    <Colors Color="GRY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="BCSH523104" Producto_reference="BCSH523104-BLK" Description="BARCELONA FASHION SHORT" Description_spanish="PANTALON CORTO FASHION BARCELONA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER - FLEECE 300GR" Compesp="CVC 60% ALGODON / 40% POLIESTER - FLEECE 300GR" Price="10" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="BARCELONA" Group="AP" Sub_group="SH" Arancel="SH5" Season="231" LOB="SPO" Equipo="BAR" Gender="5" Logo_specs="FRONT WEARER's LEFT LOGO: Chenille with embroidery, FRONT WEAREAR's RIGHT LOGO: Heat transfer">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="BCPT523103" Producto_reference="BCPT523103-NVY" Description="BARCELONA FASHION JOGGER PANT" Description_spanish="PANTALON LARGO DE HOMBRE BARCELONA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER - FLEECE 330GR" Compesp="CVC 60% ALGODON / 40% POLIESTER - FLEECE 330GR" Price="14" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="BARCELONA" Group="AP" Sub_group="PT" Arancel="PT" Season="231" LOB="SPO" Equipo="BAR" Gender="5" Logo_specs="FRONT LOGO: Embroidery chenille logo. FRONT LETTERS: Direct embroidery. BACK POCKET LOGO: Heat transfer, SIDE: Woven flag label. Cut &amp;amp;Sew legs inserts">
+    <Colors Color="NVY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="BCJS523107" Producto_reference="BCJS523107-NVY" Description="BARCELONA FASHION JERSEY" Description_spanish="CAMISETA DEPORTIVA MANGA CORTA FASHION BARCELONA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion=" " Compesp="" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="BARCELONA" Group="AP" Sub_group="JS" Arancel="JS" Season="231" LOB="SPO" Equipo="BAR" Gender="5" Logo_specs="">
+    <Colors Color="NVY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="BCJS523107" Producto_reference="BCJS523107-BLK" Description="BARCELONA FASHION JERSEY" Description_spanish="CAMISETA DEPORTIVA MANGA CORTA FASHION BARCELONA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion=" " Compesp="" Price="13" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="BARCELONA" Group="AP" Sub_group="JS" Arancel="JS" Season="231" LOB="SPO" Equipo="BAR" Gender="5" Logo_specs="">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="BCJS523106" Producto_reference="BCJS523106-GRY" Description="BARCELONA PATTERN FASHION JERSEY" Description_spanish="CAMISETA DEPORTIVA MANGA CORTA FASHION BARCELONA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER - MINIMESH 150GR" Compesp="100% POLIESTER - MINIMESH 150GR" Price="9" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="BARCELONA" Group="AP" Sub_group="JS" Arancel="JS" Season="231" LOB="SPO" Equipo="BAR" Gender="5" Logo_specs="BODY: sublimation, FRONT LOGO: TPU, BACK: Heat transfer, RIB: jacquard, SIDE: inserts">
+    <Colors Color="GRY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="BCCA523107" Producto_reference="BCCA523107-NVY" Description="BARCELONA CAP" Description_spanish="BARCELONA GORRA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion=" " Compesp="" Price="9" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BARCELONA" Group="ACC" Sub_group="CA" Arancel="SB" Season="231" LOB="SPO" Equipo="BAR" Gender="5" Logo_specs="">
+    <Colors Color="NVY" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="BCCA523106" Producto_reference="BCCA523106-GRY" Description="BARCELONA CAP" Description_spanish="BARCELONA GORRA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion=" " Compesp="" Price="8.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BARCELONA" Group="ACC" Sub_group="CA" Arancel="SB" Season="231" LOB="SPO" Equipo="BAR" Gender="5" Logo_specs="">
+    <Colors Color="GRY" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="BCCA523106" Producto_reference="BCCA523106-DGRY" Description="BARCELONA CAP" Description_spanish="BARCELONA GORRA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion=" " Compesp="" Price="8.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BARCELONA" Group="ACC" Sub_group="CA" Arancel="SB" Season="231" LOB="SPO" Equipo="BAR" Gender="5" Logo_specs="">
+    <Colors Color="DGRY" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="BCCA523104" Producto_reference="BCCA523104-GRY" Description="BARCELONA CAP" Description_spanish="BARCELONA GORRA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion=" " Compesp="" Price="8" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BARCELONA" Group="ACC" Sub_group="CA" Arancel="SB" Season="231" LOB="SPO" Equipo="BAR" Gender="5" Logo_specs="">
+    <Colors Color="GRY" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="BCCA523104" Producto_reference="BCCA523104-NVY" Description="BARCELONA CAP" Description_spanish="BARCELONA GORRA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion=" " Compesp="" Price="8" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BARCELONA" Group="ACC" Sub_group="CA" Arancel="SB" Season="231" LOB="SPO" Equipo="BAR" Gender="5" Logo_specs="">
+    <Colors Color="NVY" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="BCCA523103" Producto_reference="BCCA523103-GRY" Description="BARCELONA CAP" Description_spanish="BARCELONA GORRA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion=" " Compesp="" Price="8" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BARCELONA" Group="ACC" Sub_group="CA" Arancel="SB" Season="231" LOB="SPO" Equipo="BAR" Gender="5" Logo_specs="">
+    <Colors Color="GRY" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="BCCA523101" Producto_reference="BCCA523101-BLK" Description="BARCELONA CURVED UNSTRUCTURED CAP" Description_spanish="BARCELONA CURVED UNSTRUCTURED GORRA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="WOOL" Compesp="" Price="9" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BARCELONA" Group="ACC" Sub_group="CA" Arancel="SB" Season="231" LOB="SPO" Equipo="BAR" Gender="5" Logo_specs="Front Logo Treatment: Centered on Front Panels, (Raised &amp;amp; 3D Embroidery), Above Back Seam Logo Treatment: Centered on ABS&#10;(Flat Embroidery)">
+    <Colors Color="BLK" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="BCCA523101" Producto_reference="BCCA523101-NVY" Description="BARCELONA CURVED UNSTRUCTURED CAP" Description_spanish="BARCELONA CURVED UNSTRUCTURED GORRA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion=" " Compesp="" Price="9" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="BARCELONA" Group="ACC" Sub_group="CA" Arancel="SB" Season="231" LOB="SPO" Equipo="BAR" Gender="5" Logo_specs="">
+    <Colors Color="NVY" Barcode="" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523102" Producto_reference="NFLTS523102-BUR" Description="NFL VARSITY T-SHIRT" Description_spanish="NFL VARSITY CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER 160 GSM" Compesp="CVC 60% Cotton/40% Polyester 160 GSM" Price="6.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="" Gender="5" Logo_specs="FRONT ART: Rubber print / BACK ART: Heat Transfer">
+    <Colors Color="BUR" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BUR" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BUR" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BUR" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523102" Producto_reference="NFLTS523102-BLK3" Description="NFL VARSITY T-SHIRT" Description_spanish="NFL VARSITY CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER 160 GSM" Compesp="CVC 60% Cotton/40% Polyester 160 GSM" Price="6.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="" Gender="5" Logo_specs="FRONT ART: Rubber print / BACK ART: Heat Transfer">
+    <Colors Color="BLK3" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523102" Producto_reference="NFLTS523102-WHT1" Description="NFL VARSITY T-SHIRT" Description_spanish="NFL VARSITY CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER 160 GSM" Compesp="CVC 60% Cotton/40% Polyester 160 GSM" Price="6.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="PAT" Gender="5" Logo_specs="FRONT ART: Rubber print / BACK ART: Heat Transfer">
+    <Colors Color="WHT1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="WHT1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523102" Producto_reference="NFLTS523102-ORG" Description="NFL VARSITY T-SHIRT" Description_spanish="NFL VARSITY CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER 160 GSM" Compesp="CVC 60% Cotton/40% Polyester 160 GSM" Price="6.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="DOL" Gender="5" Logo_specs="FRONT ART: Rubber print / BACK ART: Heat Transfer">
+    <Colors Color="ORG" Barcode="" Sizes="S"></Colors>
+    <Colors Color="ORG" Barcode="" Sizes="M"></Colors>
+    <Colors Color="ORG" Barcode="" Sizes="L"></Colors>
+    <Colors Color="ORG" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523102" Producto_reference="NFLTS523102-NVY" Description="NFL VARSITY T-SHIRT" Description_spanish="NFL VARSITY CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER 160 GSM" Compesp="CVC 60% Cotton/40% Polyester 160 GSM" Price="6.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="DOL" Gender="5" Logo_specs="FRONT ART: Rubber print / BACK ART: Heat Transfer">
+    <Colors Color="NVY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523101" Producto_reference="NFLTS523101-GRY" Description="NFL VARSITY T-SHIRT" Description_spanish="NFL VARSITY CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% COTTON 160 GSM" Compesp="100% COTTON 160 GSM" Price="8.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="RAI" Gender="5" Logo_specs="BODY: Cloude tye dye / FRONT ARTS: Heat transfer / BACK ART: Rubber print with Shadow effect &amp;amp; Numbers with High Density">
+    <Colors Color="GRY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523101" Producto_reference="NFLTS523101-DGRY" Description="NFL VARSITY T-SHIRT" Description_spanish="NFL VARSITY CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% COTTON 160 GSM" Compesp="100% COTTON 160 GSM" Price="8.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="RAI" Gender="5" Logo_specs="BODY: Cloude tye dye / FRONT ARTS: Heat transfer / BACK ART: Rubber print with Shadow effect &amp;amp; Numbers with High Density">
+    <Colors Color="DGRY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="DGRY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="DGRY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="DGRY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523101" Producto_reference="NFLTS523101-BUR" Description="NFL VARSITY T-SHIRT" Description_spanish="NFL VARSITY CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% COTTON 160 GSM" Compesp="100% COTTON 160 GSM" Price="8.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="" Gender="5" Logo_specs="BODY: Cloude tye dye / FRONT ARTS: Heat transfer / BACK ART: Rubber print with Shadow effect &amp;amp; Numbers with High Density">
+    <Colors Color="BUR" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BUR" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BUR" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BUR" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523101" Producto_reference="NFLTS523101-AQA" Description="NFL VARSITY T-SHIRT" Description_spanish="NFL VARSITY CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% COTTON 160 GSM" Compesp="100% COTTON 160 GSM" Price="8.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="DOL" Gender="5" Logo_specs="BODY: Cloude tye dye / FRONT ARTS: Heat transfer / BACK ART: Rubber print with Shadow effect &amp;amp; Numbers with High Density">
+    <Colors Color="AQA" Barcode="" Sizes="S"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="M"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="L"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523101" Producto_reference="NFLTS523101-NVY1" Description="NFL VARSITY T-SHIRT" Description_spanish="NFL VARSITY CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% COTTON 160 GSM" Compesp="100% COTTON 160 GSM" Price="8.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="PAT" Gender="5" Logo_specs="BODY: Cloude tye dye / FRONT ARTS: Heat transfer / BACK ART: Rubber print with Shadow effect &amp;amp; Numbers with High Density">
+    <Colors Color="NVY1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="NVY1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523101" Producto_reference="NFLTS523101-RED2" Description="NFL VARSITY T-SHIRT" Description_spanish="NFL VARSITY CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% COTTON 160 GSM" Compesp="100% COTTON 160 GSM" Price="8.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="PAT" Gender="5" Logo_specs="BODY: Cloude tye dye / FRONT ARTS: Heat transfer / BACK ART: Rubber print with Shadow effect &amp;amp; Numbers with High Density">
+    <Colors Color="RED2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="RED2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLSW523101" Producto_reference="NFLSW523101-NVY" Description="NFL VARSITY SWEATER" Description_spanish="NFL VARSITY SUDADERA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60%  COTTON/40% POLYESTER FLEECE 330 GSM" Compesp="CVC 60% Cotton/40% Polyester FLEECE 330 GSM" Price="14.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="SW" Arancel="SW" Season="231" LOB="SPO" Equipo="PAT" Gender="5" Logo_specs="FRONT LOGO: Rubber print with shadow effect, SLEEVE: Cut&amp;amp;sew inserts in 2 colors, RIB: jacquard, BACK LOGO: Heat tansfer">
+    <Colors Color="NVY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLSW523101" Producto_reference="NFLSW523101-BUR" Description="NFL VARSITY SWEATER" Description_spanish="NFL VARSITY SUDADERA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60%  COTTON/40% POLYESTER FLEECE 330 GSM" Compesp="CVC 60% Cotton/40% Polyester FLEECE 330 GSM" Price="14.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="SW" Arancel="SW" Season="231" LOB="SPO" Equipo="" Gender="5" Logo_specs="FRONT LOGO: Rubber print with shadow effect, SLEEVE: Cut&amp;amp;sew inserts in 2 colors, RIB: jacquard, BACK LOGO: Heat tansfer">
+    <Colors Color="BUR" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BUR" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BUR" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BUR" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLSW523101" Producto_reference="NFLSW523101-AQA" Description="NFL VARSITY SWEATER" Description_spanish="NFL VARSITY SUDADERA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60%  COTTON/40% POLYESTER FLEECE 330 GSM" Compesp="CVC 60% Cotton/40% Polyester FLEECE 330 GSM" Price="14.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="SW" Arancel="SW" Season="231" LOB="SPO" Equipo="DOL" Gender="5" Logo_specs="FRONT LOGO: Rubber print with shadow effect, SLEEVE: Cut&amp;amp;sew inserts in 2 colors, RIB: jacquard, BACK LOGO: Heat tansfer">
+    <Colors Color="AQA" Barcode="" Sizes="S"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="M"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="L"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLJP523101" Producto_reference="NFLJP523101-BLK3" Description="NFL VARSITY JOGGER PANT" Description_spanish="NFL VARSITY PANTALON LARGO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FLEECE 330 GSM" Compesp="CVC 60% Cotton/40% Polyester FLEECE 330 GSM" Price="14.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="JP" Arancel="PT" Season="231" LOB="SPO" Equipo="" Gender="5" Logo_specs="FRONT LOGO: Rubber print with shadow effect, TOP FRONT: Heat transfer, BACK LOGO: Heat transfer, RIB: jacquard">
+    <Colors Color="BLK3" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLJP523101" Producto_reference="NFLJP523101-NVY1" Description="NFL VARSITY JOGGER PANT" Description_spanish="NFL VARSITY PANTALON LARGO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FLEECE 330 GSM" Compesp="CVC 60% Cotton/40% Polyester FLEECE 330 GSM" Price="14.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="JP" Arancel="PT" Season="231" LOB="SPO" Equipo="DOL" Gender="5" Logo_specs="FRONT LOGO: Rubber print with shadow effect, TOP FRONT: Heat transfer, BACK LOGO: Heat transfer, RIB: jacquard">
+    <Colors Color="NVY1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="NVY1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLJP523101" Producto_reference="NFLJP523101-NVY2" Description="NFL VARSITY JOGGER PANT" Description_spanish="NFL VARSITY PANTALON LARGO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FLEECE 330 GSM" Compesp="CVC 60% Cotton/40% Polyester FLEECE 330 GSM" Price="14.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="JP" Arancel="PT" Season="231" LOB="SPO" Equipo="PAT" Gender="5" Logo_specs="FRONT LOGO: Rubber print with shadow effect, TOP FRONT: Heat transfer, BACK LOGO: Heat transfer, RIB: jacquard">
+    <Colors Color="NVY2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="NVY2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLJP523101" Producto_reference="NFLJP523101-BLK2" Description="NFL VARSITY JOGGER PANT" Description_spanish="NFL VARSITY PANTALON LARGO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FLEECE 330 GSM" Compesp="CVC 60% Cotton/40% Polyester FLEECE 330 GSM" Price="14.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="JP" Arancel="PT" Season="231" LOB="SPO" Equipo="RAI" Gender="5" Logo_specs="FRONT LOGO: Rubber print with shadow effect, TOP FRONT: Heat transfer, BACK LOGO: Heat transfer, RIB: jacquard">
+    <Colors Color="BLK2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLJK523101" Producto_reference="NFLJK523101-NVY" Description="NFL VARSITY JACKET" Description_spanish="NFL VARSITY CHAQUETA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% NYLON/ LINING:  100% POLYESTER" Compesp="100% Nailon/ LINING: 100% Poliester " Price="16.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="JK" Arancel="JK" Season="231" LOB="SPO" Equipo="PAT" Gender="5" Logo_specs="SLEEVES: Cut &amp;amp; Sew Inserts, FRONT LOGOS: Rubber print, TOP LOGOS: Heat transfer, BACK LOGO: Heat transfer, FRONT POCKET: with inside zipper and plastic snaps, Vislon Zipper front and pocket, metallic puller, NECK: tab with plastic snap">
+    <Colors Color="NVY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLJK523101" Producto_reference="NFLJK523101-GRY" Description="NFL VARSITY JACKET" Description_spanish="NFL VARSITY CHAQUETA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% NYLON/ LINING:  100% POLYESTER" Compesp="100% Nailon/ forro: 100% Poliester " Price="16.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="JK" Arancel="JK" Season="231" LOB="SPO" Equipo="RAI" Gender="5" Logo_specs="SLEEVES: Cut &amp;amp; Sew Inserts, FRONT LOGOS: Rubber print, TOP LOGOS: Heat transfer, BACK LOGO: Heat transfer, FRONT POCKET: with inside zipper and plastic snaps, Vislon Zipper front and pocket, metallic puller, NECK: tab with plastic snap">
+    <Colors Color="GRY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLJK523101" Producto_reference="NFLJK523101-BUR1" Description="NFL VARSITY JACKET" Description_spanish="NFL VARSITY CHAQUETA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% NYLON/ LINING:  100% POLYESTER" Compesp="100 % nailon/ FORRO: 100 % poliester" Price="16.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="JK" Arancel="JK" Season="231" LOB="SPO" Equipo="" Gender="5" Logo_specs="SLEEVES: Cut &amp;amp; Sew Inserts, FRONT LOGOS: Rubber print, TOP LOGOS: Heat transfer, BACK LOGO: Heat transfer, FRONT POCKET: with inside zipper and plastic snaps, Vislon Zipper front and pocket, metallic puller, NECK: tab with plastic snap">
+    <Colors Color="BUR1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BUR1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BUR1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BUR1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLJK523101" Producto_reference="NFLJK523101-AQA" Description="NFL VARSITY JACKET" Description_spanish="NFL VARSITY CHAQUETA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% NYLON/ LINING:  100% POLYESTER" Compesp="100% Nailon/ LINING: 100% Poliester " Price="16.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="JK" Arancel="JK" Season="231" LOB="SPO" Equipo="DOL" Gender="5" Logo_specs="SLEEVES: Cut &amp;amp; Sew Inserts, FRONT LOGOS: Rubber print, TOP LOGOS: Heat transfer, BACK LOGO: Heat transfer, FRONT POCKET: with inside zipper and plastic snaps, Vislon Zipper front and pocket, metallic puller, NECK: tab with plastic snap">
+    <Colors Color="AQA" Barcode="" Sizes="S"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="M"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="L"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLHD523106" Producto_reference="NFLHD523106-BLK1" Description="NFL PERFORMANCE HOODIE" Description_spanish="NFL PERFORMANCE ABRIGO CON CAPUCHA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% algodon / 40% Poliester 330GSM" Compesp="CVC 60% Cotton / 40% Polyester 330GSM" Price="14" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="HD" Arancel="HD" Season="231" LOB="SPO" Equipo="BUC" Gender="5" Logo_specs="FRONT LOGO: Rubber print, FRONT POCKET LOGO: TPU, CUFF/WAISTBAND: Jacquard rib">
+    <Colors Color="BLK1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLHD523106" Producto_reference="NFLHD523106-NVY" Description="NFL PERFORMANCE HOODIE" Description_spanish="NFL PERFORMANCE ABRIGO CON CAPUCHA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% algodon / 40% Poliester 330GSM" Compesp="CVC 60% Cotton / 40% Polyester 330GSM" Price="14" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="HD" Arancel="HD" Season="231" LOB="SPO" Equipo="PAT" Gender="5" Logo_specs="FRONT LOGO: Rubber print, SLEEVES: High density, FRONT POCKET LOGO: TPU Logo">
+    <Colors Color="NVY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLHD523101" Producto_reference="NFLHD523101-NVY1" Description="NFL VARSITY HOODIE" Description_spanish="NFL VARSITY ABRIGO CON CAPUCHA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FLEECE 330 GSM" Compesp="CVC 60% Cotton/40% Polyester FLEECE 330 GSM" Price="16.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="HD" Arancel="HD" Season="231" LOB="SPO" Equipo="PAT" Gender="5" Logo_specs="BODY: Mineral wash, drawcords with plastic tip, front pocket, jacquard rib / FRONT ART: Heat Transfer / BACK ART: Rubber print with shadow effect.">
+    <Colors Color="NVY1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="NVY1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLHD523101" Producto_reference="NFLHD523101-BLK2" Description="NFL VARSITY HOODIE" Description_spanish="NFL VARSITY ABRIGO CON CAPUCHA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FLEECE 330 GSM" Compesp="CVC 60% Cotton/40% Polyester FLEECE 330 GSM" Price="16.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="HD" Arancel="HD" Season="231" LOB="SPO" Equipo="RAI" Gender="5" Logo_specs="BODY: Mineral wash, drawcords with plastic tip, front pocket, jacquard rib / FRONT ART: Heat Transfer / BACK ART: Rubber print with shadow effect.">
+    <Colors Color="BLK2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLHD523101" Producto_reference="NFLHD523101-BLK3" Description="NFL VARSITY HOODIE" Description_spanish="NFL VARSITY ABRIGO CON CAPUCHA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON/40% POLIESTER FLEECE 330 GSM" Compesp="CVC 60% Cotton/40% Polyester FLEECE 330 GSM" Price="16.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="HD" Arancel="HD" Season="231" LOB="SPO" Equipo="" Gender="5" Logo_specs="BODY: Mineral wash, drawcords with plastic tip, front pocket, jacquard rib / FRONT ART: Heat Transfer / BACK ART: Rubber print with shadow effect.">
+    <Colors Color="BLK3" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLCHD52310" Producto_reference="NFLCHD52310-BUR" Description="NFL VARSITY CROP HOODIE" Description_spanish="NFL VARSITY ABRIGO CON CAPUCHA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FELPA / 100% POLYESTER LINING:  HONEY MESH 330/150 GSM" Compesp="CVC 60% Cotton/40% Polyester FLEECE / 100% Polyester Honey Mesh Lining 330/150 GSM" Price="12.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="CHD" Arancel="JK" Season="231" LOB="SPO" Equipo="" Gender="5" Logo_specs="FRONT LOGO: Rubber print, SLEEVE: CUT&amp;amp;Sew insert with rubber print line at Center, HOOD: lining Honey Mesh fabric and OUTSIDE jacquard tape stitched. RIB: Jacquard, BACK LOGO: Heat transfer">
+    <Colors Color="BUR" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BUR" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BUR" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BUR" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLHD523101" Producto_reference="NFLHD523101-AQA" Description="NFL VARSITY HOODIE" Description_spanish="NFL VARSITY ABRIGO CON CAPUCHA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FLEECE 330 GSM" Compesp="CVC 60% Cotton/40% Polyester FLEECE 330 GSM" Price="16.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="HD" Arancel="HD" Season="231" LOB="SPO" Equipo="DOL" Gender="5" Logo_specs="BODY: Mineral wash, drawcords with plastic tip, front pocket, jacquard rib / FRONT ART: Heat Transfer / BACK ART: Rubber print with shadow effect.">
+    <Colors Color="AQA" Barcode="" Sizes="S"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="M"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="L"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLCHD52310" Producto_reference="NFLCHD52310-AQA" Description="NFL VARSITY CROP HOODIE" Description_spanish="NFL VARSITY ABRIGO CON CAPUCHA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FELPA / 100% POLYESTER LINING:  HONEY MESH 330/150 GSM" Compesp="CVC 60% Cotton/40% Polyester FLEECE / 100% Polyester Honey Mesh Lining 330/150 GSM" Price="12.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="CHD" Arancel="JK" Season="231" LOB="SPO" Equipo="DOL" Gender="5" Logo_specs="FRONT LOGO: Rubber print, SLEEVE: CUT&amp;amp;Sew insert with rubber print line at Center, HOOD: lining Honey Mesh fabric and OUTSIDE jacquard tape stitched. RIB: Jacquard, BACK LOGO: Heat transfer">
+    <Colors Color="AQA" Barcode="" Sizes="S"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="M"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="L"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLCHD52310" Producto_reference="NFLCHD52310-NVY" Description="NFL VARSITY CROP HOODIE" Description_spanish="NFL VARSITY ABRIGO CON CAPUCHA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FELPA / 100% POLYESTER LINING:  HONEY MESH 330/150 GSM" Compesp="CVC 60% Cotton/40% Polyester FLEECE / 100% Polyester Honey Mesh Lining 330/150 GSM" Price="12.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="CHD" Arancel="JK" Season="231" LOB="SPO" Equipo="PAT" Gender="5" Logo_specs="FRONT LOGO: Rubber print, SLEEVE: CUT&amp;amp;Sew insert with rubber print line at Center, HOOD: lining Honey Mesh fabric and OUTSIDE jacquard tape stitched. RIB: Jacquard, BACK LOGO: Heat transfer">
+    <Colors Color="NVY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLCHD52310" Producto_reference="NFLCHD52310-WHT" Description="NFL VARSITY CROP HOODIE" Description_spanish="NFL VARSITY ABRIGO CON CAPUCHA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FELPA / 100% POLYESTER LINING:  HONEY MESH 330/150 GSM" Compesp="CVC 60% Cotton/40% Polyester FLEECE / 100% Polyester Honey Mesh Lining 330/150 GSM" Price="12.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="CHD" Arancel="JK" Season="231" LOB="SPO" Equipo="RAI" Gender="5" Logo_specs="FRONT LOGO: Rubber print, SLEEVE: CUT&amp;amp;Sew insert with rubber print line at Center, HOOD: lining Honey Mesh fabric and OUTSIDE jacquard tape stitched. RIB: Jacquard, BACK LOGO: Heat transfer">
+    <Colors Color="WHT" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="L"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NBATS523121" Producto_reference="NBATS523121-LBH" Description="NBA TEAM NAME STITCHING T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE STITCHING NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER 160G" Compesp="CVC 60% COTTON/40% POLYESTER 160G" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="76E" Gender="5" Logo_specs="RUBBER PRINT (HD IN STITCHINGS) FRONT + WOVEN FLAG LABEL">
+    <Colors Color="LBH" Barcode="" Sizes="S"></Colors>
+    <Colors Color="LBH" Barcode="" Sizes="M"></Colors>
+    <Colors Color="LBH" Barcode="" Sizes="L"></Colors>
+    <Colors Color="LBH" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NBAJP523107" Producto_reference="NBAJP523107-BLK3" Description="NBA STITCHING JOGGER PANT" Description_spanish="PANTALON LARGO DE HOMBRE STITCHING NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Compesp="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Price="12.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="JP" Arancel="PT" Season="231" LOB="SPO" Equipo="KNI" Gender="5" Logo_specs="RIBBED CUFF + SIDE FABRIC PRINT INSERT + LOGO PATCH + EMBROIDERY ON THE RIGHT LEG">
+    <Colors Color="BLK3" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NBAHD523112" Producto_reference="NBAHD523112-BLU" Description="NBA STITCHING HOODIE" Description_spanish="ABRIGO CON GORRO DE HOMBRE STITCHING NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Compesp="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Price="16.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="HD" Arancel="HD" Season="231" LOB="SPO" Equipo="76E" Gender="5" Logo_specs="LOGO PATCH (THAT DESIGN TEAM DEVELOPED) + FABRIC WITH PRINT INSERT ON SHOULDERS   BACK: RUBBER PRINT + HIGH DENSITY (IN ALL STITCHINGS)">
+    <Colors Color="BLU" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLU" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NBAWR523101" Producto_reference="NBAWR523101-NVY" Description="NBA RETRO WARM-UP ANORAK" Description_spanish="CHAQUETA DE HOMBRE RETRO WARM-UP NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="73% POLYESTER/27% NYLON " Compesp="73% POLYESTER/27% NYLON " Price="24.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="WR" Arancel="HD" Season="231" LOB="SPO" Equipo="JAZ" Gender="5" Logo_specs="CUT &amp;amp; SEW IN + RUBBER PRINT IN FRONT + BACK IN HEAT TRANSFER">
+    <Colors Color="NVY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NBATS523104" Producto_reference="NBATS523104-WHT2" Description="NBA RETRO WARM-UP LOGO T-SHIRT" Description_spanish="CAMISA MANGA CORTA DE HOMBRE RETRO WARM-UP NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER 160 G" Compesp="CVC 60% COTTON/40% POLYESTER 160 G" Price="7.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="HEA" Gender="5" Logo_specs="FRONT LOGO :RUBBER  ">
+    <Colors Color="WHT2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="WHT2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NBATS523104" Producto_reference="NBATS523104-WHT" Description="NBA RETRO WARM-UP LOGO T-SHIRT" Description_spanish="CAMISA MANGA CORTA DE HOMBRE RETRO WARM-UP NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER 160G" Compesp="CVC 60% COTTON/40% POLYESTER 160G" Price="7.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="NET" Gender="5" Logo_specs="FRONT LOGO :RUBBER  ">
+    <Colors Color="WHT" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="L"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NBATS523104" Producto_reference="NBATS523104-WHT1" Description="NBA RETRO WARM-UP LOGO T-SHIRT" Description_spanish="CAMISA MANGA CORTA DE HOMBRE RETRO WARM-UP NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER 160G" Compesp="CVC 60% COTTON/40% POLYESTER 160G" Price="7.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="JAZ" Gender="5" Logo_specs="FRONT LOGO :RUBBER  ">
+    <Colors Color="WHT1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="WHT1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NBASW523102" Producto_reference="NBASW523102-GRY" Description="NBA RETRO WARM-UP SWEATER" Description_spanish="SUETER DE HOMBRE RETRO WARM-UP NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Compesp="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Price="13.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="SW" Arancel="SW" Season="231" LOB="SPO" Equipo="LAK" Gender="5" Logo_specs="STRIPED RIBBED COLLAR + CUT &amp;amp; SEW W/PIPPING AND HD PRINT. FRONT LOGO: SUBLIMATION PRINT PATCH. BACK: HEAT TRANSFER">
+    <Colors Color="GRY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NBASW523102" Producto_reference="NBASW523102-GRY2" Description="NBA RETRO WARM-UP SWEATER" Description_spanish="SUETER DE HOMBRE RETRO WARM-UP NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Compesp="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Price="13.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="SW" Arancel="SW" Season="231" LOB="SPO" Equipo="NET" Gender="5" Logo_specs="STRIPED RIBBED COLLAR + CUT &amp;amp; SEW W/PIPPING AND HD PRINT. FRONT LOGO: SUBLIMATION PRINT PATCH. BACK: HEAT TRANSFER">
+    <Colors Color="GRY2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRY2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRY2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GRY2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NBASW523102" Producto_reference="NBASW523102-GRY3" Description="NBA RETRO WARM-UP SWEATER" Description_spanish="SUETER DE HOMBRE RETRO WARM-UP NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Compesp="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Price="13.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="SW" Arancel="SW" Season="231" LOB="SPO" Equipo="JAZ" Gender="5" Logo_specs="STRIPED RIBBED COLLAR + CUT &amp;amp; SEW W/PIPPING AND HD PRINT. FRONT LOGO: SUBLIMATION PRINT PATCH. BACK: HEAT TRANSFER">
+    <Colors Color="GRY3" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRY3" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRY3" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GRY3" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NBALS523101" Producto_reference="NBALS523101-BLK4" Description="NBA RETRO WARM-UP LONG SLEEVE" Description_spanish="CAMISA MANGA LARGA DE HOMBRE RETRO WARM-UP NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="SHELL: 100% POLYESTER LINING: 65% POLYESTER / 35% RAYON " Compesp="SHELL: 100% POLYESTER LINING: 65% POLYESTER / 35% RAYON " Price="16.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="LS" Arancel="TS" Season="231" LOB="SPO" Equipo="JAZ" Gender="5" Logo_specs="FRONT PRINT: RUBBER  BACK: HEAT TRANSFER FOR SMALL LOGO, BIG PRINT IN RUBBER HEM: ADJUSTABLE CORDLOCKS">
+    <Colors Color="BLK4" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NBAJP523102" Producto_reference="NBAJP523102-BLK4" Description="NBA RETRO WARM-UP JOGGER PANT" Description_spanish="PANTALON LARGO DE HOMBRE RETRO WARM-UP NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Compesp="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Price="14.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="JP" Arancel="JP" Season="231" LOB="SPO" Equipo="HEA" Gender="5" Logo_specs="EMBROIDERED APPLIQUE IN FRONT + EMBROIDERY IN LEFT LEG">
+    <Colors Color="BLK4" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NBAJP523102" Producto_reference="NBAJP523102-BLK5" Description="NBA RETRO WARM-UP JOGGER PANT" Description_spanish="PANTALON LARGO DE HOMBRE RETRO WARM-UP NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Compesp="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Price="14.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="JP" Arancel="JP" Season="231" LOB="SPO" Equipo="JAZ" Gender="5" Logo_specs="EMBROIDERED APPLIQUE IN FRONT + EMBROIDERY IN LEFT LEG">
+    <Colors Color="BLK5" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK5" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK5" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK5" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NBAJP523102" Producto_reference="NBAJP523102-GRY" Description="NBA RETRO WARM-UP JOGGER PANT" Description_spanish="PANTALON LARGO DE HOMBRE RETRO WARM-UP NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Compesp="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Price="14.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="JP" Arancel="JP" Season="231" LOB="SPO" Equipo="LAK" Gender="5" Logo_specs="EMBROIDERED APPLIQUE IN FRONT + EMBROIDERY IN LEFT LEG">
+    <Colors Color="GRY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NBAJP523102" Producto_reference="NBAJP523102-BLK" Description="NBA RETRO WARM-UP JOGGER PANT" Description_spanish="PANTALON LARGO DE HOMBRE RETRO WARM-UP NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Compesp="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Price="14.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="JP" Arancel="JP" Season="231" LOB="SPO" Equipo="LAK" Gender="5" Logo_specs="EMBROIDERED APPLIQUE IN FRONT + EMBROIDERY IN LEFT LEG">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NBAJP523102" Producto_reference="NBAJP523102-BLK1" Description="NBA RETRO WARM-UP JOGGER PANT" Description_spanish="PANTALON LARGO DE HOMBRE RETRO WARM-UP NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Compesp="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Price="14.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="JP" Arancel="JP" Season="231" LOB="SPO" Equipo="BUL" Gender="5" Logo_specs="EMBROIDERED APPLIQUE IN FRONT + EMBROIDERY IN LEFT LEG">
+    <Colors Color="BLK1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NBAJP523102" Producto_reference="NBAJP523102-BLK2" Description="NBA RETRO WARM-UP JOGGER PANT" Description_spanish="PANTALON LARGO DE HOMBRE RETRO WARM-UP NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Compesp="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Price="14.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="JP" Arancel="JP" Season="231" LOB="SPO" Equipo="NET" Gender="5" Logo_specs="EMBROIDERED APPLIQUE IN FRONT + EMBROIDERY IN LEFT LEG">
+    <Colors Color="BLK2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NBAJK523103" Producto_reference="NBAJK523103-GRY" Description="NBA RETRO WARM-UP BOMBER JACKET" Description_spanish="CHAQUETA DE HOMBRE RETRO WARM-UP NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER " Compesp="100% POLYESTER " Price="22.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="JK" Arancel="JK" Season="231" LOB="SPO" Equipo="JAZ" Gender="5" Logo_specs="FRONT LOGO: Placement with embroidery, BACK LOGO: Placement with embroidery        RIB: jacquard">
+    <Colors Color="GRY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NBAJK523102" Producto_reference="NBAJK523102-BLK2" Description="NBA RETRO WARM-UP SHERPA JACKET" Description_spanish="CHAQUETA DE HOMBRE RETRO WARM-UP NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="SHERPA FABRIC 100% POLYESTER " Compesp="SHERPA FABRIC 100% POLYESTER " Price="20.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="JK" Arancel="JK" Season="231" LOB="SPO" Equipo="NET" Gender="5" Logo_specs="RIBBON TAPPING IN NECK, CUT AND SEW IN SLEEVES + EMBROIDERED APPLIQUE IN FRONT">
+    <Colors Color="BLK2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NBAJK523102" Producto_reference="NBAJK523102-BLK3" Description="NBA RETRO WARM-UP SHERPA JACKET" Description_spanish="CHAQUETA DE HOMBRE RETRO WARM-UP NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="SHERPA FABRIC 100% POLYESTER " Compesp="SHERPA FABRIC 100% POLYESTER " Price="20.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="JK" Arancel="JK" Season="231" LOB="SPO" Equipo="HEA" Gender="5" Logo_specs="RIBBON TAPPING IN NECK, CUT AND SEW IN SLEEVES + EMBROIDERED APPLIQUE IN FRONT">
+    <Colors Color="BLK3" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NBAJK523102" Producto_reference="NBAJK523102-BLK4" Description="NBA RETRO WARM-UP SHERPA JACKET" Description_spanish="CHAQUETA DE HOMBRE RETRO WARM-UP NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="SHERPA FABRIC 100% POLYESTER " Compesp="SHERPA FABRIC 100% POLYESTER " Price="20.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="JK" Arancel="JK" Season="231" LOB="SPO" Equipo="JAZ" Gender="5" Logo_specs="RIBBON TAPPING IN NECK, CUT AND SEW IN SLEEVES + EMBROIDERED APPLIQUE IN FRONT">
+    <Colors Color="BLK4" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK4" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLWR523101" Producto_reference="NFLWR523101-RED" Description="TEAM NAME WINDRUNNER" Description_spanish="TEAM NAME WINDRUNNER" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% Nylon/ LINING: 100% Polyester GRMS" Compesp="100% Nylon/ LINING: 100% POLIester GRMS" Price="24" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="WR" Arancel="JK" Season="231" LOB="SPO" Equipo="49E" Gender="5" Logo_specs="SLEEVES AND FRONT/BACK: Cut &amp;amp; Sew Inserts with rubber print, FLAP ART: Rubber print, BACK LOGO: Heat transfer, FRONT POCKET: with inside zipper and FRONT: Plastic Zipper">
+    <Colors Color="RED" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="L"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLWR523101" Producto_reference="NFLWR523101-NVY" Description="TEAM NAME WINDRUNNER" Description_spanish="TEAM NAME WINDRUNNER" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% Nylon/ LINING: 100% Polyester GRMS" Compesp="100% Nylon/ LINING: 100% POLIester GRMS" Price="24" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="WR" Arancel="JK" Season="231" LOB="SPO" Equipo="PAT" Gender="5" Logo_specs="SLEEVES AND FRONT/BACK: Cut &amp;amp; Sew Inserts with rubber print, FLAP ART: Rubber print, BACK LOGO: Heat transfer, FRONT POCKET: with inside zipper and FRONT: Plastic Zipper">
+    <Colors Color="NVY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLWR523101" Producto_reference="NFLWR523101-BUR" Description="TEAM NAME WINDRUNNER" Description_spanish="TEAM NAME WINDRUNNER" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% Nylon/ LINING: 100% Polyester GRMS" Compesp="100% Nylon/ LINING: 100% POLIester GRMS" Price="24" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="WR" Arancel="JK" Season="231" LOB="SPO" Equipo="" Gender="5" Logo_specs="SLEEVES AND FRONT/BACK: Cut &amp;amp; Sew Inserts with rubber print, FLAP ART: Rubber print, BACK LOGO: Heat transfer, FRONT POCKET: with inside zipper and FRONT: Plastic Zipper">
+    <Colors Color="BUR" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BUR" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BUR" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BUR" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLWR523101" Producto_reference="NFLWR523101-BLK" Description="TEAM NAME WINDRUNNER" Description_spanish="TEAM NAME WINDRUNNER" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% Nylon/ LINING: 100% Polyester GRMS" Compesp="100% Nylon/ LINING: 100% POLIester GRMS" Price="24" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="WR" Arancel="JK" Season="231" LOB="SPO" Equipo="BUC" Gender="5" Logo_specs="SLEEVES AND FRONT/BACK: Cut &amp;amp; Sew Inserts with rubber print, FLAP ART: Rubber print, BACK LOGO: Heat transfer, FRONT POCKET: with inside zipper and FRONT: Plastic Zipper">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLWR523101" Producto_reference="NFLWR523101-BLK1" Description="TEAM NAME WINDRUNNER" Description_spanish="TEAM NAME WINDRUNNER" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% Nylon/ LINING: 100% Polyester GRMS" Compesp="100% Nylon/ LINING: 100% POLIester GRMS" Price="24" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="WR" Arancel="JK" Season="231" LOB="SPO" Equipo="CHI" Gender="5" Logo_specs="SLEEVES AND FRONT/BACK: Cut &amp;amp; Sew Inserts with rubber print, FLAP ART: Rubber print, BACK LOGO: Heat transfer, FRONT POCKET: with inside zipper and FRONT: Plastic Zipper">
+    <Colors Color="BLK1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLWR523101" Producto_reference="NFLWR523101-BLK2" Description="TEAM NAME WINDRUNNER" Description_spanish="TEAM NAME WINDRUNNER" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% Nylon/ LINING: 100% Polyester GRMS" Compesp="100% Nylon/ LINING: 100% POLIester GRMS" Price="24" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="WR" Arancel="JK" Season="231" LOB="SPO" Equipo="RAI" Gender="5" Logo_specs="SLEEVES AND FRONT/BACK: Cut &amp;amp; Sew Inserts with rubber print, FLAP ART: Rubber print, BACK LOGO: Heat transfer, FRONT POCKET: with inside zipper and FRONT: Plastic Zipper">
+    <Colors Color="BLK2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLWR523101" Producto_reference="NFLWR523101-AQA" Description="TEAM NAME WINDRUNNER" Description_spanish="TEAM NAME WINDRUNNER" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% Nylon/ LINING: 100% Polyester GRMS" Compesp="100% Nylon/ LINING: 100% POLIester GRMS" Price="24" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="WR" Arancel="JK" Season="231" LOB="SPO" Equipo="DOL" Gender="5" Logo_specs="SLEEVES AND FRONT/BACK: Cut &amp;amp; Sew Inserts with rubber print, FLAP ART: Rubber print, BACK LOGO: Heat transfer, FRONT POCKET: with inside zipper and FRONT: Plastic Zipper">
+    <Colors Color="AQA" Barcode="" Sizes="S"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="M"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="L"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523106" Producto_reference="NFLTS523106-RED1" Description="NFL PERFORMANCE T-SHIRT" Description_spanish="NFL PERFORMANCE CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON/40% POLYESTER 160 GSM" Compesp="CVC 60% Cotton/40% Polyester  160 GSM" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="49E" Gender="5" Logo_specs="FRONT LOGO: Woven patch with embroidery, BACK LOGO: rubberprint">
+    <Colors Color="RED1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="RED1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523106" Producto_reference="NFLTS523106-RED" Description="NFL PERFORMANCE T-SHIRT" Description_spanish="NFL PERFORMANCE CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON/40% POLYESTER 160 GSM" Compesp="CVC 60% Cotton/40% Polyester  160 GSM" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="BUC" Gender="5" Logo_specs="FRONT LOGO: Woven patch with embroidery, BACK LOGO: rubberprint">
+    <Colors Color="RED" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="L"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523106" Producto_reference="NFLTS523106-GRY1" Description="NFL PERFORMANCE T-SHIRT" Description_spanish="NFL PERFORMANCE CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON/40% POLYESTER 160 GSM" Compesp="CVC 60% Cotton/40% Polyester  160 GSM" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="RAI" Gender="5" Logo_specs="FRONT LOGO: Woven patch with embroidery, BACK LOGO: rubberprint">
+    <Colors Color="GRY1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRY1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRY1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GRY1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523106" Producto_reference="NFLTS523106-BLK1" Description="NFL PERFORMANCE T-SHIRT" Description_spanish="NFL PERFORMANCE CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON/40% POLYESTER 160 GSM" Compesp="CVC 60% Cotton/40% Polyester  160 GSM" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="CHI" Gender="5" Logo_specs="FRONT LOGO: Woven patch with embroidery, BACK LOGO: rubberprint">
+    <Colors Color="BLK1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523106" Producto_reference="NFLTS523106-GRY" Description="NFL PERFORMANCE T-SHIRT" Description_spanish="NFL PERFORMANCE CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON/40% POLYESTER 160 GSM" Compesp="CVC 60% Cotton/40% Polyester  160 GSM" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="PAT" Gender="5" Logo_specs="FRONT LOGO: Woven patch with embroidery, BACK LOGO: rubberprint">
+    <Colors Color="GRY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523106" Producto_reference="NFLTS523106-AQA" Description="NFL PERFORMANCE T-SHIRT" Description_spanish="NFL PERFORMANCE CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON/40% POLYESTER 160 GSM" Compesp="CVC 60% Cotton/40% Polyester  160 GSM" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="DOL" Gender="5" Logo_specs="FRONT LOGO: Woven patch with embroidery, BACK LOGO: rubberprint">
+    <Colors Color="AQA" Barcode="" Sizes="S"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="M"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="L"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523106" Producto_reference="NFLTS523106-BLK" Description="NFL PERFORMANCE T-SHIRT" Description_spanish="NFL PERFORMANCE CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON/40% POLYESTER 160 GSM" Compesp="CVC 60% Cotton/40% Polyester  160 GSM" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="49E" Gender="5" Logo_specs="FRONT LOGO: Woven patch with embroidery, BACK LOGO: rubberprint">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523105" Producto_reference="NFLTS523105-RED" Description="NFL PERFORMANCE T-SHIRT" Description_spanish="NFL PERFORMANCE CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON/40% POLYESTER  160 GSM" Compesp="CVC 60% Cotton/40% Polyester  160 GSM" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="49E" Gender="5" Logo_specs="FRONT LOGO: Woven patch with embroidery, BACK LOGO: rubberprint">
+    <Colors Color="RED" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="L"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523105" Producto_reference="NFLTS523105-NVY" Description="NFL PERFORMANCE T-SHIRT" Description_spanish="NFL PERFORMANCE CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON/40% POLYESTER  160 GSM" Compesp="CVC 60% Cotton/40% Polyester  160 GSM" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="PAT" Gender="5" Logo_specs="FRONT LOGO: Woven patch with embroidery, BACK LOGO: rubberprint">
+    <Colors Color="NVY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523105" Producto_reference="NFLTS523105-BLK" Description="NFL PERFORMANCE T-SHIRT" Description_spanish="NFL PERFORMANCE CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON/40% POLYESTER  160 GSM" Compesp="CVC 60% Cotton/40% Polyester  160 GSM" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="BUC" Gender="5" Logo_specs="FRONT LOGO: Woven patch with embroidery, BACK LOGO: rubberprint">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523105" Producto_reference="NFLTS523105-BLK1" Description="NFL PERFORMANCE T-SHIRT" Description_spanish="NFL PERFORMANCE CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON/40% POLYESTER  160 GSM" Compesp="CVC 60% Cotton/40% Polyester  160 GSM" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="CHI" Gender="5" Logo_specs="FRONT LOGO: Woven patch with embroidery, BACK LOGO: rubberprint">
+    <Colors Color="BLK1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523105" Producto_reference="NFLTS523105-BLK2" Description="NFL PERFORMANCE T-SHIRT" Description_spanish="NFL PERFORMANCE CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON/40% POLYESTER  160 GSM" Compesp="CVC 60% Cotton/40% Polyester  160 GSM" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="RAI" Gender="5" Logo_specs="FRONT LOGO: Woven patch with embroidery, BACK LOGO: rubberprint">
+    <Colors Color="BLK2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523105" Producto_reference="NFLTS523105-AQA" Description="NFL PERFORMANCE T-SHIRT" Description_spanish="NFL PERFORMANCE CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON/40% POLYESTER  160 GSM" Compesp="CVC 60% Cotton/40% Polyester  160 GSM" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="DOL" Gender="5" Logo_specs="FRONT LOGO: Woven patch with embroidery, BACK LOGO: rubberprint">
+    <Colors Color="AQA" Barcode="" Sizes="S"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="M"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="L"></Colors>
+    <Colors Color="AQA" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523104" Producto_reference="NFLTS523104-RED" Description="LOGO T-SHIRT" Description_spanish="LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160 GRMS" Compesp="CVC 60% ALGODON/40% POLIester 160 GRMS" Price="7" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="BUC" Gender="5" Logo_specs="FRONT LOGO: Rubber print &amp;amp; high density w gradient effect BOTTOM FRONT: Heat transfer, BACK LOGO: Rubber print">
+    <Colors Color="RED" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="L"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523104" Producto_reference="NFLTS523104-RED2" Description="LOGO T-SHIRT" Description_spanish="LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160 GRMS" Compesp="CVC 60% ALGODON/40% POLIester 160 GRMS" Price="7" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="CHI" Gender="5" Logo_specs="FRONT LOGO: Rubber print &amp;amp; high density w gradient effect BOTTOM FRONT: Heat transfer, BACK LOGO: Rubber print">
+    <Colors Color="RED2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="RED2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523104" Producto_reference="NFLTS523104-NVY" Description="LOGO T-SHIRT" Description_spanish="LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160 GRMS" Compesp="CVC 60% ALGODON/40% POLIester 160 GRMS" Price="7" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="PAT" Gender="5" Logo_specs="FRONT LOGO: Rubber print &amp;amp; high density w gradient effect BOTTOM FRONT: Heat transfer, BACK LOGO: Rubber print">
+    <Colors Color="NVY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523104" Producto_reference="NFLTS523104-GRY" Description="LOGO T-SHIRT" Description_spanish="LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160 GRMS" Compesp="CVC 60% ALGODON/40% POLIester 160 GRMS" Price="7" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="RAI" Gender="5" Logo_specs="FRONT LOGO: Rubber print &amp;amp; high density w gradient effect BOTTOM FRONT: Heat transfer, BACK LOGO: Rubber print">
+    <Colors Color="GRY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523104" Producto_reference="NFLTS523104-BLK3" Description="LOGO T-SHIRT" Description_spanish="LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160 GRMS" Compesp="CVC 60% ALGODON/40% POLIester 160 GRMS" Price="7" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="DOL" Gender="5" Logo_specs="FRONT LOGO: Rubber print &amp;amp; high density w gradient effect BOTTOM FRONT: Heat transfer, BACK LOGO: Rubber print">
+    <Colors Color="BLK3" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523104" Producto_reference="NFLTS523104-BLK2" Description="LOGO T-SHIRT" Description_spanish="LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160 GRMS" Compesp="CVC 60% ALGODON/40% POLIester 160 GRMS" Price="7" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="49E" Gender="5" Logo_specs="FRONT LOGO: Rubber print &amp;amp; high density w gradient effect BOTTOM FRONT: Heat transfer, BACK LOGO: Rubber print">
+    <Colors Color="BLK2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523104" Producto_reference="NFLTS523104-BLK" Description="LOGO T-SHIRT" Description_spanish="LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160 GRMS" Compesp="CVC 60% ALGODON/40% POLIester 160 GRMS" Price="7" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="" Gender="5" Logo_specs="FRONT LOGO: Rubber print &amp;amp; high density w gradient effect BOTTOM FRONT: Heat transfer, BACK LOGO: Rubber print">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523104" Producto_reference="NFLTS523104-BLK1" Description="LOGO T-SHIRT" Description_spanish="LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160 GRMS" Compesp="CVC 60% ALGODON/40% POLIester 160 GRMS" Price="7" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="RAI" Gender="5" Logo_specs="FRONT LOGO: Rubber print &amp;amp; high density w gradient effect BOTTOM FRONT: Heat transfer, BACK LOGO: Rubber print">
+    <Colors Color="BLK1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523103" Producto_reference="NFLTS523103-RED2" Description="GRADIENT LOGO T-SHIRT" Description_spanish="GRADIENT LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160 GRMS" Compesp="CVC 60% ALGODON/40% POLIester 160 GRMS" Price="7" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="49E" Gender="5" Logo_specs="FRONT LOGO: Rubber Print, SLEEVE LOGO: Heat transfer, BACK: Rubber print &amp;amp; high density w gradient effect">
+    <Colors Color="RED2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="RED2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523103" Producto_reference="NFLTS523103-RED1" Description="GRADIENT LOGO T-SHIRT" Description_spanish="GRADIENT LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160 GRMS" Compesp="CVC 60% ALGODON/40% POLIester 160 GRMS" Price="7" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="CHI" Gender="5" Logo_specs="FRONT LOGO: Rubber Print, SLEEVE LOGO: Heat transfer, BACK: Rubber print &amp;amp; high density w gradient effect">
+    <Colors Color="RED1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="RED1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523103" Producto_reference="NFLTS523103-NVY" Description="GRADIENT LOGO T-SHIRT" Description_spanish="GRADIENT LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160 GRMS" Compesp="CVC 60% ALGODON/40% POLIester 160 GRMS" Price="7" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="PAT" Gender="5" Logo_specs="FRONT LOGO: Rubber Print, SLEEVE LOGO: Heat transfer, BACK: Rubber print &amp;amp; high density w gradient effect">
+    <Colors Color="NVY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523103" Producto_reference="NFLTS523103-RED" Description="GRADIENT LOGO T-SHIRT" Description_spanish="GRADIENT LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160 GRMS" Compesp="CVC 60% ALGODON/40% POLIester 160 GRMS" Price="7" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="PAT" Gender="5" Logo_specs="FRONT LOGO: Rubber Print, SLEEVE LOGO: Heat transfer, BACK: Rubber print &amp;amp; high density w gradient effect">
+    <Colors Color="RED" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="L"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Reference="NFLTS523103" Producto_reference="NFLTS523103-BUR" Description="GRADIENT LOGO T-SHIRT" Description_spanish="GRADIENT LOGO CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160 GRMS" Compesp="CVC 60% ALGODON/40% POLIester 160 GRMS" Price="7" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="" Gender="5" Logo_specs="FRONT LOGO: Rubber Print, SLEEVE LOGO: Heat transfer, BACK: Rubber print &amp;amp; high density w gradient effect">
+    <Colors Color="BUR" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BUR" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BUR" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BUR" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+</Sagemobile>

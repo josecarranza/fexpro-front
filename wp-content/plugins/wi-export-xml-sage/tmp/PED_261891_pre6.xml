@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="261891" Cliente="0445" Nombre="David Muñoz" Fecha="19/06/2025" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AVENIDA GALO PLAZA LASSO Y DE LOS CEREZOS # 13205" Direccion2="Ecuador Pichincha QUITO 170144" AgenteEmbarcador="" Observaciones="MARATHON TAF ECUADOR - HW NIKE MLB SS26 Q1" ResponsablePedido="" ResponsableImportacion="" Contacto="David Muñoz" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NB03-194N-NK-BEE" Color="BEE" Cantidad="10" Almacen="" size_M-L="120" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="11.5"></Linea>
+    <Linea Producto="NB04-0IVS-LD-5QB" Color="5QB" Cantidad="7" Almacen="" size_M-L="84" Unit_Box_Qty="12" Total_Box_Qty="84" Precio="12"></Linea>
+    <Linea Producto="NB09-194N-NK-8KY" Color="8KY" Cantidad="10" Almacen="" size_M-L="120" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="12"></Linea>
+    <Linea Producto="NB09-194R-LD-8KY" Color="8KY" Cantidad="7" Almacen="" size_M-L="84" Unit_Box_Qty="12" Total_Box_Qty="84" Precio="12"></Linea>
+    <Linea Producto="NB09-195W-BRS-F0J" Color="F0J" Cantidad="7" Almacen="" size_M-L="84" Unit_Box_Qty="12" Total_Box_Qty="84" Precio="12"></Linea>
+    <Linea Producto="NB09-0G97-LD-U2A" Color="U2A" Cantidad="7" Almacen="" size_M-L="84" Unit_Box_Qty="12" Total_Box_Qty="84" Precio="13"></Linea>
+    <Linea Producto="NB45-0I8A-BRS-U8F" Color="U8F" Cantidad="7" Almacen="" size_M-L="84" Unit_Box_Qty="12" Total_Box_Qty="84" Precio="12"></Linea>
+    <Linea Producto="NB11-11L5-NK-3YB" Color="3YB" Cantidad="18" Almacen="" size_M-L="216" Unit_Box_Qty="12" Total_Box_Qty="216" Precio="11.5"></Linea>
+  </Encabezado>
+</Sagemobile>

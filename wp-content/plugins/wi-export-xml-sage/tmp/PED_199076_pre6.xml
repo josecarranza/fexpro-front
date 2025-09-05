@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="199076" Cliente="0447" Nombre="Gerardo Camino" Fecha="07/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="ISIDORA GOYENECHEA 3365 Los Condes" Direccion2="Chile Región Metropolitana de Santiago Santiago " AgenteEmbarcador="" Observaciones="MARATHON CHILE - HOMBRES MESSIE FW24 Q4&#13;&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Gerardo Camino" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MSPTS524210-BK6" Color="BK6" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="7"></Linea>
+    <Linea Producto="MSPTS524210-PK1" Color="PK1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="7"></Linea>
+    <Linea Producto="MSPTS524211-BK1" Color="BK1" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="7"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="54184" Cliente="0463" Nombre="Emma Moreno" Fecha="30/07/2021" Tipo="1" Fecha_Entrega="30/07/2021" Direccion="Lago Zurich NO 245 COLONIA AMPLIACION GRANADA DEL MIGUEL HIDALDO CP 11529 EDIFICIO PRESA FALCON PISO 9" Direccion2="Mexico Ciudad de México CDMX 11529" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Emma Moreno" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NASSB52201WHT" Color="WHT" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="299.4"></Linea>
+    <Linea Producto="NASSB52201BLK" Color="BLK" Cantidad="8" size_OS="192" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="299.4"></Linea>
+    <Linea Producto="NIRSB52201BLU" Color="BLU" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="299.4"></Linea>
+    <Linea Producto="NIRSB52201NVY" Color="NVY" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="299.4"></Linea>
+    <Linea Producto="COCSB52201RED" Color="RED" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="299.4"></Linea>
+    <Linea Producto="COCSB52206RED" Color="RED" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="299.4"></Linea>
+    <Linea Producto="KISSB52202BLK" Color="BLK" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="299.4"></Linea>
+    <Linea Producto="ACSB52203BLK" Color="BLK" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="299.4"></Linea>
+    <Linea Producto="ACSB52201BLK" Color="BLK" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="329.4"></Linea>
+    <Linea Producto="COCSB52205RED" Color="RED" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="299.4"></Linea>
+    <Linea Producto="COCSB52204BLK" Color="BLK" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="299.4"></Linea>
+    <Linea Producto="COCSB52209RED" Color="RED" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="329.4"></Linea>
+  </Encabezado>
+</Sagemobile>

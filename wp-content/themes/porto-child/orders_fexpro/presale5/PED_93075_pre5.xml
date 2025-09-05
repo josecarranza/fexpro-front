@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="93075" Cliente="0451" Nombre="Felipe Orellana" Fecha="24/12/2021" Tipo="1" Fecha_Entrega="24/12/2021" Direccion="MANUEL RODRIGUEZ 730 " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO CENTRO " Vendedor="01" AgenteEmbarcador="" Observaciones="FALABELLA UNDERWEAR NBA HOMBRE (PIJ-BOX-SOCK) FW22&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Felipe Orellana" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBABX522201-RED" Color="RED" Cantidad="48" size_S="192" size_M="384" size_L="384" size_XL="192" Unit_Box_Qty="24" Total_Box_Qty="1152" Precio="6.5"></Linea>
+    <Linea Producto="NBABX522201-PUR" Color="PUR" Cantidad="48" size_S="192" size_M="384" size_L="384" size_XL="192" Unit_Box_Qty="24" Total_Box_Qty="1152" Precio="6.5"></Linea>
+    <Linea Producto="NBABX522201-GRY" Color="GRY" Cantidad="48" size_S="192" size_M="384" size_L="384" size_XL="192" Unit_Box_Qty="24" Total_Box_Qty="1152" Precio="6.5"></Linea>
+    <Linea Producto="NBABX522201-LHB" Color="LHB" Cantidad="48" size_S="192" size_M="384" size_L="384" size_XL="192" Unit_Box_Qty="24" Total_Box_Qty="1152" Precio="6.5"></Linea>
+    <Linea Producto="NBASO522201-BLK" Color="BLK" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="3.5"></Linea>
+    <Linea Producto="NBASO522201-PUR" Color="PUR" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="3.5"></Linea>
+    <Linea Producto="NBASO522201-WHT" Color="WHT" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="3.5"></Linea>
+    <Linea Producto="NBASO522201-GRN" Color="GRN" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="3.5"></Linea>
+    <Linea Producto="NBASO522201-WHT1" Color="WHT1" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="3.5"></Linea>
+    <Linea Producto="NBAPJ522203-RED" Color="RED" Cantidad="67" size_S="268" size_M="536" size_L="536" size_XL="268" Unit_Box_Qty="24" Total_Box_Qty="1608" Precio="10"></Linea>
+    <Linea Producto="NBAPJ522203-PUR" Color="PUR" Cantidad="67" size_S="268" size_M="536" size_L="536" size_XL="268" Unit_Box_Qty="24" Total_Box_Qty="1608" Precio="10"></Linea>
+    <Linea Producto="NBAPJ522203-GRY" Color="GRY" Cantidad="67" size_S="268" size_M="536" size_L="536" size_XL="268" Unit_Box_Qty="24" Total_Box_Qty="1608" Precio="10"></Linea>
+    <Linea Producto="NBAPJ522203-BLK" Color="BLK" Cantidad="67" size_S="268" size_M="536" size_L="536" size_XL="268" Unit_Box_Qty="24" Total_Box_Qty="1608" Precio="10"></Linea>
+  </Encabezado>
+</Sagemobile>

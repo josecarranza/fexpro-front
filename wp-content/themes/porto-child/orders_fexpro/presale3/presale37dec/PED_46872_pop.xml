@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="46872" Cliente="0036" Nombre="Gabriela Benitez" Fecha="26/07/2021" Tipo="1" Fecha_Entrega="26/07/2021" Direccion="PASEO GENERAL ESCALON #3700 CENTRO COMERCIAL GALERIAS " Direccion2="El Salvador  SAN SALVADOR 00000" Vendedor="01" AgenteEmbarcador="" Observaciones="Compra Regional" ResponsablePedido="" ResponsableImportacion="" Contacto="Gabriela Benitez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PCBX52201-NVY" Color="NVY" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6.2"></Linea>
+    <Linea Producto="NASBX52201-BLU" Color="BLU" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6.2"></Linea>
+    <Linea Producto="MTBX52201-NVY" Color="NVY" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6.2"></Linea>
+    <Linea Producto="FDBX52201-NVY" Color="NVY" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6.2"></Linea>
+    <Linea Producto="SPRBX52201-GRN" Color="GRN" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="6.2"></Linea>
+    <Linea Producto="FTBX52201-GRY" Color="GRY" Cantidad="13" size_S="52" size_M="104" size_L="104" size_XL="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="6.2"></Linea>
+    <Linea Producto="COCBX52201-BLK" Color="BLK" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6.2"></Linea>
+    <Linea Producto="GLBX52201-BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.2"></Linea>
+    <Linea Producto="ACBX52201-BLK" Color="BLK" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6.2"></Linea>
+    <Linea Producto="PWBX52201-BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.2"></Linea>
+    <Linea Producto="SOUBX52201-NVY" Color="NVY" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="6.2"></Linea>
+    <Linea Producto="BABBX52201-NVY" Color="NVY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.2"></Linea>
+    <Linea Producto="PCSO52202-NVY" Color="NVY" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="2.5"></Linea>
+    <Linea Producto="PCSO52201-BLK" Color="BLK" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="3"></Linea>
+    <Linea Producto="NASSO52202-BLU" Color="BLU" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="2.5"></Linea>
+    <Linea Producto="NASSO52201-BLUE" Color="BLUE" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="3"></Linea>
+    <Linea Producto="MTSO52202-NVY" Color="NVY" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="2.5"></Linea>
+    <Linea Producto="MTSO52201-NVY" Color="NVY" Cantidad="14" size_OS="336" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="3"></Linea>
+    <Linea Producto="FDSO52202-GRY" Color="GRY" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="2.5"></Linea>
+    <Linea Producto="FDSO52201-BLK" Color="BLK" Cantidad="14" size_OS="336" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="3"></Linea>
+    <Linea Producto="SPRSO52202-GRN" Color="GRN" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="2.5"></Linea>
+    <Linea Producto="SPRSO52201-GRN" Color="GRN" Cantidad="8" size_OS="192" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="3"></Linea>
+    <Linea Producto="FTSO52202-BLK" Color="BLK" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="2.5"></Linea>
+    <Linea Producto="FTSO52201-NVY" Color="NVY" Cantidad="8" size_OS="192" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="3"></Linea>
+    <Linea Producto="COCSO52202-BLK" Color="BLK" Cantidad="12" size_OS="288" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="2.5"></Linea>
+    <Linea Producto="COCSO52201-BLK" Color="BLK" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="3"></Linea>
+    <Linea Producto="GLSO52202-BLK" Color="BLK" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="2.5"></Linea>
+    <Linea Producto="GLSO52201-NVY" Color="NVY" Cantidad="8" size_OS="192" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="3"></Linea>
+    <Linea Producto="ACSO52202-BLK" Color="BLK" Cantidad="8" size_OS="192" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="2.5"></Linea>
+    <Linea Producto="ACSO52201-GRY" Color="GRY" Cantidad="14" size_OS="336" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="3"></Linea>
+    <Linea Producto="PWSO52202-NVY" Color="NVY" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="2.5"></Linea>
+    <Linea Producto="PWSO52201-BLK" Color="BLK" Cantidad="8" size_OS="192" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="3"></Linea>
+    <Linea Producto="SOUSO52202-NVY" Color="NVY" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="2.5"></Linea>
+    <Linea Producto="SOUSO52201-BLU" Color="BLU" Cantidad="16" size_OS="384" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="3"></Linea>
+    <Linea Producto="BABSO52202-BLK" Color="BLK" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="2.5"></Linea>
+    <Linea Producto="BABSO52201-BLK" Color="BLK" Cantidad="8" size_OS="192" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="3"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="46774" Cliente="0458" Nombre="Josefina Bezanilla" Fecha="26/07/2021" Tipo="1" Fecha_Entrega="26/07/2021" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES " Direccion2="Chile  SANTIAGO 7560356" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS MEN FOOTWEAR - TIENDAS SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="Josefina Bezanilla" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="" Color="" Cantidad="19" size_7="76" size_8="114" size_9="152" size_10="76" size_11="38" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="5.25"></Linea>
+    <Linea Producto="" Color="" Cantidad="19" size_7="76" size_8="114" size_9="152" size_10="76" size_11="38" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="5.25"></Linea>
+    <Linea Producto="" Color="" Cantidad="19" size_7="76" size_8="114" size_9="152" size_10="76" size_11="38" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="5.25"></Linea>
+    <Linea Producto="" Color="" Cantidad="19" size_7="76" size_8="114" size_9="152" size_10="76" size_11="38" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="5.25"></Linea>
+    <Linea Producto="NBACS52203-RED" Color="RED" Cantidad="19" size_7="76" size_8="114" size_9="152" size_10="76" size_11="38" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="5.25"></Linea>
+    <Linea Producto="NBACS52203-YEL" Color="YEL" Cantidad="19" size_7="76" size_8="114" size_9="152" size_10="76" size_11="38" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="5.25"></Linea>
+    <Linea Producto="NBACS52203-GRY" Color="GRY" Cantidad="19" size_7="76" size_8="114" size_9="152" size_10="76" size_11="38" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="5.25"></Linea>
+    <Linea Producto="NBACS52204-RED" Color="RED" Cantidad="19" size_7="76" size_8="114" size_9="152" size_10="76" size_11="38" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="5.7"></Linea>
+    <Linea Producto="NBACS52204-BLK" Color="BLK" Cantidad="19" size_7="76" size_8="114" size_9="152" size_10="76" size_11="38" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="5.7"></Linea>
+    <Linea Producto="NBACS52204-GRY" Color="GRY" Cantidad="19" size_7="76" size_8="114" size_9="152" size_10="76" size_11="38" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="5.7"></Linea>
+  </Encabezado>
+</Sagemobile>

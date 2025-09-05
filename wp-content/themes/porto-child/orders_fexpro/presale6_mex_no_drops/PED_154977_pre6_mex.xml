@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="154977" Cliente="0000" Nombre="JAVIER TORRES" Fecha="12/12/2022" Tipo="1" Fecha_Entrega="12/12/2022" Direccion="Humberto Lobo, Num. Ext.: 540, Num. Int.: A, Col.: Del Valle, CP.:66220, Del. ó Mun.:San Pedro Garza García, Ciudad:San Pedro Garza García, " Direccion2="Mexico Nuevo León Nuevo León, 66220" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="JAVIER TORRES" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBHD52001-NVY" Color="NVY" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="430.60344829167"></Linea>
+    <Linea Producto="MLBHD52001-NVY2" Color="NVY2" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="430.60344829167"></Linea>
+    <Linea Producto="MLBHD52001-BLU" Color="BLU" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="430.60344829167"></Linea>
+    <Linea Producto="MLBJS520220-WHT" Color="WHT" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="387.5"></Linea>
+    <Linea Producto="MLBJS520220-RED" Color="RED" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="387.5"></Linea>
+    <Linea Producto="MLBJS520220-NVY" Color="NVY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="387.5"></Linea>
+    <Linea Producto="MLBJS520220-BLU" Color="BLU" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="387.5"></Linea>
+    <Linea Producto="MLBJS520220-BLU2" Color="BLU2" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="387.5"></Linea>
+    <Linea Producto="MLBTS520200-BLK" Color="BLK" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBTS520200-NVY" Color="NVY" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBTS520200-NVY2" Color="NVY2" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBTS520200-WHT2" Color="WHT2" Cantidad="11" size_S="44" size_M="88" size_L="88" size_XL="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBTS520200-BLU2" Color="BLU2" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBTS520200-WHT3" Color="WHT3" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBJS320220-WHT" Color="WHT" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="365.948275875"></Linea>
+    <Linea Producto="MLBJS320220-RED" Color="RED" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="365.948275875"></Linea>
+    <Linea Producto="MLBJS320220-NVY" Color="NVY" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="365.948275875"></Linea>
+    <Linea Producto="MLBJS320220-BLU" Color="BLU" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="365.948275875"></Linea>
+    <Linea Producto="MLBTS320200-NVY2" Color="NVY2" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="150.4310345"></Linea>
+    <Linea Producto="MLBTS320200-BLU2" Color="BLU2" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="150.4310345"></Linea>
+    <Linea Producto="MLBTS320200-NVY" Color="NVY" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="150.4310345"></Linea>
+    <Linea Producto="MLBTS323201-WH1" Color="WH1" Cantidad="11" size_4="22" size_6="44" size_8="44" size_10="44" size_12="44" size_14="44" size_16="22" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="150.4310345"></Linea>
+    <Linea Producto="MLBTS323201-WH2" Color="WH2" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="150.4310345"></Linea>
+    <Linea Producto="MLBTS323201-WH3" Color="WH3" Cantidad="11" size_4="22" size_6="44" size_8="44" size_10="44" size_12="44" size_14="44" size_16="22" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="150.4310345"></Linea>
+    <Linea Producto="MLBTS323202-LB1" Color="LB1" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="150.4310345"></Linea>
+    <Linea Producto="MLBLS323201-NV1" Color="NV1" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="180.60344829167"></Linea>
+    <Linea Producto="MLBLS323201-NV2" Color="NV2" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="180.60344829167"></Linea>
+    <Linea Producto="MLBLS323201-NV3" Color="NV3" Cantidad="6" size_4="12" size_6="24" size_8="24" size_10="24" size_12="24" size_14="24" size_16="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="180.60344829167"></Linea>
+  </Encabezado>
+</Sagemobile>

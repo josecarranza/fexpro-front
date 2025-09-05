@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="177891" Cliente="0000" Nombre="OMAR CELIS" Fecha="27/06/2023" Tipo="1" Direccion="RADIATAS 42 BOSQUES DE LAS LOMAS " Direccion2="Mexico Ciudad de México CUAJIMALPA DE MORELOS 05120" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="OMAR CELIS" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBTS520200-NVY2" Color="NVY2" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="211.47"></Linea>
+    <Linea Producto="MLBHD52001-BLU" Color="BLU" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="555.97"></Linea>
+    <Linea Producto="MLBHD52001-GRY" Color="GRY" Cantidad="50" size_S="200" size_M="400" size_L="400" size_XL="200" Unit_Box_Qty="24" Total_Box_Qty="1200" Precio="555.97"></Linea>
+    <Linea Producto="MLBHD62208-BLU" Color="BLU" Cantidad="18" size_XS="72" size_S="144" size_M="144" size_L="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="555.97"></Linea>
+    <Linea Producto="MLBSW52205-NVY2" Color="NVY2" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="423.47"></Linea>
+    <Linea Producto="MLBHD324103-NV1" Color="NV1" Cantidad="15" size_10="60" size_12="120" size_14="120" size_16="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="449.97"></Linea>
+    <Linea Producto="MLBCT624104-NV1" Color="NV1" Cantidad="23" size_XS="92" size_S="184" size_M="184" size_L="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="423.47"></Linea>
+    <Linea Producto="MLBHD624105-NV1" Color="NV1" Cantidad="21" size_XS="84" size_S="168" size_M="168" size_L="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="529.47"></Linea>
+    <Linea Producto="MLBHD524103-BK1" Color="BK1" Cantidad="50" size_S="200" size_M="400" size_L="400" size_XL="200" Unit_Box_Qty="24" Total_Box_Qty="1200" Precio="608.97"></Linea>
+    <Linea Producto="MLBTS524109-BK1" Color="BK1" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="248.57"></Linea>
+    <Linea Producto="MLBTS524109-WH2" Color="WH2" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="248.57"></Linea>
+    <Linea Producto="MLBJS524104-BK1" Color="BK1" Cantidad="50" size_S="200" size_M="400" size_L="400" size_XL="200" Unit_Box_Qty="24" Total_Box_Qty="1200" Precio="423.47"></Linea>
+    <Linea Producto="MLBJS524104-WH1" Color="WH1" Cantidad="38" size_S="152" size_M="304" size_L="304" size_XL="152" Unit_Box_Qty="24" Total_Box_Qty="912" Precio="423.47"></Linea>
+    <Linea Producto="MLBHD524107-BK1" Color="BK1" Cantidad="58" size_S="232" size_M="464" size_L="464" size_XL="232" Unit_Box_Qty="24" Total_Box_Qty="1392" Precio="582.47"></Linea>
+    <Linea Producto="MLBHD624103-BK1" Color="BK1" Cantidad="21" size_XS="84" size_S="168" size_M="168" size_L="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="8.745"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="138533" Cliente="0463" Nombre="Humberto Sanchez" Fecha="17/08/2022" Tipo="1" Fecha_Entrega="17/08/2022" Direccion="AV. J. MERCED CABRERA, 1200 COL. LA COMARCA MEXICO COLIMA VILLA DE ALVAREZ 28989" Direccion2="Mexico Colima COLIMA 28989" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Humberto Sanchez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBBK523101-GRY" Color="GRY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="382.90224358333"></Linea>
+    <Linea Producto="MLBBK523101-GRY2" Color="GRY2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="382.90224358333"></Linea>
+    <Linea Producto="MLBBK523101-BLK" Color="BLK" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="382.90224358333"></Linea>
+    <Linea Producto="MLBBK523103-GRY" Color="GRY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="357.34134616667"></Linea>
+    <Linea Producto="MLBBK523103-NVY" Color="NVY" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="357.34134616667"></Linea>
+    <Linea Producto="MLBBK523103-GRY3" Color="GRY3" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="357.34134616667"></Linea>
+    <Linea Producto="MLBFB523102-BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="188.63942308333"></Linea>
+    <Linea Producto="MLBFB523102-BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="188.63942308333"></Linea>
+    <Linea Producto="PSGBK523101-BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="382.90224358333"></Linea>
+    <Linea Producto="PSGBK523101-NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="382.90224358333"></Linea>
+    <Linea Producto="PSGFB523102-BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="188.63942308333"></Linea>
+    <Linea Producto="MLBBK523101-BLU" Color="BLU" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="382.90224358333"></Linea>
+    <Linea Producto="MLBBK523101-NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="382.90224358333"></Linea>
+    <Linea Producto="MLBBK523103-GRY2" Color="GRY2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="357.34134616667"></Linea>
+    <Linea Producto="MLBDB523102-BLK2" Color="BLK2" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="336.89262820833"></Linea>
+    <Linea Producto="MLBDB523102-NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="336.89262820833"></Linea>
+    <Linea Producto="MLBFB523102-NVY" Color="NVY" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="188.63942308333"></Linea>
+    <Linea Producto="MLBDB523102-BLK" Color="BLK" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="336.89262820833"></Linea>
+    <Linea Producto="MLBDB523102-BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="336.89262820833"></Linea>
+    <Linea Producto="MLBDB523102-BLK3" Color="BLK3" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="336.89262820833"></Linea>
+    <Linea Producto="MLBFB523102-BLK3" Color="BLK3" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="188.63942308333"></Linea>
+  </Encabezado>
+</Sagemobile>

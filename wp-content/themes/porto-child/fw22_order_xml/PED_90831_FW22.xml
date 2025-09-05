@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="90831" Cliente="0531" Nombre="Andrea Sanchez" Fecha="06/12/2021" Tipo="1" Fecha_Entrega="06/12/2021" Direccion="Av. El Sol 2241 " Direccion2="Peru Lima Villa El Salvador 15831" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Andrea Sanchez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PSGSB522208-BLU" Color="BLU" Cantidad="7" size_40="28" size_41="42" size_43="56" size_44="28" size_45="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="5"></Linea>
+    <Linea Producto="NASSS52201-NVY" Color="NVY" Cantidad="7" size_40="28" size_41="42" size_43="56" size_44="28" size_45="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6"></Linea>
+    <Linea Producto="NBASS52202-PUR" Color="PUR" Cantidad="10" size_40="40" size_41="60" size_43="80" size_44="40" size_45="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6"></Linea>
+    <Linea Producto="NBASS52202-BLK" Color="BLK" Cantidad="7" size_40="28" size_41="42" size_43="56" size_44="28" size_45="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="5"></Linea>
+    <Linea Producto="SFSS52201-BLK" Color="BLK" Cantidad="10" size_40="40" size_41="60" size_43="80" size_44="40" size_45="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7"></Linea>
+    <Linea Producto="NBASL522201-RED" Color="RED" Cantidad="10" size_40="40" size_41="60" size_43="80" size_44="40" size_45="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="7"></Linea>
+    <Linea Producto="NBASL522201-PUR" Color="PUR" Cantidad="14" size_40="56" size_41="84" size_43="112" size_44="56" size_45="28" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="6"></Linea>
+    <Linea Producto="RMSL522201-BLU" Color="BLU" Cantidad="14" size_40="56" size_41="84" size_43="112" size_44="56" size_45="28" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="6"></Linea>
+    <Linea Producto="PSGSL522201-BLK" Color="BLK" Cantidad="12" size_40="48" size_41="72" size_43="96" size_44="48" size_45="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="6"></Linea>
+    <Linea Producto="CORSL52201-NVY" Color="NVY" Cantidad="10" size_7="40" size_8="60" size_9="80" size_10="40" size_11="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6"></Linea>
+    <Linea Producto="MLBFF518401-WHT" Color="WHT" Cantidad="12" size_40="48" size_41="72" size_43="96" size_44="48" size_45="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="6.5"></Linea>
+    <Linea Producto="NBASL522207-BLK" Color="BLK" Cantidad="7" size_40="28" size_41="42" size_43="56" size_44="28" size_45="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6.5"></Linea>
+    <Linea Producto="NBASL522207-PUR" Color="PUR" Cantidad="11" size_7="44" size_8="66" size_9="88" size_10="44" size_11="22" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="6"></Linea>
+    <Linea Producto="NBASL52204-RED" Color="RED" Cantidad="8" size_7="32" size_8="48" size_9="64" size_10="32" size_11="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="6"></Linea>
+    <Linea Producto="NBASL52204-BLK" Color="BLK" Cantidad="4" size_7="16" size_8="24" size_9="32" size_10="16" size_11="8" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="6"></Linea>
+    <Linea Producto="NBASL52101-BLK2" Color="BLK2" Cantidad="7" size_7="28" size_8="42" size_9="56" size_10="28" size_11="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6"></Linea>
+    <Linea Producto="NBASL52101-BLK3" Color="BLK3" Cantidad="7" size_40="28" size_41="42" size_43="56" size_44="28" size_45="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6"></Linea>
+    <Linea Producto="NASSL52202-NVY" Color="NVY" Cantidad="12" size_40="48" size_41="72" size_43="96" size_44="48" size_45="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="5"></Linea>
+    <Linea Producto="BUDCS2202-NVY" Color="NVY" Cantidad="9" size_40="36" size_41="54" size_43="72" size_44="36" size_45="18" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="9" size_40="36" size_41="54" size_43="72" size_44="36" size_45="18" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="9" size_7="36" size_8="54" size_9="72" size_10="36" size_11="18" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="5"></Linea>
+    <Linea Producto="NBACS52204-RED" Color="RED" Cantidad="10" size_7="40" size_8="60" size_9="80" size_10="40" size_11="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="5"></Linea>
+    <Linea Producto="NBACS52204-BLK" Color="BLK" Cantidad="6" size_7="24" size_8="36" size_9="48" size_10="24" size_11="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="5"></Linea>
+    <Linea Producto="NBACS52204-GRY" Color="GRY" Cantidad="13" size_40="52" size_41="78" size_43="104" size_44="52" size_45="26" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="5"></Linea>
+    <Linea Producto="CORCS52202-YEL" Color="YEL" Cantidad="8" size_40="32" size_41="48" size_43="64" size_44="32" size_45="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="5"></Linea>
+    <Linea Producto="PCCS52201-BLK" Color="BLK" Cantidad="7" size_40="28" size_41="42" size_43="56" size_44="28" size_45="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="5"></Linea>
+    <Linea Producto="SOUCS52201-BLK" Color="BLK" Cantidad="13" size_40="52" size_41="78" size_43="104" size_44="52" size_45="26" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="3.7"></Linea>
+    <Linea Producto="NBAFF522202-RED" Color="RED" Cantidad="10" size_40="40" size_41="60" size_43="80" size_44="40" size_45="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="3.7"></Linea>
+    <Linea Producto="NBAFF522202-PUR" Color="PUR" Cantidad="7" size_40="28" size_41="42" size_43="56" size_44="28" size_45="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="3.7"></Linea>
+    <Linea Producto="MLBFF522202-BLU" Color="BLU" Cantidad="13" size_40="52" size_41="78" size_43="104" size_44="52" size_45="26" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="3.7"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="261892" Cliente="SPORTP" Nombre="Diego Aguirre" Fecha="19/06/2025" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="PUEBLA 305 COLONIA BELLAVISTA" Direccion2="Mexico Guanajuato LEON 37360" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Diego Aguirre" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="RE260HVMWBJUFA" Color="UFA" Cantidad="5" Almacen="" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1421.9396551667"></Linea>
+    <Linea Producto="RE260HYCWBJUFA" Color="UFA" Cantidad="5" Almacen="" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1421.9396551667"></Linea>
+    <Linea Producto="RE260GZSWBXUFA" Color="UFA" Cantidad="5" Almacen="" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1421.9396551667"></Linea>
+    <Linea Producto="RE260HDWWBXUFA" Color="UFA" Cantidad="5" Almacen="" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1421.9396551667"></Linea>
+    <Linea Producto="RE260GZIWBUUFA" Color="UFA" Cantidad="5" Almacen="" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1421.9396551667"></Linea>
+    <Linea Producto="N19910AWBJEBT" Color="EBT" Cantidad="5" Almacen="" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="473.66379308333"></Linea>
+    <Linea Producto="N19910AWBXEBT" Color="EBT" Cantidad="5" Almacen="" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="473.66379308333"></Linea>
+    <Linea Producto="N19910AWBUEBT" Color="EBT" Cantidad="5" Almacen="" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="473.66379308333"></Linea>
+    <Linea Producto="N19944BWBUNDZ" Color="NDZ" Cantidad="5" Almacen="" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="473.66379308333"></Linea>
+  </Encabezado>
+</Sagemobile>

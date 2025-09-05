@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="138277" Cliente="0514" Nombre="Gonzalo Escobar" Fecha="04/08/2022" Tipo="1" Fecha_Entrega="04/08/2022" Direccion="AV LO ESPEJO 01565 " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Gonzalo Escobar" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBBK523103-NVY" Color="NVY" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="11"></Linea>
+    <Linea Producto="MLBBK523103-NVY2" Color="NVY2" Cantidad="8" size_OS="192" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="11"></Linea>
+    <Linea Producto="MLBMB523101-BLK2" Color="BLK2" Cantidad="30" size_OS="720" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="6.5"></Linea>
+    <Linea Producto="MLBMB523101-BLK3" Color="BLK3" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.5"></Linea>
+    <Linea Producto="NBABK523103-GRY" Color="GRY" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="11"></Linea>
+    <Linea Producto="NBABK523103-GRY2" Color="GRY2" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="11"></Linea>
+    <Linea Producto="NBABK523103-GRY5" Color="GRY5" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="11"></Linea>
+    <Linea Producto="NBAFB523106-BLK1" Color="BLK1" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="5.5"></Linea>
+    <Linea Producto="NBAFB523106-BLK2" Color="BLK2" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="5.5"></Linea>
+  </Encabezado>
+</Sagemobile>

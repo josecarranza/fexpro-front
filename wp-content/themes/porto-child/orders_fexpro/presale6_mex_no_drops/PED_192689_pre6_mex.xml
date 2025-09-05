@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="192689" Cliente="0INN" Nombre="Armando Lopez" Fecha="07/12/2023" Tipo="1" Fecha_Entrega="07/12/2023" Direccion="Manuel Santos 540A " Direccion2="Mexico Nuevo León Monterrey 66230" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Armando Lopez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBJS524202BK1" Color="BK1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="430.60344829167"></Linea>
+    <Linea Producto="MLBJS524202GY1" Color="GY1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="430.60344829167"></Linea>
+    <Linea Producto="MLBJS524202BL1" Color="BL1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="430.60344829167"></Linea>
+    <Linea Producto="MLBJS524202RD1" Color="RD1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="430.60344829167"></Linea>
+  </Encabezado>
+</Sagemobile>

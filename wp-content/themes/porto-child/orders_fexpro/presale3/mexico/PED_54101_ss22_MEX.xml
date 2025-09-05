@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="54101" Cliente="SEAR" Nombre="mariana preciado" Fecha="30/07/2021" Tipo="1" Fecha_Entrega="30/07/2021" Direccion="Lago Zurich No. 245, Edificio Presa Falcon Piso 7" Direccion2="Mexico Ciudad de México Colonia Granada Ampliacion , Alcaldia Miguel Hidalgo 11529" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="mariana preciado" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NASTS52203DGRY" Color="DGRY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="239.4"></Linea>
+    <Linea Producto="NASHD52201LBL" Color="LBL" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="539.4"></Linea>
+    <Linea Producto="NASWS52201GRY" Color="GRY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="479.4"></Linea>
+    <Linea Producto="NASHD52202GRY" Color="GRY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="539.4"></Linea>
+    <Linea Producto="COCHD52201BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="539.4"></Linea>
+    <Linea Producto="COCTS52203BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="221.4"></Linea>
+    <Linea Producto="COCTS52203GRY2" Color="GRY2" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="221.4"></Linea>
+    <Linea Producto="COCHD52202BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="539.4"></Linea>
+    <Linea Producto="COCTS52202BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="221.4"></Linea>
+    <Linea Producto="NIRSW52201BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="479.4"></Linea>
+    <Linea Producto="NIRTS52202BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="239.4"></Linea>
+    <Linea Producto="NIRTS52201WHT" Color="WHT" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="239.4"></Linea>
+    <Linea Producto="GYTS52203GRN" Color="GRN" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="221.4"></Linea>
+    <Linea Producto="ACTS52202GRY" Color="GRY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="317.4"></Linea>
+    <Linea Producto="ACLS52201BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="479.4"></Linea>
+    <Linea Producto="ACTS52201BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="221.4"></Linea>
+    <Linea Producto="SOPSW52202BLU" Color="BLU" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="599.4"></Linea>
+    <Linea Producto="SOPTS52201BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="239.4"></Linea>
+  </Encabezado>
+</Sagemobile>

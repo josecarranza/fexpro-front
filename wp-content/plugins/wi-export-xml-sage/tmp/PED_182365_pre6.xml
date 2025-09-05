@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="182365" Cliente="0000" Nombre="Karina Gomez" Fecha="24/10/2023" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Avenida Samuel Lewis, Calle 54 Edificio Afra " Direccion2="Panama Panamá Panama City 62557" AgenteEmbarcador="" Observaciones="SS24-Q2-RP-03-INTER MIAMI-KARINA GOMEZ GT" ResponsablePedido="" ResponsableImportacion="" Contacto="Karina Gomez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MIATS323201-BK1" Color="BK1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="5"></Linea>
+    <Linea Producto="MIATS323201-PK1" Color="PK1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="5"></Linea>
+  </Encabezado>
+</Sagemobile>

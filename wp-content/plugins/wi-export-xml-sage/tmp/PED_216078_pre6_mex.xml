@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="216078" Cliente="LIVER" Nombre="Axel Gonzalez" Fecha="07/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AVENIDA VALLE DE LAS ALAMEDAS #7 FRACCIONAMIENTO INDUSTRIAL LECH " Direccion2="Mexico Estado de México MEXICO ESTADO DE MÉXICO TULTITLAN 54940 54940" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Axel Gonzalez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBHD625101MT1" Color="MT1" Cantidad="14" size_XS="56" size_S="112" size_M="112" size_L="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="430.60344829167"></Linea>
+    <Linea Producto="MLBTS625101BK1" Color="BK1" Cantidad="17" size_XS="68" size_S="136" size_M="136" size_L="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBTS625101MT1" Color="MT1" Cantidad="17" size_XS="68" size_S="136" size_M="136" size_L="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="171.982758625"></Linea>
+    <Linea Producto="MLBJK625101BK1" Color="BK1" Cantidad="14" size_XS="56" size_S="112" size_M="112" size_L="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="646.12068966667"></Linea>
+    <Linea Producto="NBACT625101WH1" Color="WH1" Cantidad="17" size_XS="68" size_S="136" size_M="136" size_L="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="150.4310345"></Linea>
+    <Linea Producto="NBASH625102BK1" Color="BK1" Cantidad="15" size_XS="60" size_S="120" size_M="120" size_L="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="279.74137929167"></Linea>
+  </Encabezado>
+</Sagemobile>

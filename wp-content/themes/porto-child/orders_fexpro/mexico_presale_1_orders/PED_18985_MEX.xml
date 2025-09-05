@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="18985" Cliente="0463" Nombre="Frida Garcia" Fecha="23/04/2021" Tipo="1" Fecha_Entrega="23/04/2021" Direccion="Boulevard Atlixcayotl número 3246, Plaza Marsala, Colonia San Martinito interior 602" Direccion2="Mexico Puebla San Andrés Cholula 72825" Vendedor="01" AgenteEmbarcador="" Observaciones="FW21 - MR. TENNIS MX" ResponsablePedido="" ResponsableImportacion="" Contacto="Frida Garcia" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCSB52149BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="199.5"></Linea>
+    <Linea Producto="BCJK52143NVY" Color="NVY" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="449.5"></Linea>
+    <Linea Producto="BCPT52138NVY" Color="NVY" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="314.5"></Linea>
+    <Linea Producto="JVSB52167BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="199.5"></Linea>
+    <Linea Producto="MLBSL52110NVY" Color="NVY" Cantidad="1" size_7="4" size_8="6" size_9="8" size_10="4" size_11="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="224.5"></Linea>
+    <Linea Producto="MLBHD52001NVY" Color="NVY" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="449.5"></Linea>
+    <Linea Producto="MLBHD52001BLU" Color="BLU" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="449.5"></Linea>
+    <Linea Producto="MLBJK521127NVY" Color="NVY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="549.5"></Linea>
+    <Linea Producto="NBAHD521001BLK" Color="BLK" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="449.5"></Linea>
+    <Linea Producto="NBAHD521001YEL" Color="YEL" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="449.5"></Linea>
+    <Linea Producto="NBAHD521812BLK" Color="BLK" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="449.5"></Linea>
+    <Linea Producto="MLBHD521124NVY" Color="NVY" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="449.5"></Linea>
+    <Linea Producto="BCHD52133RED" Color="RED" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="374.5"></Linea>
+  </Encabezado>
+</Sagemobile>

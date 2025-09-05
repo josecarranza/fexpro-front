@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="161735" Cliente="0418" Nombre="Joaquin Benavides" Fecha="20/02/2023" Tipo="1" Fecha_Entrega="20/02/2023" Direccion="Av. Kennedy Numero 5413, piso 6" Direccion2="Chile Región Metropolitana de Santiago Las Condes, Santiago 7550000" Vendedor="01" AgenteEmbarcador="" Observaciones="RIPLEY CHILE - JUVENIL MLB Q4 FW23" ResponsablePedido="" ResponsableImportacion="" Contacto="Joaquin Benavides" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBTS520200-WHT" Color="WHT" Cantidad="67" size_S="268" size_M="536" size_L="536" size_XL="268" Unit_Box_Qty="24" Total_Box_Qty="1608" Precio="6"></Linea>
+    <Linea Producto="MLBTS520200-BLK" Color="BLK" Cantidad="67" size_S="268" size_M="536" size_L="536" size_XL="268" Unit_Box_Qty="24" Total_Box_Qty="1608" Precio="6"></Linea>
+    <Linea Producto="MLBTS520200-NVY" Color="NVY" Cantidad="63" size_S="252" size_M="504" size_L="504" size_XL="252" Unit_Box_Qty="24" Total_Box_Qty="1512" Precio="6"></Linea>
+    <Linea Producto="MLBJT520220-WHT" Color="WHT" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="10"></Linea>
+    <Linea Producto="MLBTS523208-WH2" Color="WH2" Cantidad="55" size_S="220" size_M="440" size_L="440" size_XL="220" Unit_Box_Qty="24" Total_Box_Qty="1320" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS523208-NV1" Color="NV1" Cantidad="46" size_S="184" size_M="368" size_L="368" size_XL="184" Unit_Box_Qty="24" Total_Box_Qty="1104" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS523208-WH1" Color="WH1" Cantidad="46" size_S="184" size_M="368" size_L="368" size_XL="184" Unit_Box_Qty="24" Total_Box_Qty="1104" Precio="6.5"></Linea>
+    <Linea Producto="MLBJS520220-WHT" Color="WHT" Cantidad="34" size_S="136" size_M="272" size_L="272" size_XL="136" Unit_Box_Qty="24" Total_Box_Qty="816" Precio="13"></Linea>
+    <Linea Producto="MLBTS523210-WH1" Color="WH1" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS520200-BLK3" Color="BLK3" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="6"></Linea>
+    <Linea Producto="MLBTS520200-BLU2" Color="BLU2" Cantidad="34" size_S="136" size_M="272" size_L="272" size_XL="136" Unit_Box_Qty="24" Total_Box_Qty="816" Precio="6"></Linea>
+    <Linea Producto="MLBSH520201-NVY" Color="NVY" Cantidad="34" size_S="136" size_M="272" size_L="272" size_XL="136" Unit_Box_Qty="24" Total_Box_Qty="816" Precio="9"></Linea>
+    <Linea Producto="MLBSH523206-NV1" Color="NV1" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="10.5"></Linea>
+    <Linea Producto="MLBJT520220-WHT2" Color="WHT2" Cantidad="26" size_S="104" size_M="208" size_L="208" size_XL="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="10"></Linea>
+    <Linea Producto="MLBTS523210-BK1" Color="BK1" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS523214-OW1" Color="OW1" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="6.5"></Linea>
+    <Linea Producto="MLBSH520201-BLU" Color="BLU" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="9"></Linea>
+    <Linea Producto="MLBSH523206-BL1" Color="BL1" Cantidad="22" size_S="88" size_M="176" size_L="176" size_XL="88" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="10.5"></Linea>
+  </Encabezado>
+</Sagemobile>

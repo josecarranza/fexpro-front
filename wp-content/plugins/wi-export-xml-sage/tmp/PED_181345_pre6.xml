@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="181345" Cliente="0455" Nombre="Matias Jimenez" Fecha="22/08/2023" Tipo="1" Direccion="SANTA ELVIRA 175 " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Matias Jimenez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAST324103-BK1" Color="BK1" Cantidad="36" size_4="144" size_6="288" size_8="288" size_10="144" Unit_Box_Qty="24" Total_Box_Qty="864" Precio="17"></Linea>
+    <Linea Producto="NBAST324102-BK1" Color="BK1" Cantidad="36" size_4="144" size_6="288" size_8="288" size_10="144" Unit_Box_Qty="24" Total_Box_Qty="864" Precio="17"></Linea>
+    <Linea Producto="NBAST324102-RD1" Color="RD1" Cantidad="36" size_4="144" size_6="288" size_8="288" size_10="144" Unit_Box_Qty="24" Total_Box_Qty="864" Precio="17"></Linea>
+  </Encabezado>
+</Sagemobile>

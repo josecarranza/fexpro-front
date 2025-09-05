@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="54156" Cliente="0514" Nombre="Gonzalo Escobar" Fecha="30/07/2021" Tipo="1" Fecha_Entrega="30/07/2021" Direccion="AV LO ESPEJO 01565 " Direccion2="Chile  SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="PIMPS FOOTWEAR - KIDS SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="Gonzalo Escobar" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBCS32201-BLU" Color="BLU" Cantidad="18" size_10="90" size_11="90" size_12="90" size_13="90" size_1="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="4.5"></Linea>
+    <Linea Producto="MLBCS32201-NVY1" Color="NVY1" Cantidad="18" size_10="90" size_11="90" size_12="90" size_13="90" size_1="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="4.5"></Linea>
+    <Linea Producto="NBACS32204-GRY" Color="GRY" Cantidad="18" size_10="90" size_11="90" size_12="90" size_13="90" size_1="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="5.15"></Linea>
+    <Linea Producto="NBACS32204-BLK" Color="BLK" Cantidad="18" size_10="90" size_11="90" size_12="90" size_13="90" size_1="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="5.15"></Linea>
+    <Linea Producto="NBACS32204-RED" Color="RED" Cantidad="18" size_10="90" size_11="90" size_12="90" size_13="90" size_1="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="5.15"></Linea>
+    <Linea Producto="" Color="" Cantidad="18" size_10="90" size_11="90" size_12="90" size_13="90" size_1="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="4.8"></Linea>
+    <Linea Producto="MLBCS32102-NVY1" Color="NVY1" Cantidad="18" size_10="90" size_11="90" size_12="90" size_13="90" size_1="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="4.8"></Linea>
+    <Linea Producto="MLBCS32102-BLU" Color="BLU" Cantidad="18" size_10="90" size_11="90" size_12="90" size_13="90" size_1="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="4.8"></Linea>
+  </Encabezado>
+</Sagemobile>

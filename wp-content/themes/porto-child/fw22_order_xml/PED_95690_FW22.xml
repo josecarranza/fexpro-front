@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="95690" Cliente="0000" Nombre="Paula Mostajo" Fecha="03/01/2022" Tipo="1" Fecha_Entrega="03/01/2022" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago CHILE 0000" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS CHILE - MUJER NFL TIENDA FW22" ResponsablePedido="" ResponsableImportacion="" Contacto="Paula Mostajo" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NFLCT622202-BLK1" Color="BLK1" Cantidad="32" size_XS="128" size_S="256" size_M="256" size_L="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="11.5"></Linea>
+    <Linea Producto="NFLTS622201-RED1" Color="RED1" Cantidad="32" size_XS="128" size_S="256" size_M="256" size_L="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="11.5"></Linea>
+    <Linea Producto="NFLTS622201-NVY" Color="NVY" Cantidad="43" size_XS="172" size_S="344" size_M="344" size_L="172" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="11.5"></Linea>
+    <Linea Producto="NFLTS622201-BLK1" Color="BLK1" Cantidad="64" size_XS="256" size_S="512" size_M="512" size_L="256" Unit_Box_Qty="24" Total_Box_Qty="1536" Precio="6"></Linea>
+    <Linea Producto="NFLCT622201-RED" Color="RED" Cantidad="106" size_XS="424" size_S="848" size_M="848" size_L="424" Unit_Box_Qty="24" Total_Box_Qty="2544" Precio="6"></Linea>
+    <Linea Producto="NFLCT622201-BLK" Color="BLK" Cantidad="106" size_XS="424" size_S="848" size_M="848" size_L="424" Unit_Box_Qty="24" Total_Box_Qty="2544" Precio="6"></Linea>
+    <Linea Producto="NFLCT622201-NVY" Color="NVY" Cantidad="85" size_XS="340" size_S="680" size_M="680" size_L="340" Unit_Box_Qty="24" Total_Box_Qty="2040" Precio="6"></Linea>
+    <Linea Producto="NFLCT622201-BLK1" Color="BLK1" Cantidad="21" size_XS="84" size_S="168" size_M="168" size_L="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="6"></Linea>
+    <Linea Producto="NFLCT622202-BLK" Color="BLK" Cantidad="21" size_XS="84" size_S="168" size_M="168" size_L="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="6"></Linea>
+    <Linea Producto="NFLCT622202-NVY" Color="NVY" Cantidad="21" size_XS="84" size_S="168" size_M="168" size_L="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

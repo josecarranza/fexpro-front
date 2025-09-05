@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sage>
+  <Imagenes Producto="NBAST324101-BK1" MainImage="NBAST324101-BK1.png"/>
+  <Imagenes Producto="NBAST324101-NV1" MainImage="NBAST324101-NV1.png"/>
+  <Imagenes Producto="HARSW624103-GY1" MainImage="HARSW624103-GY1-1024x1024.png">
+    <Secondary Archivo="HARSW624103-GY1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="YALSW624102-OW1" MainImage="YALSW624102-OW1-1024x1024.png">
+    <Secondary Archivo="YALSW624102-OW1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="YALCT624102-BG1" MainImage="YALCT624102-BG1-1024x1024.png">
+    <Secondary Archivo="YALCT624102-BG1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="HARCT624101-RD1" MainImage="HARCT624101-RD1-1024x1024.png">
+    <Secondary Archivo="HARCT624101-RD1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="HARPL624101-NV1" MainImage="HARPL624101-NV1-1024x1024.png">
+    <Secondary Archivo="HARPL624101-NV1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="YALTS624102-NV1" MainImage="YALTS624102-NV1-1024x1024.png">
+    <Secondary Archivo="YALTS624102-NV1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="RMDTS324104-NV2" MainImage="RMDTS324104-NV2-1024x1024.png">
+    <Secondary Archivo="RMDTS324104-NV2-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="BCNTS324104-NV1" MainImage="BCNTS324104-NV1-1024x1024.png">
+    <Secondary Archivo="BCNTS324104-NV1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGPJ324101-NV3" MainImage="PSGPJ324101-NV3-1024x1024.png"/>
+  <Imagenes Producto="BCNPJ324101-NV1" MainImage="BCNPJ324101-NV1-1024x1024.png"/>
+  <Imagenes Producto="RMDPJ324101-NV2" MainImage="RMDPJ324101-NV2-1024x1024.png"/>
+  <Imagenes Producto="BCNST324102-OW1" MainImage="BCNST324102-OW1-1024x1024.png"/>
+  <Imagenes Producto="RMDST324102-NV1" MainImage="RMDST324102-NV1-1024x1024.png"/>
+  <Imagenes Producto="BCNST324102-BL1" MainImage="BCNST324102-BL1-1024x1024.png"/>
+  <Imagenes Producto="RMDWR524104-NV2" MainImage="RMDWR524104-NV2-1024x1024.png">
+    <Secondary Archivo="RMDWR524104-NV2-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGWR524104-BK1" MainImage="PSGWR524104-BK1-1024x1024.png">
+    <Secondary Archivo="PSGWR524104-BK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="BCNWR524104-NV1" MainImage="BCNWR524104-NV1-1024x1024.png">
+    <Secondary Archivo="BCNWR524104-NV1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="RMDSH524104-NV2" MainImage="RMDSH524104-NV2-1024x1024.png">
+    <Secondary Archivo="RMDSH524104-NV2-back-1024x1024.png"></Secondary>
+    <Secondary Archivo="RMDSH524104-NV2-side1-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="BCNSH524104-NV1" MainImage="BCNSH524104-NV1-1024x1024.png">
+    <Secondary Archivo="BCNSH524104-NV1-back-1024x1024.png"></Secondary>
+    <Secondary Archivo="BCNSH524104-NV1-side1-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="RMDTS524108-NV2" MainImage="RMDTS524108-NV2-1024x1024.png">
+    <Secondary Archivo="RMDTS524108-NV2-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="BCNTS524108-NV1" MainImage="BCNTS524108-NV1-1024x1024.png">
+    <Secondary Archivo="BCNTS524108-NV1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="BCNTS524108-OW1" MainImage="BCNTS524108-OW1-1024x1024.png">
+    <Secondary Archivo="BCNTS524108-OW1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGTS524108-BK1" MainImage="PSGTS524108-BK1-1024x1024.png">
+    <Secondary Archivo="PSGTS524108-BK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGTS524108-PK1" MainImage="PSGTS524108-PK1-1024x1024.png">
+    <Secondary Archivo="PSGTS524108-PK1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="RMDTS524107-NV2" MainImage="RMDTS524107-NV2-1024x1024.png">
+    <Secondary Archivo="RMDTS524107-NV2-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="BCNTS524107-NV1" MainImage="BCNTS524107-NV1-1024x1024.png">
+    <Secondary Archivo="BCNTS524107-NV1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="BCNJS524107-OW1" MainImage="BCNJS524107-OW1-1024x1024.png">
+    <Secondary Archivo="BCNJS524107-OW1-back-1024x1024.png"></Secondary>
+  </Imagenes>
+  <Imagenes Producto="PSGJS524107-PR1" MainImage="PSGJS524107-PR1-1024x1024.png"><Secondary Archivo="PSGJS524107-PR1-back-1024x1024.png"></Secondary></Imagenes>
+</Sage>

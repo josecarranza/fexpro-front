@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="56144" Cliente="0463" Nombre="Adriana Hernandez" Fecha="04/08/2021" Tipo="1" Fecha_Entrega="04/08/2021" Direccion="Calle Lago Zurich 245, Amp Granada, Miguel Hidalgo, Calle Lago Zurich 245, Amp Granada, Miguel Hidalgo" Direccion2="Mexico Ciudad de México CDMX 11529" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Adriana Hernandez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="KISSB52202BLK" Color="BLK" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="299.4"></Linea>
+    <Linea Producto="NIRSB52102BLK" Color="BLK" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="281.4"></Linea>
+    <Linea Producto="COCBX52201BLK" Color="BLK" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="251.4"></Linea>
+    <Linea Producto="COCBX52202RED" Color="RED" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="251.4"></Linea>
+    <Linea Producto="COCSB52207BLK" Color="BLK" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="329.4"></Linea>
+    <Linea Producto="COCSB52201RED" Color="RED" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="299.4"></Linea>
+    <Linea Producto="COCSB52206RED" Color="RED" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="299.4"></Linea>
+    <Linea Producto="COCSO52201BLK" Color="BLK" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="119.4"></Linea>
+    <Linea Producto="COCSO52202BLK" Color="BLK" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="101.4"></Linea>
+    <Linea Producto="ACSO52201GRY" Color="GRY" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="119.4"></Linea>
+    <Linea Producto="ACSO52202BLK" Color="BLK" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="101.4"></Linea>
+    <Linea Producto="ACBX52201BLK" Color="BLK" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="251.4"></Linea>
+    <Linea Producto="ACBX52202BLK" Color="BLK" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="251.4"></Linea>
+    <Linea Producto="COCPJ52202BLK" Color="BLK" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="371.4"></Linea>
+    <Linea Producto="COCPJ52201BLK" Color="BLK" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="395.4"></Linea>
+    <Linea Producto="ACPJ52202GRY" Color="GRY" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="371.4"></Linea>
+    <Linea Producto="ACPJ52201GRY" Color="GRY" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="395.4"></Linea>
+    <Linea Producto="KISBX52102DGRY" Color="DGRY" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="251.4"></Linea>
+    <Linea Producto="NBABX52201RED" Color="RED" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="251.4"></Linea>
+    <Linea Producto="NBABX52203BLK" Color="BLK" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="251.4"></Linea>
+    <Linea Producto="NBABX52207PUR" Color="PUR" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="251.4"></Linea>
+    <Linea Producto="NBABX52202BLK" Color="BLK" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="251.4"></Linea>
+    <Linea Producto="MLBBX52205BLU" Color="BLU" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="251.4"></Linea>
+    <Linea Producto="MLBBX52201NVY" Color="NVY" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="251.4"></Linea>
+    <Linea Producto="MLBBX52203NVY" Color="NVY" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="251.4"></Linea>
+    <Linea Producto="MLBBX52207RED" Color="RED" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="251.4"></Linea>
+    <Linea Producto="NBASO52201BLK" Color="BLK" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="119.4"></Linea>
+    <Linea Producto="NBASO52202RED" Color="RED" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="119.4"></Linea>
+    <Linea Producto="NBASO52203BLK" Color="BLK" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="119.4"></Linea>
+    <Linea Producto="NBASO52204PUR" Color="PUR" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="119.4"></Linea>
+    <Linea Producto="NBASO52205BLK" Color="BLK" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="119.4"></Linea>
+    <Linea Producto="NBAPJ52205BLK" Color="BLK" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="371.4"></Linea>
+    <Linea Producto="NBAPJ52205PUR" Color="PUR" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="371.4"></Linea>
+    <Linea Producto="NBAPJ52202RED" Color="RED" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="371.4"></Linea>
+    <Linea Producto="NBAPJ52202PUR" Color="PUR" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="371.4"></Linea>
+  </Encabezado>
+</Sagemobile>

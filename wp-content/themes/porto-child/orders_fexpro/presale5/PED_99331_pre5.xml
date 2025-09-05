@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="99331" Cliente="0451" Nombre="Felipe Orellana" Fecha="19/01/2022" Tipo="1" Fecha_Entrega="19/01/2022" Direccion="MANUEL RODRIGUEZ 730 " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO CENTRO " Vendedor="01" AgenteEmbarcador="" Observaciones="FALABELLA CHILE - GORRAS NBA BASIC E2 FW22&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Felipe Orellana" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASB52217-BLU" Color="BLU" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52217-RED" Color="RED" Cantidad="40" size_OS="960" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52217-PUR" Color="PUR" Cantidad="35" size_OS="840" Unit_Box_Qty="24" Total_Box_Qty="840" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52217-BLK" Color="BLK" Cantidad="25" size_OS="600" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="7.5"></Linea>
+    <Linea Producto="NBASB52219-PUR" Color="PUR" Cantidad="25" size_OS="600" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52219-RED" Color="RED" Cantidad="40" size_OS="960" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52219-GRY" Color="GRY" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52219-GRN" Color="GRN" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52219-BLU" Color="BLU" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52206-BLK" Color="BLK" Cantidad="70" size_OS="1680" Unit_Box_Qty="24" Total_Box_Qty="1680" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52206-BLK1" Color="BLK1" Cantidad="50" size_OS="1200" Unit_Box_Qty="24" Total_Box_Qty="1200" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52206-BLK2" Color="BLK2" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52206-BLK3" Color="BLK3" Cantidad="20" size_OS="480" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52206-BLK4" Color="BLK4" Cantidad="30" size_OS="720" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="8.5"></Linea>
+  </Encabezado>
+</Sagemobile>

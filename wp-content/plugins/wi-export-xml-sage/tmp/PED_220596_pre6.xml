@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="220596" Cliente="0000" Nombre="Thomas Franco" Fecha="06/09/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="TOWER 1, HIGH STREET SOUTH CORPORATE PLAZA 26TH ST COR. 9TH AVE BONIFACIO GLOBAL CITY" Direccion2="Philippines Metro Manila TAGUIG CITY 00000" AgenteEmbarcador="" Observaciones="SM ORDER KIDS PHILIPPINES SS25 Q2" ResponsablePedido="" ResponsableImportacion="" Contacto="Thomas Franco" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATT32205-YEL2" Color="YEL2" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="9"></Linea>
+    <Linea Producto="NBATT32205-BLU" Color="BLU" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="9"></Linea>
+    <Linea Producto="NBATT32205-BLU2" Color="BLU2" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="9"></Linea>
+    <Linea Producto="NBATS322230-WHT" Color="WHT" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8"></Linea>
+    <Linea Producto="NBATS322231-BLU" Color="BLU" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8"></Linea>
+    <Linea Producto="NBATS322237-NVY" Color="NVY" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8"></Linea>
+    <Linea Producto="NBATS322240-YEL5" Color="YEL5" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8"></Linea>
+    <Linea Producto="NBATS320400-BLK" Color="BLK" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="6"></Linea>
+    <Linea Producto="NBATS320400-WHT" Color="WHT" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="6"></Linea>
+    <Linea Producto="NBATS321000-YEL" Color="YEL" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="6"></Linea>
+    <Linea Producto="NBATS321000-ROY2" Color="ROY2" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="6"></Linea>
+    <Linea Producto="NBATS321000-GRN" Color="GRN" Cantidad="24" size_4="48" size_6="96" size_8="96" size_10="96" size_12="96" size_14="96" size_16="48" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="6"></Linea>
+    <Linea Producto="NBASH321820-YEL" Color="YEL" Cantidad="18" size_4="36" size_6="72" size_8="72" size_10="72" size_12="72" size_14="72" size_16="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="11"></Linea>
+    <Linea Producto="NBASH321820-ROY" Color="ROY" Cantidad="18" size_4="36" size_6="72" size_8="72" size_10="72" size_12="72" size_14="72" size_16="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="11"></Linea>
+    <Linea Producto="NBASH321820-NVY9" Color="NVY9" Cantidad="18" size_4="36" size_6="72" size_8="72" size_10="72" size_12="72" size_14="72" size_16="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="11"></Linea>
+    <Linea Producto="NBAHD320400-ROY2" Color="ROY2" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="13"></Linea>
+    <Linea Producto="NBAHD321001-YEL" Color="YEL" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="13"></Linea>
+    <Linea Producto="NBAHD321001-ROY" Color="ROY" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="13"></Linea>
+  </Encabezado>
+</Sagemobile>

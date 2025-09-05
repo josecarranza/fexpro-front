@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="157215" Cliente="0094" Nombre="TZAJI LEVY" Fecha="10/01/2023" Tipo="1" Fecha_Entrega="10/01/2023" Direccion="COLON AVE CENTRAL " Direccion2="Panama Colón COLON 0000" Vendedor="01" AgenteEmbarcador="" Observaciones="KIDS SOCCER FW23 DOYAN" ResponsablePedido="" ResponsableImportacion="" Contacto="TZAJI LEVY" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCNST323201-NV1" Color="NV1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="11"></Linea>
+    <Linea Producto="RMDST323201-WH1" Color="WH1" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="11"></Linea>
+    <Linea Producto="PSGST323201-NV2" Color="NV2" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="11"></Linea>
+  </Encabezado>
+</Sagemobile>

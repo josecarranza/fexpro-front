@@ -1,0 +1,34 @@
+.all_cats ul {
+    margin-left: 2em;
+    margin-bottom: 1em;
+}
+.all_cats ul li {
+    margin: 5px 0;
+}
+
+.cart-sizes-attribute .size-guide .inner-size:empty {
+    display: none;
+}
+
+body #variable_product_options .ui-accordion .ui-accordion-content {
+    padding: 1em 2.2em;
+}
+
+mark.order-status.status-futurestock.tips {
+    background: #c54a02;
+    color: #fff;
+}
+
+mark.order-status.status-presale3 {
+    background: #637cf7;
+    color: #fff;
+}
+
+/*.par_cat > ul{display: none;} 
+.all_cats  .par_cat {margin-bottom: 15px !important;}
+.all_cats {background: #fcfcfc;    padding: 20px;  position: relative;}
+.par_cat{position: relative;}
+.par_cat:after {content: "\002B"; font-size: 2rem;  position: absolute; right: 1rem;  top:0rem; line-height: 8px;}
+.par_cat.active:after {
+        content: "\2212";
+    }*/

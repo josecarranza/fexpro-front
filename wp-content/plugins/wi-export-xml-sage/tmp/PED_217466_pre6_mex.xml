@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="217466" Cliente="0000" Nombre="Karla Malanco" Fecha="27/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Benito Juarez 1 Macrocentro 2 San mateo Cuautepec" Direccion2="Mexico Ciudad de México EDO de MEX 54948" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Karla Malanco" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="T7GMLDA2LDG23" Color="G23" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="1232.28448275"></Linea>
+    <Linea Producto="T7GMLDHOLDG23" Color="G23" Cantidad="16" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="12" Total_Box_Qty="192" Precio="1232.28448275"></Linea>
+    <Linea Producto="T7GMNKHONKG23" Color="G23" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="1232.28448275"></Linea>
+    <Linea Producto="T7GMNKA2NKG23" Color="G23" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="1232.28448275"></Linea>
+  </Encabezado>
+</Sagemobile>

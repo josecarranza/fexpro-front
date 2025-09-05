@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="240808" Cliente="0455" Nombre="Matias Jimenez" Fecha="26/12/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="SANTA ELVIRA 175 " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="THE LINE CHILE - APPAREL NBA MEN M&amp;amp;N FW25 Q3&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Matias Jimenez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="FC12529-CBUBLCK" Color="CBUBLCK" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="20"></Linea>
+    <Linea Producto="BT12535-CBUBLCK" Color="CBUBLCK" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="17.5"></Linea>
+    <Linea Producto="SS12531-CBUBLCK" Color="CBUBLCK" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="13"></Linea>
+    <Linea Producto="SS12537-CBUVNWHDR" Color="CBUVNWHDR" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="14"></Linea>
+    <Linea Producto="TP12538-CBUBLCK" Color="CBUBLCK" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="12"></Linea>
+    <Linea Producto="BMTRINTL1726-DNUBLCKAI" Color="DNUBLCKAI" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="13"></Linea>
+    <Linea Producto="BMTRINTL1276-SSUBLCKGP" Color="SSUBLCKGP" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="13"></Linea>
+    <Linea Producto="BMTRINTL1276-TRABLCKVC" Color="TRABLCKVC" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="13"></Linea>
+    <Linea Producto="BMTRINTL1752-P76WHITAI" Color="P76WHITAI" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="13"></Linea>
+  </Encabezado>
+</Sagemobile>

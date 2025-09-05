@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="193696" Cliente="0000" Nombre="Macarena Webar Valdivieso" Fecha="16/01/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES SANTIAGO, CHILE 7560356 " Direccion2="Chile Región Metropolitana de Santiago Santiago 7560356" AgenteEmbarcador="" Observaciones="PARIS CHILE - FOOTWEAR NBA-MLB INTERNET FW24 Q4" ResponsablePedido="" ResponsableImportacion="" Contacto="Macarena Webar Valdivieso" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASL524205-BK1" Color="BK1" Cantidad="8" size_7="32" size_8="48" size_9="64" size_10="32" size_11="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="6"></Linea>
+    <Linea Producto="NBASL524205-RD1" Color="RD1" Cantidad="8" size_7="32" size_8="48" size_9="64" size_10="32" size_11="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="6"></Linea>
+    <Linea Producto="NBASL524205-BK3" Color="BK3" Cantidad="6" size_7="24" size_8="36" size_9="48" size_10="24" size_11="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6"></Linea>
+    <Linea Producto="NBASL524205-PR1" Color="PR1" Cantidad="6" size_7="24" size_8="36" size_9="48" size_10="24" size_11="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6"></Linea>
+    <Linea Producto="MLBSL524203-BK1" Color="BK1" Cantidad="8" size_7="32" size_8="48" size_9="64" size_10="32" size_11="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="6"></Linea>
+    <Linea Producto="MLBSL524203-NV1" Color="NV1" Cantidad="8" size_7="32" size_8="48" size_9="64" size_10="32" size_11="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="6"></Linea>
+    <Linea Producto="NBASL524206-BK1" Color="BK1" Cantidad="8" size_7="32" size_8="48" size_9="64" size_10="32" size_11="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="6"></Linea>
+    <Linea Producto="NBASL524206-BK2" Color="BK2" Cantidad="6" size_7="24" size_8="36" size_9="48" size_10="24" size_11="12" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="6"></Linea>
+    <Linea Producto="MLBSL524204-NV1" Color="NV1" Cantidad="8" size_7="32" size_8="48" size_9="64" size_10="32" size_11="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="177911" Cliente="0INN" Nombre="Angel Quezada" Fecha="29/06/2023" Tipo="1" Direccion="Humberto Lobo 540-A, Col. Del Valle 540-A" Direccion2="Mexico Nuevo León San Pedro Garza García 66220" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Angel Quezada" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="CAATS624101BK1" Color="BK1" Cantidad="11" size_XS="44" size_S="88" size_M="88" size_L="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="236.63793104167"></Linea>
+    <Linea Producto="CAATS624101OW1" Color="OW1" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="236.63793104167"></Linea>
+    <Linea Producto="CAACT624101BK1" Color="BK1" Cantidad="15" size_XS="60" size_S="120" size_M="120" size_L="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="215.08620691667"></Linea>
+    <Linea Producto="CAACT624101OW1" Color="OW1" Cantidad="16" size_XS="64" size_S="128" size_M="128" size_L="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="215.08620691667"></Linea>
+    <Linea Producto="CAASW624101BK1" Color="BK1" Cantidad="16" size_XS="64" size_S="128" size_M="128" size_L="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="430.60344829167"></Linea>
+    <Linea Producto="CAALG624101BK1" Color="BK1" Cantidad="14" size_XS="56" size_S="112" size_M="112" size_L="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="236.63793104167"></Linea>
+    <Linea Producto="CAATS624102OW1" Color="OW1" Cantidad="9" size_XS="36" size_S="72" size_M="72" size_L="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="236.63793104167"></Linea>
+    <Linea Producto="CAATS624102BK1" Color="BK1" Cantidad="16" size_XS="64" size_S="128" size_M="128" size_L="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="236.63793104167"></Linea>
+    <Linea Producto="CAASH624101BK1" Color="BK1" Cantidad="16" size_XS="64" size_S="128" size_M="128" size_L="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="301.29310345833"></Linea>
+    <Linea Producto="CAASH624102OW1" Color="OW1" Cantidad="16" size_XS="64" size_S="128" size_M="128" size_L="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="301.29310345833"></Linea>
+    <Linea Producto="CAACT624102NV1" Color="NV1" Cantidad="5" size_XS="20" size_S="40" size_M="40" size_L="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="180.60344829167"></Linea>
+    <Linea Producto="CAACT624103YL1" Color="YL1" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="180.60344829167"></Linea>
+    <Linea Producto="CAAJS624101NV1" Color="NV1" Cantidad="4" size_XS="16" size_S="32" size_M="32" size_L="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="215.08620691667"></Linea>
+    <Linea Producto="CAATS624107BK1" Color="BK1" Cantidad="6" size_XS="24" size_S="48" size_M="48" size_L="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="171.982758625"></Linea>
+    <Linea Producto="CAATS624107YL1" Color="YL1" Cantidad="5" size_XS="20" size_S="40" size_M="40" size_L="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="171.982758625"></Linea>
+    <Linea Producto="CAASH624103NV1" Color="NV1" Cantidad="22" size_XS="88" size_S="176" size_M="176" size_L="88" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="180.60344829167"></Linea>
+    <Linea Producto="CAASW624102OW1" Color="OW1" Cantidad="17" size_XS="68" size_S="136" size_M="136" size_L="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="258.18965516667"></Linea>
+    <Linea Producto="CAAJK624101NV1" Color="NV1" Cantidad="7" size_XS="28" size_S="56" size_M="56" size_L="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="387.5"></Linea>
+    <Linea Producto="CAALG624102NV1" Color="NV1" Cantidad="11" size_XS="44" size_S="88" size_M="88" size_L="44" Unit_Box_Qty="24" Total_Box_Qty="264" Precio="258.18965516667"></Linea>
+  </Encabezado>
+</Sagemobile>

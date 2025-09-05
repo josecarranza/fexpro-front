@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="181546" Cliente="CALZZAPA" Nombre="Juan Carlos Collantes" Fecha="31/08/2023" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AV FRAY MARCOS DE NIZA, 3510 SUR INT. A COL SAN RAFAEL, CULUIACAN DE ROSALES " Direccion2="Mexico Sinaloa CULIACAN 80150" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Juan Carlos Collantes" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MIATS323206BK1" Color="BK1" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="212.88793104167"></Linea>
+    <Linea Producto="MIATS323206PK1" Color="PK1" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="212.88793104167"></Linea>
+  </Encabezado>
+</Sagemobile>

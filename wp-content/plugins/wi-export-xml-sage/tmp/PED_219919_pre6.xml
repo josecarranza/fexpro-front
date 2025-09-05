@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="219919" Cliente="0455" Nombre="Matias Jimenez" Fecha="23/08/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="SANTA ELVIRA 175 " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="COMPRA KIDS SS25 Q2&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Matias Jimenez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBST325101-NV1" Color="NV1" Cantidad="20" size_4="40" size_6="80" size_8="80" size_10="80" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="17"></Linea>
+    <Linea Producto="MLBST325101-BK1" Color="BK1" Cantidad="26" size_4="52" size_6="104" size_8="104" size_10="104" size_12="104" size_14="104" size_16="52" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="17"></Linea>
+    <Linea Producto="NBAST325101-BK2" Color="BK2" Cantidad="25" size_4="50" size_6="100" size_8="100" size_10="100" size_12="100" size_14="100" size_16="50" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="17"></Linea>
+  </Encabezado>
+</Sagemobile>

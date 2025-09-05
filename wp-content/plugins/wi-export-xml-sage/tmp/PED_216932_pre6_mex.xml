@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="216932" Cliente="0463" Nombre="Humberto Sanchez" Fecha="25/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AV. J. MERCED CABRERA, 1200 COL. LA COMARCA MEXICO COLIMA VILLA DE ALVAREZ 28989" Direccion2="Mexico Colima COLIMA 28989" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Humberto Sanchez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="CO23009SN27UCT" Color="UCT" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1327.112069"></Linea>
+    <Linea Producto="T7GMBQHOBQG23" Color="G23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1232.28448275"></Linea>
+    <Linea Producto="T7GMHUHOHUSG23" Color="G23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1232.28448275"></Linea>
+    <Linea Producto="T7GMLDA2LDG23" Color="G23" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1232.28448275"></Linea>
+    <Linea Producto="T7GMLDHOLDG23" Color="G23" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1232.28448275"></Linea>
+    <Linea Producto="T7GMNKHONKG23" Color="G23" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1232.28448275"></Linea>
+    <Linea Producto="T7GMNKA2NKG23" Color="G23" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1232.28448275"></Linea>
+    <Linea Producto="T7GMNMHONMEG23" Color="G23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1232.28448275"></Linea>
+    <Linea Producto="T7GMPYHOPYPG23" Color="G23" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1232.28448275"></Linea>
+  </Encabezado>
+</Sagemobile>

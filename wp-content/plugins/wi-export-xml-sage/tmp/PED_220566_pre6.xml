@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="220566" Cliente="0000" Nombre="Evangelyn Asi" Fecha="03/09/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="TOWER 1, HIGH STREET SOUTH CORPORATE PLAZA 26TH ST COR. 9TH AVE BONIFACIO GLOBAL CITY" Direccion2="Philippines Metro Manila TAGUIG CITY 00000" AgenteEmbarcador="" Observaciones="ADULT CAPS ROBINSONS SS25 Q2 PHILIPPINES" ResponsablePedido="" ResponsableImportacion="" Contacto="Evangelyn Asi" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBACA500010-BK1" Color="BK1" Cantidad="24" size_S-M="288" size_L-XL="288" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500010-BK2" Color="BK2" Cantidad="24" size_S-M="288" size_L-XL="288" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500010-BL2" Color="BL2" Cantidad="24" size_S-M="288" size_L-XL="288" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500002-BK1" Color="BK1" Cantidad="24" size_S-M="288" size_L-XL="288" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500002-BK2" Color="BK2" Cantidad="24" size_S-M="288" size_L-XL="288" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8.5"></Linea>
+    <Linea Producto="NBACA500002-BK5" Color="BK5" Cantidad="24" size_S-M="288" size_L-XL="288" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="8.5"></Linea>
+  </Encabezado>
+</Sagemobile>

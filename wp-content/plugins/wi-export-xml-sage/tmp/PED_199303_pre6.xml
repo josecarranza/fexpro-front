@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="199303" Cliente="0458" Nombre="Daniela Ulloa" Fecha="14/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 7560356" AgenteEmbarcador="" Observaciones="PARIS CHILE - MIAMI MESSI MEN TIENDA FW24 Q4&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Daniela Ulloa" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MSPTS524210-BK6" Color="BK6" Cantidad="60" size_S="240" size_M="480" size_L="480" size_XL="240" Unit_Box_Qty="24" Total_Box_Qty="1440" Precio="7"></Linea>
+    <Linea Producto="MSPTS524210-PK1" Color="PK1" Cantidad="60" size_S="240" size_M="480" size_L="480" size_XL="240" Unit_Box_Qty="24" Total_Box_Qty="1440" Precio="7"></Linea>
+    <Linea Producto="MSPTS524210-WH3" Color="WH3" Cantidad="40" size_S="160" size_M="320" size_L="320" size_XL="160" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="7"></Linea>
+  </Encabezado>
+</Sagemobile>

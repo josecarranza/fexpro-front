@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="49741" Cliente="0511" Nombre="Luis Mercado" Fecha="28/07/2021" Tipo="1" Fecha_Entrega="28/07/2021" Direccion="Via España,Plaza Regency N0 177 Local N04-P/B " Direccion2="Panama  CIUDAD DE PANAMÁ 00000" Vendedor="01" AgenteEmbarcador="" Observaciones="COMPRA REGIONAL SOCCER" ResponsablePedido="" ResponsableImportacion="" Contacto="Luis Mercado" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="JVPT32201-BLK" Color="BLK" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="9"></Linea>
+    <Linea Producto="JVTS32204-BLK" Color="BLK" Cantidad="16" size_4="32" size_6="64" size_8="64" size_10="64" size_12="64" size_14="64" size_16="32" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="5.5"></Linea>
+    <Linea Producto="RMPT52203-NVY" Color="NVY" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="10"></Linea>
+    <Linea Producto="RMJK52201-NVY" Color="NVY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="12"></Linea>
+    <Linea Producto="RMSH52202-BLK" Color="BLK" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="8"></Linea>
+    <Linea Producto="RMSH52201-NVY" Color="NVY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="8"></Linea>
+    <Linea Producto="RMSH52202-NVY" Color="NVY" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="8"></Linea>
+    <Linea Producto="RMPL52201-WHT" Color="WHT" Cantidad="22" size_S="88" size_M="176" size_L="176" size_XL="88" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="9"></Linea>
+    <Linea Producto="RMPL52201-NVY" Color="NVY" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="9"></Linea>
+    <Linea Producto="RMSH52201-WHT" Color="WHT" Cantidad="22" size_S="88" size_M="176" size_L="176" size_XL="88" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="7"></Linea>
+    <Linea Producto="RMJS52202-NVY" Color="NVY" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="8"></Linea>
+    <Linea Producto="RMJS52201-WHT" Color="WHT" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="7"></Linea>
+    <Linea Producto="RMJS52201-BLK" Color="BLK" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7"></Linea>
+    <Linea Producto="RMJS52202-WHT" Color="WHT" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="8"></Linea>
+    <Linea Producto="RMSH32202-NVY" Color="NVY" Cantidad="17" size_4="34" size_6="68" size_8="68" size_10="68" size_12="68" size_14="68" size_16="34" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="6.5"></Linea>
+    <Linea Producto="RMSH32202-BLK" Color="BLK" Cantidad="16" size_4="32" size_6="64" size_8="64" size_10="64" size_12="64" size_14="64" size_16="32" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="6.5"></Linea>
+    <Linea Producto="RMJS32202-WHT" Color="WHT" Cantidad="17" size_4="34" size_6="68" size_8="68" size_10="68" size_12="68" size_14="68" size_16="34" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="6.5"></Linea>
+    <Linea Producto="RMJS32202-NVY" Color="NVY" Cantidad="18" size_4="36" size_6="72" size_8="72" size_10="72" size_12="72" size_14="72" size_16="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="6.5"></Linea>
+    <Linea Producto="RMJS32201-WHT" Color="WHT" Cantidad="16" size_4="32" size_6="64" size_8="64" size_10="64" size_12="64" size_14="64" size_16="32" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="5.5"></Linea>
+    <Linea Producto="RMJS32201-BLK" Color="BLK" Cantidad="18" size_4="36" size_6="72" size_8="72" size_10="72" size_12="72" size_14="72" size_16="36" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="5.5"></Linea>
+    <Linea Producto="BCJS32203-BLU" Color="BLU" Cantidad="22" size_4="44" size_6="88" size_8="88" size_10="88" size_12="88" size_14="88" size_16="44" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="6.5"></Linea>
+    <Linea Producto="BCJS32202-RED" Color="RED" Cantidad="20" size_4="40" size_6="80" size_8="80" size_10="80" size_12="80" size_14="80" size_16="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="5.5"></Linea>
+    <Linea Producto="BCSH32203-BLU" Color="BLU" Cantidad="19" size_4="38" size_6="76" size_8="76" size_10="76" size_12="76" size_14="76" size_16="38" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="5.5"></Linea>
+    <Linea Producto="BCJS32201-BLU4" Color="BLU4" Cantidad="19" size_4="38" size_6="76" size_8="76" size_10="76" size_12="76" size_14="76" size_16="38" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="6.5"></Linea>
+    <Linea Producto="BCPT52201-BLU" Color="BLU" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="9"></Linea>
+    <Linea Producto="BCPT52202-NVY" Color="NVY" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="10"></Linea>
+    <Linea Producto="BCJK52201-BLU" Color="BLU" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="13"></Linea>
+    <Linea Producto="BCPO52202-PUR" Color="PUR" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="8.5"></Linea>
+    <Linea Producto="BCTT52201-BLU" Color="BLU" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="9"></Linea>
+    <Linea Producto="BCSH52203-BLU" Color="BLU" Cantidad="22" size_S="88" size_M="176" size_L="176" size_XL="88" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="7"></Linea>
+    <Linea Producto="BCJS52202-RED" Color="RED" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="7"></Linea>
+    <Linea Producto="BCJS52203-BLU" Color="BLU" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="8"></Linea>
+    <Linea Producto="BCSH52201-NVY" Color="NVY" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="7"></Linea>
+    <Linea Producto="BCJS52201-BLU4" Color="BLU4" Cantidad="26" size_S="104" size_M="208" size_L="208" size_XL="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="8"></Linea>
+    <Linea Producto="JVPT52201-BLK" Color="BLK" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="11"></Linea>
+    <Linea Producto="JVPO52201-BLK" Color="BLK" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="8.5"></Linea>
+    <Linea Producto="JVJS52204-BLK" Color="BLK" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="7"></Linea>
+    <Linea Producto="JVTS52204-BLK" Color="BLK" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="7"></Linea>
+    <Linea Producto="JVTT52202-BLK" Color="BLK" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="10"></Linea>
+    <Linea Producto="JVJS52202-WHT" Color="WHT" Cantidad="22" size_S="88" size_M="176" size_L="176" size_XL="88" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="8"></Linea>
+    <Linea Producto="JVJS32204-BLK" Color="BLK" Cantidad="16" size_4="32" size_6="64" size_8="64" size_10="64" size_12="64" size_14="64" size_16="32" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="5.5"></Linea>
+  </Encabezado>
+</Sagemobile>

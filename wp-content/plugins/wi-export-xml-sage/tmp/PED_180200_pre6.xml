@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="180200" Cliente="0458" Nombre="Aurelie Manas" Fecha="10/08/2023" Tipo="1" Direccion="V. KENNEDY 9001, LAS CONDES SANTIAGO " Direccion2="Chile Región Metropolitana de Santiago LAS CONDES 7560356" AgenteEmbarcador="" Observaciones="PARIS CHILE - NBA HOMBRE TIENDA SS24 Q2" ResponsablePedido="" ResponsableImportacion="" Contacto="Aurelie Manas" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAJK524105-BK1" Color="BK1" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="26"></Linea>
+    <Linea Producto="NBAJK524105-BK2" Color="BK2" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="26"></Linea>
+    <Linea Producto="NBAHD524112-BK1" Color="BK1" Cantidad="45" size_S="180" size_M="360" size_L="360" size_XL="180" Unit_Box_Qty="24" Total_Box_Qty="1080" Precio="15"></Linea>
+    <Linea Producto="NBAHD524112-BK2" Color="BK2" Cantidad="45" size_S="180" size_M="360" size_L="360" size_XL="180" Unit_Box_Qty="24" Total_Box_Qty="1080" Precio="15"></Linea>
+    <Linea Producto="NBAHD524112-BK5" Color="BK5" Cantidad="22" size_S="88" size_M="176" size_L="176" size_XL="88" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="15"></Linea>
+    <Linea Producto="NBAHD524112-GY2" Color="GY2" Cantidad="22" size_S="88" size_M="176" size_L="176" size_XL="88" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="15"></Linea>
+    <Linea Producto="NBAHD524112-RD1" Color="RD1" Cantidad="31" size_S="124" size_M="248" size_L="248" size_XL="124" Unit_Box_Qty="24" Total_Box_Qty="744" Precio="15"></Linea>
+    <Linea Producto="NBAPT52205-BLK" Color="BLK" Cantidad="27" size_S="108" size_M="216" size_L="216" size_XL="108" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="12"></Linea>
+    <Linea Producto="NBAPT52205-BLK2" Color="BLK2" Cantidad="27" size_S="108" size_M="216" size_L="216" size_XL="108" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="12"></Linea>
+    <Linea Producto="NBAPT52205-GRY2" Color="GRY2" Cantidad="22" size_S="88" size_M="176" size_L="176" size_XL="88" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="12"></Linea>
+    <Linea Producto="NBABN500002-BK1" Color="BK1" Cantidad="69" size_OS="1656" Unit_Box_Qty="24" Total_Box_Qty="1656" Precio="5"></Linea>
+    <Linea Producto="NBABN500002-RD1" Color="RD1" Cantidad="49" size_OS="1176" Unit_Box_Qty="24" Total_Box_Qty="1176" Precio="5"></Linea>
+    <Linea Producto="NBABN500002-BK2" Color="BK2" Cantidad="69" size_OS="1656" Unit_Box_Qty="24" Total_Box_Qty="1656" Precio="5"></Linea>
+    <Linea Producto="NBABN500002-PR1" Color="PR1" Cantidad="44" size_OS="1056" Unit_Box_Qty="24" Total_Box_Qty="1056" Precio="5"></Linea>
+    <Linea Producto="NBABN500002-BK4" Color="BK4" Cantidad="44" size_OS="1056" Unit_Box_Qty="24" Total_Box_Qty="1056" Precio="5"></Linea>
+    <Linea Producto="NBAHD524105-GY1" Color="GY1" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="15"></Linea>
+    <Linea Producto="NBAHD524105-RD1" Color="RD1" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="15"></Linea>
+    <Linea Producto="NBAJK524103-BK1" Color="BK1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="27"></Linea>
+    <Linea Producto="NBAJK524103-BK3" Color="BK3" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="27"></Linea>
+    <Linea Producto="NBAPT524102-GY1" Color="GY1" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="13"></Linea>
+    <Linea Producto="NBAPT524102-BK1" Color="BK1" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="13"></Linea>
+  </Encabezado>
+</Sagemobile>

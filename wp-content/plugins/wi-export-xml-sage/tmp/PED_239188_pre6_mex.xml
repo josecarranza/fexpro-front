@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="239188" Cliente="LIVER" Nombre="Ana Paola COUOH" Fecha="25/11/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AVENIDA VALLE DE LAS ALAMEDAS #7 FRACCIONAMIENTO INDUSTRIAL LECH " Direccion2="Mexico Estado de México MEXICO ESTADO DE MÉXICO TULTITLAN 54940 54940" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Ana Paola COUOH" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCNTS325203BG1" Color="BG1" Cantidad="43" size_4="86" size_6="172" size_8="172" size_10="172" size_12="172" size_14="172" size_16="86" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="198.66379308333"></Linea>
+    <Linea Producto="RMDTS325203LB1" Color="LB1" Cantidad="43" size_4="86" size_6="172" size_8="172" size_10="172" size_12="172" size_14="172" size_16="86" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="198.66379308333"></Linea>
+    <Linea Producto="BCNHD325202NV1" Color="NV1" Cantidad="31" size_4="62" size_6="124" size_8="124" size_10="124" size_12="124" size_14="124" size_16="62" Unit_Box_Qty="24" Total_Box_Qty="744" Precio="426.25"></Linea>
+    <Linea Producto="RMDHD325202GY1" Color="GY1" Cantidad="31" size_4="62" size_6="124" size_8="124" size_10="124" size_12="124" size_14="124" size_16="62" Unit_Box_Qty="24" Total_Box_Qty="744" Precio="426.25"></Linea>
+    <Linea Producto="BCNTS325207NV1" Color="NV1" Cantidad="43" size_4="86" size_6="172" size_8="172" size_10="172" size_12="172" size_14="172" size_16="86" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="179.698275875"></Linea>
+    <Linea Producto="RMDTS325207OW1" Color="OW1" Cantidad="43" size_4="86" size_6="172" size_8="172" size_10="172" size_12="172" size_14="172" size_16="86" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="179.698275875"></Linea>
+  </Encabezado>
+</Sagemobile>

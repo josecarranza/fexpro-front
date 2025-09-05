@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="92932" Cliente="0036" Nombre="Paola Funes" Fecha="22/12/2021" Tipo="1" Fecha_Entrega="22/12/2021" Direccion="Avenida Samuel Lewis, Calle 54, Edif. Afra " Direccion2="Panama  Panamá City 00000" Vendedor="01" AgenteEmbarcador="" Observaciones="FOOTWEAR REGIONAL" ResponsablePedido="" ResponsableImportacion="" Contacto="Paola Funes" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASL52035-BLK" Color="BLK" Cantidad="7" size_40="28" size_41="42" size_43="56" size_44="28" size_45="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="5"></Linea>
+    <Linea Producto="BCSL52012-NVY" Color="NVY" Cantidad="7" size_40="28" size_41="42" size_43="56" size_44="28" size_45="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6"></Linea>
+    <Linea Producto="RMSL522201-BLU" Color="BLU" Cantidad="7" size_40="28" size_41="42" size_43="56" size_44="28" size_45="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6"></Linea>
+    <Linea Producto="PSGSL522201-BLK" Color="BLK" Cantidad="7" size_40="28" size_41="42" size_43="56" size_44="28" size_45="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="6"></Linea>
+    <Linea Producto="MLBSL522205-NVY" Color="NVY" Cantidad="7" size_40="28" size_41="42" size_43="56" size_44="28" size_45="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="7"></Linea>
+    <Linea Producto="MLBFF522202-NVY" Color="NVY" Cantidad="7" size_40="28" size_41="42" size_43="56" size_44="28" size_45="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="3.7"></Linea>
+    <Linea Producto="NBAFF522202-RED" Color="RED" Cantidad="7" size_40="28" size_41="42" size_43="56" size_44="28" size_45="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="3.7"></Linea>
+    <Linea Producto="NBAFF522202-PUR" Color="PUR" Cantidad="7" size_40="28" size_41="42" size_43="56" size_44="28" size_45="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="3.7"></Linea>
+  </Encabezado>
+</Sagemobile>

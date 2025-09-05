@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="135861" Cliente="0501" Nombre="Marco Urquides" Fecha="07/07/2022" Tipo="1" Fecha_Entrega="07/07/2022" Direccion="503 SCARONI AVENUE " Direccion2="Mexico Ciudad de México CALEXICO, CA 92231" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Marco Urquides" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS523106-BLK" Color="BLK" Cantidad="594" size_S="2376" size_M="4752" size_L="4752" size_XL="2376" Unit_Box_Qty="24" Total_Box_Qty="14256" Precio="4.83"></Linea>
+    <Linea Producto="NBATS520400-WHT" Color="WHT" Cantidad="594" size_S="2376" size_M="4752" size_L="4752" size_XL="2376" Unit_Box_Qty="24" Total_Box_Qty="14256" Precio="4.83"></Linea>
+    <Linea Producto="MLBTS522204-BLU" Color="BLU" Cantidad="594" size_S="2376" size_M="4752" size_L="4752" size_XL="2376" Unit_Box_Qty="24" Total_Box_Qty="14256" Precio="4.83"></Linea>
+  </Encabezado>
+</Sagemobile>

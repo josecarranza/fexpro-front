@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="177782" Cliente="0000" Nombre="PAULO ESCALONA" Fecha="24/06/2023" Tipo="1" Fecha_Entrega="24/06/2023" Direccion="Cerrada Loma Bonita # 33. Int. 204. Lomas Altas, Dlg Miguel Hidgaldo, CDMX. 11950" Direccion2="Mexico Ciudad de México Ciudad de Mexico 11950" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="PAULO ESCALONA" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBTU624102WH1" Color="WH1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="258.18965516667"></Linea>
+    <Linea Producto="MLBPT624101OW1" Color="OW1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="387.5"></Linea>
+    <Linea Producto="MLBPT624102BR1" Color="BR1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="387.5"></Linea>
+    <Linea Producto="MLBPT624102NV1" Color="NV1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="430.60344829167"></Linea>
+    <Linea Producto="MLBSW624107OW1" Color="OW1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="365.948275875"></Linea>
+    <Linea Producto="MLBSW624108BR1" Color="BR1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="409.051724125"></Linea>
+    <Linea Producto="MLBHD624105NV1" Color="NV1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="430.60344829167"></Linea>
+    <Linea Producto="MLBHD624105BK1" Color="BK1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="430.60344829167"></Linea>
+    <Linea Producto="MLBJS624101WH1" Color="WH1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="206.46551725"></Linea>
+    <Linea Producto="MLBCT624105OW1" Color="OW1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="236.63793104167"></Linea>
+    <Linea Producto="MLBCT624106BL1" Color="BL1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="215.08620691667"></Linea>
+    <Linea Producto="MLBCT624109BL1" Color="BL1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="180.60344829167"></Linea>
+    <Linea Producto="MLBTS624106BL1" Color="BL1" Cantidad="2" size_XS="8" size_S="16" size_M="16" size_L="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="171.982758625"></Linea>
+  </Encabezado>
+</Sagemobile>

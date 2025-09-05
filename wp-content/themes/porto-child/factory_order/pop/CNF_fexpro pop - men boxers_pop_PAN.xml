@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sage>
+  <Confirmacion Cia="02" NoConfirm="Fexpro POP - MEN Boxers" Fecha="30/09/2021" Suplidor="" Temporada="212" FechaEntrega="30/09/2021" FechaEmbarque="05/10/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021">
+    <Linea Producto="COCBX52102-RED" Color="RED" size_S="280" size_M="560" size_L="560" size_XL="280" Total_Box_Qty="1680" Costo="3.27" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCBX52101-BLK" Color="BLK" size_S="272" size_M="544" size_L="544" size_XL="272" Total_Box_Qty="1632" Costo="3.80" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SOPBX52102-BLU" Color="BLU" size_S="272" size_M="544" size_L="544" size_XL="272" Total_Box_Qty="1632" Costo="3.74" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="ACBX52102-BLK" Color="BLK" size_S="272" size_M="544" size_L="544" size_XL="272" Total_Box_Qty="1632" Costo="3.27" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="KISBX52102-DGRY" Color="DGRY" size_S="272" size_M="544" size_L="544" size_XL="272" Total_Box_Qty="1632" Costo="3.53" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="GFBX52102-BLU" Color="BLU" size_S="336" size_M="672" size_L="672" size_XL="336" Total_Box_Qty="2016" Costo="3.35" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="TGBX52102-BLK" Color="BLK" size_S="336" size_M="672" size_L="672" size_XL="336" Total_Box_Qty="2016" Costo="3.31" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="STBX52102-BLK" Color="BLK" size_S="336" size_M="672" size_L="672" size_XL="336" Total_Box_Qty="2016" Costo="3.39" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="GFBX52101-GRY" Color="GRY" size_S="336" size_M="672" size_L="672" size_XL="336" Total_Box_Qty="2016" Costo="3.80" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="TWBX52101-NVY" Color="NVY" size_S="220" size_M="440" size_L="440" size_XL="220" Total_Box_Qty="1320" Costo="4.30" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="ACBX52101-BLK" Color="BLK" size_S="300" size_M="600" size_L="600" size_XL="300" Total_Box_Qty="1800" Costo="3.80" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+  </Confirmacion>
+</Sage>

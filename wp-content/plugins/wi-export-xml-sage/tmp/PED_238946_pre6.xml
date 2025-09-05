@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="238946" Cliente="0000" Nombre="JOSE MORALES" Fecha="22/11/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="PASEO GENERAL ESCALON " Direccion2="El Salvador San Salvador SAN SALVADOR 000000" AgenteEmbarcador="" Observaciones="SS25-Q3-NIKE NFL / Q3 Y Q4-JOSE MORALES SV-GT-CR" ResponsablePedido="" ResponsableImportacion="" Contacto="JOSE MORALES" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="N199-3EE-7T-NNM" Color="NNM" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="13.5"></Linea>
+    <Linea Producto="N199-65N-7G-NNM" Color="NNM" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="13.5"></Linea>
+    <Linea Producto="N199-3GT-9P-NNM" Color="NNM" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="13.5"></Linea>
+    <Linea Producto="N199-00A-9B-LQC" Color="LQC" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="13.5"></Linea>
+    <Linea Producto="N199-65N-81-LQC" Color="LQC" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="13.5"></Linea>
+    <Linea Producto="N199-00A-7L-JCB" Color="JCB" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="13.5"></Linea>
+    <Linea Producto="N199-3EE-7T-JCB" Color="JCB" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="13.5"></Linea>
+    <Linea Producto="N199-3GT-9P-JCB" Color="JCB" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="13.5"></Linea>
+    <Linea Producto="N199-65N-7G-JCB" Color="JCB" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="13.5"></Linea>
+  </Encabezado>
+</Sagemobile>

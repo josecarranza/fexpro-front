@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="181489" Cliente="SEAR" Nombre="Alejandro Servin" Fecha="29/08/2023" Tipo="1" Direccion="LAGO ZURICH 245 EDIFICIO PRESA FALCON PISO 9 " Direccion2="Mexico Ciudad de México CIUDAD DE MÉXICO 11529" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Alejandro Servin" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASL52056PUR" Color="PUR" Cantidad="5" size_40="20" size_41="30" size_43="40" size_44="20" size_45="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="276.51592358333"></Linea>
+    <Linea Producto="NBASL52101BLK" Color="BLK" Cantidad="5" size_40="20" size_41="30" size_43="40" size_44="20" size_45="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="315.3057325"></Linea>
+    <Linea Producto="MLBSL52102BLU" Color="BLU" Cantidad="5" size_40="20" size_41="30" size_43="40" size_44="20" size_45="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="276.51592358333"></Linea>
+    <Linea Producto="BCSL52012NVY" Color="NVY" Cantidad="5" size_40="20" size_41="30" size_43="40" size_44="20" size_45="10" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="276.51592358333"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,4 @@
+@charset "UTF-8";
+#woocommerce-product-data .product_data li.bulk_variations_tab a::before {
+  content: "" !important;
+}

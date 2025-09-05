@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Linea Cia="08" Reference="MLBJS523115" Producto_reference="MLBJS523115BLK" Description="MLB CYCLE MAJOR LEAGUE JERSEY" Description_spanish="MLB CYCLE MAJOR LEAGUE CAMISETA DEPORTIVA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER HEAVYWEIGHT MESH" Compesp="100% POLIESTER HEAVYWEIGHT MESH" Price="599.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="MLB" Group="AP" Sub_group="" Arancel="" Season="SPRING SUMMER 23" LOB="SPO" Equipo="YAN" Gender="05" Logo_specs="FRONT CENTER LOGO: Placement with stitching embroidery, FRONT LOGO: Heat Transfer, BACK LOGO: Heat transfer, Rib: jacquard.">
+    <Colors Color="BLK" Barcode="7450130120216" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7450130120223" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7450130120230" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7450130120247" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBSW523106" Producto_reference="MLBSW523106NVY1" Description="MLB CYCLE VERTICAL BRANDING SWEATER" Description_spanish="MLB CYCLE VERTICAL BRANDING SWEATER" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="330G CVC 60% Cotton / 40% Polyester - FLEECE" Compesp="" Price="899.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="MLB" Group="AP" Sub_group="" Arancel="" Season="231" LOB="SPO" Equipo="RED" Gender="05" Logo_specs="RUBBER PRINT &amp;amp; HIGH DENSITY">
+    <Colors Color="NVY1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="NVY1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBSW523106" Producto_reference="MLBSW523106NVY" Description="MLB CYCLE VERTICAL BRANDING SWEATER" Description_spanish="MLB CYCLE VERTICAL BRANDING SWEATER" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="330G CVC 60% Cotton / 40% Polyester" Compesp="" Price="899.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="MLB" Group="AP" Sub_group="" Arancel="" Season="SPRING SUMMER 23" LOB="SPO" Equipo="YAN" Gender="05" Logo_specs="RUBBER PRINT &amp;amp; HIGH DENSITY">
+    <Colors Color="NVY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBSW523105" Producto_reference="MLBSW523105BLK1" Description="MLB CYCLE TEAM LOGO SWEATER" Description_spanish="MLB CYCLE TEAM LOGO SWEATER" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER FLEECE" Compesp="CVC 60% ALGODON / 40% POLIESTER FLEECE" Price="899.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="MLB" Group="AP" Sub_group="" Arancel="" Season="SPRING SUMMER 23" LOB="SPO" Equipo="YAN" Gender="05" Logo_specs="FRONT LOGO: Placement with embroidery and topcover stitching, BACK LOGO: Heat Transfer, SLEEVE LOGO: Heat Transfer, RIB: Jacquard.">
+    <Colors Color="BLK1" Barcode="7450130120094" Sizes="S"></Colors>
+    <Colors Color="BLK1" Barcode="7450130120100" Sizes="M"></Colors>
+    <Colors Color="BLK1" Barcode="7450130120117" Sizes="L"></Colors>
+    <Colors Color="BLK1" Barcode="7450130120124" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBSW523105" Producto_reference="MLBSW523105BLK" Description="MLB CYCLE TEAM LOGO SWEATER" Description_spanish="MLB CYCLE TEAM LOGO SWEATER" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER FLEECE" Compesp="CVC 60% ALGODON / 40% POLIESTER FLEECE" Price="899.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="MLB" Group="AP" Sub_group="" Arancel="" Season="SPRING SUMMER 23" LOB="SPO" Equipo="DOD" Gender="05" Logo_specs="FRONT LOGO: Placement with embroidery and topcover stitching, BACK LOGO: Heat Transfer, SLEEVE LOGO: Heat Transfer, RIB: Jacquard.">
+    <Colors Color="BLK" Barcode="7450130120056" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7450130120063" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7450130120070" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7450130120087" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBSH323103" Producto_reference="MLBSH323103NVY" Description="MLB CYCLE SHORT" Description_spanish="MLB CYCLE SHORT" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER FRENCH TERRY" Compesp="CVC 60% ALGODON / 40% POLIESTER FRENCH TERRY" Price="619.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="MLB" Group="AP" Sub_group="SH" Arancel="SH5" Season="SPRING SUMMER 23" LOB="SPO" Equipo="YAN" Gender="03" Logo_specs="FRONT LOGO: Direct embroidery with topcover stitching, FRONT LETTERS: Direct embroidery, BACK LOGO: Heat transfer">
+    <Colors Color="NVY" Barcode="7450130167174" Sizes="4"></Colors>
+    <Colors Color="NVY" Barcode="7450130167181" Sizes="6"></Colors>
+    <Colors Color="NVY" Barcode="7450130167198" Sizes="8"></Colors>
+    <Colors Color="NVY" Barcode="7450130167204" Sizes="10"></Colors>
+    <Colors Color="NVY" Barcode="7450130167211" Sizes="12"></Colors>
+    <Colors Color="NVY" Barcode="7450130167228" Sizes="14"></Colors>
+    <Colors Color="NVY" Barcode="7450130167235" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBSH323103" Producto_reference="MLBSH323103BLK" Description="MLB CYCLE SHORT" Description_spanish="MLB CYCLE SHORT" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER FRENCH TERRY" Compesp="CVC 60% ALGODON / 40% POLIESTER FRENCH TERRY" Price="619.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="MLB" Group="AP" Sub_group="SH" Arancel="SH5" Season="SPRING SUMMER 23" LOB="SPO" Equipo="DOD" Gender="03" Logo_specs="FRONT LOGO: Direct embroidery with topcover stitching, FRONT LETTERS: Direct embroidery, BACK LOGO: Heat transfer">
+    <Colors Color="BLK" Barcode="7450130167310" Sizes="4"></Colors>
+    <Colors Color="BLK" Barcode="7450130167327" Sizes="6"></Colors>
+    <Colors Color="BLK" Barcode="7450130167334" Sizes="8"></Colors>
+    <Colors Color="BLK" Barcode="7450130167341" Sizes="10"></Colors>
+    <Colors Color="BLK" Barcode="7450130167358" Sizes="12"></Colors>
+    <Colors Color="BLK" Barcode="7450130167365" Sizes="14"></Colors>
+    <Colors Color="BLK" Barcode="7450130167372" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBHD523112" Producto_reference="MLBHD523112NVY" Description="MLB CYCLE TEAM LOGO HOODIE" Description_spanish="MLB CYCLE TEAM LOGO ABRIGO CON CAPUCHA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% COTTON" Compesp="100% ALGODON" Price="999.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="MLB" Group="AP" Sub_group="" Arancel="" Season="SPRING SUMMER 23" LOB="SPO" Equipo="YAN" Gender="05" Logo_specs="FRONT CENTER LOGO: Placement with stitching embroidery, FRONT LOGO: Rubber print, BACK LOGO: Heat transfer, SLEEVE: Heat Transfer.">
+    <Colors Color="NVY" Barcode="7450130119739" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7450130119746" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7450130119753" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="7450130119760" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBHD523112" Producto_reference="MLBHD523112BLK1" Description="MLB CYCLE TEAM LOGO HOODIE" Description_spanish="MLB CYCLE TEAM LOGO ABRIGO CON CAPUCHA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% COTTON" Compesp="100% ALGODON" Price="999.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="MLB" Group="AP" Sub_group="" Arancel="" Season="SPRING SUMMER 23" LOB="SPO" Equipo="YAN" Gender="05" Logo_specs="FRONT CENTER LOGO: Placement with stitching embroidery, FRONT LOGO: Rubber print, BACK LOGO: Heat transfer, SLEEVE: Heat Transfer.">
+    <Colors Color="BLK1" Barcode="7450130119654" Sizes="S"></Colors>
+    <Colors Color="BLK1" Barcode="7450130119661" Sizes="M"></Colors>
+    <Colors Color="BLK1" Barcode="7450130119678" Sizes="L"></Colors>
+    <Colors Color="BLK1" Barcode="7450130119685" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="MLBHD523112" Producto_reference="MLBHD523112BLK" Description="MLB CYCLE TEAM LOGO HOODIE" Description_spanish="MLB CYCLE TEAM LOGO ABRIGO CON CAPUCHA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% COTTON" Compesp="100% ALGODON" Price="999.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="MLB" Group="AP" Sub_group="" Arancel="" Season="SPRING SUMMER 23" LOB="SPO" Equipo="DOD" Gender="05" Logo_specs="FRONT CENTER LOGO: Placement with stitching embroidery, FRONT LOGO: Rubber print, BACK LOGO: Heat transfer, SLEEVE: Heat Transfer.">
+    <Colors Color="BLK" Barcode="7450130119616" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7450130119623" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7450130119630" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7450130119647" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGTS323103" Producto_reference="PSGTS323103NVY" Description="PSG PAINT BRUSH CORE T-SHIRT" Description_spanish="PSG PAINT BRUSH CORE CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER" Compesp="CVC 60% ALGODON / 40% POLIESTER" Price="349.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="CA" Arancel="" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="03" Logo_specs="FRONT LOGO: Rubber print - BOTTOM LOGO: Woven label stitched at top.">
+    <Colors Color="NVY" Barcode="7450130131748" Sizes="4"></Colors>
+    <Colors Color="NVY" Barcode="7450130131755" Sizes="6"></Colors>
+    <Colors Color="NVY" Barcode="7450130131762" Sizes="8"></Colors>
+    <Colors Color="NVY" Barcode="7450130131779" Sizes="10"></Colors>
+    <Colors Color="NVY" Barcode="7450130131786" Sizes="12"></Colors>
+    <Colors Color="NVY" Barcode="7450130131793" Sizes="14"></Colors>
+    <Colors Color="NVY" Barcode="7450130131809" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGTS323101" Producto_reference="PSGTS323101NVY" Description="PSG CORE T-SHIRT WITH LOGO" Description_spanish="CAMISA MANGA CORTA DE NI?O CORE PSG" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER" Compesp="CVC 60% ALGODON / 40% POLIESTER" Price="349.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="CA" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="03" Logo_specs="FRONT LOGO: Rubber print, PSG LOGO: Heat transfer, BOTTOM FRONT LOGO: Clip Woven label stitched at top only">
+    <Colors Color="NVY" Barcode="7450130131533" Sizes="4"></Colors>
+    <Colors Color="NVY" Barcode="7450130131540" Sizes="6"></Colors>
+    <Colors Color="NVY" Barcode="7450130131557" Sizes="8"></Colors>
+    <Colors Color="NVY" Barcode="7450130131564" Sizes="10"></Colors>
+    <Colors Color="NVY" Barcode="7450130131571" Sizes="12"></Colors>
+    <Colors Color="NVY" Barcode="7450130131588" Sizes="14"></Colors>
+    <Colors Color="NVY" Barcode="7450130131595" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGPT323103" Producto_reference="PSGPT323103NVY" Description="PSG CORE JOGGER PANT" Description_spanish="PANTALON LARGO DE NI?O CORE PSG" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton / 40% Polyester - FLEECE" Compesp="CVC 60% ALGODON / 40% POLIESTER - FLEECE" Price="899.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="CA" Arancel="JP" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="03" Logo_specs="FRONT LOGO: Rubber patch matte printed label, SIDE: Woven flag label, WAIST CORD: printed, BACK POCKET LOGO: Rubber print">
+    <Colors Color="NVY" Barcode="7450130131328" Sizes="4"></Colors>
+    <Colors Color="NVY" Barcode="7450130131335" Sizes="6"></Colors>
+    <Colors Color="NVY" Barcode="7450130131342" Sizes="8"></Colors>
+    <Colors Color="NVY" Barcode="7450130131359" Sizes="10"></Colors>
+    <Colors Color="NVY" Barcode="7450130131366" Sizes="12"></Colors>
+    <Colors Color="NVY" Barcode="7450130131373" Sizes="14"></Colors>
+    <Colors Color="NVY" Barcode="7450130131380" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGJS323101" Producto_reference="PSGJS323101WHT" Description="PSG CORE JERSEY" Description_spanish="CAMISA MANGA CORTA DE NI?O CORE PSG" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER - MINI MESH" Compesp="100% POLIESTER - MINI MESH" Price="549.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="CA" Arancel="" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="03" Logo_specs="FRONT LOGO: Woven Patch - FRONT LETTERS: Silk Rubber print - SLEEVES: Rubber print.">
+    <Colors Color="WHT" Barcode="7450130131113" Sizes="4"></Colors>
+    <Colors Color="WHT" Barcode="7450130131120" Sizes="6"></Colors>
+    <Colors Color="WHT" Barcode="7450130131137" Sizes="8"></Colors>
+    <Colors Color="WHT" Barcode="7450130131144" Sizes="10"></Colors>
+    <Colors Color="WHT" Barcode="7450130131151" Sizes="12"></Colors>
+    <Colors Color="WHT" Barcode="7450130131168" Sizes="14"></Colors>
+    <Colors Color="WHT" Barcode="7450130131175" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGJS323101" Producto_reference="PSGJS323101NVY" Description="PSG CORE JERSEY" Description_spanish="CAMISA MANGA CORTA DE NI?O CORE PSG" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER-INTERWOVEN" Compesp="100% POLIESTER-INTERWOVEN" Price="549.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="CA" Arancel="JS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="03" Logo_specs="FRONT LOGO: Woven Patch - FRONT LETTERS: Silk Rubber print - SLEEVES: Rubber print.">
+    <Colors Color="NVY" Barcode="7450130131045" Sizes="4"></Colors>
+    <Colors Color="NVY" Barcode="7450130131052" Sizes="6"></Colors>
+    <Colors Color="NVY" Barcode="7450130131069" Sizes="8"></Colors>
+    <Colors Color="NVY" Barcode="7450130131076" Sizes="10"></Colors>
+    <Colors Color="NVY" Barcode="7450130131083" Sizes="12"></Colors>
+    <Colors Color="NVY" Barcode="7450130131090" Sizes="14"></Colors>
+    <Colors Color="NVY" Barcode="7450130131106" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGHD323102" Producto_reference="PSGHD323102NVY" Description="PSG CORE HOODIE" Description_spanish="ABRIGO CON GORRO DE NI?O CORE PSG" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER - FLEECE" Compesp="CVC 60% ALGODON / 40% POLIESTER - FLEECE" Price="899.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="CA" Arancel="HD" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="03" Logo_specs="FRONT LOGO: Rubber print, PSG logo: Heat transfer, POCKET LOGO: Rubber patch matte printed label.">
+    <Colors Color="NVY" Barcode="7450130130970" Sizes="4"></Colors>
+    <Colors Color="NVY" Barcode="7450130130987" Sizes="6"></Colors>
+    <Colors Color="NVY" Barcode="7450130130994" Sizes="8"></Colors>
+    <Colors Color="NVY" Barcode="7450130131007" Sizes="10"></Colors>
+    <Colors Color="NVY" Barcode="7450130131014" Sizes="12"></Colors>
+    <Colors Color="NVY" Barcode="7450130131021" Sizes="14"></Colors>
+    <Colors Color="NVY" Barcode="7450130131038" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGTS523113" Producto_reference="PSGTS523113WHT" Description="PSG BASIC FRONT LOGO CORE T-SHIRT" Description_spanish="PSG BASIC FRONT LOGO CORE CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton / 40% Polyester 160 GSM" Compesp="CVC 60% ALGODON / 40% POLIESTER 160 GSM" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="TS" Arancel="TS" Season="BASIC" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT LOGO: Rubber print - BACK LOGO: Heat transfer">
+    <Colors Color="WHT" Barcode="7450130119579" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="7450130119586" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="7450130119593" Sizes="L"></Colors>
+    <Colors Color="WHT" Barcode="7450130119609" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGTS523113" Producto_reference="PSGTS523113NVY" Description="PSG BASIC FRONT LOGO CORE T-SHIRT" Description_spanish="PSG BASIC FRONT LOGO CORE CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton / 40% Polyester 160 GSM" Compesp="CVC 60% ALGODON / 40% POLIESTER 160 GSM" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="TS" Arancel="TS" Season="BASIC" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT LOGO: Rubber print - BACK LOGO: Heat transfer">
+    <Colors Color="NVY" Barcode="7450130119531" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7450130119548" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7450130119555" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="7450130119562" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGTS523113" Producto_reference="PSGTS523113BLK" Description="PSG BASIC FRONT LOGO CORE T-SHIRT" Description_spanish="PSG BASIC FRONT LOGO CORE CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton / 40% Polyester 160 GSM" Compesp="CVC 60% ALGODON / 40% POLIESTER 160 GSM" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="TS" Arancel="TS" Season="BASIC" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT LOGO: Rubber print - BACK LOGO: Heat transfer">
+    <Colors Color="BLK" Barcode="7450130119494" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7450130119500" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7450130119517" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7450130119524" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGTS523112" Producto_reference="PSGTS523112WHT" Description="PSG BACK CONTRAST LOGO BASIC CORE T-SHIRT" Description_spanish="PSG BACK CONTRAST LOGO BASIC CORE CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton / 40% Polyester 160 GSM" Compesp="CVC 60% ALGODON / 40% POLIESTER 160 GSM" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="TS" Arancel="TS" Season="BASIC" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT LOGO: Heat Transfer - BACK LOGO: Rubber print">
+    <Colors Color="WHT" Barcode="7450130119456" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="7450130119463" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="7450130119470" Sizes="L"></Colors>
+    <Colors Color="WHT" Barcode="7450130119487" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGTS523112" Producto_reference="PSGTS523112NVY" Description="PSG BACK CONTRAST LOGO BASIC CORE T-SHIRT" Description_spanish="PSG BACK CONTRAST LOGO BASIC CORE CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton / 40% Polyester 160 GSM" Compesp="CVC 60% ALGODON / 40% POLIESTER 160 GSM" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="TS" Arancel="TS" Season="BASIC" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT LOGO: Heat Transfer - BACK LOGO: Rubber print">
+    <Colors Color="NVY" Barcode="7450130119418" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7450130119425" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7450130119432" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="7450130119449" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGTS523112" Producto_reference="PSGTS523112BLK" Description="PSG BACK CONTRAST LOGO BASIC CORE T-SHIRT" Description_spanish="PSG BACK CONTRAST LOGO BASIC CORE CAMISETA MANGA CORTA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton / 40% Polyester 160 GSM" Compesp="CVC 60% ALGODON / 40% POLIESTER 160 GSM" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="TS" Arancel="TS" Season="BASIC" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT LOGO: Heat Transfer - BACK LOGO: Rubber print">
+    <Colors Color="BLK" Barcode="7450130119371" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7450130119388" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7450130119395" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7450130119401" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGTS523108" Producto_reference="PSGTS523108WHT" Description="PSG ICI C'EST PARIS CORE T-SHIRT" Description_spanish="CAMISA MANGA CORTA DE HOMBRE CORE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160 GSM" Compesp="CVC 60% Algodon / 40% Poliester" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT PARIS LOGO: Rubber print, TOP Letters: Direct Embroidery, BOTTOM LOGO: Clip Woven label top stitched only">
+    <Colors Color="WHT" Barcode="7450130152040" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="7450130152057" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="7450130152064" Sizes="L"></Colors>
+    <Colors Color="WHT" Barcode="7450130152071" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGTS523108" Producto_reference="PSGTS523108NVY" Description="PSG ICI C'EST PARIS CORE T-SHIRT" Description_spanish="CAMISA MANGA CORTA DE HOMBRE CORE" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER" Compesp="CVC 60% ALGODON / 40% POLIESTER" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT PARIS LOGO: Rubber print, TOP Letters: Direct Embroidery, BOTTOM LOGO: Clip Woven label top stitched only">
+    <Colors Color="NVY" Barcode="7450130119296" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7450130119302" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7450130119319" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="7450130119326" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGTS523101" Producto_reference="PSGTS523101WHT" Description="PSG CORE T-SHIRT WITH LOGO" Description_spanish="CAMISA MANGA CORTA DE HOMBRE CORE PSG" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160 GSM" Compesp="CVC 60% ALGODON / 40% POLIESTER 160 GSM" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT LOGO: Rubber print, PSG LOGO: Heat transfer, BOTTOM FRONT LOGO: Clip Woven label stitched at top only">
+    <Colors Color="WHT" Barcode="7450130119098" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="7450130119104" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="7450130119111" Sizes="L"></Colors>
+    <Colors Color="WHT" Barcode="7450130119128" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGTS523101" Producto_reference="PSGTS523101NVY" Description="PSG CORE T-SHIRT WITH LOGO" Description_spanish="CAMISA MANGA CORTA DE HOMBRE CORE PSG" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160 GSM" Compesp="CVC 60% ALGODON / 40% POLIESTER 160 GSM" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT LOGO: Rubber print, PSG LOGO: Heat transfer, BOTTOM FRONT LOGO: Clip Woven label stitched at top only">
+    <Colors Color="NVY" Barcode="7450130119050" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7450130119067" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7450130119074" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="7450130119081" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGTS523101" Producto_reference="PSGTS523101BLK" Description="PSG CORE T-SHIRT WITH LOGO" Description_spanish="CAMISA MANGA CORTA DE HOMBRE CORE PSG" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton / 40% Polyester 160 GSM" Compesp="" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT LOGO: Rubber print, PSG LOGO: Heat transfer, BOTTOM FRONT LOGO: Clip Woven label stitched at top only">
+    <Colors Color="BLK" Barcode="7450130152163" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7450130152170" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7450130152187" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7450130152194" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGSH523103" Producto_reference="PSGSH523103BLK" Description="PSG TEAM NAME CORE SHORT" Description_spanish="PANTALON CORTO DE HOMBRE CORE PSG" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER - FLEECE 330 GSM" Compesp="CVC 60% ALGODON / 40% POLIESTER - FLEECE 330 GSM" Price="599.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="SH" Arancel="SH5" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT LOGO: Rubber patch matte printed label, POCKET opening: Woven clip label sittiched at side only, WAIST CORD: printed, BACK POCKET LOGO: Rubber print">
+    <Colors Color="BLK" Barcode="7450130118930" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7450130118947" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7450130118954" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7450130118961" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGSH523101" Producto_reference="PSGSH523101NVY" Description="PSG CORE SHORT" Description_spanish="PANTALON CORTO DE HOMBRE CORE PSG" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER -MINI MESH" Compesp="100% POLIESTER -MINI MESH" Price="459.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="SH" Arancel="SH5" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="05" Logo_specs="SIDE: cut&amp;amp;sew inserts, FRONT: Woven patch with embroidery">
+    <Colors Color="NVY" Barcode="7450130118893" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7450130118909" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7450130118916" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="7450130118923" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGPT523103" Producto_reference="PSGPT523103NVY" Description="PSG CORE JOGGER PANT" Description_spanish="PANTALON LARGO DE HOMBRE CORE PSG" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton / 40% Polyester - FLEECE 330 GSM" Compesp="CVC 60% ALGODON / 40% POLIESTER - FLEECE 330 GSM" Price="999.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="PT" Arancel="JP" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT LOGO: Rubber patch matte printed label, SIDE: Woven flag label, WAIST CORD: printed, BACK POCKET LOGO: Rubber print">
+    <Colors Color="NVY" Barcode="7450130118855" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7450130118862" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7450130118879" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="7450130118886" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGPT523103" Producto_reference="PSGPT523103BLK" Description="PSG CORE JOGGER PANT" Description_spanish="PANTALON LARGO DE HOMBRE CORE PSG" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER - FLEECE 330 GSM" Compesp="CVC 60% ALGODON / 40% POLIESTER - FLEECE 330 GSM" Price="999.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="PT" Arancel="JP" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT LOGO: Rubber patch matte printed label, SIDE: Woven flag label, WAIST CORD: printed, BACK POCKET LOGO: Rubber print">
+    <Colors Color="BLK" Barcode="7450130118817" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7450130118824" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7450130118831" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7450130118848" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGPT523101" Producto_reference="PSGPT523101NVY" Description="PSG JOGGER PANT WITH BOTTOM ZIPPER" Description_spanish="PANTALON LARGO DE HOMBRE CORE PSG" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% polyester - polytricot with inside brush 220 GSM" Compesp="100% POLIESTER - POLITRICOT CON CEPILLO INTERIOR" Price="899.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="PT" Arancel="JP" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT AND SIDE: inserts with piping, FRONT LOGO: Woven patch with embroidery, BOTTOM SIDE: Heat Transfer, SIDE: Zipper">
+    <Colors Color="NVY" Barcode="7450130152200" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7450130152217" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7450130152224" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="7450130152231" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGPT523101" Producto_reference="PSGPT523101GRY" Description="PSG JOGGER PANT WITH BOTTOM ZIPPER" Description_spanish="PANTALON LARGO DE HOMBRE CORE PSG" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% polyester - polytricot with inside brush 220 GSM" Compesp="100% POLIESTER - POLITRICOT CON CEPILLO INTERIOR" Price="899.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="PT" Arancel="JP" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT AND SIDE: inserts with piping, FRONT LOGO: Woven patch with embroidery, BOTTOM SIDE: Heat Transfer, SIDE: Zipper">
+    <Colors Color="GRY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGPL523102" Producto_reference="PSGPL523102NVY" Description="PSG BASIC CORE POLO" Description_spanish="PSG BASIC CORE POLO" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="60% Cotton / 40% Polyester - PIQUE 170 GSM" Compesp="60% ALGODON / 40% POLIESTER - PIQUE 170 GSM" Price="699.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="" Arancel="" Season="BASIC" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT LOGO: Woven Patch with embroidery , RIB: Jacquard">
+    <Colors Color="NVY" Barcode="7450130118695" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7450130118701" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7450130118718" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="7450130118725" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGLS523101" Producto_reference="PSGLS523101NVY" Description="PSG CORE LONG SLEEVE" Description_spanish="CAMISA MANGA LARGA DE HOMBRE CORE PSG" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton / 40% Polyester 160 GSM" Compesp="CVC 60% Algodon / 40% Poliester" Price="599.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="LS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT LOGO: Rubber print, BACK LOGO: Rubber print">
+    <Colors Color="NVY" Barcode="7450130152248" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7450130152255" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7450130152262" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="7450130152279" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGJS523101" Producto_reference="PSGJS523101WHT" Description="PSG CORE JERSEY" Description_spanish="CAMISA MANGA CORTA DE HOMBRE CORE PSG" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER - MINI MESH" Compesp="100% POLIESTER - MINI MESH" Price="599.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="" Arancel="" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT LOGO: Woven Patch - FRONT LETTERS: Silk Rubber print - SLEEVES: Rubber print.">
+    <Colors Color="WHT" Barcode="7450130118572" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="7450130118589" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="7450130118596" Sizes="L"></Colors>
+    <Colors Color="WHT" Barcode="7450130118602" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGJS523101" Producto_reference="PSGJS523101NVY" Description="PSG CORE JERSEY" Description_spanish="CAMISA MANGA CORTA DE HOMBRE CORE PSG" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER-INTERWOVEN" Compesp="100% POLIESTER-INTERWOVEN" Price="599.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="JS" Arancel="JS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT LOGO: Woven Patch - FRONT LETTERS: Silk Rubber print - SLEEVES: Rubber print.">
+    <Colors Color="NVY" Barcode="7450130118534" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7450130118541" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7450130118558" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="7450130118565" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGHD523105" Producto_reference="PSGHD523105NVY" Description="PSG BASIC LOGO HOODIE" Description_spanish="PSG BASIC LOGO ABRIGO CON CAPUCHA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton / 40% Polyester - FLEECE 330 GSM" Compesp="CVC 60% ALGODON / 40% POLIESTER - FLEECE 330 GSM" Price="899.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="" Arancel="" Season="BASIC" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT LOGO: Rubber print">
+    <Colors Color="NVY" Barcode="7450130118497" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7450130118503" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7450130118510" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="7450130118527" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGHD523105" Producto_reference="PSGHD523105GRY" Description="PSG BASIC LOGO HOODIE" Description_spanish="PSG BASIC LOGO ABRIGO CON CAPUCHA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton / 40% Polyester - FLEECE 330 GSM" Compesp="" Price="899.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="" Arancel="" Season="BASIC" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT LOGO: Rubber print">
+    <Colors Color="GRY" Barcode="7450130152286" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="7450130152293" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="7450130152309" Sizes="L"></Colors>
+    <Colors Color="GRY" Barcode="7450130152316" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGHD523105" Producto_reference="PSGHD523105BLK" Description="PSG BASIC LOGO HOODIE" Description_spanish="PSG BASIC LOGO ABRIGO CON CAPUCHA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton / 40% Polyester - FLEECE 330 GSM" Compesp="CVC 60% ALGODON / 40% POLIESTER - FLEECE 330 GSM" Price="899.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="" Arancel="" Season="BASIC" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT LOGO: Rubber print">
+    <Colors Color="BLK" Barcode="7450130118459" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7450130118466" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7450130118473" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7450130118480" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGHD523102" Producto_reference="PSGHD523102NVY" Description="PSG FRONT PARIS CORE HOODIE" Description_spanish="ABRIGO CON GORRO DE HOMBRE CORE PSG" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton / 40% Polyester - FLEECE 330 GSM" Compesp="CVC 60% ALGODON / 40% POLIESTER - FLEECE 330 GSM" Price="999.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="HD" Arancel="HD" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT LOGO: Rubber print, PSG logo: Heat transfer, POCKET LOGO: Rubber patch matte printed label.">
+    <Colors Color="NVY" Barcode="7450130118411" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7450130118428" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7450130118435" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="7450130118442" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGHD523102" Producto_reference="PSGHD523102BLK" Description="PSG FRONT PARIS CORE HOODIE" Description_spanish="ABRIGO CON GORRO DE HOMBRE CORE PSG" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER - FLEECE 330 GSM" Compesp="CVC 60% ALGODON / 40% POLIESTER - FLEECE 330 GSM" Price="999.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="HD" Arancel="HD" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT LOGO: Rubber print, PSG logo: Heat transfer, POCKET LOGO: Rubber patch matte printed label.">
+    <Colors Color="BLK" Barcode="7450130118374" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7450130118381" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7450130118398" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7450130118404" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGCA523101" Producto_reference="PSGCA523101WHT" Description="PSG CORE CAP" Description_spanish="GORRA CORE PSG" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="WOOL" Compesp="ALGODON" Price="" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="CA" Arancel="MCA" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="05" Logo_specs="3D Embroidery w/ Raised Embroidery">
+    <Colors Color="WHT" Barcode="7450130166245" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="PSGCA523101" Producto_reference="PSGCA523101NVY" Description="PSG CORE CAP" Description_spanish="GORRA CORE PSG" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="WOOL" Compesp="ALGODON" Price="" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="OS" Brand="PARIS ST GERMAIN" Group="AP" Sub_group="CA" Arancel="MCA" Season="SPRING SUMMER 23" LOB="SPO" Equipo="" Gender="05" Logo_specs="3D Embroidery w/ Raised Embroidery">
+    <Colors Color="NVY" Barcode="7450130166207" Sizes="OS"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT523102" Producto_reference="NBATT523102YEL" Description="GLITCH TANK TOP" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE GLITCH NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% HONEY MESH 150G" Compesp="100% HONEY MESH 150G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TT" Arancel="TS" Season="SPRING SUMMER 2023" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="FRONT: RUBBER     BACK:HEAT TRANSFER PRINT">
+    <Colors Color="YEL" Barcode="7450130118251" Sizes="S"></Colors>
+    <Colors Color="YEL" Barcode="7450130118268" Sizes="M"></Colors>
+    <Colors Color="YEL" Barcode="7450130118275" Sizes="L"></Colors>
+    <Colors Color="YEL" Barcode="7450130118282" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT523102" Producto_reference="NBATT523102PUR" Description="GLITCH TANK TOP" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE GLITCH NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% HONEY MESH 150G" Compesp="100% HONEY MESH 150G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TT" Arancel="TS" Season="SPRING SUMMER 2023" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="FRONT: RUBBER     BACK:HEAT TRANSFER PRINT">
+    <Colors Color="PUR" Barcode="7450130118176" Sizes="S"></Colors>
+    <Colors Color="PUR" Barcode="7450130118183" Sizes="M"></Colors>
+    <Colors Color="PUR" Barcode="7450130118190" Sizes="L"></Colors>
+    <Colors Color="PUR" Barcode="7450130118206" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT523102" Producto_reference="NBATT523102RED" Description="GLITCH TANK TOP" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE GLITCH NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% HONEY MESH 150G" Compesp="100% HONEY MESH 150G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TT" Arancel="TS" Season="SPRING SUMMER 2023" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="FRONT: RUBBER     BACK:HEAT TRANSFER PRINT">
+    <Colors Color="RED" Barcode="7450130118213" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="7450130118220" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="7450130118237" Sizes="L"></Colors>
+    <Colors Color="RED" Barcode="7450130118244" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT523102" Producto_reference="NBATT523102NVY1" Description="GLITCH TANK TOP" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE GLITCH NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% HONEY MESH 150G" Compesp="100% HONEY MESH 150G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TT" Arancel="TS" Season="SPRING SUMMER 2023" LOB="SPO" Equipo="WAR" Gender="05" Logo_specs="FRONT: RUBBER     BACK:HEAT TRANSFER PRINT">
+    <Colors Color="NVY1" Barcode="7450130118138" Sizes="S"></Colors>
+    <Colors Color="NVY1" Barcode="7450130118145" Sizes="M"></Colors>
+    <Colors Color="NVY1" Barcode="7450130118152" Sizes="L"></Colors>
+    <Colors Color="NVY1" Barcode="7450130118169" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT523102" Producto_reference="NBATT523102BLK" Description="GLITCH TANK TOP" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE GLITCH NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% HONEY MESH 150G" Compesp="100% HONEY MESH 150G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TT" Arancel="TS" Season="SPRING SUMMER 2023" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="FRONT: RUBBER     BACK:HEAT TRANSFER PRINT">
+    <Colors Color="BLK" Barcode="7450130118015" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7450130118022" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7450130118039" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7450130118046" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT523102" Producto_reference="NBATT523102BLK1" Description="GLITCH TANK TOP" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE GLITCH NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% HONEY MESH 150G" Compesp="100% HONEY MESH 150G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TT" Arancel="TS" Season="SPRING SUMMER 2023" LOB="SPO" Equipo="NET" Gender="05" Logo_specs="FRONT: RUBBER     BACK:HEAT TRANSFER PRINT">
+    <Colors Color="BLK1" Barcode="7450130118053" Sizes="S"></Colors>
+    <Colors Color="BLK1" Barcode="7450130118060" Sizes="M"></Colors>
+    <Colors Color="BLK1" Barcode="7450130118077" Sizes="L"></Colors>
+    <Colors Color="BLK1" Barcode="7450130118084" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT523102" Producto_reference="NBATT523102NVY" Description="GLITCH TANK TOP" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE GLITCH NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% HONEY MESH 150G" Compesp="100% HONEY MESH 150G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TT" Arancel="TS" Season="SPRING SUMMER 2023" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT: RUBBER     BACK:HEAT TRANSFER PRINT">
+    <Colors Color="NVY" Barcode="7450130118091" Sizes="S"></Colors>
+    <Colors Color="NVY" Barcode="7450130118107" Sizes="M"></Colors>
+    <Colors Color="NVY" Barcode="7450130118114" Sizes="L"></Colors>
+    <Colors Color="NVY" Barcode="7450130118121" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT523102" Producto_reference="NBATT523102AQA" Description="GLITCH TANK TOP" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE GLITCH NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% HONEY MESH 150G" Compesp="100% HONEY MESH 150G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TT" Arancel="TS" Season="SPRING SUMMER 2023" LOB="SPO" Equipo="" Gender="05" Logo_specs="FRONT: RUBBER     BACK:HEAT TRANSFER PRINT">
+    <Colors Color="AQA" Barcode="7450130117971" Sizes="S"></Colors>
+    <Colors Color="AQA" Barcode="7450130117988" Sizes="M"></Colors>
+    <Colors Color="AQA" Barcode="7450130117995" Sizes="L"></Colors>
+    <Colors Color="AQA" Barcode="7450130118008" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT523101" Producto_reference="NBATT523101RED" Description="NBA DIAMOND TANK TOP" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE DIAMOND NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="150G 100% HONEY MESH 150G" Compesp="150G 100% HONEY MESH 150G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TT" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="EMBOSSED WITH LASER PRINT IN FRONT AND BACK + WOVEN FLAG LABEL ON THE SIDE">
+    <Colors Color="RED" Barcode="7450130117896" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="7450130117902" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="7450130117919" Sizes="L"></Colors>
+    <Colors Color="RED" Barcode="7450130117926" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT523101" Producto_reference="NBATT523101WHT" Description="NBA DIAMOND TANK TOP" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE DIAMOND NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="150G 100% HONEY MESH 150G" Compesp="150G 100% HONEY MESH 150G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TT" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="NET" Gender="05" Logo_specs="EMBOSSED WITH LASER PRINT IN FRONT AND BACK + WOVEN FLAG LABEL ON THE SIDE">
+    <Colors Color="WHT" Barcode="7450130117933" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="7450130117940" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="7450130117957" Sizes="L"></Colors>
+    <Colors Color="WHT" Barcode="7450130117964" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT523101" Producto_reference="NBATT523101BUR" Description="NBA DIAMOND TANK TOP" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE DIAMOND NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="150G 100% HONEY MESH 150G" Compesp="150G 100% HONEY MESH 150G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TT" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="HEA" Gender="05" Logo_specs="EMBOSSED WITH LASER PRINT IN FRONT AND BACK + WOVEN FLAG LABEL ON THE SIDE">
+    <Colors Color="BUR" Barcode="7450130117810" Sizes="S"></Colors>
+    <Colors Color="BUR" Barcode="7450130117827" Sizes="M"></Colors>
+    <Colors Color="BUR" Barcode="7450130117834" Sizes="L"></Colors>
+    <Colors Color="BUR" Barcode="7450130117841" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT523101" Producto_reference="NBATT523101PUR" Description="NBA DIAMOND TANK TOP" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE DIAMOND NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="150G 100% HONEY MESH 150G" Compesp="150G 100% HONEY MESH 150G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TT" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="EMBOSSED WITH LASER PRINT IN FRONT AND BACK + WOVEN FLAG LABEL ON THE SIDE">
+    <Colors Color="PUR" Barcode="7450130117858" Sizes="S"></Colors>
+    <Colors Color="PUR" Barcode="7450130117865" Sizes="M"></Colors>
+    <Colors Color="PUR" Barcode="7450130117872" Sizes="L"></Colors>
+    <Colors Color="PUR" Barcode="7450130117889" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATT523101" Producto_reference="NBATT523101BLK" Description="NBA DIAMOND TANK TOP" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE DIAMOND NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="150G 100% HONEY MESH 150G" Compesp="150G 100% HONEY MESH 150G" Price="799.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TT" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="EMBOSSED WITH LASER PRINT IN FRONT AND BACK + WOVEN FLAG LABEL ON THE SIDE">
+    <Colors Color="BLK" Barcode="7450130154327" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7450130154334" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7450130154341" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7450130154358" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523125" Producto_reference="NBATS523125BLK1" Description="NBA VARSITY CIRCLE LOGO T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE VARSITY NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160G" Compesp="CVC 60% COTTON/40% POLYESTER 160G" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="FRONT: HD PRINT BACK: HEAT TRANSFER">
+    <Colors Color="BLK1" Barcode="7450130168164" Sizes="S"></Colors>
+    <Colors Color="BLK1" Barcode="7450130168171" Sizes="M"></Colors>
+    <Colors Color="BLK1" Barcode="7450130168188" Sizes="L"></Colors>
+    <Colors Color="BLK1" Barcode="7450130168195" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523125" Producto_reference="NBATS523125BLK2" Description="NBA VARSITY CIRCLE LOGO T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE VARSITY NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160G" Compesp="CVC 60% COTTON/40% POLYESTER 160G" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="FRONT: HD PRINT BACK: HEAT TRANSFER">
+    <Colors Color="BLK2" Barcode="7450130168201" Sizes="S"></Colors>
+    <Colors Color="BLK2" Barcode="7450130168218" Sizes="M"></Colors>
+    <Colors Color="BLK2" Barcode="7450130168225" Sizes="L"></Colors>
+    <Colors Color="BLK2" Barcode="7450130168232" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523124" Producto_reference="NBATS523124BLK1" Description="NBA VARSITY CITY CODE T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE VARSITY NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160G" Compesp="CVC 60% ALGODON/40% POLIESTER 160G" Price="479.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="FRONT: RUBBER PRINT + HIGH DENSITY (ALL WHITE) BACK: HEAT TRANSFER + FLAG LABEL">
+    <Colors Color="BLK1" Barcode="7450130117650" Sizes="S"></Colors>
+    <Colors Color="BLK1" Barcode="7450130117667" Sizes="M"></Colors>
+    <Colors Color="BLK1" Barcode="7450130117674" Sizes="L"></Colors>
+    <Colors Color="BLK1" Barcode="7450130117681" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523124" Producto_reference="NBATS523124BLK2" Description="NBA VARSITY CITY CODE T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE VARSITY NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160G" Compesp="CVC 60% COTTON/40% POLYESTER 160G" Price="479.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="FRONT: RUBBER PRINT + HIGH DENSITY (ALL WHITE) BACK: HEAT TRANSFER + FLAG LABEL">
+    <Colors Color="BLK2" Barcode="7450130168287" Sizes="S"></Colors>
+    <Colors Color="BLK2" Barcode="7450130168294" Sizes="M"></Colors>
+    <Colors Color="BLK2" Barcode="7450130168300" Sizes="L"></Colors>
+    <Colors Color="BLK2" Barcode="7450130168317" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523123" Producto_reference="NBATS523123BLK1" Description="NBA VARSITY BOLD NUMBER T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE VARSITY NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER 160G" Compesp="CVC 60% ALGODON/40% POLIESTER 160G" Price="499.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="FRONT: RUBBER PRINT. BACK: RUBBER PRINT + HIGH DENSITY (ALL WHITE AND GRAY)">
+    <Colors Color="BLK1" Barcode="7450130117452" Sizes="S"></Colors>
+    <Colors Color="BLK1" Barcode="7450130117469" Sizes="M"></Colors>
+    <Colors Color="BLK1" Barcode="7450130117476" Sizes="L"></Colors>
+    <Colors Color="BLK1" Barcode="7450130117483" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523122" Producto_reference="NBATS523122YEL" Description="NBA VARSITY WASHED T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE VARSITY NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% COTTON + MINERAL WASH 160G" Compesp="100% COTTON + MINERAL WASH 160G" Price="549.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="FRONT: RUBBER PRINT + HIGH DENSITY (ALL WHITE) BACK: HEAT TRANSFER + FLAG LABEL">
+    <Colors Color="YEL" Barcode="7450130168362" Sizes="S"></Colors>
+    <Colors Color="YEL" Barcode="7450130168379" Sizes="M"></Colors>
+    <Colors Color="YEL" Barcode="7450130168386" Sizes="L"></Colors>
+    <Colors Color="YEL" Barcode="7450130168393" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523122" Producto_reference="NBATS523122RED" Description="NBA VARSITY WASHED T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE VARSITY NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% COTTON + MINERAL WASH 160G" Compesp="100% COTTON + MINERAL WASH 160G" Price="549.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="FRONT: RUBBER PRINT + HIGH DENSITY (ALL WHITE) BACK: HEAT TRANSFER + FLAG LABEL">
+    <Colors Color="RED" Barcode="" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="L"></Colors>
+    <Colors Color="RED" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523122" Producto_reference="NBATS523122BLK1" Description="NBA VARSITY WASHED T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE VARSITY NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% COTTON + MINERAL WASH 160G" Compesp="100% COTTON + MINERAL WASH 160G" Price="549.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="FRONT: RUBBER PRINT + HIGH DENSITY (ALL WHITE) BACK: HEAT TRANSFER + FLAG LABEL">
+    <Colors Color="BLK1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523122" Producto_reference="NBATS523122BLK" Description="NBA VARSITY WASHED T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE VARSITY NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% COTTON + MINERAL WASH 160G" Compesp="100% COTTON + MINERAL WASH 160G" Price="549.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="NET" Gender="05" Logo_specs="FRONT: RUBBER PRINT + HIGH DENSITY (ALL WHITE) BACK: HEAT TRANSFER + FLAG LABEL">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523117" Producto_reference="NBATS523117BLK" Description="GLITCH T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE GLITCH NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER 160G" Compesp="CVC 60% ALGODON/40% POLIESTER 160G" Price="549.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="FRONT: RUBBER     BACK:HEAT TRANSFER PRINT SLEEVE: CUT AND SEW + BRANDED ZIPPER PULLER">
+    <Colors Color="BLK" Barcode="7450130117292" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7450130117308" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7450130117315" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7450130117322" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523117" Producto_reference="NBATS523117GRY" Description="GLITCH T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE GLITCH NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER 160G" Compesp="CVC 60% ALGODON/40% POLIESTER 160G" Price="549.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="NET" Gender="05" Logo_specs="FRONT: RUBBER     BACK:HEAT TRANSFER PRINT SLEEVE: CUT AND SEW + BRANDED ZIPPER PULLER">
+    <Colors Color="GRY" Barcode="7450130117339" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="7450130117346" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="7450130117353" Sizes="L"></Colors>
+    <Colors Color="GRY" Barcode="7450130117360" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523116" Producto_reference="NBATS523116WHT" Description="GLITCH T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE GLITCH NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/41% POLYESTER 161G" Compesp="CVC 60% COTTON/41% POLYESTER 161G" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="NET" Gender="05" Logo_specs="FRONT: RUBBER     BACK:HEAT TRANSFER PRINT">
+    <Colors Color="WHT" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="L"></Colors>
+    <Colors Color="WHT" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523116" Producto_reference="NBATS523116BLK1" Description="GLITCH T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE GLITCH NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/42% POLYESTER 162G" Compesp="CVC 60% ALGODON/42% POLIESTER 162G" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 2023" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="FRONT: RUBBER     BACK:HEAT TRANSFER PRINT">
+    <Colors Color="BLK1" Barcode="7450130117179" Sizes="S"></Colors>
+    <Colors Color="BLK1" Barcode="7450130117186" Sizes="M"></Colors>
+    <Colors Color="BLK1" Barcode="7450130117193" Sizes="L"></Colors>
+    <Colors Color="BLK1" Barcode="7450130117209" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523116" Producto_reference="NBATS523116RED" Description="GLITCH T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE GLITCH NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER 160G" Compesp="CVC 60% ALGODON/40% POLIESTER 160G" Price="399.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 2023" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="FRONT: RUBBER     BACK:HEAT TRANSFER PRINT">
+    <Colors Color="RED" Barcode="7450130117254" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="7450130117261" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="7450130117278" Sizes="L"></Colors>
+    <Colors Color="RED" Barcode="7450130117285" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523115" Producto_reference="NBATS523115YEL" Description="GLITCH T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE GLITCH NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER 160G" Compesp="CVC 60% ALGODON/40% POLIESTER 160G" Price="419.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 2023" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="FRONT: RUBBER     BACK:HEAT TRANSFER PRINT">
+    <Colors Color="YEL" Barcode="7450130117094" Sizes="S"></Colors>
+    <Colors Color="YEL" Barcode="7450130117100" Sizes="M"></Colors>
+    <Colors Color="YEL" Barcode="7450130117117" Sizes="L"></Colors>
+    <Colors Color="YEL" Barcode="7450130117124" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523115" Producto_reference="NBATS523115BLK" Description="GLITCH T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE GLITCH NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER 160G" Compesp="CVC 60% ALGODON/40% POLIESTER 160G" Price="419.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 2023" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="FRONT: RUBBER     BACK:HEAT TRANSFER PRINT">
+    <Colors Color="BLK" Barcode="7450130116974" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7450130116981" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7450130116998" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7450130117001" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523115" Producto_reference="NBATS523115BLK1" Description="GLITCH T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE GLITCH NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER 160G" Compesp="CVC 60% ALGODON/40% POLIESTER 160G" Price="419.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 2023" LOB="SPO" Equipo="NET" Gender="05" Logo_specs="FRONT: RUBBER     BACK:HEAT TRANSFER PRINT">
+    <Colors Color="BLK1" Barcode="7450130117018" Sizes="S"></Colors>
+    <Colors Color="BLK1" Barcode="7450130117025" Sizes="M"></Colors>
+    <Colors Color="BLK1" Barcode="7450130117032" Sizes="L"></Colors>
+    <Colors Color="BLK1" Barcode="7450130117049" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523113" Producto_reference="NBATS523113BLK1" Description="NBA PASTEL DROPS LOGO T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE PASTEL DROPS NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160" Compesp="CVC 60% ALGODON/40% POLIESTER 160" Price="449.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="HD SILICON PRINT (PASTEL GRADIENT) + HEAT TRANSFER SMALL LOGOS">
+    <Colors Color="BLK1" Barcode="7450130116813" Sizes="S"></Colors>
+    <Colors Color="BLK1" Barcode="7450130116820" Sizes="M"></Colors>
+    <Colors Color="BLK1" Barcode="7450130116837" Sizes="L"></Colors>
+    <Colors Color="BLK1" Barcode="7450130116844" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523113" Producto_reference="NBATS523113BLK" Description="NBA PASTEL DROPS LOGO T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE PASTEL DROPS NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160" Compesp="CVC 60% ALGODON/40% POLIESTER 160" Price="449.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="HD SILICON PRINT (PASTEL GRADIENT) + HEAT TRANSFER SMALL LOGOS">
+    <Colors Color="BLK" Barcode="7450130116776" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7450130116783" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7450130116790" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7450130116806" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523112" Producto_reference="NBATS523112LIL" Description="NBA PASTEL DROPS NAME T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE PASTEL DROPS NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160" Compesp="CVC 60% Cotton/40% Polyester 160" Price="499.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="HD SILICON PRINT (PASTEL GRADIENT) + HEAT TRANSFER SMALL LOGOS">
+    <Colors Color="LIL" Barcode="" Sizes="S"></Colors>
+    <Colors Color="LIL" Barcode="" Sizes="M"></Colors>
+    <Colors Color="LIL" Barcode="" Sizes="L"></Colors>
+    <Colors Color="LIL" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523112" Producto_reference="NBATS523112LIL1" Description="NBA PASTEL DROPS NAME T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE PASTEL DROPS NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160" Compesp="CVC 60% Cotton/40% Polyester 160" Price="499.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="HEA" Gender="05" Logo_specs="HD SILICON PRINT (PASTEL GRADIENT) + HEAT TRANSFER SMALL LOGOS">
+    <Colors Color="LIL1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="LIL1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="LIL1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="LIL1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523112" Producto_reference="NBATS523112BLK" Description="NBA PASTEL DROPS NAME T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE PASTEL DROPS NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160" Compesp="CVC 60% Cotton/40% Polyester 160" Price="499.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="NET" Gender="05" Logo_specs="HD SILICON PRINT (PASTEL GRADIENT) + HEAT TRANSFER SMALL LOGOS">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523112" Producto_reference="NBATS523112GRN" Description="NBA PASTEL DROPS NAME T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE PASTEL DROPS NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160" Compesp="CVC 60% Cotton/40% Polyester 160" Price="499.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="CEL" Gender="05" Logo_specs="HD SILICON PRINT (PASTEL GRADIENT) + HEAT TRANSFER SMALL LOGOS">
+    <Colors Color="GRN" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRN" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRN" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GRN" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523110" Producto_reference="NBATS523110RED" Description="NBA DIAMOND LOGO T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE DIAMOND NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER 160G" Compesp="CVC 60% ALGODON/40% POLIESTER 160G" Price="469.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="FRONT: EMBOSSING WITH LASER PRINT BACK: HEAT TRANSFER + WOVEN LABEL">
+    <Colors Color="RED" Barcode="7450130116653" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="7450130116660" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="7450130116677" Sizes="L"></Colors>
+    <Colors Color="RED" Barcode="7450130116684" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523110" Producto_reference="NBATS523110BLK2" Description="NBA DIAMOND LOGO T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE DIAMOND NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 160G" Compesp="CVC 60% ALGODON/40% POLIester 160G" Price="469.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="231" LOB="SPO" Equipo="KNI" Gender="05" Logo_specs="FRONT: EMBOSSING WITH LASER PRINT BACK: HEAT TRANSFER + WOVEN LABEL">
+    <Colors Color="BLK2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523110" Producto_reference="NBATS523110BLK" Description="NBA DIAMOND LOGO T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE DIAMOND NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER 160G" Compesp="CVC 60% ALGODON/40% POLIESTER 160G" Price="469.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="FRONT: EMBOSSING WITH LASER PRINT BACK: HEAT TRANSFER + WOVEN LABEL">
+    <Colors Color="BLK" Barcode="7450130116530" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7450130116547" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7450130116554" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7450130116561" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBATS523106" Producto_reference="NBATS523106BLK" Description="NBA CONFERENCE EDITION T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE " Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="60% COTTON / 40% POLYESTER 160G CVC" Compesp="60% ALGODON / 40% POLIESTER 160G CVC" Price="" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="TS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="RUBBER PRINT / WOVEN LABEL / HEAT TRANSFER">
+    <Colors Color="BLK" Barcode="7450130116493" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7450130116509" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7450130116516" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7450130116523" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASW523107" Producto_reference="NBASW523107BLK3" Description="NBA VARSITY SWEATER" Description_spanish="SUETER DE HOMBRE VARSITY NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 280G FRENCH TERRY" Compesp="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Price="999.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="SW" Arancel="SW" Season="SPRING SUMMER 23" LOB="SPO" Equipo="HEA" Gender="05" Logo_specs="FRONT: HD PRINT BACK: HEAT TRANSFER. RIBBED CUFFS + WASHED BLACK FABRIC INSERTS ON SHOULDERS">
+    <Colors Color="BLK3" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK3" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASW523107" Producto_reference="NBASW523107BLK" Description="NBA VARSITY SWEATER" Description_spanish="SUETER DE HOMBRE VARSITY NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 280G FRENCH TERRY" Compesp="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Price="999.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="SW" Arancel="SW" Season="SPRING SUMMER 23" LOB="SPO" Equipo="NET" Gender="05" Logo_specs="FRONT: HD PRINT BACK: HEAT TRANSFER. RIBBED CUFFS + WASHED BLACK FABRIC INSERTS ON SHOULDERS">
+    <Colors Color="BLK" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASW523107" Producto_reference="NBASW523107BLK1" Description="NBA VARSITY SWEATER" Description_spanish="SUETER DE HOMBRE VARSITY NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 280G FRENCH TERRY" Compesp="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Price="999.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="SW" Arancel="SW" Season="SPRING SUMMER 23" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="FRONT: HD PRINT BACK: HEAT TRANSFER. RIBBED CUFFS + WASHED BLACK FABRIC INSERTS ON SHOULDERS">
+    <Colors Color="BLK1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASW523107" Producto_reference="NBASW523107BLK2" Description="NBA VARSITY SWEATER" Description_spanish="SUETER DE HOMBRE VARSITY NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% Cotton/40% Polyester 280G FRENCH TERRY" Compesp="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Price="999.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="SW" Arancel="SW" Season="SPRING SUMMER 23" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="FRONT: HD PRINT BACK: HEAT TRANSFER. RIBBED CUFFS + WASHED BLACK FABRIC INSERTS ON SHOULDERS">
+    <Colors Color="BLK2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASW523106" Producto_reference="NBASW523106GRY1" Description="NBA STITCHING SWEATER" Description_spanish="SUETER DE HOMBRE STITCHING NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER FRENCH TERRY 280G" Compesp="CVC 60% ALGODON/40% POLIESTER FRENCH TERRY 280G" Price="999.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="SW" Arancel="SW" Season="SPRING SUMMER 2023" LOB="SPO" Equipo="CEL" Gender="05" Logo_specs="LOGO PATCH (THAT DESIGN TEAM DEVELOPED) + FABRIC WITH PRINT INSERT ON SHOULDERS   BACK: RUBBER PRINT + HIGH DENSITY (ALL STITCHINGS)">
+    <Colors Color="GRY1" Barcode="7450130116370" Sizes="S"></Colors>
+    <Colors Color="GRY1" Barcode="7450130116387" Sizes="M"></Colors>
+    <Colors Color="GRY1" Barcode="7450130116394" Sizes="L"></Colors>
+    <Colors Color="GRY1" Barcode="7450130116400" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASW523101" Producto_reference="NBASW523101LHB" Description="DISTRESSED SWEATER" Description_spanish="SUETER DE HOMBRE DISTRESSED NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON/ 40% POLIESTER 330G FLEECE + MINERAL WASH" Compesp="CVC 280G FRENCH TERRY + MINERAL WASH 280G" Price="999.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="SW" Arancel="SW" Season="SPRING SUMMER 23" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="FRONT: DISTRESSED PLACEMENT APPLIQUE. BACK: BRITTLE PRINT EFFECT">
+    <Colors Color="LHB" Barcode="" Sizes="S"></Colors>
+    <Colors Color="LHB" Barcode="" Sizes="M"></Colors>
+    <Colors Color="LHB" Barcode="" Sizes="L"></Colors>
+    <Colors Color="LHB" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASW523101" Producto_reference="NBASW523101GRY" Description="DISTRESSED SWEATER" Description_spanish="SUETER DE HOMBRE DISTRESSED NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON/ 40% POLIESTER 330G FLEECE + MINERAL WASH" Compesp="CVC 280G FRENCH TERRY + MINERAL WASH 280G" Price="999.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="SW" Arancel="SW" Season="231" LOB="SPO" Equipo="SUN" Gender="05" Logo_specs="FRONT: DISTRESSED PLACEMENT APPLIQUE. BACK: BRITTLE PRINT EFFECT">
+    <Colors Color="GRY" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GRY" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASW523101" Producto_reference="NBASW523101BLK1" Description="DISTRESSED SWEATER" Description_spanish="SUETER DE HOMBRE DISTRESSED NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% ALGODON/ 40% POLIESTER 330G FLEECE + MINERAL WASH" Compesp="CVC 280G FRENCH TERRY + MINERAL WASH 280G" Price="999.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="SW" Arancel="SW" Season="231" LOB="SPO" Equipo="KNI" Gender="05" Logo_specs="FRONT: DISTRESSED PLACEMENT APPLIQUE. BACK: BRITTLE PRINT EFFECT">
+    <Colors Color="BLK1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASW523101" Producto_reference="NBASW523101BLK2" Description="DISTRESSED SWEATER" Description_spanish="SUETER DE HOMBRE DISTRESSED NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 280G FRENCH TERRY + MINERAL WASH 280G" Compesp="CVC 280G FRENCH TERRY + MINERAL WASH 280G" Price="" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="SW" Arancel="SW" Season="231" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="FRONT: DISTRESSED PLACEMENT APPLIQUE.   BACK: BRITTLE PRINT EFFECT">
+    <Colors Color="BLK2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASH523104" Producto_reference="NBASH523104PUR" Description="NBA DIAMOND SHORT" Description_spanish="PANTALON CORTO DE HOMBRE DIAMOND NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="150G 100% HONEY MESH" Compesp="150G 100% HONEY MESH" Price="649.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="SH" Arancel="SH5" Season="SPRING SUMMER 23" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="FRONT: WOVEN LABEL + LASER PRINT BACK: HEAT TRANSFER FOR NBA LOGO">
+    <Colors Color="PUR" Barcode="7450130116059" Sizes="S"></Colors>
+    <Colors Color="PUR" Barcode="7450130116066" Sizes="M"></Colors>
+    <Colors Color="PUR" Barcode="7450130116073" Sizes="L"></Colors>
+    <Colors Color="PUR" Barcode="7450130116080" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASH523104" Producto_reference="NBASH523104RED" Description="NBA DIAMOND SHORT" Description_spanish="PANTALON CORTO DE HOMBRE DIAMOND NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="150G 100% HONEY MESH" Compesp="150G 100% HONEY MESH" Price="649.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="SH" Arancel="SH5" Season="SPRING SUMMER 23" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="FRONT: WOVEN LABEL + LASER PRINT BACK: HEAT TRANSFER FOR NBA LOGO">
+    <Colors Color="RED" Barcode="7450130116097" Sizes="S"></Colors>
+    <Colors Color="RED" Barcode="7450130116103" Sizes="M"></Colors>
+    <Colors Color="RED" Barcode="7450130116110" Sizes="L"></Colors>
+    <Colors Color="RED" Barcode="7450130116127" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASH523104" Producto_reference="NBASH523104BLK" Description="NBA DIAMOND SHORT" Description_spanish="PANTALON CORTO DE HOMBRE DIAMOND NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="150G 100% HONEY MESH" Compesp="150G 100% HONEY MESH" Price="649.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="SH" Arancel="SH5" Season="SPRING SUMMER 23" LOB="SPO" Equipo="NET" Gender="05" Logo_specs="FRONT: WOVEN LABEL + LASER PRINT BACK: HEAT TRANSFER FOR NBA LOGO">
+    <Colors Color="BLK" Barcode="7450130115977" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7450130115984" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7450130115991" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7450130116004" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASH523103" Producto_reference="NBASH523103BLK4" Description="NBA DIAMOND LOGO SHORT" Description_spanish="PANTALON CORTO DE HOMBRE DIAMOND NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="150G 100% HONEY MESH 150G" Compesp="150G 100% HONEY MESH 150G" Price="749.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="SH" Arancel="SH5" Season="SPRING SUMMER 23" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="DIAMOND IN LASER PRINT + FRONT LOGOS IN RUBBER">
+    <Colors Color="BLK4" Barcode="7450130115939" Sizes="S"></Colors>
+    <Colors Color="BLK4" Barcode="7450130115946" Sizes="M"></Colors>
+    <Colors Color="BLK4" Barcode="7450130115953" Sizes="L"></Colors>
+    <Colors Color="BLK4" Barcode="7450130115960" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASH523103" Producto_reference="NBASH523103BLK2" Description="NBA DIAMOND LOGO SHORT" Description_spanish="PANTALON CORTO DE HOMBRE DIAMOND NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="150G 100% HONEY MESH 150G" Compesp="150G 100% HONEY MESH 150G" Price="749.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="SH" Arancel="SH5" Season="231" LOB="SPO" Equipo="KNI" Gender="05" Logo_specs="DIAMOND IN LASER PRINT + FRONT LOGOS IN RUBBER">
+    <Colors Color="BLK2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BLK2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBASH523103" Producto_reference="NBASH523103BLK" Description="NBA DIAMOND LOGO SHORT" Description_spanish="PANTALON CORTO DE HOMBRE DIAMOND NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="150G 100% HONEY MESH 150G" Compesp="150G 100% HONEY MESH 150G" Price="749.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="SH" Arancel="SH5" Season="SPRING SUMMER 23" LOB="SPO" Equipo="BUL" Gender="05" Logo_specs="FRONT: HD PRINT ">
+    <Colors Color="BLK" Barcode="7450130115892" Sizes="S"></Colors>
+    <Colors Color="BLK" Barcode="7450130115908" Sizes="M"></Colors>
+    <Colors Color="BLK" Barcode="7450130115915" Sizes="L"></Colors>
+    <Colors Color="BLK" Barcode="7450130115922" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="08" Reference="NBALS523103" Producto_reference="NBALS523103BLK2" Description="NBA VARSITY LONG SLEEVE" Description_spanish="CAMISETA MANGA LARGA DE HOMBRE VARSITY NBA" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON/40% POLYESTER 160G" Compesp="CVC 60% ALGODON/40% POLIESTER 160G" Price="549.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NBA" Group="AP" Sub_group="LS" Arancel="TS" Season="SPRING SUMMER 23" LOB="SPO" Equipo="LAK" Gender="05" Logo_specs="FRONT: HD PRINT ">
+    <Colors Color="BLK2" Barcode="7450130115854" Sizes="S"></Colors>
+    <Colors Color="BLK2" Barcode="7450130115861" Sizes="M"></Colors>
+    <Colors Color="BLK2" Barcode="7450130115878" Sizes="L"></Colors>
+    <Colors Color="BLK2" Barcode="7450130115885" Sizes="XL"></Colors>
+  </Linea>
+</Sagemobile>

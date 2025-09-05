@@ -1,0 +1,628 @@
+<?php
+
+namespace Barn2\Plugin\WC_Bulk_Variations;
+
+use Barn2\Plugin\WC_Default_Quantity;
+
+/**
+ * Factory class to get the product table data object for a given column.
+ *
+ * @package   Barn2\woocommerce-bulk-variations\Data
+ * @author    Barn2 Plugins <support@barn2.co.uk>
+ * @license   GPL-3.0
+ * @copyright Barn2 Media Ltd
+ */
+class WC_Bulk_Variations_Table_Data_Factory {
+
+	/**
+	 * The full list of table args.
+	 *
+	 * @var WC_Bulk_Variations_Args
+	 */
+	private $args;
+
+	public function __construct( $args, $id ) {
+		$this->args = $args;
+		$this->table_id = $id;
+	}
+	
+	public function get_default_quantity( $product ) {
+		
+		if ( $product->is_sold_individually() ) {
+			return 0;
+		}
+				
+		if ( class_exists( '\Barn2\Plugin\WC_Default_Quantity\Quantity_Manager' ) && $product instanceof \WC_Product_Variation ) {
+			
+			$default = \Barn2\Plugin\WC_Default_Quantity\Quantity_Manager::get_default_quantity( $product->get_parent_id() );
+			$default = apply_filters( 'woocommerce_default_quantity_value', $default, $product );
+			return absint( $default );
+		}
+		
+		return 0;
+	}
+	
+	public function insert_image( $row ) {
+		
+		$data = '';
+				
+		if( $this->args->variation_images ) {
+						
+			$has_image  = false;
+			$image_prod = $row;
+			//print_r($this->args->attribute_matrix);
+			foreach ( $this->args->attribute_matrix as $attribute_key => $attribute_values ) {
+				foreach ( $attribute_values as $a_k => $a_v ) {
+					
+					if ( !$this->args->single_attribute || ( $this->args->single_attribute && !$this->args->variation_attribute ) ) {
+						if ( $a_k == $row ) {
+							$image_prod = $a_v;
+							$has_image = true;
+						}
+					} else {
+						if ( $attribute_key == $row ) {
+							$image_prod = $a_v;
+							$has_image = true;
+						}
+					}
+					if ( $has_image ) {
+						break;
+					}
+				}
+				if ( $has_image ) {
+					break;
+				}
+			}
+			
+			if ( $image_prod ) {
+				
+				$image_prod_obj = wc_get_product( $image_prod );
+				
+				if ( $image_prod_obj ) {
+					$image_id = $image_prod_obj->get_image_id();
+					if ( !$image_id ) {
+						$image_parent_obj = wc_get_product( $image_prod_obj->get_parent_id() );
+						if ( $image_parent_obj ) {
+							$image_id         = $image_parent_obj->get_image_id();
+						}
+					}
+					
+					if ( $image_id ) {
+
+						$attachment_image_1x   = wp_get_attachment_image_src( $image_id, 'thumbnail' );
+						$attachment_image_2x   = wp_get_attachment_image_src( $image_id, 'woocommerce_thumbnail' );
+						$attachment_image_name = wp_get_attachment_image_src( $image_id, 'full' );
+						$gallery_thumbnail = wc_get_image_size( 'gallery_thumbnail' );
+						$thumbnail_size    = apply_filters( 'woocommerce_gallery_thumbnail_size', array( $gallery_thumbnail['width'], $gallery_thumbnail['height'] ) );
+						$thumbnail_src     = wp_get_attachment_image_src( $image_id, $thumbnail_size );
+						//print_r($image_prod_obj->attributes['pa_color']);
+						//$triger_key = strtolower(str_replace(array(" ","/"), "-", $image_prod_obj->get_attribute( 'pa_color' )));
+						$triger_key = $image_prod_obj->attributes['pa_color'];
+						
+						if ( isset( $attachment_image_1x[0] ) && isset( $attachment_image_2x[0] ) && isset( $attachment_image_name[0] ) ) {
+							$image = '<img style="max-width:64px; max-height: 64px;" srcset="' . $attachment_image_1x[0] . ' 1x, ' . $attachment_image_2x[0] . ' 2x" data-gallery_trigger="'.$triger_key.'" src="' . $thumbnail_src[0] . '"/>';							
+							
+								$getVarID = $image_prod;
+								$getA = get_post_meta($getVarID, '_stock', true);
+								if($getA < 0)
+								{
+									$getA = 0;
+								}
+								else
+								{
+									$getA = $getA;
+								}
+								//echo $getVarID;
+								$row5 = "<div class='size-guide horizontal-class' data-id='".$getVarID."'><h5>Sizes</h5><div class='xyz'>";
+								$ak = 0;
+								$ak1 = 0;
+								if(get_post_meta( $getVarID, 'custom_field1', true ) && get_post_meta( $getVarID, 'size_box_qty1', true ))
+								{
+									$ak = intval(get_post_meta( $getVarID, 'size_box_qty1', true ));
+									//$ak1 = intval(get_post_meta( $getVarID, 'size_box_qty1', true )) * $getA;
+									$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field1', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty1', true ) . "</span></div>";								
+								}
+								if(get_post_meta( $getVarID, 'custom_field2', true ) && get_post_meta( $getVarID, 'size_box_qty2', true ))
+								{
+									$ak += intval(get_post_meta( $getVarID, 'size_box_qty2', true ));
+									//$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty2', true )) * $getA;
+									$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field2', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty2', true ) . "</span></div>";
+								}
+								if(get_post_meta( $getVarID, 'custom_field3', true ) && get_post_meta( $getVarID, 'size_box_qty3', true ))
+								{
+									$ak += intval(get_post_meta( $getVarID, 'size_box_qty3', true ));
+									$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty3', true )) * $getA;
+									$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field3', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty3', true ) . "</span></div>";
+								}
+								if(get_post_meta( $getVarID, 'custom_field4', true ) && get_post_meta( $getVarID, 'size_box_qty4', true ))
+								{
+									$ak += intval(get_post_meta( $getVarID, 'size_box_qty4', true ));
+									//$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty4', true )) * $getA;
+									$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field4', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty4', true ) . "</span></div>";
+								}
+								if(get_post_meta( $getVarID, 'custom_field5', true ) && get_post_meta( $getVarID, 'size_box_qty5', true ))
+								{
+									$ak += intval(get_post_meta( $getVarID, 'size_box_qty5', true ));
+									//$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty5', true )) * $getA;
+									$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field5', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty5', true ) . "</span></div>";
+								}
+								if(get_post_meta( $getVarID, 'custom_field6', true ) && get_post_meta( $getVarID, 'size_box_qty6', true ))
+								{
+									$ak += intval(get_post_meta( $getVarID, 'size_box_qty6', true ));
+									//$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty6', true )) * $getA;
+									$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field6', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty6', true ) . "</span></div>";
+								}
+								if(get_post_meta( $getVarID, 'custom_field7', true ) && get_post_meta( $getVarID, 'size_box_qty7', true ))
+								{
+									$ak += intval(get_post_meta( $getVarID, 'size_box_qty7', true ));
+									//$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty7', true )) * $getA;
+									$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field7', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty7', true ) . "</span></div>";
+								}
+								if(get_post_meta( $getVarID, 'custom_field8', true ) && get_post_meta( $getVarID, 'size_box_qty8', true ))
+								{
+									$ak += intval(get_post_meta( $getVarID, 'size_box_qty8', true ));
+									//$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty8', true )) * $getA;
+									$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field8', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty8', true ) . "</span></div>";
+								}
+								if(get_post_meta( $getVarID, 'custom_field9', true ) && get_post_meta( $getVarID, 'size_box_qty9', true ))
+								{
+									$ak += intval(get_post_meta( $getVarID, 'size_box_qty9', true ));
+									//$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty9', true )) * $getA;
+									$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field9', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty9', true ) . "</span></div>";
+								}
+								if(get_post_meta( $getVarID, 'custom_field10', true ) && get_post_meta( $getVarID, 'size_box_qty10', true ))
+								{
+									$ak += intval(get_post_meta( $getVarID, 'size_box_qty10', true ));
+									//$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty10', true )) * $getA;
+									$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field10', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty10', true ) . "</span></div>";
+								}
+							
+								$row5 .= "<div class='inner-size " . (($ak == 0)  ? 'hide-it' : 'no-hide-it')  . "'><span>Total</span><span>" . $ak . "</span></div></div>";
+								/* $c = 0;
+								for($i=1;$i<11;$i++)
+								{
+									if(get_post_meta( $value, 'size_box_qty'.$i, true ))
+									{
+										$c += get_post_meta( $value, 'size_box_qty'.$i, true );
+									}
+								} */
+								//$row5 .= $c;
+								if(intval(get_post_meta( $getVarID, 'size_box_qty1', true )) * $getA != 0)
+								{
+									$row5 .= "<h5>Open Stock</h5>
+									<div class='xyz1'>";
+									if(get_post_meta( $getVarID, 'custom_field1', true ) && get_post_meta( $getVarID, 'size_box_qty1', true ))
+									{
+										$ak1 = intval(get_post_meta( $getVarID, 'size_box_qty1', true )) * $getA;
+										$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field1', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty1', true ) * $getA . "</span></div>";								
+									}
+									if(get_post_meta( $getVarID, 'custom_field2', true ) && get_post_meta( $getVarID, 'size_box_qty2', true ))
+									{
+										$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty2', true )) * $getA;
+										$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field2', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty2', true ) * $getA . "</span></div>";
+									}
+									if(get_post_meta( $getVarID, 'custom_field3', true ) && get_post_meta( $getVarID, 'size_box_qty3', true ))
+									{
+										$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty3', true )) * $getA;
+										$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field3', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty3', true ) * $getA . "</span></div>";
+									}
+									if(get_post_meta( $getVarID, 'custom_field4', true ) && get_post_meta( $getVarID, 'size_box_qty4', true ))
+									{									
+										$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty4', true )) * $getA;
+										$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field4', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty4', true ) * $getA . "</span></div>";
+									}
+									if(get_post_meta( $getVarID, 'custom_field5', true ) && get_post_meta( $getVarID, 'size_box_qty5', true ))
+									{
+										$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty5', true )) * $getA;
+										$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field5', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty5', true ) * $getA . "</span></div>";
+									}
+									if(get_post_meta( $getVarID, 'custom_field6', true ) && get_post_meta( $getVarID, 'size_box_qty6', true ))
+									{
+										$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty6', true )) * $getA;
+										$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field6', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty6', true ) * $getA . "</span></div>";
+									}
+									if(get_post_meta( $getVarID, 'custom_field7', true ) && get_post_meta( $getVarID, 'size_box_qty7', true ))
+									{
+										$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty7', true )) * $getA;
+										$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field7', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty7', true ) * $getA . "</span></div>";
+									}
+									if(get_post_meta( $getVarID, 'custom_field8', true ) && get_post_meta( $getVarID, 'size_box_qty8', true ))
+									{
+										$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty8', true )) * $getA;
+										$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field8', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty8', true ) * $getA . "</span></div>";
+									}
+									if(get_post_meta( $getVarID, 'custom_field9', true ) && get_post_meta( $getVarID, 'size_box_qty9', true ))
+									{
+										$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty9', true )) * $getA;
+										$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field9', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty9', true ) * $getA . "</span></div>";
+									}
+									if(get_post_meta( $getVarID, 'custom_field10', true ) && get_post_meta( $getVarID, 'size_box_qty10', true ))
+									{
+										$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty10', true )) * $getA;
+										$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field10', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty10', true ) * $getA . "</span></div>";
+									}
+								
+									$row5 .= "<div class='inner-size " . (($ak == 0)  ? 'hide-it' : 'no-hide-it')  . "'><span>Total</span><span>" . $ak1 . "</span></div></div>";
+								}
+								$row5 .= "</div>";
+								
+								//<div class='stock-av'><span>Stock: </span> " . $getA . "</div>
+								
+								$data = $image . $row4 . $row5;
+								
+						} else if ( isset( $attachment_image_1x[0] ) ) {
+							$data = '<img style="max-width:64px; max-height: 64px;" src="' . $thumbnail_src[0] . '"/>';
+						}
+					}
+					else
+					{
+						$string = wc_placeholder_img_src( 'medium' );
+						$image = '<img style="max-width:64px; max-height: 64px;" src="' . $string . '"/>';							
+						$getVarID = $image_prod;
+						$getA = get_post_meta($getVarID, '_stock', true);
+						if($getA < 0)
+						{
+							$getA = 0;
+						}
+						else
+						{
+							$getA = $getA;
+						}
+								//echo $getVarID;
+								$row5 = "<div class='size-guide horizontal-class'><h5>Sizes</h5><div class='xyz'>";
+								$ak = 0;
+								$ak1 = 0;
+								if(get_post_meta( $getVarID, 'custom_field1', true ) && get_post_meta( $getVarID, 'size_box_qty1', true ))
+								{
+									$ak = intval(get_post_meta( $getVarID, 'size_box_qty1', true ));
+									$ak1 = intval(get_post_meta( $getVarID, 'size_box_qty1', true )) * $getA;
+									$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field1', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty1', true ) . "</span></div>";								
+								}
+								if(get_post_meta( $getVarID, 'custom_field2', true ) && get_post_meta( $getVarID, 'size_box_qty2', true ))
+								{
+									$ak += intval(get_post_meta( $getVarID, 'size_box_qty2', true ));
+									$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty2', true )) * $getA;
+									$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field2', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty2', true ) . "</span></div>";
+								}
+								if(get_post_meta( $getVarID, 'custom_field3', true ) && get_post_meta( $getVarID, 'size_box_qty3', true ))
+								{
+									$ak += intval(get_post_meta( $getVarID, 'size_box_qty3', true ));
+									$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty3', true )) * $getA;
+									$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field3', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty3', true ) . "</span></div>";
+								}
+								if(get_post_meta( $getVarID, 'custom_field4', true ) && get_post_meta( $getVarID, 'size_box_qty4', true ))
+								{
+									$ak += intval(get_post_meta( $getVarID, 'size_box_qty4', true ));
+									$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty4', true )) * $getA;
+									$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field4', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty4', true ) . "</span></div>";
+								}
+								if(get_post_meta( $getVarID, 'custom_field5', true ) && get_post_meta( $getVarID, 'size_box_qty5', true ))
+								{
+									$ak += intval(get_post_meta( $getVarID, 'size_box_qty5', true ));
+									$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty5', true )) * $getA;
+									$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field5', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty5', true ) . "</span></div>";
+								}
+								if(get_post_meta( $getVarID, 'custom_field6', true ) && get_post_meta( $getVarID, 'size_box_qty6', true ))
+								{
+									$ak += intval(get_post_meta( $getVarID, 'size_box_qty6', true ));
+									$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty6', true )) * $getA;
+									$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field6', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty6', true ) . "</span></div>";
+								}
+								if(get_post_meta( $getVarID, 'custom_field7', true ) && get_post_meta( $getVarID, 'size_box_qty7', true ))
+								{
+									$ak += intval(get_post_meta( $getVarID, 'size_box_qty7', true ));
+									$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty7', true )) * $getA;
+									$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field7', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty7', true ) . "</span></div>";
+								}
+								if(get_post_meta( $getVarID, 'custom_field8', true ) && get_post_meta( $getVarID, 'size_box_qty8', true ))
+								{
+									$ak += intval(get_post_meta( $getVarID, 'size_box_qty8', true ));
+									$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty8', true )) * $getA;
+									$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field8', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty8', true ) . "</span></div>";
+								}
+								if(get_post_meta( $getVarID, 'custom_field9', true ) && get_post_meta( $getVarID, 'size_box_qty9', true ))
+								{
+									$ak += intval(get_post_meta( $getVarID, 'size_box_qty9', true ));
+									$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty9', true )) * $getA;
+									$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field9', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty9', true ) . "</span></div>";
+								}
+								if(get_post_meta( $getVarID, 'custom_field10', true ) && get_post_meta( $getVarID, 'size_box_qty10', true ))
+								{
+									$ak += intval(get_post_meta( $getVarID, 'size_box_qty10', true ));
+									$ak1 += intval(get_post_meta( $getVarID, 'size_box_qty10', true )) * $getA;
+									$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field10', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty10', true ) . "</span></div>";
+								}
+							
+								$row5 .= "<div class='inner-size " . (($ak == 0)  ? 'hide-it' : 'no-hide-it')  . "'><span>Total</span><span>" . $ak . "</span></div></div>";
+								$row5 .= "</div>";
+								
+								$data = $image . $row4 . $row5;
+					}
+				}
+			}
+		}
+		
+		return $data;
+	}
+
+	public function create( $column, $row, $column_obj ) {
+		
+		global $wpdb;
+		$data = '';
+		$u =  wp_get_current_user();
+		$ak = $u->ID;
+		$user_meta=get_userdata($ak);
+		$getGroupID = $wpdb->get_row("SELECT `group_id` from {$wpdb->prefix}groups_user_group WHERE `user_id` = '$ak'");
+		$mexicoUserGroupID = $getGroupID->group_id;											
+		if ( $this->args->attribute_matrix && isset( $this->args->attribute_matrix[$column][$row] ) ) {
+												
+			$product_id = $this->args->attribute_matrix[ $column ][ $row ];
+			$product    = wc_get_product( $product_id );
+			
+			if ( $product ) {
+				$stock        = $product->get_stock_quantity();
+				$max          = $stock ? $stock : '';
+				$max          = $product->is_sold_individually() ? 1 : $max;
+				$individual   = $product->is_sold_individually() ? 1 : 0;
+
+				if(get_user_meta( $ak, 'customer_margin', true))
+				{
+					$getMargin = get_user_meta( $ak, 'customer_margin', true);
+
+					if(get_user_meta( $ak, 'customer_iva_margin', true)){
+						$getMargin = $getMargin + get_user_meta( $ak, 'customer_iva_margin', true);
+					}
+					$discountRule = (100 - $getMargin) / 100;
+					//echo $discountRule;
+				}
+				else
+				{
+					$discountRule = 1;
+				}
+				if($mexicoUserGroupID == 2)
+				{
+					//echo $discountRule;
+					$getGroupPrice = $wpdb->get_row("SELECT `price` from {$wpdb->prefix}wusp_group_product_price_mapping WHERE `group_id` = '$mexicoUserGroupID' AND `product_id` = $product_id");
+					$price        = $getGroupPrice->price * $discountRule;			
+					$priceCustomCalc        = $getGroupPrice->price;	
+
+					//echo $discountRule;		
+					$price_html   = wc_price($priceCustomCalc * $discountRule);
+				}
+				else if($user_meta->roles[0] == 'custom_role_puerto_rico')
+				{
+					//echo $discountRule;
+					
+					$price        = $product->get_price() * 1.25;			
+					$price_html   = wc_price($product->get_price() * 1.25);
+				}
+				else
+				{
+					$price        = $product->get_price();
+					$price_html   = $product->get_price_html();
+				}
+				$manage_stock = $product->get_manage_stock();
+				$backorders   = $product->get_backorders();
+								
+				if ( $product->is_in_stock() && is_numeric( $price ) ) {
+					
+					$default = $this->get_default_quantity( $product );
+					if ( $default > $stock && $manage_stock && $backorders == 'no' ) {
+						$default = $stock;
+					}
+					$default = ( $default <= $max || !$max ) ? $default : $max;
+					
+					if ( !$max ) {
+						$max = 9999;
+					}
+															
+					$input = '<input data-individual="' . $individual . '" data-table_id="' . $this->table_id . '" data-price="' . $price . '" data-product_id="' . $product_id . '" type="number" id="quantity_' . $product_id . '" class="wcbvp_quantity" step="1" min="0" max="' . $max . '" name="quantity" value="' . $default . '" title="Qty" size="4" inputmode="numeric">';
+					
+					if ( $this->args->disable_purchasing ) {
+						$data  = $price_html;
+					} else {
+						$data  = $input . $price_html;
+					}
+				}
+			}
+			
+		} else if ( isset( $this->args->attribute_matrix[ $row ][''] ) && $column == __('Price', 'woocommerce' ) ) {
+
+			
+			$product_id = $this->args->attribute_matrix[ $row ][''];
+			$product    = wc_get_product( $product_id );
+			//echo $mexicoUserGroupID;
+			if ( $product ) {
+				$stock        = $product->get_stock_quantity();
+				$max          = $stock ? $stock : '';
+				$max          = $product->is_sold_individually() ? 1 : $max;
+				$individual   = $product->is_sold_individually() ? 1 : 0;
+				$price_html   = $product->get_price_html();
+				//$price        = $product->get_price();
+				if(get_user_meta( $ak, 'customer_margin', true))
+				{
+					$getMargin = get_user_meta( $ak, 'customer_margin', true);
+					if(get_user_meta( $ak, 'customer_iva_margin', true)){
+						$getMargin = $getMargin + get_user_meta( $ak, 'customer_iva_margin', true);
+					}
+					$discountRule = (100 - $getMargin) / 100;
+					//echo $discountRule;
+				}
+				else
+				{
+					$discountRule = 1;
+				}
+				if($mexicoUserGroupID == 2)
+				{
+					$getGroupPrice = $wpdb->get_row("SELECT `price` from {$wpdb->prefix}wusp_group_product_price_mapping WHERE `group_id` = '$mexicoUserGroupID' AND `product_id` = $product_id");
+					$price        = $getGroupPrice->price * $discountRule;			
+					//$priceCustomCalc        = $getGroupPrice->price;
+					//$price        = $getGroupPrice->price;
+				}
+				else if($user_meta->roles[0] == 'custom_role_puerto_rico')
+				{
+					//echo $discountRule;
+					
+					$price        = $product->get_price() * 1.25;			
+				}
+				else
+				{
+					$price        = $product->get_price();
+				}		
+				$manage_stock = $product->get_manage_stock();
+				$backorders   = $product->get_backorders();
+												
+				if ( $product->is_in_stock() && is_numeric( $price ) ) {
+					
+					$default = $this->get_default_quantity( $product );
+					if ( $default > $stock && $manage_stock && $backorders == 'no'  ) {
+						$default = $stock;
+					}
+					
+					$default = ( $default <= $max || !$max ) ? $default : $max;
+					
+					if ( !$max ) {
+						$max = 9999;
+					}
+										
+					$input = '<input data-individual="' . $individual . '" data-table_id="' . $this->table_id . '" data-price="' . $price . '" data-product_id="' . $product_id . '" type="number" id="quantity_' . $product_id . '" class="input-text qty text wcbvp_quantity" step="1" min="0" max="' . $max . '" name="quantity" value="' . $default . '" title="Qty" size="4" inputmode="numeric">';
+					
+					if ( $this->args->disable_purchasing ) {
+						$data  = $price_html;
+					} else {
+						$data  = $input . $price_html;
+					}
+				}
+			}
+		} else {
+						
+			if ( $row == 'variation-images' ) {
+				
+				$product_id = $this->args->attribute_matrix[ $column ][''];
+				if ( $product_id ) {
+					$data       = $this->insert_image( $product_id );
+				}
+			}
+			else {
+				$c = 0;
+				$return_arr = array();
+				
+				foreach($this->args->attribute_matrix as $key => $abc)
+				{
+					$c = $abc;
+					//print_r($key);
+					foreach($c as $b)
+					{
+						$row_array[$key] = $b;
+						//array_push($return_arr,$row_array);
+					}
+					
+				}
+				ob_start();
+				switch ( $column ) {
+					
+					case '':
+						if ( !$this->args->single_attribute ) {
+							$image   = $this->insert_image( $row );
+						    $row     = "<span class='" . ( empty( $image ) ? 'no-image' : 'with-image' ) . "'>" . $column_obj->get_column_heading( 1, $row ) . '</span>';
+							$data    = $image;
+						}
+						break;
+					case $this->args->attribute_column:
+						if ( $this->args->single_attribute ) {
+							$image   = $this->insert_image( $row );
+						    $row4    = "<span class='" . ( empty( $image ) ? 'no-image' : 'with-image' ) . "'>" . $column_obj->get_column_heading( 1, $row ) . '</span>';
+							/* $nk = $column_obj->get_column_heading( 1, $row );
+							//$v = string($a);
+							$kk = strtolower($nk);
+
+							//print_r($this->args->attribute_matrix);
+							$getVarID = $this->args->attribute_matrix["$kk"][''];
+							//echo $getVarID;
+							$row5 = "<div class='size-guide'><h5>Sizes</h5><div class='xyz'>";
+							$ak = 0;
+							if(get_post_meta( $getVarID, 'custom_field1', true ) && get_post_meta( $getVarID, 'size_box_qty1', true ))
+							{
+								$ak = intval(get_post_meta( $getVarID, 'size_box_qty1', true ));
+								$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field1', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty1', true ) . "</span></div>";								
+							}
+							if(get_post_meta( $getVarID, 'custom_field2', true ) && get_post_meta( $getVarID, 'size_box_qty2', true ))
+							{
+								$ak += intval(get_post_meta( $getVarID, 'size_box_qty2', true ));
+								$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field2', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty2', true ) . "</span></div>";
+							}
+							if(get_post_meta( $getVarID, 'custom_field3', true ) && get_post_meta( $getVarID, 'size_box_qty3', true ))
+							{
+								$ak += intval(get_post_meta( $getVarID, 'size_box_qty3', true ));
+								$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field3', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty3', true ) . "</span></div>";
+							}
+							if(get_post_meta( $getVarID, 'custom_field4', true ) && get_post_meta( $getVarID, 'size_box_qty4', true ))
+							{
+								$ak += intval(get_post_meta( $getVarID, 'size_box_qty4', true ));
+								$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field4', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty4', true ) . "</span></div>";
+							}
+							if(get_post_meta( $getVarID, 'custom_field5', true ) && get_post_meta( $getVarID, 'size_box_qty5', true ))
+							{
+								$ak += intval(get_post_meta( $getVarID, 'size_box_qty5', true ));
+								$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field5', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty5', true ) . "</span></div>";
+							}
+							if(get_post_meta( $getVarID, 'custom_field6', true ) && get_post_meta( $getVarID, 'size_box_qty6', true ))
+							{
+								$ak += intval(get_post_meta( $getVarID, 'size_box_qty6', true ));
+								$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field6', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty6', true ) . "</span></div>";
+							}
+							if(get_post_meta( $getVarID, 'custom_field7', true ) && get_post_meta( $getVarID, 'size_box_qty7', true ))
+							{
+								$ak += intval(get_post_meta( $getVarID, 'size_box_qty7', true ));
+								$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field7', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty7', true ) . "</span></div>";
+							}
+							if(get_post_meta( $getVarID, 'custom_field8', true ) && get_post_meta( $getVarID, 'size_box_qty8', true ))
+							{
+								$ak += intval(get_post_meta( $getVarID, 'size_box_qty8', true ));
+								$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field8', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty8', true ) . "</span></div>";
+							}
+							if(get_post_meta( $getVarID, 'custom_field9', true ) && get_post_meta( $getVarID, 'size_box_qty9', true ))
+							{
+								$ak += intval(get_post_meta( $getVarID, 'size_box_qty9', true ));
+								$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field9', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty9', true ) . "</span></div>";
+							}
+							if(get_post_meta( $getVarID, 'custom_field10', true ) && get_post_meta( $getVarID, 'size_box_qty10', true ))
+							{
+								$ak += intval(get_post_meta( $getVarID, 'size_box_qty10', true ));
+								$row5 .= "<div class='inner-size'><span>" . get_post_meta( $getVarID, 'custom_field10', true )  . "</span><span>" . get_post_meta( $getVarID, 'size_box_qty10', true ) . "</span></div>";
+							}
+							
+								$row5 .= "<div class='inner-size " . (($ak == 0)  ? 'hide-it' : 'no-hide-it')  . "'><span>Total</span><span>" . $ak . "</span></div></div>";
+								$row5 .= "</div>"; */
+							
+							$data    = $image . $row4;
+						} else {
+							$row     = "<span class='" . ( empty( $image ) ? 'no-image' : 'with-image' ) . "'>" . $column_obj->get_column_heading( 1, $row ) . '</span>';
+							$data    = $row;
+						}
+						break;
+					case 'sku':
+						break;
+					case 'name':
+						break;
+					case 'categories':
+						break;
+					case 'tags':
+						break;
+					case 'weight':
+						break;
+					case 'dimensions':
+						break;
+					case 'stock':
+						break;
+					case 'price':
+						break;
+				}
+				
+			}
+		}
+		
+		return $data;
+	}
+
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="138286" Cliente="0000" Nombre="BELEN MENDOZA" Fecha="05/08/2022" Tipo="1" Fecha_Entrega="05/08/2022" Direccion="Puente 660 " Direccion2="Chile Región Metropolitana de Santiago Santiago " Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="BELEN MENDOZA" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATS523115-BLK" Color="BLK" Cantidad="33" size_S="132" size_M="264" size_L="264" size_XL="132" Unit_Box_Qty="24" Total_Box_Qty="792" Precio="6.5"></Linea>
+    <Linea Producto="NBATS523115-BLK1" Color="BLK1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="6.5"></Linea>
+    <Linea Producto="NBATS523115-YEL" Color="YEL" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="6.5"></Linea>
+    <Linea Producto="NBATS523116-BLK1" Color="BLK1" Cantidad="33" size_S="132" size_M="264" size_L="264" size_XL="132" Unit_Box_Qty="24" Total_Box_Qty="792" Precio="6.5"></Linea>
+    <Linea Producto="NBATS523116-RED" Color="RED" Cantidad="33" size_S="132" size_M="264" size_L="264" size_XL="132" Unit_Box_Qty="24" Total_Box_Qty="792" Precio="6.5"></Linea>
+    <Linea Producto="NBATS523116-WHT" Color="WHT" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="6.5"></Linea>
+    <Linea Producto="NBAHD523109-BLK1" Color="BLK1" Cantidad="7" size_S="28" size_M="56" size_L="56" size_XL="28" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="16.5"></Linea>
+    <Linea Producto="NBAHD523109-BLK2" Color="BLK2" Cantidad="22" size_S="88" size_M="176" size_L="176" size_XL="88" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="16.5"></Linea>
+    <Linea Producto="NBAHD523109-RED" Color="RED" Cantidad="22" size_S="88" size_M="176" size_L="176" size_XL="88" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="16.5"></Linea>
+    <Linea Producto="NBAHD523110-BLK" Color="BLK" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="17"></Linea>
+    <Linea Producto="NBAHD523110-PUR" Color="PUR" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="17"></Linea>
+    <Linea Producto="NBAJP523106-BLK1" Color="BLK1" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="12.5"></Linea>
+    <Linea Producto="NBAJP523106-BLK2" Color="BLK2" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="12.5"></Linea>
+    <Linea Producto="NBAJP523106-BLK3" Color="BLK3" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="12.5"></Linea>
+  </Encabezado>
+</Sagemobile>

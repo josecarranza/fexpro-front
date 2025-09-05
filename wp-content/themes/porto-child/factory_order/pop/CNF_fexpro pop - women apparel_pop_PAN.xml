@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sage>
+  <Confirmacion Cia="02" NoConfirm="Fexpro POP - WOMEN Apparel" Fecha="30/09/2021" Suplidor="135" Temporada="212" FechaEntrega="30/09/2021" FechaEmbarque="05/10/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021">
+    <Linea Producto="ACCT62101-WHT" Color="WHT" size_XS="112" size_S="224" size_M="224" size_L="112" Total_Box_Qty="672" Costo="2.50" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="ACCT62101-BLK" Color="BLK" size_XS="112" size_S="224" size_M="224" size_L="112" Total_Box_Qty="672" Costo="2.50" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="ACTS62102-BLK" Color="BLK" size_XS="100" size_S="200" size_M="200" size_L="100" Total_Box_Qty="600" Costo="2.50" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="CBTS62106-WHT" Color="WHT" size_XS="104" size_S="208" size_M="208" size_L="104" Total_Box_Qty="624" Costo="2.50" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCTS62106-RED" Color="RED" size_XS="140" size_S="280" size_M="280" size_L="140" Total_Box_Qty="840" Costo="2.40" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCTS62107-WHT" Color="WHT" size_XS="140" size_S="280" size_M="280" size_L="140" Total_Box_Qty="840" Costo="2.40" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCTS62111-BLK" Color="BLK" size_XS="140" size_S="280" size_M="280" size_L="140" Total_Box_Qty="840" Costo="2.40" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCCT62113-WHT" Color="WHT" size_XS="120" size_S="240" size_M="240" size_L="120" Total_Box_Qty="720" Costo="2.60" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCSW62101-RED" Color="RED" size_XS="108" size_S="216" size_M="216" size_L="108" Total_Box_Qty="648" Costo="5.75" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCSW62101-BLU" Color="BLU" size_XS="88" size_S="176" size_M="176" size_L="88" Total_Box_Qty="528" Costo="5.75" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCHD62111-RED" Color="RED" size_XS="104" size_S="208" size_M="208" size_L="104" Total_Box_Qty="624" Costo="6.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCHD62113-BLK" Color="BLK" size_XS="72" size_S="144" size_M="144" size_L="72" Total_Box_Qty="432" Costo="6.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCPT62113-BLK" Color="BLK" size_XS="100" size_S="200" size_M="200" size_L="100" Total_Box_Qty="600" Costo="5.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="JLTS62101-PUR" Color="PUR" size_XS="140" size_S="280" size_M="280" size_L="140" Total_Box_Qty="840" Costo="3.20" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="JLTS62101-PNK" Color="PNK" size_XS="104" size_S="208" size_M="208" size_L="104" Total_Box_Qty="624" Costo="3.20" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="JLTS62103-WHT" Color="WHT" size_XS="108" size_S="216" size_M="216" size_L="108" Total_Box_Qty="648" Costo="2.75" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="KITS62104-GRY" Color="GRY" size_XS="96" size_S="192" size_M="192" size_L="96" Total_Box_Qty="576" Costo="3" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="KITT62103-AQA" Color="AQA" size_XS="140" size_S="280" size_M="280" size_L="140" Total_Box_Qty="840" Costo="2.50" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="KITT62103-BLK" Color="BLK" size_XS="140" size_S="280" size_M="280" size_L="140" Total_Box_Qty="840" Costo="2.50" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="KIHD62101-BLK" Color="BLK" size_XS="64" size_S="128" size_M="128" size_L="64" Total_Box_Qty="384" Costo="6.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NIRTS62102-WHT" Color="WHT" size_XS="124" size_S="248" size_M="248" size_L="124" Total_Box_Qty="744" Costo="3.20" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NIRTS62102-BLK" Color="BLK" size_XS="148" size_S="296" size_M="296" size_L="148" Total_Box_Qty="888" Costo="3.20" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NIRTS62102-PNK" Color="PNK" size_XS="140" size_S="280" size_M="280" size_L="140" Total_Box_Qty="840" Costo="3.20" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NIRTS62103-WHT" Color="WHT" size_XS="104" size_S="208" size_M="208" size_L="104" Total_Box_Qty="624" Costo="3.20" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NIRCT62108-WHT" Color="WHT" size_XS="128" size_S="256" size_M="256" size_L="128" Total_Box_Qty="768" Costo="3.20" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NIRHD62101-BLK" Color="BLK" size_XS="100" size_S="200" size_M="200" size_L="100" Total_Box_Qty="600" Costo="7.45" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NIRHD62102-BLK" Color="BLK" size_XS="56" size_S="112" size_M="112" size_L="56" Total_Box_Qty="336" Costo="6.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SMTS621201-PUR" Color="PUR" size_XS="104" size_S="208" size_M="208" size_L="104" Total_Box_Qty="624" Costo="3" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SMTS621204-GRY" Color="GRY" size_XS="140" size_S="280" size_M="280" size_L="140" Total_Box_Qty="840" Costo="2.50" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SMTS621205-NVY" Color="NVY" size_XS="136" size_S="272" size_M="272" size_L="136" Total_Box_Qty="816" Costo="2.50" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SMCT621201-WHT" Color="WHT" size_XS="108" size_S="216" size_M="216" size_L="108" Total_Box_Qty="648" Costo="2.80" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SMCT621201-GRY" Color="GRY" size_XS="72" size_S="144" size_M="144" size_L="72" Total_Box_Qty="432" Costo="2.80" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SMSW621201-BLK" Color="BLK" size_XS="120" size_S="240" size_M="240" size_L="120" Total_Box_Qty="720" Costo="6.50" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SMSW621201-GRN" Color="GRN" size_XS="84" size_S="168" size_M="168" size_L="84" Total_Box_Qty="504" Costo="6.50" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SMHD621201-BLU" Color="BLU" size_XS="32" size_S="64" size_M="64" size_L="32" Total_Box_Qty="192" Costo="6.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SMHD621201-GRY" Color="GRY" size_XS="68" size_S="136" size_M="136" size_L="68" Total_Box_Qty="408" Costo="6.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="TWCT62101-BLK" Color="BLK" size_XS="108" size_S="216" size_M="216" size_L="108" Total_Box_Qty="648" Costo="2.85" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="TWCT62102-WHT" Color="WHT" size_XS="108" size_S="216" size_M="216" size_L="108" Total_Box_Qty="648" Costo="2.85" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+  </Confirmacion>
+</Sage>

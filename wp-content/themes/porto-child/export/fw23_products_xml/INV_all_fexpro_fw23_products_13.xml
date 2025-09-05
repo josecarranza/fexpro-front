@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS523203" Producto_reference="NFLTS523203-GY1" Dtll_Color="GY1" Description="NFL SPLIT DISTRESS T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE NFL SPLIT DISTRESS  " Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="PAT" Gender="05" Logo_specs="FRONT LOGO: DISTRESSED PRINT / WOVEN FLAG LABEL">
+    <Colors Color="GY1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NFLTS523202" Producto_reference="NFLTS523202-BK3" Dtll_Color="BK3" Description="NFL DIAGONAL T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE NFL DIAGONAL  " Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="CHI" Gender="05" Logo_specs="FRONT AND BACK: RUBBER PRINT STRIPES. WOVEN FLAG LABEL">
+    <Colors Color="BK3" Barcode="7450130228714" Sizes="S"></Colors>
+    <Colors Color="BK3" Barcode="7450130228721" Sizes="M"></Colors>
+    <Colors Color="BK3" Barcode="7450130228738" Sizes="L"></Colors>
+    <Colors Color="BK3" Barcode="7450130228745" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS523202" Producto_reference="NFLTS523202-BK2" Dtll_Color="BK2" Description="NFL DIAGONAL T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE NFL DIAGONAL  " Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="RAM" Gender="05" Logo_specs="FRONT AND BACK: RUBBER PRINT STRIPES. WOVEN FLAG LABEL">
+    <Colors Color="BK2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BK2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BK2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BK2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS523202" Producto_reference="NFLTS523202-BK1" Dtll_Color="BK1" Description="NFL DIAGONAL T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE NFL DIAGONAL  " Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="RAI" Gender="05" Logo_specs="FRONT AND BACK: RUBBER PRINT STRIPES. WOVEN FLAG LABEL">
+    <Colors Color="BK1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS523202" Producto_reference="NFLTS523202-NV2" Dtll_Color="NV2" Description="NFL DIAGONAL T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE NFL DIAGONAL  " Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="PAT" Gender="05" Logo_specs="FRONT AND BACK: RUBBER PRINT STRIPES. WOVEN FLAG LABEL">
+    <Colors Color="NV2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NV2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NV2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="NV2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS523202" Producto_reference="NFLTS523202-GY2" Dtll_Color="GY2" Description="NFL DIAGONAL T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE NFL DIAGONAL  " Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="PAT" Gender="05" Logo_specs="FRONT AND BACK: RUBBER PRINT STRIPES. WOVEN FLAG LABEL">
+    <Colors Color="GY2" Barcode="" Sizes="S"></Colors>
+    <Colors Color="GY2" Barcode="" Sizes="M"></Colors>
+    <Colors Color="GY2" Barcode="" Sizes="L"></Colors>
+    <Colors Color="GY2" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS523202" Producto_reference="NFLTS523202-BK4" Dtll_Color="BK4" Description="NFL DIAGONAL T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE NFL DIAGONAL  " Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="6.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="BUC" Gender="05" Logo_specs="FRONT AND BACK: RUBBER PRINT STRIPES. WOVEN FLAG LABEL">
+    <Colors Color="BK4" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BK4" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BK4" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BK4" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS523201" Producto_reference="NFLTS523201-WH1" Dtll_Color="WH1" Description="NFL DIAGONAL T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE NFL DIAGONAL  " Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 200G" Compesp="CVC 60% ALGODON 40% POLIESTER / 200G" Price="7" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="RAI" Gender="05" Logo_specs="FRONT TEAM NAME: HIGH DENSITY PRINT. FRONT LOGO: RUBBER PRINT. WOVEN LABEL WITH EMBROIDERY">
+    <Colors Color="WH1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="WH1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="WH1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="WH1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS523201" Producto_reference="NFLTS523201-NV1" Dtll_Color="NV1" Description="NFL DIAGONAL T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE NFL DIAGONAL  " Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 200G" Compesp="CVC 60% ALGODON 40% POLIESTER / 200G" Price="7" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="RAM" Gender="05" Logo_specs="FRONT TEAM NAME: HIGH DENSITY PRINT. FRONT LOGO: RUBBER PRINT. WOVEN LABEL WITH EMBROIDERY">
+    <Colors Color="NV1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS523201" Producto_reference="NFLTS523201-BK1" Dtll_Color="BK1" Description="NFL DIAGONAL T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE HOMBRE NFL DIAGONAL  " Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 200G" Compesp="CVC 60% ALGODON 40% POLIESTER / 200G" Price="7" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="25" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="RAI" Gender="05" Logo_specs="FRONT TEAM NAME: HIGH DENSITY PRINT. FRONT LOGO: RUBBER PRINT. WOVEN LABEL WITH EMBROIDERY">
+    <Colors Color="BK1" Barcode="" Sizes="S"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="M"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="L"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="XL"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS323203" Producto_reference="NFLTS323203-AQ1" Dtll_Color="AQ1" Description="NFL BOYS T-SHIRT STARS" Description_spanish="CAMISETA MANGA CORTA DE NINOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="5.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="DOL" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + FOIL PRINT ONLY FOR STARS / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="AQ1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS323203" Producto_reference="NFLTS323203-RD2" Dtll_Color="RD2" Description="NFL BOYS T-SHIRT STARS" Description_spanish="CAMISETA MANGA CORTA DE NINOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="5.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="CHI" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + FOIL PRINT ONLY FOR STARS / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="RD2" Barcode="" Sizes="4"></Colors>
+    <Colors Color="RD2" Barcode="" Sizes="6"></Colors>
+    <Colors Color="RD2" Barcode="" Sizes="8"></Colors>
+    <Colors Color="RD2" Barcode="" Sizes="10"></Colors>
+    <Colors Color="RD2" Barcode="" Sizes="12"></Colors>
+    <Colors Color="RD2" Barcode="" Sizes="14"></Colors>
+    <Colors Color="RD2" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS323203" Producto_reference="NFLTS323203-BK1" Dtll_Color="BK1" Description="NFL BOYS T-SHIRT STARS" Description_spanish="CAMISETA MANGA CORTA DE NINOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="5.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="RAI" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + FOIL PRINT ONLY FOR STARS / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BK1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS323203" Producto_reference="NFLTS323203-BL1" Dtll_Color="BL1" Description="NFL BOYS T-SHIRT STARS" Description_spanish="CAMISETA MANGA CORTA DE NINOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="5.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="RAM" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + FOIL PRINT ONLY FOR STARS / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BL1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS323203" Producto_reference="NFLTS323203-RD1" Dtll_Color="RD1" Description="NFL BOYS T-SHIRT STARS" Description_spanish="CAMISETA MANGA CORTA DE NINOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="5.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="PAT" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + FOIL PRINT ONLY FOR STARS / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="RD1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="RD1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="RD1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="RD1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="RD1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="RD1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="RD1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS323202" Producto_reference="NFLTS323202-BL1" Dtll_Color="BL1" Description="NFL BOYS T-SHIRT STARS" Description_spanish="CAMISETA MANGA CORTA DE NIÑOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="PAT" Gender="03" Logo_specs="BODY: SCREEN PRINTING AOP / FRONT LOGO: RUBBER PRINT / SLEEVE: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BL1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS323202" Producto_reference="NFLTS323202-AQ1" Dtll_Color="AQ1" Description="NFL BOYS T-SHIRT STARS" Description_spanish="CAMISETA MANGA CORTA DE NIÑOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="DOL" Gender="03" Logo_specs="BODY: SCREEN PRINTING AOP / FRONT LOGO: RUBBER PRINT / SLEEVE: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="AQ1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS323202" Producto_reference="NFLTS323202-GY1" Dtll_Color="GY1" Description="NFL BOYS T-SHIRT STARS" Description_spanish="CAMISETA MANGA CORTA DE NIÑOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="6" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="RAI" Gender="03" Logo_specs="BODY: SCREEN PRINTING AOP / FRONT LOGO: RUBBER PRINT / SLEEVE: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="GY1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS323201" Producto_reference="NFLTS323201-RD1" Dtll_Color="RD1" Description="NFL BOYS T-SHIRT WORDMARK ORIGIN" Description_spanish="CAMISETA MANGA CORTA DE NIÑOS NFL WORDMARK ORIGIN " Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="5.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="CHI" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="RD1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="RD1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="RD1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="RD1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="RD1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="RD1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="RD1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS323201" Producto_reference="NFLTS323201-BK3" Dtll_Color="BK3" Description="NFL BOYS T-SHIRT WORDMARK ORIGIN" Description_spanish="CAMISETA MANGA CORTA DE NIÑOS NFL WORDMARK ORIGIN " Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="5.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="RAI" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="BK3" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS323201" Producto_reference="NFLTS323201-BK4" Dtll_Color="BK4" Description="NFL BOYS T-SHIRT WORDMARK ORIGIN" Description_spanish="CAMISETA MANGA CORTA DE NIÑOS NFL WORDMARK ORIGIN " Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="5.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="DOL" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="BK4" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BK4" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BK4" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BK4" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BK4" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BK4" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BK4" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS323201" Producto_reference="NFLTS323201-GY1" Dtll_Color="GY1" Description="NFL BOYS T-SHIRT WORDMARK ORIGIN" Description_spanish="CAMISETA MANGA CORTA DE NIÑOS NFL WORDMARK ORIGIN " Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="5.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="RAI" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="GY1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS323201" Producto_reference="NFLTS323201-AQ3" Dtll_Color="AQ3" Description="NFL BOYS T-SHIRT WORDMARK ORIGIN" Description_spanish="CAMISETA MANGA CORTA DE NIÑOS NFL WORDMARK ORIGIN " Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="5.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="DOL" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="AQ3" Barcode="" Sizes="4"></Colors>
+    <Colors Color="AQ3" Barcode="" Sizes="6"></Colors>
+    <Colors Color="AQ3" Barcode="" Sizes="8"></Colors>
+    <Colors Color="AQ3" Barcode="" Sizes="10"></Colors>
+    <Colors Color="AQ3" Barcode="" Sizes="12"></Colors>
+    <Colors Color="AQ3" Barcode="" Sizes="14"></Colors>
+    <Colors Color="AQ3" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS323201" Producto_reference="NFLTS323201-WH3" Dtll_Color="WH3" Description="NFL BOYS T-SHIRT WORDMARK ORIGIN" Description_spanish="CAMISETA MANGA CORTA DE NIÑOS NFL WORDMARK ORIGIN " Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="5.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="RAM" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="WH3" Barcode="" Sizes="4"></Colors>
+    <Colors Color="WH3" Barcode="" Sizes="6"></Colors>
+    <Colors Color="WH3" Barcode="" Sizes="8"></Colors>
+    <Colors Color="WH3" Barcode="" Sizes="10"></Colors>
+    <Colors Color="WH3" Barcode="" Sizes="12"></Colors>
+    <Colors Color="WH3" Barcode="" Sizes="14"></Colors>
+    <Colors Color="WH3" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLTS323201" Producto_reference="NFLTS323201-AQ2" Dtll_Color="AQ2" Description="NFL BOYS T-SHIRT WORDMARK ORIGIN" Description_spanish="CAMISETA MANGA CORTA DE NIÑOS NFL WORDMARK ORIGIN " Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="CVC 60% ALGODON 40% POLIESTER / 160G" Price="5.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="TS" Arancel="TS" Season="232" LOB="SPO" NoSuplidor="" Equipo="EAG" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="AQ2" Barcode="" Sizes="4"></Colors>
+    <Colors Color="AQ2" Barcode="" Sizes="6"></Colors>
+    <Colors Color="AQ2" Barcode="" Sizes="8"></Colors>
+    <Colors Color="AQ2" Barcode="" Sizes="10"></Colors>
+    <Colors Color="AQ2" Barcode="" Sizes="12"></Colors>
+    <Colors Color="AQ2" Barcode="" Sizes="14"></Colors>
+    <Colors Color="AQ2" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLSH323201" Producto_reference="NFLSH323201-BK3" Dtll_Color="BK3" Description="NFL BOYS SHORT STARS" Description_spanish="PANTALON CORTO DE NIÑOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / FRENCH TERRY 280G" Compesp="CVC 60% ALGODON 40% POLIESTER / FRENCH TERRY 280G" Price="9.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="SH" Arancel="SH" Season="232" LOB="SPO" NoSuplidor="" Equipo="CHI" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BK3" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLSH323201" Producto_reference="NFLSH323201-GY1" Dtll_Color="GY1" Description="NFL BOYS SHORT STARS" Description_spanish="PANTALON CORTO DE NIÑOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / FRENCH TERRY 280G" Compesp="CVC 60% ALGODON 40% POLIESTER / FRENCH TERRY 280G" Price="9.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="SH" Arancel="SH" Season="232" LOB="SPO" NoSuplidor="" Equipo="PAT" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="GY1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLSH323201" Producto_reference="NFLSH323201-BK2" Dtll_Color="BK2" Description="NFL BOYS SHORT STARS" Description_spanish="PANTALON CORTO DE NIÑOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / FRENCH TERRY 280G" Compesp="CVC 60% ALGODON 40% POLIESTER / FRENCH TERRY 280G" Price="9.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="SH" Arancel="SH" Season="232" LOB="SPO" NoSuplidor="" Equipo="DOL" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BK2" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BK2" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BK2" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BK2" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BK2" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BK2" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BK2" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLSH323201" Producto_reference="NFLSH323201-BK1" Dtll_Color="BK1" Description="NFL BOYS SHORT STARS" Description_spanish="PANTALON CORTO DE NIÑOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / FRENCH TERRY 280G" Compesp="CVC 60% ALGODON 40% POLIESTER / FRENCH TERRY 280G" Price="9.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="SH" Arancel="SH" Season="232" LOB="SPO" NoSuplidor="" Equipo="RAI" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BK1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLJP323201" Producto_reference="NFLJP323201-BK2" Dtll_Color="BK2" Description="NFL BOYS JOGGER PANT STARS" Description_spanish="PANTALON LARGO DE NIÑOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / FRENCH TERRY 300G" Compesp="CVC 60% ALGODON 40% POLIESTER / FRENCH TERRY 300G" Price="10" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="JP" Arancel="JP" Season="232" LOB="SPO" NoSuplidor="" Equipo="DOL" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / WOVEN FLAG LABEL / JACQUARD RIB">
+    <Colors Color="BK2" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BK2" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BK2" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BK2" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BK2" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BK2" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BK2" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLJP323201" Producto_reference="NFLJP323201-BK3" Dtll_Color="BK3" Description="NFL BOYS JOGGER PANT STARS" Description_spanish="PANTALON LARGO DE NIÑOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / FRENCH TERRY 300G" Compesp="CVC 60% ALGODON 40% POLIESTER / FRENCH TERRY 300G" Price="10" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="JP" Arancel="JP" Season="232" LOB="SPO" NoSuplidor="" Equipo="CHI" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / WOVEN FLAG LABEL / JACQUARD RIB">
+    <Colors Color="BK3" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLJP323201" Producto_reference="NFLJP323201-NV2" Dtll_Color="NV2" Description="NFL BOYS JOGGER PANT STARS" Description_spanish="PANTALON LARGO DE NIÑOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / FRENCH TERRY 300G" Compesp="CVC 60% ALGODON 40% POLIESTER / FRENCH TERRY 300G" Price="10" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="JP" Arancel="JP" Season="232" LOB="SPO" NoSuplidor="" Equipo="PAT" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / WOVEN FLAG LABEL / JACQUARD RIB">
+    <Colors Color="NV2" Barcode="" Sizes="4"></Colors>
+    <Colors Color="NV2" Barcode="" Sizes="6"></Colors>
+    <Colors Color="NV2" Barcode="" Sizes="8"></Colors>
+    <Colors Color="NV2" Barcode="" Sizes="10"></Colors>
+    <Colors Color="NV2" Barcode="" Sizes="12"></Colors>
+    <Colors Color="NV2" Barcode="" Sizes="14"></Colors>
+    <Colors Color="NV2" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLJP323201" Producto_reference="NFLJP323201-BK1" Dtll_Color="BK1" Description="NFL BOYS JOGGER PANT STARS" Description_spanish="PANTALON LARGO DE NIÑOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / FRENCH TERRY 300G" Compesp="CVC 60% ALGODON 40% POLIESTER / FRENCH TERRY 300G" Price="10" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="JP" Arancel="JP" Season="232" LOB="SPO" NoSuplidor="" Equipo="RAI" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / WOVEN FLAG LABEL / JACQUARD RIB">
+    <Colors Color="BK1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BK1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLHD323203" Producto_reference="NFLHD323203-AQ1" Dtll_Color="AQ1" Description="NFL BOYS HOODIE STARS" Description_spanish="ABRIGO CON CAPUCHA DE NIÑOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / FRENCH TERRY 300G" Compesp="CVC 60% ALGODON 40% POLIESTER / FRENCH TERRY 300G" Price="12" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="HD" Arancel="HD" Season="232" LOB="SPO" NoSuplidor="" Equipo="DOL" Gender="03" Logo_specs="BODY: SCREEN PRINTING AOP / FRONT LOGO: RUBBER PRINT / POCKET: RUBBER PRINT / SLEEVE: RUBBER PRINT">
+    <Colors Color="AQ1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLHD323203" Producto_reference="NFLHD323203-NV2" Dtll_Color="NV2" Description="NFL BOYS HOODIE STARS" Description_spanish="ABRIGO CON CAPUCHA DE NIÑOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / FRENCH TERRY 300G" Compesp="CVC 60% ALGODON 40% POLIESTER / FRENCH TERRY 300G" Price="12" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="HD" Arancel="HD" Season="232" LOB="SPO" NoSuplidor="" Equipo="PAT" Gender="03" Logo_specs="BODY: SCREEN PRINTING AOP / FRONT LOGO: RUBBER PRINT / POCKET: RUBBER PRINT / SLEEVE: RUBBER PRINT">
+    <Colors Color="NV2" Barcode="" Sizes="4"></Colors>
+    <Colors Color="NV2" Barcode="" Sizes="6"></Colors>
+    <Colors Color="NV2" Barcode="" Sizes="8"></Colors>
+    <Colors Color="NV2" Barcode="" Sizes="10"></Colors>
+    <Colors Color="NV2" Barcode="" Sizes="12"></Colors>
+    <Colors Color="NV2" Barcode="" Sizes="14"></Colors>
+    <Colors Color="NV2" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLHD323202" Producto_reference="NFLHD323202-RD1" Dtll_Color="RD1" Description="NFL BOYS HOODIE STARS" Description_spanish="ABRIGO CON CAPUCHA DE NINOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / FRENCH TERRY 300G" Compesp="CVC 60% ALGODON 40% POLIESTER / FRENCH TERRY 300G" Price="12" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="HD" Arancel="HD" Season="232" LOB="SPO" NoSuplidor="" Equipo="CHI" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + FOIL PRINT FOR STARS ONLY / BACK LOGO: RUBBER PRINT / POCKET: SCREEN PRINTING AOP / WOVEN FLAG LABEL">
+    <Colors Color="RD1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="RD1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="RD1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="RD1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="RD1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="RD1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="RD1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLHD323202" Producto_reference="NFLHD323202-NV1" Dtll_Color="NV1" Description="NFL BOYS HOODIE STARS" Description_spanish="ABRIGO CON CAPUCHA DE NINOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / FRENCH TERRY 300G" Compesp="CVC 60% ALGODON 40% POLIESTER / FRENCH TERRY 300G" Price="12" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="HD" Arancel="HD" Season="232" LOB="SPO" NoSuplidor="" Equipo="PAT" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + FOIL PRINT FOR STARS ONLY / BACK LOGO: RUBBER PRINT / POCKET: SCREEN PRINTING AOP / WOVEN FLAG LABEL">
+    <Colors Color="NV1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLHD323202" Producto_reference="NFLHD323202-AQ1" Dtll_Color="AQ1" Description="NFL BOYS HOODIE STARS" Description_spanish="ABRIGO CON CAPUCHA DE NINOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / FRENCH TERRY 300G" Compesp="CVC 60% ALGODON 40% POLIESTER / FRENCH TERRY 300G" Price="12" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="HD" Arancel="HD" Season="232" LOB="SPO" NoSuplidor="" Equipo="DOL" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + FOIL PRINT FOR STARS ONLY / BACK LOGO: RUBBER PRINT / POCKET: SCREEN PRINTING AOP / WOVEN FLAG LABEL">
+    <Colors Color="AQ1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLHD323201" Producto_reference="NFLHD323201-GY1" Dtll_Color="GY1" Description="NFL BOYS HOODIE STARS" Description_spanish="ABRIGO CON CAPUCHA DE NIÑOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 200G" Compesp="CVC 60% ALGODON 40% POLIESTER / 200G" Price="10" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="HD" Arancel="HD" Season="232" LOB="SPO" NoSuplidor="" Equipo="PAT" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / HOOD: SCREEN PRINTING AOP / WOVEN FLAG LABEL">
+    <Colors Color="GY1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NFLHD323201" Producto_reference="NFLHD323201-AQ1" Dtll_Color="AQ1" Description="NFL BOYS HOODIE STARS" Description_spanish="ABRIGO CON CAPUCHA DE NIÑOS NFL STARS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 200G" Compesp="CVC 60% ALGODON 40% POLIESTER / 200G" Price="10" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NFL" Group="AP" Sub_group="HD" Arancel="HD" Season="232" LOB="SPO" NoSuplidor="" Equipo="DOL" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / HOOD: SCREEN PRINTING AOP / WOVEN FLAG LABEL">
+    <Colors Color="AQ1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="AQ1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323209" Producto_reference="NBATS323209-WH5" Dtll_Color="WH5" Description="NBA BADGE MADNESS T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="6.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="WAR" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="WH5" Barcode="" Sizes="4"></Colors>
+    <Colors Color="WH5" Barcode="" Sizes="6"></Colors>
+    <Colors Color="WH5" Barcode="" Sizes="8"></Colors>
+    <Colors Color="WH5" Barcode="" Sizes="10"></Colors>
+    <Colors Color="WH5" Barcode="" Sizes="12"></Colors>
+    <Colors Color="WH5" Barcode="" Sizes="14"></Colors>
+    <Colors Color="WH5" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323209" Producto_reference="NBATS323209-WH3" Dtll_Color="WH3" Description="NBA BADGE MADNESS T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="6.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="HEA" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="WH3" Barcode="" Sizes="4"></Colors>
+    <Colors Color="WH3" Barcode="" Sizes="6"></Colors>
+    <Colors Color="WH3" Barcode="" Sizes="8"></Colors>
+    <Colors Color="WH3" Barcode="" Sizes="10"></Colors>
+    <Colors Color="WH3" Barcode="" Sizes="12"></Colors>
+    <Colors Color="WH3" Barcode="" Sizes="14"></Colors>
+    <Colors Color="WH3" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323209" Producto_reference="NBATS323209-WH4" Dtll_Color="WH4" Description="NBA BADGE MADNESS T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="6.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="LAK" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="WH4" Barcode="7450130234364" Sizes="4"></Colors>
+    <Colors Color="WH4" Barcode="7450130234371" Sizes="6"></Colors>
+    <Colors Color="WH4" Barcode="7450130234388" Sizes="8"></Colors>
+    <Colors Color="WH4" Barcode="7450130234395" Sizes="10"></Colors>
+    <Colors Color="WH4" Barcode="7450130234401" Sizes="12"></Colors>
+    <Colors Color="WH4" Barcode="7450130234418" Sizes="14"></Colors>
+    <Colors Color="WH4" Barcode="7450130234425" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323209" Producto_reference="NBATS323209-WH1" Dtll_Color="WH1" Description="NBA BADGE MADNESS T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="6.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="BUL" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="WH1" Barcode="7450130234432" Sizes="4"></Colors>
+    <Colors Color="WH1" Barcode="7450130234449" Sizes="6"></Colors>
+    <Colors Color="WH1" Barcode="7450130234456" Sizes="8"></Colors>
+    <Colors Color="WH1" Barcode="7450130234463" Sizes="10"></Colors>
+    <Colors Color="WH1" Barcode="7450130234470" Sizes="12"></Colors>
+    <Colors Color="WH1" Barcode="7450130234487" Sizes="14"></Colors>
+    <Colors Color="WH1" Barcode="7450130234494" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323209" Producto_reference="NBATS323209-WH2" Dtll_Color="WH2" Description="NBA BADGE MADNESS T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="6.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="CEL" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="WH2" Barcode="" Sizes="4"></Colors>
+    <Colors Color="WH2" Barcode="" Sizes="6"></Colors>
+    <Colors Color="WH2" Barcode="" Sizes="8"></Colors>
+    <Colors Color="WH2" Barcode="" Sizes="10"></Colors>
+    <Colors Color="WH2" Barcode="" Sizes="12"></Colors>
+    <Colors Color="WH2" Barcode="" Sizes="14"></Colors>
+    <Colors Color="WH2" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323209" Producto_reference="NBATS323209-BU1" Dtll_Color="BU1" Description="NBA BADGE MADNESS T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="6.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="HEA" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BU1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BU1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BU1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BU1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BU1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BU1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BU1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323209" Producto_reference="NBATS323209-NV1" Dtll_Color="NV1" Description="NBA BADGE MADNESS T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="6.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="WAR" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="NV1" Barcode="7450130234579" Sizes="4"></Colors>
+    <Colors Color="NV1" Barcode="7450130234586" Sizes="6"></Colors>
+    <Colors Color="NV1" Barcode="7450130234593" Sizes="8"></Colors>
+    <Colors Color="NV1" Barcode="7450130234609" Sizes="10"></Colors>
+    <Colors Color="NV1" Barcode="7450130234616" Sizes="12"></Colors>
+    <Colors Color="NV1" Barcode="7450130234623" Sizes="14"></Colors>
+    <Colors Color="NV1" Barcode="7450130234630" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323209" Producto_reference="NBATS323209-PR1" Dtll_Color="PR1" Description="NBA BADGE MADNESS T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="6.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="LAK" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="PR1" Barcode="7450130234500" Sizes="4"></Colors>
+    <Colors Color="PR1" Barcode="7450130234517" Sizes="6"></Colors>
+    <Colors Color="PR1" Barcode="7450130234524" Sizes="8"></Colors>
+    <Colors Color="PR1" Barcode="7450130234531" Sizes="10"></Colors>
+    <Colors Color="PR1" Barcode="7450130234548" Sizes="12"></Colors>
+    <Colors Color="PR1" Barcode="7450130234555" Sizes="14"></Colors>
+    <Colors Color="PR1" Barcode="7450130234562" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323209" Producto_reference="NBATS323209-BK1" Dtll_Color="BK1" Description="NBA BADGE MADNESS T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="6.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="BUL" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BK1" Barcode="7450130234647" Sizes="4"></Colors>
+    <Colors Color="BK1" Barcode="7450130234654" Sizes="6"></Colors>
+    <Colors Color="BK1" Barcode="7450130234661" Sizes="8"></Colors>
+    <Colors Color="BK1" Barcode="7450130234678" Sizes="10"></Colors>
+    <Colors Color="BK1" Barcode="7450130234685" Sizes="12"></Colors>
+    <Colors Color="BK1" Barcode="7450130234692" Sizes="14"></Colors>
+    <Colors Color="BK1" Barcode="7450130234708" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323209" Producto_reference="NBATS323209-BK2" Dtll_Color="BK2" Description="NBA BADGE MADNESS T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="6.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="CEL" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BK2" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BK2" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BK2" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BK2" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BK2" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BK2" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BK2" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323208" Producto_reference="NBATS323208-RD1" Dtll_Color="RD1" Description="NBA BADGES MADNESS T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="BUL" Gender="03" Logo_specs="CHEST LOGO: EMBROIDERY PATCH / SIDE FRONTAL LOGO: RUBBER PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLA">
+    <Colors Color="RD1" Barcode="7450130234715" Sizes="4"></Colors>
+    <Colors Color="RD1" Barcode="7450130234722" Sizes="6"></Colors>
+    <Colors Color="RD1" Barcode="7450130234739" Sizes="8"></Colors>
+    <Colors Color="RD1" Barcode="7450130234746" Sizes="10"></Colors>
+    <Colors Color="RD1" Barcode="7450130234753" Sizes="12"></Colors>
+    <Colors Color="RD1" Barcode="7450130234760" Sizes="14"></Colors>
+    <Colors Color="RD1" Barcode="7450130234777" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323208" Producto_reference="NBATS323208-WH1" Dtll_Color="WH1" Description="NBA BADGES MADNESS T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="HEA" Gender="03" Logo_specs="CHEST LOGO: EMBROIDERY PATCH / SIDE FRONTAL LOGO: RUBBER PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLA">
+    <Colors Color="WH1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="WH1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="WH1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="WH1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="WH1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="WH1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="WH1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323208" Producto_reference="NBATS323208-GY1" Dtll_Color="GY1" Description="NBA BADGES MADNESS T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="CEL" Gender="03" Logo_specs="CHEST LOGO: EMBROIDERY PATCH / SIDE FRONTAL LOGO: RUBBER PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLA">
+    <Colors Color="GY1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323208" Producto_reference="NBATS323208-PR1" Dtll_Color="PR1" Description="NBA BADGES MADNESS T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="LAK" Gender="03" Logo_specs="CHEST LOGO: EMBROIDERY PATCH / SIDE FRONTAL LOGO: RUBBER PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLA">
+    <Colors Color="PR1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="PR1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="PR1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="PR1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="PR1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="PR1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="PR1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323208" Producto_reference="NBATS323208-BK4" Dtll_Color="BK4" Description="NBA BADGES MADNESS T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="LAK" Gender="03" Logo_specs="CHEST LOGO: EMBROIDERY PATCH / SIDE FRONTAL LOGO: RUBBER PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLA">
+    <Colors Color="BK4" Barcode="7450130210580" Sizes="4"></Colors>
+    <Colors Color="BK4" Barcode="7450130210597" Sizes="6"></Colors>
+    <Colors Color="BK4" Barcode="7450130210603" Sizes="8"></Colors>
+    <Colors Color="BK4" Barcode="7450130210610" Sizes="10"></Colors>
+    <Colors Color="BK4" Barcode="7450130210627" Sizes="12"></Colors>
+    <Colors Color="BK4" Barcode="7450130210634" Sizes="14"></Colors>
+    <Colors Color="BK4" Barcode="7450130210641" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323208" Producto_reference="NBATS323208-BK5" Dtll_Color="BK5" Description="NBA BADGES MADNESS T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="WAR" Gender="03" Logo_specs="CHEST LOGO: EMBROIDERY PATCH / SIDE FRONTAL LOGO: RUBBER PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLA">
+    <Colors Color="BK5" Barcode="7450130234784" Sizes="4"></Colors>
+    <Colors Color="BK5" Barcode="7450130234791" Sizes="6"></Colors>
+    <Colors Color="BK5" Barcode="7450130234807" Sizes="8"></Colors>
+    <Colors Color="BK5" Barcode="7450130234814" Sizes="10"></Colors>
+    <Colors Color="BK5" Barcode="7450130234821" Sizes="12"></Colors>
+    <Colors Color="BK5" Barcode="7450130234838" Sizes="14"></Colors>
+    <Colors Color="BK5" Barcode="7450130234845" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323208" Producto_reference="NBATS323208-BL1" Dtll_Color="BL1" Description="NBA BADGES MADNESS T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="WAR" Gender="03" Logo_specs="CHEST LOGO: EMBROIDERY PATCH / SIDE FRONTAL LOGO: RUBBER PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLA">
+    <Colors Color="BL1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323208" Producto_reference="NBATS323208-BK2" Dtll_Color="BK2" Description="NBA BADGES MADNESS T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="CEL" Gender="03" Logo_specs="CHEST LOGO: EMBROIDERY PATCH / SIDE FRONTAL LOGO: RUBBER PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLA">
+    <Colors Color="BK2" Barcode="7450130234852" Sizes="4"></Colors>
+    <Colors Color="BK2" Barcode="7450130234869" Sizes="6"></Colors>
+    <Colors Color="BK2" Barcode="7450130234876" Sizes="8"></Colors>
+    <Colors Color="BK2" Barcode="7450130234883" Sizes="10"></Colors>
+    <Colors Color="BK2" Barcode="7450130234890" Sizes="12"></Colors>
+    <Colors Color="BK2" Barcode="7450130234906" Sizes="14"></Colors>
+    <Colors Color="BK2" Barcode="7450130234913" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323208" Producto_reference="NBATS323208-BK3" Dtll_Color="BK3" Description="NBA BADGES MADNESS T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="HEA" Gender="03" Logo_specs="CHEST LOGO: EMBROIDERY PATCH / SIDE FRONTAL LOGO: RUBBER PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLA">
+    <Colors Color="BK3" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323208" Producto_reference="NBATS323208-BK1" Dtll_Color="BK1" Description="NBA BADGES MADNESS T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="BUL" Gender="03" Logo_specs="CHEST LOGO: EMBROIDERY PATCH / SIDE FRONTAL LOGO: RUBBER PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLA">
+    <Colors Color="BK1" Barcode="7450130212331" Sizes="4"></Colors>
+    <Colors Color="BK1" Barcode="7450130212348" Sizes="6"></Colors>
+    <Colors Color="BK1" Barcode="7450130212355" Sizes="8"></Colors>
+    <Colors Color="BK1" Barcode="7450130212362" Sizes="10"></Colors>
+    <Colors Color="BK1" Barcode="7450130212379" Sizes="12"></Colors>
+    <Colors Color="BK1" Barcode="7450130212386" Sizes="14"></Colors>
+    <Colors Color="BK1" Barcode="7450130212393" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323207" Producto_reference="NBATS323207-PR1" Dtll_Color="PR1" Description="NBA COLORFULL SPLAT LATERAL T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA COLORFULL SPLAT" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="LAK" Gender="03" Logo_specs="FRONT LOGOS: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="PR1" Barcode="7450130210931" Sizes="4"></Colors>
+    <Colors Color="PR1" Barcode="7450130210948" Sizes="6"></Colors>
+    <Colors Color="PR1" Barcode="7450130210955" Sizes="8"></Colors>
+    <Colors Color="PR1" Barcode="7450130210962" Sizes="10"></Colors>
+    <Colors Color="PR1" Barcode="7450130210979" Sizes="12"></Colors>
+    <Colors Color="PR1" Barcode="7450130210986" Sizes="14"></Colors>
+    <Colors Color="PR1" Barcode="7450130210993" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323207" Producto_reference="NBATS323207-RD1" Dtll_Color="RD1" Description="NBA COLORFULL SPLAT LATERAL T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA COLORFULL SPLAT" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="BUL" Gender="03" Logo_specs="FRONT LOGOS: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="RD1" Barcode="7450130209256" Sizes="4"></Colors>
+    <Colors Color="RD1" Barcode="7450130209263" Sizes="6"></Colors>
+    <Colors Color="RD1" Barcode="7450130209270" Sizes="8"></Colors>
+    <Colors Color="RD1" Barcode="7450130209287" Sizes="10"></Colors>
+    <Colors Color="RD1" Barcode="7450130209294" Sizes="12"></Colors>
+    <Colors Color="RD1" Barcode="7450130209300" Sizes="14"></Colors>
+    <Colors Color="RD1" Barcode="7450130209317" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323207" Producto_reference="NBATS323207-BL1" Dtll_Color="BL1" Description="NBA COLORFULL SPLAT LATERAL T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA COLORFULL SPLAT" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="WAR" Gender="03" Logo_specs="FRONT LOGOS: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="BL1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BL1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323207" Producto_reference="NBATS323207-BK6" Dtll_Color="BK6" Description="NBA COLORFULL SPLAT LATERAL T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA COLORFULL SPLAT" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="KNI" Gender="03" Logo_specs="FRONT LOGOS: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="BK6" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BK6" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BK6" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BK6" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BK6" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BK6" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BK6" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323207" Producto_reference="NBATS323207-BK7" Dtll_Color="BK7" Description="NBA COLORFULL SPLAT LATERAL T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA COLORFULL SPLAT" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="HOR" Gender="03" Logo_specs="FRONT LOGOS: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="BK7" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BK7" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BK7" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BK7" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BK7" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BK7" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BK7" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323207" Producto_reference="NBATS323207-BK4" Dtll_Color="BK4" Description="NBA COLORFULL SPLAT LATERAL T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA COLORFULL SPLAT" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="CEL" Gender="03" Logo_specs="FRONT LOGOS: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="BK4" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BK4" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BK4" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BK4" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BK4" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BK4" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BK4" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323207" Producto_reference="NBATS323207-BK5" Dtll_Color="BK5" Description="NBA COLORFULL SPLAT LATERAL T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA COLORFULL SPLAT" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="HEA" Gender="03" Logo_specs="FRONT LOGOS: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="BK5" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BK5" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BK5" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BK5" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BK5" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BK5" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BK5" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323207" Producto_reference="NBATS323207-BK1" Dtll_Color="BK1" Description="NBA COLORFULL SPLAT LATERAL T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA COLORFULL SPLAT" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="WAR" Gender="03" Logo_specs="FRONT LOGOS: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="BK1" Barcode="7450130234920" Sizes="4"></Colors>
+    <Colors Color="BK1" Barcode="7450130234937" Sizes="6"></Colors>
+    <Colors Color="BK1" Barcode="7450130234944" Sizes="8"></Colors>
+    <Colors Color="BK1" Barcode="7450130234951" Sizes="10"></Colors>
+    <Colors Color="BK1" Barcode="7450130234968" Sizes="12"></Colors>
+    <Colors Color="BK1" Barcode="7450130234975" Sizes="14"></Colors>
+    <Colors Color="BK1" Barcode="7450130234982" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323207" Producto_reference="NBATS323207-BK2" Dtll_Color="BK2" Description="NBA COLORFULL SPLAT LATERAL T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA COLORFULL SPLAT" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="BUL" Gender="03" Logo_specs="FRONT LOGOS: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="BK2" Barcode="7450130208693" Sizes="4"></Colors>
+    <Colors Color="BK2" Barcode="7450130208709" Sizes="6"></Colors>
+    <Colors Color="BK2" Barcode="7450130208716" Sizes="8"></Colors>
+    <Colors Color="BK2" Barcode="7450130208723" Sizes="10"></Colors>
+    <Colors Color="BK2" Barcode="7450130208730" Sizes="12"></Colors>
+    <Colors Color="BK2" Barcode="7450130208747" Sizes="14"></Colors>
+    <Colors Color="BK2" Barcode="7450130208754" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323207" Producto_reference="NBATS323207-BK3" Dtll_Color="BK3" Description="NBA COLORFULL SPLAT LATERAL T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA COLORFULL SPLAT" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="LAK" Gender="03" Logo_specs="FRONT LOGOS: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="BK3" Barcode="7450130208273" Sizes="4"></Colors>
+    <Colors Color="BK3" Barcode="7450130208280" Sizes="6"></Colors>
+    <Colors Color="BK3" Barcode="7450130208297" Sizes="8"></Colors>
+    <Colors Color="BK3" Barcode="7450130208303" Sizes="10"></Colors>
+    <Colors Color="BK3" Barcode="7450130208310" Sizes="12"></Colors>
+    <Colors Color="BK3" Barcode="7450130208327" Sizes="14"></Colors>
+    <Colors Color="BK3" Barcode="7450130208334" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323206" Producto_reference="NBATS323206-WH2" Dtll_Color="WH2" Description="NBA COLORFULL SPLAT T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA COLORFULL SPLAT" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="LAK" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="WH2" Barcode="7450130213871" Sizes="4"></Colors>
+    <Colors Color="WH2" Barcode="7450130213888" Sizes="6"></Colors>
+    <Colors Color="WH2" Barcode="7450130213895" Sizes="8"></Colors>
+    <Colors Color="WH2" Barcode="7450130213901" Sizes="10"></Colors>
+    <Colors Color="WH2" Barcode="7450130213918" Sizes="12"></Colors>
+    <Colors Color="WH2" Barcode="7450130213925" Sizes="14"></Colors>
+    <Colors Color="WH2" Barcode="7450130213932" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323206" Producto_reference="NBATS323206-WH1" Dtll_Color="WH1" Description="NBA COLORFULL SPLAT T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA COLORFULL SPLAT" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="BUL" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="WH1" Barcode="7450130234999" Sizes="4"></Colors>
+    <Colors Color="WH1" Barcode="7450130235002" Sizes="6"></Colors>
+    <Colors Color="WH1" Barcode="7450130235019" Sizes="8"></Colors>
+    <Colors Color="WH1" Barcode="7450130235026" Sizes="10"></Colors>
+    <Colors Color="WH1" Barcode="7450130235033" Sizes="12"></Colors>
+    <Colors Color="WH1" Barcode="7450130235040" Sizes="14"></Colors>
+    <Colors Color="WH1" Barcode="7450130235057" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323206" Producto_reference="NBATS323206-NV1" Dtll_Color="NV1" Description="NBA COLORFULL SPLAT T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA COLORFULL SPLAT" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="WAR" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="NV1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323206" Producto_reference="NBATS323206-BK2" Dtll_Color="BK2" Description="NBA COLORFULL SPLAT T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA COLORFULL SPLAT" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="LAK" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="BK2" Barcode="7450130235064" Sizes="4"></Colors>
+    <Colors Color="BK2" Barcode="7450130235071" Sizes="6"></Colors>
+    <Colors Color="BK2" Barcode="7450130235088" Sizes="8"></Colors>
+    <Colors Color="BK2" Barcode="7450130235095" Sizes="10"></Colors>
+    <Colors Color="BK2" Barcode="7450130235101" Sizes="12"></Colors>
+    <Colors Color="BK2" Barcode="7450130235118" Sizes="14"></Colors>
+    <Colors Color="BK2" Barcode="7450130235125" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323206" Producto_reference="NBATS323206-BK3" Dtll_Color="BK3" Description="NBA COLORFULL SPLAT T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA COLORFULL SPLAT" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="HEA" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="BK3" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323206" Producto_reference="NBATS323206-BK1" Dtll_Color="BK1" Description="NBA COLORFULL SPLAT T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA COLORFULL SPLAT" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="BUL" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / BACK LOGO: HEAT TRANSFER / WOVEN FLAG LABEL">
+    <Colors Color="BK1" Barcode="7450130210375" Sizes="4"></Colors>
+    <Colors Color="BK1" Barcode="7450130210382" Sizes="6"></Colors>
+    <Colors Color="BK1" Barcode="7450130210399" Sizes="8"></Colors>
+    <Colors Color="BK1" Barcode="7450130210405" Sizes="10"></Colors>
+    <Colors Color="BK1" Barcode="7450130210412" Sizes="12"></Colors>
+    <Colors Color="BK1" Barcode="7450130210429" Sizes="14"></Colors>
+    <Colors Color="BK1" Barcode="7450130210436" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323205" Producto_reference="NBATS323205-WH4" Dtll_Color="WH4" Description="NBA WORDMARK T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA WORDMARK" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="CEL" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + DOTS IN HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="WH4" Barcode="" Sizes="4"></Colors>
+    <Colors Color="WH4" Barcode="" Sizes="6"></Colors>
+    <Colors Color="WH4" Barcode="" Sizes="8"></Colors>
+    <Colors Color="WH4" Barcode="" Sizes="10"></Colors>
+    <Colors Color="WH4" Barcode="" Sizes="12"></Colors>
+    <Colors Color="WH4" Barcode="" Sizes="14"></Colors>
+    <Colors Color="WH4" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323205" Producto_reference="NBATS323205-WH2" Dtll_Color="WH2" Description="NBA WORDMARK T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA WORDMARK" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="LAK" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + DOTS IN HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="WH2" Barcode="" Sizes="4"></Colors>
+    <Colors Color="WH2" Barcode="" Sizes="6"></Colors>
+    <Colors Color="WH2" Barcode="" Sizes="8"></Colors>
+    <Colors Color="WH2" Barcode="" Sizes="10"></Colors>
+    <Colors Color="WH2" Barcode="" Sizes="12"></Colors>
+    <Colors Color="WH2" Barcode="" Sizes="14"></Colors>
+    <Colors Color="WH2" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323205" Producto_reference="NBATS323205-WH3" Dtll_Color="WH3" Description="NBA WORDMARK T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA WORDMARK" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="WAR" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + DOTS IN HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="WH3" Barcode="" Sizes="4"></Colors>
+    <Colors Color="WH3" Barcode="" Sizes="6"></Colors>
+    <Colors Color="WH3" Barcode="" Sizes="8"></Colors>
+    <Colors Color="WH3" Barcode="" Sizes="10"></Colors>
+    <Colors Color="WH3" Barcode="" Sizes="12"></Colors>
+    <Colors Color="WH3" Barcode="" Sizes="14"></Colors>
+    <Colors Color="WH3" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323205" Producto_reference="NBATS323205-TQ1" Dtll_Color="TQ1" Description="NBA WORDMARK T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA WORDMARK" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + DOTS IN HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="TQ1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="TQ1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="TQ1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="TQ1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="TQ1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="TQ1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="TQ1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323205" Producto_reference="NBATS323205-WH1" Dtll_Color="WH1" Description="NBA WORDMARK T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA WORDMARK" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="BUL" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + DOTS IN HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="WH1" Barcode="7450130211914" Sizes="4"></Colors>
+    <Colors Color="WH1" Barcode="7450130211921" Sizes="6"></Colors>
+    <Colors Color="WH1" Barcode="7450130211938" Sizes="8"></Colors>
+    <Colors Color="WH1" Barcode="7450130211945" Sizes="10"></Colors>
+    <Colors Color="WH1" Barcode="7450130211952" Sizes="12"></Colors>
+    <Colors Color="WH1" Barcode="7450130211969" Sizes="14"></Colors>
+    <Colors Color="WH1" Barcode="7450130211976" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323205" Producto_reference="NBATS323205-PR1" Dtll_Color="PR1" Description="NBA WORDMARK T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA WORDMARK" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="LAK" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + DOTS IN HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="PR1" Barcode="7450130209041" Sizes="4"></Colors>
+    <Colors Color="PR1" Barcode="7450130209058" Sizes="6"></Colors>
+    <Colors Color="PR1" Barcode="7450130209065" Sizes="8"></Colors>
+    <Colors Color="PR1" Barcode="7450130209072" Sizes="10"></Colors>
+    <Colors Color="PR1" Barcode="7450130209089" Sizes="12"></Colors>
+    <Colors Color="PR1" Barcode="7450130209096" Sizes="14"></Colors>
+    <Colors Color="PR1" Barcode="7450130209102" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323205" Producto_reference="NBATS323205-RD1" Dtll_Color="RD1" Description="NBA WORDMARK T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA WORDMARK" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="BUL" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + DOTS IN HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="RD1" Barcode="7450130207290" Sizes="4"></Colors>
+    <Colors Color="RD1" Barcode="7450130207306" Sizes="6"></Colors>
+    <Colors Color="RD1" Barcode="7450130207313" Sizes="8"></Colors>
+    <Colors Color="RD1" Barcode="7450130207320" Sizes="10"></Colors>
+    <Colors Color="RD1" Barcode="7450130207337" Sizes="12"></Colors>
+    <Colors Color="RD1" Barcode="7450130207344" Sizes="14"></Colors>
+    <Colors Color="RD1" Barcode="7450130207351" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323205" Producto_reference="NBATS323205-BU1" Dtll_Color="BU1" Description="NBA WORDMARK T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA WORDMARK" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="HEA" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + DOTS IN HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BU1" Barcode="7450130235132" Sizes="4"></Colors>
+    <Colors Color="BU1" Barcode="7450130235149" Sizes="6"></Colors>
+    <Colors Color="BU1" Barcode="7450130235156" Sizes="8"></Colors>
+    <Colors Color="BU1" Barcode="7450130235163" Sizes="10"></Colors>
+    <Colors Color="BU1" Barcode="7450130235170" Sizes="12"></Colors>
+    <Colors Color="BU1" Barcode="7450130235187" Sizes="14"></Colors>
+    <Colors Color="BU1" Barcode="7450130235194" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323205" Producto_reference="NBATS323205-GY1" Dtll_Color="GY1" Description="NBA WORDMARK T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA WORDMARK" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="NET" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + DOTS IN HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="GY1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="GY1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323205" Producto_reference="NBATS323205-NV1" Dtll_Color="NV1" Description="NBA WORDMARK T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA WORDMARK" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + DOTS IN HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="NV1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323205" Producto_reference="NBATS323205-BK5" Dtll_Color="BK5" Description="NBA WORDMARK T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA WORDMARK" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="HEA" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + DOTS IN HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BK5" Barcode="7450130235200" Sizes="4"></Colors>
+    <Colors Color="BK5" Barcode="7450130235217" Sizes="6"></Colors>
+    <Colors Color="BK5" Barcode="7450130235224" Sizes="8"></Colors>
+    <Colors Color="BK5" Barcode="7450130235231" Sizes="10"></Colors>
+    <Colors Color="BK5" Barcode="7450130235248" Sizes="12"></Colors>
+    <Colors Color="BK5" Barcode="7450130235255" Sizes="14"></Colors>
+    <Colors Color="BK5" Barcode="7450130235262" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323205" Producto_reference="NBATS323205-BL1" Dtll_Color="BL1" Description="NBA WORDMARK T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA WORDMARK" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="WAR" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + DOTS IN HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BL1" Barcode="7450130211280" Sizes="4"></Colors>
+    <Colors Color="BL1" Barcode="7450130211297" Sizes="6"></Colors>
+    <Colors Color="BL1" Barcode="7450130211303" Sizes="8"></Colors>
+    <Colors Color="BL1" Barcode="7450130211310" Sizes="10"></Colors>
+    <Colors Color="BL1" Barcode="7450130211327" Sizes="12"></Colors>
+    <Colors Color="BL1" Barcode="7450130211334" Sizes="14"></Colors>
+    <Colors Color="BL1" Barcode="7450130211341" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323205" Producto_reference="NBATS323205-BK3" Dtll_Color="BK3" Description="NBA WORDMARK T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA WORDMARK" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="NET" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + DOTS IN HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BK3" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBATS323205" Producto_reference="NBATS323205-BK4" Dtll_Color="BK4" Description="NBA WORDMARK T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA WORDMARK" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="CEL" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + DOTS IN HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BK4" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BK4" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BK4" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BK4" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BK4" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BK4" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BK4" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323205" Producto_reference="NBATS323205-BK1" Dtll_Color="BK1" Description="NBA WORDMARK T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA WORDMARK" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="BUL" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + DOTS IN HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BK1" Barcode="7450130207719" Sizes="4"></Colors>
+    <Colors Color="BK1" Barcode="7450130207726" Sizes="6"></Colors>
+    <Colors Color="BK1" Barcode="7450130207733" Sizes="8"></Colors>
+    <Colors Color="BK1" Barcode="7450130207740" Sizes="10"></Colors>
+    <Colors Color="BK1" Barcode="7450130207757" Sizes="12"></Colors>
+    <Colors Color="BK1" Barcode="7450130207764" Sizes="14"></Colors>
+    <Colors Color="BK1" Barcode="7450130207771" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBATS323205" Producto_reference="NBATS323205-BK2" Dtll_Color="BK2" Description="NBA WORDMARK T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA WORDMARK" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON / 40% POLYESTER 160G" Compesp="CVC 60% ALGODON / 40% POLIESTER 160G" Price="5.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="LAK" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT + DOTS IN HD PRINT / BACK LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BK2" Barcode="7450130207504" Sizes="4"></Colors>
+    <Colors Color="BK2" Barcode="7450130207511" Sizes="6"></Colors>
+    <Colors Color="BK2" Barcode="7450130207528" Sizes="8"></Colors>
+    <Colors Color="BK2" Barcode="7450130207535" Sizes="10"></Colors>
+    <Colors Color="BK2" Barcode="7450130207542" Sizes="12"></Colors>
+    <Colors Color="BK2" Barcode="7450130207559" Sizes="14"></Colors>
+    <Colors Color="BK2" Barcode="7450130207566" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBPTS323202" Producto_reference="NBPTS323202-NV1" Dtll_Color="NV1" Description="NBA HOOPSTORIES T-SHIRT" Description_spanish="CAMISETA MANGA CORTA DE NIÑO NBA HOOPSTORIES" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / 160G" Compesp="160 G CVC 60% ALGOD?N 40% POLYESTER" Price="5" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA PLAYERS" Group="AP" Sub_group="TS" Arancel="KT" Season="232" LOB="SPO" NoSuplidor="" Equipo="" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / BACK LOGO: RUBBER PRINT">
+    <Colors Color="NV1" Barcode="" Sizes="4"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="6"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="8"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="10"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="12"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="14"></Colors>
+    <Colors Color="NV1" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBASH323202" Producto_reference="NBASH323202-BL1" Dtll_Color="BL1" Description="NBA BADGES MADNESS SHORT" Description_spanish="PANTALON CORTO DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER - 150 G HONEY MESH" Compesp="100% POLIESTER - 150 G HONEY MESH" Price="10.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="SH" Arancel="SH" Season="232" LOB="SPO" NoSuplidor="" Equipo="WAR" Gender="03" Logo_specs="POCKET: SUBLIMATED / FRONT LOGO: RUBBER PRINT / SIDE LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BL1" Barcode="7450130212195" Sizes="4"></Colors>
+    <Colors Color="BL1" Barcode="7450130212201" Sizes="6"></Colors>
+    <Colors Color="BL1" Barcode="7450130212218" Sizes="8"></Colors>
+    <Colors Color="BL1" Barcode="7450130212225" Sizes="10"></Colors>
+    <Colors Color="BL1" Barcode="7450130212232" Sizes="12"></Colors>
+    <Colors Color="BL1" Barcode="7450130212249" Sizes="14"></Colors>
+    <Colors Color="BL1" Barcode="7450130212256" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="1" Referencia="NBASH323202" Producto_reference="NBASH323202-BK3" Dtll_Color="BK3" Description="NBA BADGES MADNESS SHORT" Description_spanish="PANTALON CORTO DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER - 150 G HONEY MESH" Compesp="100% POLIESTER - 150 G HONEY MESH" Price="10.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="SH" Arancel="SH" Season="232" LOB="SPO" NoSuplidor="" Equipo="HEA" Gender="03" Logo_specs="POCKET: SUBLIMATED / FRONT LOGO: RUBBER PRINT / SIDE LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BK3" Barcode="" Sizes="4"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="6"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="8"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="10"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="12"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="14"></Colors>
+    <Colors Color="BK3" Barcode="" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBASH323202" Producto_reference="NBASH323202-BK4" Dtll_Color="BK4" Description="NBA BADGES MADNESS SHORT" Description_spanish="PANTALON CORTO DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER - 150 G HONEY MESH" Compesp="100% POLIESTER - 150 G HONEY MESH" Price="10.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="SH" Arancel="SH" Season="232" LOB="SPO" NoSuplidor="" Equipo="LAK" Gender="03" Logo_specs="POCKET: SUBLIMATED / FRONT LOGO: RUBBER PRINT / SIDE LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BK4" Barcode="7450130210511" Sizes="4"></Colors>
+    <Colors Color="BK4" Barcode="7450130210528" Sizes="6"></Colors>
+    <Colors Color="BK4" Barcode="7450130210535" Sizes="8"></Colors>
+    <Colors Color="BK4" Barcode="7450130210542" Sizes="10"></Colors>
+    <Colors Color="BK4" Barcode="7450130210559" Sizes="12"></Colors>
+    <Colors Color="BK4" Barcode="7450130210566" Sizes="14"></Colors>
+    <Colors Color="BK4" Barcode="7450130210573" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBASH323202" Producto_reference="NBASH323202-BK1" Dtll_Color="BK1" Description="NBA BADGES MADNESS SHORT" Description_spanish="PANTALON CORTO DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER - 150 G HONEY MESH" Compesp="100% POLIESTER - 150 G HONEY MESH" Price="10.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="SH" Arancel="SH" Season="232" LOB="SPO" NoSuplidor="" Equipo="BUL" Gender="03" Logo_specs="POCKET: SUBLIMATED / FRONT LOGO: RUBBER PRINT / SIDE LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BK1" Barcode="7450130210443" Sizes="4"></Colors>
+    <Colors Color="BK1" Barcode="7450130210450" Sizes="6"></Colors>
+    <Colors Color="BK1" Barcode="7450130210467" Sizes="8"></Colors>
+    <Colors Color="BK1" Barcode="7450130210474" Sizes="10"></Colors>
+    <Colors Color="BK1" Barcode="7450130210481" Sizes="12"></Colors>
+    <Colors Color="BK1" Barcode="7450130210498" Sizes="14"></Colors>
+    <Colors Color="BK1" Barcode="7450130210504" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBASH323202" Producto_reference="NBASH323202-BK2" Dtll_Color="BK2" Description="NBA BADGES MADNESS SHORT" Description_spanish="PANTALON CORTO DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="100% POLYESTER - 150 G HONEY MESH" Compesp="100% POLIESTER - 150 G HONEY MESH" Price="10.00" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="SH" Arancel="SH" Season="232" LOB="SPO" NoSuplidor="" Equipo="CEL" Gender="03" Logo_specs="POCKET: SUBLIMATED / FRONT LOGO: RUBBER PRINT / SIDE LOGO: RUBBER PRINT / WOVEN FLAG LABEL">
+    <Colors Color="BK2" Barcode="7450130235279" Sizes="4"></Colors>
+    <Colors Color="BK2" Barcode="7450130235286" Sizes="6"></Colors>
+    <Colors Color="BK2" Barcode="7450130235293" Sizes="8"></Colors>
+    <Colors Color="BK2" Barcode="7450130235309" Sizes="10"></Colors>
+    <Colors Color="BK2" Barcode="7450130235316" Sizes="12"></Colors>
+    <Colors Color="BK2" Barcode="7450130235323" Sizes="14"></Colors>
+    <Colors Color="BK2" Barcode="7450130235330" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBAJP323203" Producto_reference="NBAJP323203-BK4" Dtll_Color="BK4" Description="NBA BADGES MADNESS JOGGER PANT" Description_spanish="PANTALON LARGO DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / FRENCH TERRY 300G" Compesp="CVC 60% ALGODON 40% POLIESTER / FRENCH TERRY 300G" Price="10.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="JP" Arancel="PT" Season="232" LOB="SPO" NoSuplidor="" Equipo="LAK" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / POCKETS: SUBLIMATED / WOVEN FLAG LABEL">
+    <Colors Color="BK4" Barcode="7450130213734" Sizes="4"></Colors>
+    <Colors Color="BK4" Barcode="7450130213741" Sizes="6"></Colors>
+    <Colors Color="BK4" Barcode="7450130213758" Sizes="8"></Colors>
+    <Colors Color="BK4" Barcode="7450130213765" Sizes="10"></Colors>
+    <Colors Color="BK4" Barcode="7450130213772" Sizes="12"></Colors>
+    <Colors Color="BK4" Barcode="7450130213789" Sizes="14"></Colors>
+    <Colors Color="BK4" Barcode="7450130213796" Sizes="16"></Colors>
+  </Linea>
+  <Linea Cia="02" Drop="" Referencia="NBAJP323203" Producto_reference="NBAJP323203-BL1" Dtll_Color="BL1" Description="NBA BADGES MADNESS JOGGER PANT" Description_spanish="PANTALON LARGO DE NIÑO NBA BADGES MADNESS" Master_pack="24" Inner_pack="12" Cbms="0.04" Weight="1.74" Composicion="CVC 60% COTTON 40% POLYESTER / FRENCH TERRY 300G" Compesp="CVC 60% ALGODON 40% POLIESTER / FRENCH TERRY 300G" Price="10.50" Unit="PZA" Woven_or_plane="PUNTO" Fob="" Codigo_de_talla="3" Brand="NBA" Group="AP" Sub_group="JP" Arancel="PT" Season="232" LOB="SPO" NoSuplidor="" Equipo="WAR" Gender="03" Logo_specs="FRONT LOGO: RUBBER PRINT / POCKETS: SUBLIMATED / WOVEN FLAG LABEL">
+    <Colors Color="BL1" Barcode="7450130235347" Sizes="4"></Colors>
+    <Colors Color="BL1" Barcode="7450130235354" Sizes="6"></Colors>
+    <Colors Color="BL1" Barcode="7450130235361" Sizes="8"></Colors>
+    <Colors Color="BL1" Barcode="7450130235378" Sizes="10"></Colors>
+    <Colors Color="BL1" Barcode="7450130235385" Sizes="12"></Colors>
+    <Colors Color="BL1" Barcode="7450130235392" Sizes="14"></Colors>
+    <Colors Color="BL1" Barcode="7450130235408" Sizes="16"></Colors>
+  </Linea>
+</Sagemobile>

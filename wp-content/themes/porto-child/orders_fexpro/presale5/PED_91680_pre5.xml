@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="91680" Cliente="0449" Nombre="Rafael Barriga" Fecha="13/12/2021" Tipo="1" Fecha_Entrega="13/12/2021" Direccion="CALLE 99 #11A32 " Direccion2="Colombia  BOGOTÁ " Vendedor="01" AgenteEmbarcador="" Observaciones="PEDIDO LINEA POP FW22&#13;&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Rafael Barriga" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NASSL52201-BLK1" Color="BLK1" Cantidad="9" size_40="36" size_41="54" size_43="72" size_44="36" size_45="18" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="6"></Linea>
+    <Linea Producto="NASSL52202-NVY" Color="NVY" Cantidad="9" size_40="36" size_41="54" size_43="72" size_44="36" size_45="18" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="6"></Linea>
+    <Linea Producto="NASCS52201-BLK" Color="BLK" Cantidad="13" size_40="52" size_41="78" size_43="104" size_44="52" size_45="26" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="5"></Linea>
+  </Encabezado>
+</Sagemobile>

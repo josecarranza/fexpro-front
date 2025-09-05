@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="181076" Cliente="0447" Nombre="Briggitte Cabello" Fecha="16/08/2023" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Avenida Ricardo Palma 141 (alt. Cuadra 54 Av. Arequipa) " Direccion2="Peru Lima Miraflores 15074" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Briggitte Cabello" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASO500001-BLK1" Color="BLK1" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="5"></Linea>
+    <Linea Producto="NBASO500001-WHT1" Color="WHT1" Cantidad="15" size_OS="360" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="5"></Linea>
+    <Linea Producto="MLBSO523208-BK1" Color="BK1" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="5"></Linea>
+    <Linea Producto="MLBSO524101-GY2" Color="GY2" Cantidad="10" size_OS="240" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="5.5"></Linea>
+    <Linea Producto="NBASO524101-WH1" Color="WH1" Cantidad="5" size_S-M="60" size_L-XL="60" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="5"></Linea>
+  </Encabezado>
+</Sagemobile>

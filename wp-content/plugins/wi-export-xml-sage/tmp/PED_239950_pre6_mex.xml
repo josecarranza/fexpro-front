@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="239950" Cliente="0000" Nombre="Frida Garcia" Fecha="10/12/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="BLV Atlixcoyotl 3246 " Direccion2="Mexico Puebla Puebla 72825" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Frida Garcia" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="N19900A8DCLH" Color="CLH" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="387.5"></Linea>
+    <Linea Producto="N19900A7LCLH" Color="CLH" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="387.5"></Linea>
+    <Linea Producto="N19900A9BCLH" Color="CLH" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="387.5"></Linea>
+    <Linea Producto="N19941S7RDCLH" Color="CLH" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="387.5"></Linea>
+    <Linea Producto="N19941S8KCLH" Color="CLH" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="387.5"></Linea>
+    <Linea Producto="N19965N7GCLH" Color="CLH" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="387.5"></Linea>
+    <Linea Producto="N1996DL9BCLH" Color="CLH" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="387.5"></Linea>
+  </Encabezado>
+</Sagemobile>

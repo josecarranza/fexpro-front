@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="137759" Cliente="SEAR" Nombre="Terpsicore Ramirez" Fecha="14/07/2022" Tipo="1" Fecha_Entrega="14/07/2022" Direccion="Norte 45 #1014 Industrial Vallejo" Direccion2="Mexico Ciudad de México Azcapotzalco 02300" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Terpsicore Ramirez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASB321201-BLK" Color="BLK" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="206.37931033333"></Linea>
+    <Linea Producto="NBASB321201-BLK2" Color="BLK2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="206.37931033333"></Linea>
+    <Linea Producto="NBASB321201-BLK3" Color="BLK3" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="206.37931033333"></Linea>
+    <Linea Producto="NBASB321201-BLK6" Color="BLK6" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="206.37931033333"></Linea>
+    <Linea Producto="NBASB321201-RED" Color="RED" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="206.37931033333"></Linea>
+    <Linea Producto="NBASB321201-YEL" Color="YEL" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="206.37931033333"></Linea>
+    <Linea Producto="NBASB321201-PUR" Color="PUR" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="206.37931033333"></Linea>
+    <Linea Producto="NBASB321201-RED2" Color="RED2" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="206.37931033333"></Linea>
+    <Linea Producto="NBASB321201-BLU" Color="BLU" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="206.37931033333"></Linea>
+    <Linea Producto="NBASB321201-GRN" Color="GRN" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="206.37931033333"></Linea>
+    <Linea Producto="NBASB321201-BLK4" Color="BLK4" Cantidad="1" size_OS="24" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="206.37931033333"></Linea>
+  </Encabezado>
+</Sagemobile>

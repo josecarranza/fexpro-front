@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="52613" Cliente="0463" Nombre="LAURA ELENA PEREZ DE LEON ESPINOSA" Fecha="29/07/2021" Tipo="1" Fecha_Entrega="29/07/2021" Direccion="mario pani 200 corporativo liverpool" Direccion2="Mexico Ciudad de México CDMX 05348" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="LAURA ELENA PEREZ DE LEON ESPINOSA" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NASPJ52202BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="340.45"></Linea>
+    <Linea Producto="SOPPJ52202NVY" Color="NVY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="340.45"></Linea>
+    <Linea Producto="BBHPJ52202GRY" Color="GRY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="340.45"></Linea>
+    <Linea Producto="PWPJ52202NVY" Color="NVY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="340.45"></Linea>
+    <Linea Producto="PCPJ52202BLU" Color="BLU" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="340.45"></Linea>
+    <Linea Producto="BABSO52201BLK" Color="BLK" Cantidad="14" size_OS="336" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="109.45"></Linea>
+    <Linea Producto="BABSO52202BLK" Color="BLK" Cantidad="14" size_OS="336" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="92.95"></Linea>
+    <Linea Producto="FTSO52201NVY" Color="NVY" Cantidad="14" size_OS="336" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="109.45"></Linea>
+    <Linea Producto="PCSO52201BLK" Color="BLK" Cantidad="14" size_OS="336" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="109.45"></Linea>
+    <Linea Producto="PCSO52202NVY" Color="NVY" Cantidad="14" size_OS="336" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="92.95"></Linea>
+    <Linea Producto="PWSO52201BLK" Color="BLK" Cantidad="14" size_OS="336" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="109.45"></Linea>
+    <Linea Producto="SOUSO52201BLU" Color="BLU" Cantidad="14" size_OS="336" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="109.45"></Linea>
+    <Linea Producto="SPRSO52202GRN" Color="GRN" Cantidad="14" size_OS="336" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="92.95"></Linea>
+    <Linea Producto="STFSO52201BLK" Color="BLK" Cantidad="14" size_OS="336" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="109.45"></Linea>
+    <Linea Producto="SOUSO52202NVY" Color="NVY" Cantidad="14" size_OS="336" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="92.95"></Linea>
+    <Linea Producto="BABBX52201NVY" Color="NVY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="230.45"></Linea>
+    <Linea Producto="NASBX52201BLU" Color="BLU" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="230.45"></Linea>
+    <Linea Producto="PWBX52201BLK" Color="BLK" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="230.45"></Linea>
+    <Linea Producto="SOUBX52201NVY" Color="NVY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="230.45"></Linea>
+    <Linea Producto="STFBX52201GRY" Color="GRY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="230.45"></Linea>
+    <Linea Producto="PCBX52201NVY" Color="NVY" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="230.45"></Linea>
+  </Encabezado>
+</Sagemobile>

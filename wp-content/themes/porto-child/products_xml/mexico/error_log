@@ -1,0 +1,7 @@
+[21-May-2021 17:16:20 UTC] PHP Warning:  include(../../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/wp-content/themes/porto-child/products_xml/mexico/all_products.php on line 6
+[21-May-2021 17:16:20 UTC] PHP Warning:  include(../../../../wp-load.php): failed to open stream: No such file or directory in /home/fexpro/public_html/shop/wp-content/themes/porto-child/products_xml/mexico/all_products.php on line 6
+[21-May-2021 17:16:20 UTC] PHP Warning:  include(): Failed opening '../../../../wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fexpro/public_html/shop/wp-content/themes/porto-child/products_xml/mexico/all_products.php on line 6
+[21-May-2021 17:16:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_posts() in /home/fexpro/public_html/shop/wp-content/themes/porto-child/products_xml/mexico/all_products.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/fexpro/public_html/shop/wp-content/themes/porto-child/products_xml/mexico/all_products.php on line 15

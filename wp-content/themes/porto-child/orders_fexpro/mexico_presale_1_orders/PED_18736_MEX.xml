@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="18736" Cliente="0463" Nombre="Valeria Castillo" Fecha="24/03/2021" Tipo="1" Fecha_Entrega="24/03/2021" Direccion="HUMBERTO LOBO 540 A COL DEL VALLE " Direccion2="Mexico Nuevo León SAN PEDRO 66220" Vendedor="01" AgenteEmbarcador="" Observaciones="El precio del tshirt navy de Yankees esta en dolares. Hay que arreglarlo pero esta blockeado el campo" ResponsablePedido="" ResponsableImportacion="" Contacto="Valeria Castillo" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBHD321124NVY" Color="NVY" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="399.5"></Linea>
+    <Linea Producto="MLBJS320220WHT" Color="WHT" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="399.5"></Linea>
+    <Linea Producto="MLBTS320201BLU" Color="BLU" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="149.5"></Linea>
+    <Linea Producto="MLBTS320206NVY2" Color="NVY2" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="149.5"></Linea>
+    <Linea Producto="MLBTS320200NVY" Color="NVY" Cantidad="1" size_4="2" size_6="4" size_8="4" size_10="4" size_12="4" size_14="4" size_16="2" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="2"></Linea>
+  </Encabezado>
+</Sagemobile>

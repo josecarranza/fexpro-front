@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="138209" Cliente="GARDEA" Nombre="Rubi Mendoza" Fecha="02/08/2022" Tipo="1" Fecha_Entrega="02/08/2022" Direccion="CALLE LIBERTAD 1205. COL. CENTRO " Direccion2="Mexico Chihuahua CHIHUAHUA 31000" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Rubi Mendoza" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASB321201-RED" Color="RED" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="189.1810345"></Linea>
+    <Linea Producto="NBASB321201-BLK4" Color="BLK4" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="189.1810345"></Linea>
+    <Linea Producto="NBASB321204-BLK" Color="BLK" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="189.1810345"></Linea>
+    <Linea Producto="NBASB321204-BLK3" Color="BLK3" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="189.1810345"></Linea>
+    <Linea Producto="NBASB321204-BLK4" Color="BLK4" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="189.1810345"></Linea>
+    <Linea Producto="NBASB321204-BLU" Color="BLU" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="189.1810345"></Linea>
+    <Linea Producto="NBASB321201-BLK" Color="BLK" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="189.1810345"></Linea>
+    <Linea Producto="NBASB321201-BLK2" Color="BLK2" Cantidad="6" size_OS="144" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="189.1810345"></Linea>
+    <Linea Producto="NBASB321201-BLU" Color="BLU" Cantidad="4" size_OS="96" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="189.1810345"></Linea>
+    <Linea Producto="NBAJS523101-BLK" Color="BLK" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="402.54310345833"></Linea>
+    <Linea Producto="NBAJS523101-BLK1" Color="BLK1" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="402.54310345833"></Linea>
+    <Linea Producto="NBAJS523101-GRN" Color="GRN" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="402.54310345833"></Linea>
+    <Linea Producto="NBAJS523101-NVY" Color="NVY" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="402.54310345833"></Linea>
+    <Linea Producto="NBAJS523102-BLK" Color="BLK" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="426.25"></Linea>
+    <Linea Producto="NBAJS523102-RED" Color="RED" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="426.25"></Linea>
+    <Linea Producto="NBAJS523103-BLK" Color="BLK" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="426.25"></Linea>
+    <Linea Producto="NBAJS523103-BLK1" Color="BLK1" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="426.25"></Linea>
+  </Encabezado>
+</Sagemobile>

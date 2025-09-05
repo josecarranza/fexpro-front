@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="154895" Cliente="0458" Nombre="Raisa Lefenda" Fecha="06/12/2022" Tipo="1" Direccion="AV. KENNEDY 9001, LOS CONDES PISO 4" Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 7560356" AgenteEmbarcador="" Observaciones="PARIS CHILE - MUJER MLB TIENDA Q3 FW23" ResponsablePedido="" ResponsableImportacion="" Contacto="Raisa Lefenda" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBSW623201-BK1" Color="BK1" Cantidad="45" size_XS="180" size_S="360" size_M="360" size_L="180" Unit_Box_Qty="24" Total_Box_Qty="1080" Precio="12"></Linea>
+    <Linea Producto="MLBSW623202-RD1" Color="RD1" Cantidad="45" size_XS="180" size_S="360" size_M="360" size_L="180" Unit_Box_Qty="24" Total_Box_Qty="1080" Precio="12"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="181614" Cliente="0550" Nombre="Claudio Ramello" Fecha="05/09/2023" Tipo="1" Direccion="Av. Sta. Clara 207, " Direccion2="Chile Región Metropolitana de Santiago Santiago 8581125" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Claudio Ramello" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBSO500009-WH1" Color="WH1" Cantidad="125" size_OS="3000" Unit_Box_Qty="24" Total_Box_Qty="3000" Precio="3.8"></Linea>
+    <Linea Producto="MLBSO500010-WH1" Color="WH1" Cantidad="125" size_OS="3000" Unit_Box_Qty="24" Total_Box_Qty="3000" Precio="3"></Linea>
+    <Linea Producto="NBASO500007-BK1" Color="BK1" Cantidad="125" size_OS="3000" Unit_Box_Qty="24" Total_Box_Qty="3000" Precio="3.8"></Linea>
+    <Linea Producto="NBASD500008-BK1" Color="BK1" Cantidad="125" size_OS="3000" Unit_Box_Qty="24" Total_Box_Qty="3000" Precio="3"></Linea>
+  </Encabezado>
+</Sagemobile>

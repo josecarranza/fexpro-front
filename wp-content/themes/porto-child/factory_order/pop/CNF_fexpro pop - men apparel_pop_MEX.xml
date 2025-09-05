@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sage>
+  <Confirmacion Cia="08" NoConfirm="Fexpro POP - MEN Apparel" Fecha="30/09/2021" Suplidor="135" Temporada="212" FechaEntrega="30/09/2021" FechaEmbarque="05/10/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021">
+    <Linea Producto="ACTS52101BLK2" Color="BLK2" size_S="20" size_M="40" size_L="40" size_XL="20" Total_Box_Qty="120" Costo="2.75" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="ACTS52106BLK2" Color="BLK2" size_S="8" size_M="16" size_L="16" size_XL="8" Total_Box_Qty="48" Costo="2.75" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="ACTS52106WHT" Color="WHT" size_S="8" size_M="16" size_L="16" size_XL="8" Total_Box_Qty="48" Costo="2.75" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="ACTS52110BLK" Color="BLK" size_S="20" size_M="40" size_L="40" size_XL="20" Total_Box_Qty="120" Costo="2.75" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCTS52103RED" Color="RED" size_S="20" size_M="40" size_L="40" size_XL="20" Total_Box_Qty="120" Costo="2.75" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCTS52109NVY" Color="NVY" size_S="20" size_M="40" size_L="40" size_XL="20" Total_Box_Qty="120" Costo="2.75" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCTS52110GRY" Color="GRY" size_S="20" size_M="40" size_L="40" size_XL="20" Total_Box_Qty="120" Costo="2.75" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCSW52101BLK" Color="BLK" size_S="20" size_M="40" size_L="40" size_XL="20" Total_Box_Qty="120" Costo="6.25" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="COCHD52110NVY" Color="NVY" size_S="20" size_M="40" size_L="40" size_XL="20" Total_Box_Qty="120" Costo="6.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="GYTS52105BLK" Color="BLK" size_S="20" size_M="40" size_L="40" size_XL="20" Total_Box_Qty="120" Costo="2.75" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="GYLS52104BLK" Color="BLK" size_S="20" size_M="40" size_L="40" size_XL="20" Total_Box_Qty="120" Costo="4.50" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="KITS52105BLK2" Color="BLK2" size_XS="20" size_S="40" size_M="40" size_L="20" Total_Box_Qty="120" Costo="3" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="KITS52105BLK3" Color="BLK3" size_XS="20" size_S="40" size_M="40" size_L="20" Total_Box_Qty="120" Costo="2.80" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="KISW52101BLK" Color="BLK" size_XS="28" size_S="56" size_M="56" size_L="28" Total_Box_Qty="168" Costo="6.25" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NASTS52101WHT" Color="WHT" size_S="44" size_M="88" size_L="88" size_XL="44" Total_Box_Qty="264" Costo="3" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NASTS52101BLK" Color="BLK" size_S="8" size_M="16" size_L="16" size_XL="8" Total_Box_Qty="48" Costo="3" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NASTS52102BLU" Color="BLU" size_S="36" size_M="72" size_L="72" size_XL="36" Total_Box_Qty="216" Costo="3" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NASTS52103ORG" Color="ORG" size_S="20" size_M="40" size_L="40" size_XL="20" Total_Box_Qty="120" Costo="2.75" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NASTS52104NVY" Color="NVY" size_S="40" size_M="80" size_L="80" size_XL="40" Total_Box_Qty="240" Costo="2.85" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NASSW52103BLU" Color="BLU" size_S="20" size_M="40" size_L="40" size_XL="20" Total_Box_Qty="120" Costo="6.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NASSW52103GRY" Color="GRY" size_S="40" size_M="80" size_L="80" size_XL="40" Total_Box_Qty="240" Costo="6.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NASHD52104GRY" Color="GRY" size_S="28" size_M="56" size_L="56" size_XL="28" Total_Box_Qty="168" Costo="7.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NASHD52104BLK" Color="BLK" size_S="64" size_M="128" size_L="128" size_XL="64" Total_Box_Qty="384" Costo="7.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NASPT52105GRY" Color="GRY" size_S="20" size_M="40" size_L="40" size_XL="20" Total_Box_Qty="120" Costo="6.50" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NASPT52104BLK" Color="BLK" size_S="56" size_M="112" size_L="112" size_XL="56" Total_Box_Qty="336" Costo="6.50" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NIRTS52102BLK2" Color="BLK2" size_S="20" size_M="40" size_L="40" size_XL="20" Total_Box_Qty="120" Costo="2.75" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NIRTS52103NVY" Color="NVY" size_S="8" size_M="16" size_L="16" size_XL="8" Total_Box_Qty="48" Costo="2.75" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NIRSW52102BLK" Color="BLK" size_S="28" size_M="56" size_L="56" size_XL="28" Total_Box_Qty="168" Costo="5.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="NIRHD52102BLK" Color="BLK" size_S="28" size_M="56" size_L="56" size_XL="28" Total_Box_Qty="168" Costo="7.25" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SOPTS52101BLK" Color="BLK" size_S="8" size_M="16" size_L="16" size_XL="8" Total_Box_Qty="48" Costo="2.75" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SOPTS52102GRY" Color="GRY" size_S="8" size_M="16" size_L="16" size_XL="8" Total_Box_Qty="48" Costo="2.75" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SOPTS52104BLK" Color="BLK" size_S="8" size_M="16" size_L="16" size_XL="8" Total_Box_Qty="48" Costo="2.75" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SOPTS52105BLK" Color="BLK" size_S="8" size_M="16" size_L="16" size_XL="8" Total_Box_Qty="48" Costo="2.75" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SOPTS52107NVY" Color="NVY" size_S="8" size_M="16" size_L="16" size_XL="8" Total_Box_Qty="48" Costo="2.75" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SOPTS52107BLK" Color="BLK" size_S="8" size_M="16" size_L="16" size_XL="8" Total_Box_Qty="48" Costo="2.75" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SOPHD52101GRY" Color="GRY" size_S="8" size_M="16" size_L="16" size_XL="8" Total_Box_Qty="48" Costo="6.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+    <Linea Producto="SOPHD52101BLK" Color="BLK" size_S="8" size_M="16" size_L="16" size_XL="8" Total_Box_Qty="48" Costo="6.95" FechaEntrega="30/09/2021" FechaLlegada="30/10/2021" FechaMuestras="30/09/2021"></Linea>
+  </Confirmacion>
+</Sage>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="261894" Cliente="0445" Nombre="David Muñoz" Fecha="19/06/2025" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AVENIDA GALO PLAZA LASSO Y DE LOS CEREZOS # 13205" Direccion2="Ecuador Pichincha QUITO 170144" AgenteEmbarcador="" Observaciones="MARATHON MS ECUADOR - APPAREL MEN NIKE MLB SS26-Q1" ResponsablePedido="" ResponsableImportacion="" Contacto="David Muñoz" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="N199-10A-NK-D31" Color="D31" Cantidad="10" Almacen="" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="13.5"></Linea>
+    <Linea Producto="N199-00A-NK-M3X" Color="M3X" Cantidad="10" Almacen="" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="13.5"></Linea>
+    <Linea Producto="NKGK-06G-NK-M30" Color="M30" Cantidad="10" Almacen="" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="15.5"></Linea>
+    <Linea Producto="N199-62Q-R36-0B5" Color="0B5" Cantidad="10" Almacen="" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="15"></Linea>
+    <Linea Producto="N199-11K-N27-9V0" Color="9V0" Cantidad="10" Almacen="" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="15"></Linea>
+    <Linea Producto="N199-44B-N27-UTY" Color="UTY" Cantidad="10" Almacen="" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="15"></Linea>
+    <Linea Producto="N199-44B-R36-UTY" Color="UTY" Cantidad="10" Almacen="" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="15"></Linea>
+  </Encabezado>
+</Sagemobile>

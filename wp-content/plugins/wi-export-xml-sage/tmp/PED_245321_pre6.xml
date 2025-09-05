@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="245321" Cliente="0566" Nombre="Laura Sandoval" Fecha="25/03/2025" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AUTOPISTA MEDELLIN KM.7-CELTA TRADE PARK BODEGA 67" Direccion2="Colombia Cundinamarca BOGOTÁ D.C 2502" AgenteEmbarcador="" Observaciones="KIKCS COLOMBIA - APPAREL BRANDED MEN M&amp;amp;N FW25 Q4&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Laura Sandoval" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="SSTEDL19049-MNNMTBK" Color="MNNMTBK" Cantidad="8" Almacen="" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="8.5"></Linea>
+    <Linea Producto="SSTEDL19049-MNNMTWH" Color="MNNMTWH" Cantidad="8" Almacen="" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="8.5"></Linea>
+    <Linea Producto="SSTEDL19049-MNNOFWH" Color="MNNOFWH" Cantidad="8" Almacen="" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="8.5"></Linea>
+    <Linea Producto="SSTEDL19049-MNNBROW" Color="MNNBROW" Cantidad="8" Almacen="" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="8.5"></Linea>
+    <Linea Producto="FPHDDL19045-MNNMTBK" Color="MNNMTBK" Cantidad="6" Almacen="" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="20"></Linea>
+    <Linea Producto="FPHDDL19045-MNNBROW" Color="MNNBROW" Cantidad="6" Almacen="" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="20"></Linea>
+    <Linea Producto="SHORDL19048-MNNMTBK" Color="MNNMTBK" Cantidad="6" Almacen="" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="13"></Linea>
+    <Linea Producto="SHORDL19048-MNNOFWH" Color="MNNOFWH" Cantidad="6" Almacen="" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="13"></Linea>
+  </Encabezado>
+</Sagemobile>

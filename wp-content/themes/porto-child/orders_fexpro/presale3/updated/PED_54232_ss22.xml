@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="54232" Cliente="0514" Nombre="Gonzalo Escobar" Fecha="01/08/2021" Tipo="1" Fecha_Entrega="01/08/2021" Direccion="AV LO ESPEJO 01565 " Direccion2="Chile  SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="PIMPS MEN - MLB2 SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="Gonzalo Escobar" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBJP52204-BLU" Color="BLU" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="10"></Linea>
+    <Linea Producto="MLBJP52204-NVY2" Color="NVY2" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="10"></Linea>
+    <Linea Producto="MLBSW52204-NVY2" Color="NVY2" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="10"></Linea>
+    <Linea Producto="MLBSW52204-BLU" Color="BLU" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="10"></Linea>
+    <Linea Producto="MLBTS52201-BLU" Color="BLU" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="6"></Linea>
+    <Linea Producto="MLBTS52201-NVY2" Color="NVY2" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="6"></Linea>
+    <Linea Producto="MLBJK52202-NVY" Color="NVY" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="15"></Linea>
+    <Linea Producto="MLBJK52202-NVY2" Color="NVY2" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="15"></Linea>
+    <Linea Producto="MLBJK52202-BLU" Color="BLU" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="15"></Linea>
+    <Linea Producto="MLBHD52207-BLU" Color="BLU" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="12"></Linea>
+    <Linea Producto="MLBHD52207-NVY" Color="NVY" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="12"></Linea>
+    <Linea Producto="MLBHD52207-NVY2" Color="NVY2" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="12"></Linea>
+    <Linea Producto="MLBJS52201-NVY" Color="NVY" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="12"></Linea>
+    <Linea Producto="MLBJS52201-BLU" Color="BLU" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="12"></Linea>
+    <Linea Producto="MLBJS52201-NVY2" Color="NVY2" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="12"></Linea>
+    <Linea Producto="MLBTS52207-BLK" Color="BLK" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="10"></Linea>
+    <Linea Producto="MLBTS52207-NVY" Color="NVY" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="10"></Linea>
+    <Linea Producto="MLBTS52207-BLU" Color="BLU" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="10"></Linea>
+    <Linea Producto="MLBJP52204-NVY" Color="NVY" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="10"></Linea>
+    <Linea Producto="MLBSW52204-NVY" Color="NVY" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="10"></Linea>
+    <Linea Producto="MLBTS52201-NVY" Color="NVY" Cantidad="19" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="24" Total_Box_Qty="456" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

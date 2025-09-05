@@ -1,0 +1,8 @@
+[08-Jun-2021 05:35:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function createElement() on null in /home/fexpro/public_html/shop/wp-content/themes/porto-child/fexpro_pop_products_xml/all_products.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/fexpro/public_html/shop/wp-content/themes/porto-child/fexpro_pop_products_xml/all_products.php on line 170
+[08-Jun-2021 05:35:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function createElement() on null in /home/fexpro/public_html/shop/wp-content/themes/porto-child/fexpro_pop_products_xml/all_products.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/fexpro/public_html/shop/wp-content/themes/porto-child/fexpro_pop_products_xml/all_products.php on line 170

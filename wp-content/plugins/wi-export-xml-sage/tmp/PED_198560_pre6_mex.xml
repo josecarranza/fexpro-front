@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="198560" Cliente="0016" Nombre="OMAR CELIS" Fecha="19/02/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="RADIATAS 42 BOSQUES DE LAS LOMAS " Direccion2="Mexico Ciudad de México CUAJIMALPA DE MORELOS 05120" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="OMAR CELIS" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBJK500001NV1" Color="NV1" Cantidad="30" size_S="120" size_M="240" size_L="240" size_XL="120" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="999.5"></Linea>
+    <Linea Producto="MLBHD524205NV1" Color="NV1" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="524.5"></Linea>
+    <Linea Producto="MLBHD524202LB1" Color="LB1" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="574.5"></Linea>
+    <Linea Producto="MLBJS524206WH2" Color="WH2" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="449.5"></Linea>
+    <Linea Producto="NBAHD524201BG1" Color="BG1" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="549.5"></Linea>
+    <Linea Producto="NBATS524208WH1" Color="WH1" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="199.5"></Linea>
+    <Linea Producto="NBAHD524201BK1" Color="BK1" Cantidad="28" size_S="112" size_M="224" size_L="224" size_XL="112" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="549.5"></Linea>
+    <Linea Producto="NBATS524215OW1" Color="OW1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="199.5"></Linea>
+    <Linea Producto="NBAHD524201GN1" Color="GN1" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="549.5"></Linea>
+    <Linea Producto="NBATS524203GN1" Color="GN1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="199.5"></Linea>
+    <Linea Producto="MLBHD624203BK1" Color="BK1" Cantidad="18" size_XS="72" size_S="144" size_M="144" size_L="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="449.5"></Linea>
+    <Linea Producto="MLBHD624203NV1" Color="NV1" Cantidad="15" size_XS="60" size_S="120" size_M="120" size_L="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="449.5"></Linea>
+    <Linea Producto="NBAHD324203RD1" Color="RD1" Cantidad="15" size_4="60" size_6="120" size_8="120" size_10="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="424.5"></Linea>
+    <Linea Producto="PSGHD524202NV1" Color="NV1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="549.5"></Linea>
+    <Linea Producto="PSGJS524205NV1" Color="NV1" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="299.5"></Linea>
+    <Linea Producto="CAAHD524203NV1" Color="NV1" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="549.5"></Linea>
+    <Linea Producto="PUMHD524203OW1" Color="OW1" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="549.5"></Linea>
+    <Linea Producto="NBAJK500001BK3" Color="BK3" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="999.5"></Linea>
+    <Linea Producto="NFLJK500003NV2" Color="NV2" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="999.5"></Linea>
+    <Linea Producto="NFLTS521000NVY" Color="NVY" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="199.5"></Linea>
+    <Linea Producto="NFLJK500003RD2" Color="RD2" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="999.5"></Linea>
+    <Linea Producto="NFLHD524102RD1" Color="RD1" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="549.5"></Linea>
+    <Linea Producto="NFLTS524103RD1" Color="RD1" Cantidad="18" size_S="72" size_M="144" size_L="144" size_XL="72" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="199.5"></Linea>
+    <Linea Producto="NFLJS521000RED" Color="RED" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="449.5"></Linea>
+  </Encabezado>
+</Sagemobile>

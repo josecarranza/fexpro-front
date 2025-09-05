@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="197469" Cliente="0550" Nombre="Claudio Ramello" Fecha="08/02/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Av. Sta. Clara 207, " Direccion2="Chile Región Metropolitana de Santiago Santiago 8581125" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Claudio Ramello" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCNTS524214-BK2" Color="BK2" Cantidad="63" size_S="252" size_M="504" size_L="504" size_XL="252" Unit_Box_Qty="24" Total_Box_Qty="1512" Precio="5.5"></Linea>
+    <Linea Producto="BCNTS524214-NV1" Color="NV1" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="5.5"></Linea>
+    <Linea Producto="BCNTS524215-NV1" Color="NV1" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="5.5"></Linea>
+    <Linea Producto="BCNTS524215-BK2" Color="BK2" Cantidad="63" size_S="252" size_M="504" size_L="504" size_XL="252" Unit_Box_Qty="24" Total_Box_Qty="1512" Precio="5.5"></Linea>
+    <Linea Producto="MLSTS524214-BK1" Color="BK1" Cantidad="40" size_S="160" size_M="320" size_L="320" size_XL="160" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="5.5"></Linea>
+    <Linea Producto="MLSTS524214-PK1" Color="PK1" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="5.5"></Linea>
+    <Linea Producto="MLSTS524215-BK1" Color="BK1" Cantidad="40" size_S="160" size_M="320" size_L="320" size_XL="160" Unit_Box_Qty="24" Total_Box_Qty="960" Precio="5.5"></Linea>
+    <Linea Producto="MLSTS524215-PK1" Color="PK1" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="5.5"></Linea>
+    <Linea Producto="MLSTS524215-NV2" Color="NV2" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="5.5"></Linea>
+    <Linea Producto="MLSTS524215-RD1" Color="RD1" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="5.5"></Linea>
+    <Linea Producto="PSGTS524214-BK3" Color="BK3" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="5.5"></Linea>
+    <Linea Producto="PSGTS524214-WH3" Color="WH3" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="5.5"></Linea>
+    <Linea Producto="RMDTS524215-WH1" Color="WH1" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="5.5"></Linea>
+    <Linea Producto="RMDTS524215-BL1" Color="BL1" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="5.5"></Linea>
+  </Encabezado>
+</Sagemobile>

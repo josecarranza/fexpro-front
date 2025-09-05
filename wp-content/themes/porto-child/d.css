@@ -1,0 +1,179 @@
+/*
+Theme Name: Porto Child
+Theme URI: https://www.portotheme.com/wordpress/porto
+Author: P-THEMES
+Author URI: https://www.portotheme.com/
+Description: Porto Responsive WordPress + eCommerce Theme.
+Version: 1.1
+Template: porto
+License: Commercial
+License URI: http://themeforest.net/licenses/regular_extended
+Tags: woocommerce, corporate, ecommerce, responsive, blue, black, green, white, light, dark, red, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+*/
+
+/*@keyframes fadeInAnimation {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+@keyframes fadeOutAnimation {
+   0% {
+      opacity: 0;
+   }
+   100% {
+      opacity: 1;
+   } 
+} */
+
+#myTable .table>tbody>tr>td, 
+#myTable .table>tbody>tr>th, 
+#myTable .table>tfoot>tr>td, 
+#myTable .table>tfoot>tr>th, 
+#myTable .table>thead>tr>td, 
+#myTable .table>thead>tr>th{
+/*	background: #fffbfb;*/
+background: #fff;
+	font-weight: normal;
+	/*border-color: #ececec;*/
+	border-color: #f7f6f6;
+	vertical-align: middle;
+    align-items: center;
+    text-align: center;
+    border: 0;
+}
+#myTable.table>tbody>tr>td{
+	font-weight: bold;
+	border: 0;
+	padding: 0;
+}
+#myTable.table>tbody>tr>td>tbody>tr>td{
+	font-weight: normal;
+}
+#myTable{
+	border: 0;
+} 
+#myTable.table .table>thead > tr > td{
+	background: #362f4b;
+	color: #fff;
+	font-weight: 700;
+  padding: 20px;
+}
+#myTable.table .table>thead > tr:first-child > td:first-child{
+	border-top-left-radius: 5px;
+}
+#myTable.table .table>thead > tr:last-child > td:last-child{
+	border-top-right-radius: 5px;
+}
+#myTable.table span.brandTitle{
+	text-shadow: 1px 1px;
+    font-size: 26px;
+    border: 0;
+    padding: 10px;
+    border-bottom: 0;
+    width: 100%;
+    display: block;
+    color: #b41520;
+    letter-spacing: 3px;
+    position: relative;
+    border-bottom: 1px solid grey;
+    margin-bottom: 0px;
+}
+#myTable.table>tbody>tr>td div{
+  margin-top: 20px;
+}
+#myTable.table span.brandTitle:after{
+	content: "";
+    right: 26px;
+    top: 20px;
+    width: 13px;
+    height: 13px;
+    border: solid #362f4b;
+    border-width: 0 3px 3px 0;
+    position: absolute;
+    color: #f00;
+    transform: rotate( 
+45deg);
+    -webkit-transform: rotate( 
+45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+}
+#myTable.table span.brandTitle.active:after{
+	border-width: 3px 0 0 3px
+}
+#myTable.table table.active{
+	border-color: #000;
+	border: 0;
+}
+#myTable.table table{
+border: 1px solid #f3f3f3;
+border-top-left-radius:5px;
+border-top-right-radius: 5px;
+}
+#myTable.table table tbody tr:nth-child(even) td{
+  background: #f7f6f6;
+}
+#myTable .table>tbody>tr>td img{
+	max-width: 60px;
+    max-height: 60px;
+    width: auto;
+    height: auto;
+}
+#myTable .table>tbody>tr:last-child>td{
+	background: #362f4b !important;
+    color: #fff;
+    font-weight: 700;
+    border: 0;
+    padding: 15px;
+    text-align: right;
+}
+#myTable .table>tbody>tr:last-child{
+  border: 1px solid #362f4b;
+}
+div#chartContainer{
+  margin-top: 50px;
+}
+
+
+span#exportexcel{
+  margin-top: 20px;
+}
+@media (max-width: 768px){
+  #myTable td .table>tbody>tr>td, 
+  #myTable td .table>tbody>tr>th, 
+  #myTable td .table>tfoot>tr>td, 
+  #myTable td .table>tfoot>tr>th, 
+  #myTable td .table>thead>tr>td, 
+  #myTable td .table>thead>tr>th{
+    border-collapse: collapse;
+    width: 100%;
+    display: table;
+  }
+}
+
+
+
+
+
+
+/*@@@@@@@@@@@@     Home page banner style start here     @@@@@@@@@@@@*/
+ul.wpb_image_grid_ul {
+    display: flex;
+    width: 100%;
+    padding: 0;
+}
+.isotope-item{
+    flex: 33%;
+    list-style: none;
+    transform: scale(1.5);
+}
+.c1.vc_column_container.col-md-4,
+.c2.vc_column_container.col-md-4,
+.c3.vc_column_container.col-md-4{
+    min-height: 400px;
+}
+
+/*@@@@@@@@@@@@     Home page banner style End here     @@@@@@@@@@@@*/

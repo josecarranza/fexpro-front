@@ -1,0 +1,590 @@
+.fixed-header #header .header-top {
+    background: #3C3939 !important;
+}
+
+#header .header-top .welcome-msg {
+    background: #3C3939 !important;
+}
+
+#header .header-top .welcome-msg label {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+#header .header-top .welcome-msg label a {
+    text-decoration: underline;
+    margin-left: 15px;
+}
+
+.fixed-header #header .header-main {
+    background: #fff;
+}
+
+.account-menu-container {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 30px;
+}
+
+.account-menu-container .account-profile-img {
+    display: inline-block;
+    width: 41px;
+    height: 41px;
+    border-radius: 22px;
+    background-color: #ccc;
+    background-image: url('./assets/images/default-user.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    cursor: pointer;
+}
+
+.account-menu-container .account-menu-list {
+    position: absolute;
+    right: 0px;
+    top: 50px;
+    background: #fff;
+    box-shadow: 2px 2px 10px #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    text-align: left;
+    min-width: 300px;
+    display: none;
+    z-index: 9;
+}
+
+.account-menu-container .account-menu-list.open {
+    display: inline-block;
+}
+
+.account-menu-container .account-menu-list ul {
+    list-style: none;
+    padding-left: 0px;
+    margin-bottom: 0px;
+}
+
+.account-menu-container .account-menu-list ul li {
+    display: block;
+    border-bottom: 1px solid rgba(60, 57, 57, 0.25)
+}
+
+.account-menu-container .account-menu-list ul li:last-child {
+    border-bottom: none;
+}
+
+.account-menu-container .account-menu-list ul li:hover {
+    background: rgba(119, 166, 254, 0.1);
+}
+
+.account-menu-container .account-menu-list ul li:first-of-type:hover {
+    background: none;
+}
+
+.account-menu-container .account-menu-list ul li label {
+    color: #153559;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 15px;
+    margin-bottom: 0px;
+}
+
+.account-menu-container .account-menu-list ul li a {
+    padding: 15px;
+    display: block;
+    color: #3C3939;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.ico-menu {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: sub;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-right: 10px;
+}
+
+.ico-profile {
+    background-image: url('./assets/images/profile.svg')
+}
+
+.ico-orders {
+    background-image: url('./assets/images/orders.svg')
+}
+
+.ico-address {
+    background-image: url('./assets/images/location.svg')
+}
+
+.ico-logout {
+    background-image: url('./assets/images/share.svg')
+}
+
+#mega-menu-wrap-main_menu #mega-menu-main_menu>li.mega-menu-item>a.mega-menu-link {
+    color: #153559 !important;
+    font-size: 20px!important;
+    font-weight: 700!important;
+}
+
+#mega-menu-wrap-main_menu #mega-menu-main_menu li.mega-menu-item-has-children>a.mega-menu-link>span.mega-indicator:after {
+    display: none;
+}
+
+#mega-menu-wrap-main_menu #mega-menu-main_menu>li.mega-menu-item.menu-quick-easy>a.mega-menu-link {
+    color: #fff !important;
+    font-size: 16px !important;
+    height: auto !important;
+    line-height: 1 !important;
+    background: #BC363F;
+    border-radius: 31px;
+    padding: 8px 30px !important;
+    ;
+}
+
+.header-main .standard-logo {
+    max-height: 43px;
+}
+
+.header-main .ysm-search-widget {
+    position: relative;
+}
+
+.header-main .ysm-search-widget input[type="search"] {
+    background: #FFFFFF;
+    border: 1px solid #153559;
+    border-radius: 31px;
+    color: #000;
+    padding-left: 30px;
+    padding-right: 10px;
+}
+
+.header-main .ysm-search-widget .search-submit {
+    position: absolute;
+    left: 0px;
+}
+
+.header-main .ysm-search-widget .search-submit:before {
+    background-image: url('./assets/images/ico-search.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    content: ''!important;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+}
+
+.header-main .ysm-search-widget .search-submit:hover,
+.header-main .ysm-search-widget .search-submit:active {
+    background-color: transparent;
+}
+
+#mini-cart .cart-icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    background: url('./assets/images/ico-cart.svg') no-repeat center;
+    background-size: contain;
+}
+
+#mini-cart .cart-icon i {
+    display: none;
+}
+
+.header-main .yith-ish {
+    display: inline-block;
+    height: 24px;
+}
+
+.header-main .yith-wcwl-items-count:before {
+    display: inline-block;
+    content: '';
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    background: url('./assets/images/ico-fav.svg') no-repeat center;
+    background-size: contain;
+    top: 4px;
+}
+
+#main-menu {
+    width: 100%;
+}
+
+#main-menu #mega-menu-main_menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#header.sticky-header .header-main,
+.fixed-header #header.sticky-header .header-main {
+    background: #fff !important;
+    box-shadow: 0px 0px 10px #000;
+}
+
+.sticky #mini-cart .cart-items1 {
+    top: -5px;
+    right: -10px;
+}
+
+span.yith-wcwl-items-count span {
+    top: -5px;
+}
+
+#mega-menu-main_menu>li>.mega-sub-menu {
+    left: 0px !important;
+    width: 100% !important;
+    display: none !important;
+    flex-wrap: wrap;
+    justify-content: space-around !important;
+    background: #fff!important;
+    box-shadow: 4px 4px 6px 6px rgba(136, 151, 180, 0.1) !important;
+    top: 85px !important;
+}
+
+#mega-menu-main_menu>li.mega-toggle-on>.mega-sub-menu {
+    display: flex !important;
+}
+
+#mega-menu-main_menu>li>.mega-sub-menu>li {
+    flex: 1 0 0;
+    padding: 30px 30px!important;
+    max-width: 300px !important;
+}
+
+#mega-menu-main_menu>li>.mega-sub-menu>li>a {
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    line-height: 19px!important;
+    color: #153559!important;
+    background: #fff!important;
+}
+
+#mega-menu-main_menu>li>.mega-sub-menu>li>a>span {
+    display: none !important;
+}
+
+#mega-menu-main_menu>li>.mega-sub-menu>li>ul.mega-sub-menu {
+    position: relative !important;
+    display: block!important;
+    opacity: 1 !important;
+    left: 0px !important;
+    visibility: visible !important;
+}
+
+#mega-menu-main_menu>li>.mega-sub-menu>li>ul.mega-sub-menu>li>a {
+    color: #153559 !important;
+    font-size: 14px !important;
+    background: #fff!important;
+}
+
+.fixed-header #header.sticky-header .header-main #mega-menu-main_menu>li>.mega-sub-menu {
+    top: 62px !important;
+}
+
+#mega-menu-main_menu>li.submenu-width-auto>.mega-sub-menu {
+    left: auto !important;
+    width: auto !important;
+    display: flex !important;
+    flex-wrap: wrap;
+    justify-content: space-around !important;
+    background: #fff!important;
+    box-shadow: 4px 4px 6px 6px rgba(136, 151, 180, 0.1) !important;
+    top: 85px !important;
+    border-radius: 15px !important;
+}
+
+.woocommerce-account .woocommerce-MyAccount-content {
+    width: 100%;
+}
+
+.title-blue {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    letter-spacing: -0.02em;
+    font-family: 'Montserrat';
+    /* PRIMARIO - AZUL */
+    color: #153559;
+}
+
+.woocommerce-EditAccountForm.edit-account .form-row label {
+    color: #3C3939;
+}
+
+.woocommerce-EditAccountForm.edit-account input {
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+.woocommerce-EditAccountForm.edit-account input:focus {
+    border: 1px solid #bbb;
+}
+
+.panel-account-password .title-pass {
+    font-weight: 600;
+    font-size: 16px;
+    text-decoration-line: underline;
+    color: #3C3939;
+    display: inline-block;
+    position: relative;
+}
+
+.ico-security {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    vertical-align: middle;
+    background: url('./assets/images/ico-security.svg') no-repeat center;
+    background-size: contain;
+    position: absolute;
+    right: -20px;
+    top: 2px;
+}
+
+.btn-fexpro-red {
+    background: #BC363F;
+    border-radius: 31px;
+    color: #fff;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    border: none;
+    padding: 8px 40px;
+}
+
+.woocommerce-edit-account .woocommerce-notices-wrapper {
+    width: 50%;
+}
+
+.woocommerce-message {
+    background: #FFFFFF;
+    box-shadow: 2px 2px 8px 3px rgba(136, 151, 180, 0.1);
+    border-left: 4px solid #5BD083;
+    padding: 15px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #5BD083;
+}
+
+.woocommerce-message:before {
+    content: '';
+    background: url('./assets/images/ico-ok.svg') no-repeat center;
+    background-size: contain;
+    width: 20px;
+    height: 20px;
+    vertical-align: sub;
+    display: inline-block;
+}
+
+.page-top {
+    background: #fff;
+    border-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.page-top ul.breadcrumb>li a span {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    color: rgb(60, 57, 57, 0.35) !important;
+}
+
+div#footer {
+    background: #EEEEEE !important;
+}
+
+.account-orden-list {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.account-orden-list .account-orden-list-item {
+    padding: 20px 30px;
+    border-bottom: 1px solid rgba(60, 57, 57, 0.5);
+    position: relative;
+}
+
+.account-orden-list .account-orden-list-item:hover {
+    background: rgba(119, 166, 254, 0.1);
+}
+
+.account-orden-list .account-orden-list-item:before {
+    content: '';
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    border-radius: 3px;
+    background: #5BD083;
+    position: absolute;
+    left: 15px;
+    top: 27px
+}
+
+.account-orden-list .account-orden-list-item .account-orden-list-order-name {
+    display: block;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 140%;
+    color: #3C3939;
+}
+
+.account-orden-list .account-orden-list-item:hover .account-orden-list-order-name {
+    color: #5D8ADD;
+}
+
+.account-orden-list .account-orden-list-item .account-orden-list-date {
+    display: block;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 140%;
+    color: #3C3939;
+}
+
+.account-orden-list .account-orden-list-item .account-orden-list-view-more {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 140%;
+    text-decoration-line: underline;
+    color: #3C3939;
+}
+
+#footer {
+    text-transform: none !important;
+}
+
+#footer .footer-bottom {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 140%;
+    color: #153559 !important;
+    padding: 50px 0px;
+}
+
+#footer .ico {
+    margin-right: 15px;
+}
+
+.ico-mail {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    vertical-align: middle;
+    background: url('./assets/images/ico-email.svg') no-repeat center;
+    background-position: center;
+    background-size: contain;
+    margin-right: 15px;
+}
+
+.ico-phone {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    vertical-align: middle;
+    background: url('./assets/images/ico-phone.svg') no-repeat center;
+    background-position: center;
+    background-size: contain;
+}
+
+.ico-pin {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    vertical-align: middle;
+    background: url('./assets/images/ico-pin.svg') no-repeat center;
+    background-position: center;
+    background-size: contain;
+}
+
+.label-red {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: -0.01em;
+    color: #BC363F;
+}
+
+.copyright-text {
+    font-style: normal;
+    font-weight: 700!important;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #153559 !important;
+}
+
+.address-panel {
+    width: 75%;
+    box-shadow: 2px 2px 8px 3px rgba(136, 151, 180, 0.1);
+    background: #fff;
+    margin-bottom: 30px;
+}
+
+.address-panel .address-panel-header {
+    background: #fff;
+    padding: 15px;
+    position: relative;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #153559;
+    cursor: pointer;
+}
+
+.address-panel.open .address-panel-header {
+    background: #153559;
+    color: #fff;
+}
+
+.address-panel .address-panel-body {
+    padding: 30px 50px;
+    display: none;
+}
+
+.address-panel.open .address-panel-body {
+    display: block;
+}
+
+.woocommerce-address-fields .form-row label {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 140%;
+    color: #3C3939 !important;
+}
+
+.woocommerce-address-fields .form-row input,
+.woocommerce-address-fields .form-row select {
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+.woocommerce-address-fields .form-row .select2-selection {
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px;
+    height: 38px !important;
+}
+
+.woocommerce-edit-address .cus_menu {
+    display: none;
+}

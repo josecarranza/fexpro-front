@@ -1,0 +1,262 @@
+body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    background: #f0f0f1;
+}
+ 
+.csp-tab-header {
+    font-weight: bold;
+    font-size: 19px !important;
+    color: rgba(35, 40, 45, 0.79);
+    margin: 1em 0;
+}
+
+.csp-import-header-options {
+    font-size: 13px;
+    font-weight: bold;
+    color: #3c434a;
+}
+
+.csp-import-header-options > a {
+    color: #2271b1;
+}
+
+
+div.import-box-container {
+    border:2px solid #2271b1a6 !important;
+}
+
+#csp-start-import{
+    background-color: #2271b1;
+    border-color: #2271b1;
+}
+
+span.dashicons {
+    color: #2271b1;
+    font-size: 24px;
+}
+
+
+/* Styles for the toast notification on import page */
+div#csp-import-live-toast {
+    border-radius: 6px;
+}
+
+div.csp-import-live-toast-wrapper {
+    z-index: 5;
+    right: 5px; 
+    top: 100px;
+    width: 320px;
+}
+
+.csp-import-toast-header {
+    color: #676767;
+    background-color: #f7f7f7;
+}
+
+.csp-import-toast-header-image {
+    max-width: 20px;
+    height: auto;
+}
+
+
+/* Progress bar styling */
+
+
+.wdmcsp-progress-status-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 0fr 6fr 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    }
+.space-top { grid-area: 1 / 1 / 2 / 2;}
+.import-status { grid-area: 2 / 1 / 3 / 2;}
+.space-bottom { grid-area: 3 / 1 / 4 / 2;}
+
+.progress {
+height: 40px !important;
+}
+
+#percent-progress {
+line-height: 40px;
+font-size: 16px;
+}
+
+.status-details {
+font-size: 16px;
+}
+
+.csp-download-report {
+border-radius: 3px;
+}
+
+div.import-status > .row {
+    padding-top: 3%;
+}
+
+#import-progress-bar, button.csp-download-report{
+    background-color: #2271b1;
+}
+
+button.csp-download-report:hover, button.csp-download-report:focus {
+    color: #fff;
+    background-color: #2172b2;
+    border-color: #0062cc;
+}
+
+.file-types-and-samples {
+    background-color: #f4f4f4;
+    padding: 12px;
+    border-radius: 5px;
+}
+
+
+/* Scheduled Imports Page*/
+* { scroll-behavior: smooth !important;}
+
+#csp-schedule-list-container {
+    max-height: 400px;
+    background-color: #dfdfdf;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    overflow-y: hidden;
+}
+
+.schedule-rule-panels{
+    max-height: 300px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.csp-schedule-panel {
+    margin: 12px 5px 12px 0px;
+    padding: 10px;
+    border: 2px solid #bbb9b98f;
+    border-radius: 2px;
+    background-color: #f0f0f1;
+}
+
+.csp-schedule-panel-heading > a {
+    color: unset;
+    font-weight: bold;
+}
+
+.csp-schedule-panel-heading > a:hover {
+    text-decoration: none;
+}
+
+.csp-schedule-panel-body {
+    font-size: 14px;
+}
+
+
+#schedule-form-container > div.title-row {
+    margin-top: 20px;
+}
+
+#schedule-form-container > .row {
+    margin: 10px 5px 10px 5px;
+}
+
+#schedule-form-container input {
+    max-width: -webkit-fill-available;
+}
+
+.col-12.text-center.file-connection-type-selector > label {
+    margin-right: 12px;
+}
+
+#schedule-form-container > .row-buttons {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#csp-schedule-import {
+    background-color: #2271b1;
+    border-color: #2271b1;
+}
+
+#csp-schedule-import:focus, #csp-schedule-import:hover {
+    background-color: #2271b1;
+    border-color: #2271b1;
+}
+
+input.invalid-data-indicator{
+    border: 2px solid;
+    border-color: #ff0000;
+    animation: error-indicator 3s infinite;
+}
+
+@keyframes error-indicator {
+    0%   {border-color: #ff0000;}
+    50%  {border-color: #ff6060;}
+    100% {border-color: #ff0000;}
+  }
+
+
+#import-instructions-modal-title {
+    line-height: 1;
+}
+
+.container-existing-schedules {
+    margin:5px;
+}
+
+.connection-radio-label {
+    margin-right: 10px;
+}
+
+.panel.panel-default.csp-schedule-panel {
+    margin-right: 5px;
+}
+
+span.dashicons.schedule-import-dashicons {
+    font-size: 24px;
+}
+
+.panel-collapse > .row > .expand-collapse-icon > span.dashicons::before {
+    content: "\f140";
+    color: #000000;
+    font-size: 30px;
+}
+
+.panel-collapse[aria-expanded="true"] > .row > .expand-collapse-icon > span.dashicons::before{
+    content: "\f142";
+    color: #676767;
+    font-size: 30px;
+  }
+
+.panel-collapse > .row > .delete-schedule-icon > span.dashicons::before {
+    content: "\f182";
+}
+
+.panel-collapse[aria-expanded="true"] > .row > .delete-schedule-icon > span.dashicons::before{
+    content: "\f182";
+  }
+
+.csp-schedule-panel-body {
+    padding: 10px;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+    background: transparent;
+    bottom: 0;
+    color: transparent;
+    cursor: pointer;
+    height: auto;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: auto;
+}
+
+#ftp-port{
+    max-width: 100%;
+}
+
+.sftp-disabled {
+    color: #676767 !important;
+    cursor:not-allowed !important;
+}

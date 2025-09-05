@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="216884" Cliente="SURTIDOR" Nombre="Juan Lopez" Fecha="25/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AVENIDA IMPERIO SUR 49 COLONIA LA EXPERIENCIA" Direccion2="Mexico Jalisco ZAPOPAN 45198" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Juan Lopez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="CO2300CJKBUCT" Color="UCT" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1327.112069"></Linea>
+    <Linea Producto="CO23009SN27UCT" Color="UCT" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1327.112069"></Linea>
+    <Linea Producto="CO23NMC1NMTUCT" Color="UCT" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1327.112069"></Linea>
+    <Linea Producto="T7GMLDA2LDG23" Color="G23" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1232.28448275"></Linea>
+    <Linea Producto="T7GMLDHOLDG23" Color="G23" Cantidad="6" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="1232.28448275"></Linea>
+    <Linea Producto="T7GMNKHONKG23" Color="G23" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="1232.28448275"></Linea>
+    <Linea Producto="T7GMNKA2NKG23" Color="G23" Cantidad="7" size_S="14" size_M="28" size_L="28" size_XL="14" Unit_Box_Qty="12" Total_Box_Qty="84" Precio="1232.28448275"></Linea>
+    <Linea Producto="T7GWNKA2NKG23" Color="G23" Cantidad="3" size_XS="6" size_S="12" size_M="12" size_L="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1232.28448275"></Linea>
+    <Linea Producto="01B34EWLDY8P" Color="Y8P" Cantidad="6" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="426.25"></Linea>
+    <Linea Producto="01B344BNKY8P" Color="Y8P" Cantidad="6" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="426.25"></Linea>
+    <Linea Producto="01D4007PEJG64" Color="G64" Cantidad="10" size_XS="20" size_S="40" size_M="40" size_L="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="378.83620691667"></Linea>
+    <Linea Producto="01D4006PTORG64" Color="G64" Cantidad="10" size_XS="20" size_S="40" size_M="40" size_L="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="378.83620691667"></Linea>
+    <Linea Producto="01D7912ZLDH3K" Color="H3K" Cantidad="3" size_XS="6" size_S="12" size_M="12" size_L="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="852.97413791667"></Linea>
+    <Linea Producto="01D7CY51NKH3K" Color="H3K" Cantidad="3" size_XS="6" size_S="12" size_M="12" size_L="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="852.97413791667"></Linea>
+    <Linea Producto="02JW012NN27JWQ" Color="JWQ" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1090.0431034167"></Linea>
+    <Linea Producto="02JW153NKBJWQ" Color="JWQ" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1090.0431034167"></Linea>
+    <Linea Producto="N19900ALD0U5" Color="0U5" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="378.83620691667"></Linea>
+    <Linea Producto="N19910ALD0U5" Color="0U5" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="378.83620691667"></Linea>
+    <Linea Producto="N19910ANK0U5" Color="0U5" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="378.83620691667"></Linea>
+    <Linea Producto="N19944BNK0U5" Color="0U5" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="378.83620691667"></Linea>
+    <Linea Producto="N1994EWLD0U5" Color="0U5" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="378.83620691667"></Linea>
+    <Linea Producto="N19900ALD9UX" Color="9UX" Cantidad="6" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="426.25"></Linea>
+    <Linea Producto="N19910ANK9UX" Color="9UX" Cantidad="6" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="426.25"></Linea>
+    <Linea Producto="N1994EWKBCUE" Color="CUE" Cantidad="6" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="426.25"></Linea>
+    <Linea Producto="N1994EWM89CUE" Color="CUE" Cantidad="2" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="426.25"></Linea>
+    <Linea Producto="N19944BN27CUE" Color="CUE" Cantidad="6" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="426.25"></Linea>
+    <Linea Producto="N19900ALDPA7" Color="PA7" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="378.83620691667"></Linea>
+    <Linea Producto="N19910ANKPA7" Color="PA7" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="378.83620691667"></Linea>
+    <Linea Producto="NKAC4EWKBF4H" Color="F4H" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="615.90517241667"></Linea>
+    <Linea Producto="NKAC44BN27F4H" Color="F4H" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="615.90517241667"></Linea>
+    <Linea Producto="NKGT06GLD3N2" Color="3N2" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="568.49137933333"></Linea>
+    <Linea Producto="NKGT06GNK3N2" Color="3N2" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="568.49137933333"></Linea>
+    <Linea Producto="T7GWLDA2LDG23" Color="G23" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1232.28448275"></Linea>
+  </Encabezado>
+</Sagemobile>

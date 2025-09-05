@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="239334" Cliente="0000" Nombre="Frida Garcia" Fecha="27/11/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="BLV Atlixcoyotl 3246 " Direccion2="Mexico Puebla Puebla 72825" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Frida Garcia" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCJS52203BLU" Color="BLU" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="279.74137929167"></Linea>
+    <Linea Producto="BCNJK500001NV1" Color="NV1" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="322.84482758333"></Linea>
+    <Linea Producto="BCHD523103NVY" Color="NVY" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="473.70689654167"></Linea>
+    <Linea Producto="MLBTS520200BLK" Color="BLK" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="193.53448275"></Linea>
+    <Linea Producto="MLBTS520201BLU" Color="BLU" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="193.53448275"></Linea>
+    <Linea Producto="MLBJT520220BLU" Color="BLU" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="301.29310345833"></Linea>
+    <Linea Producto="MLBJS520220WHT" Color="WHT" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="387.5"></Linea>
+    <Linea Producto="MLBJS520220BK3" Color="BK3" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="387.5"></Linea>
+    <Linea Producto="MLBHD52001NVY" Color="NVY" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="473.70689654167"></Linea>
+    <Linea Producto="MLBHD52001BLU" Color="BLU" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="473.70689654167"></Linea>
+    <Linea Producto="NBAJS552201BLK3" Color="BLK3" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="279.74137929167"></Linea>
+    <Linea Producto="NBASH521820BLK" Color="BLK" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="365.948275875"></Linea>
+    <Linea Producto="NBAHD521001BLK" Color="BLK" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="473.70689654167"></Linea>
+    <Linea Producto="NBAHD521001RED" Color="RED" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="473.70689654167"></Linea>
+    <Linea Producto="NBAHD521001BLK2" Color="BLK2" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="473.70689654167"></Linea>
+    <Linea Producto="CAAJS525201YL1" Color="YL1" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="301.29310345833"></Linea>
+    <Linea Producto="CAAHD525202NV1" Color="NV1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="516.81034483333"></Linea>
+    <Linea Producto="CAAJK525201NV1" Color="NV1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="559.91379308333"></Linea>
+    <Linea Producto="NFLTS521000BLK" Color="BLK" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="193.53448275"></Linea>
+    <Linea Producto="NFLTS521000RED" Color="RED" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="193.53448275"></Linea>
+    <Linea Producto="NFLJS521000BLK3" Color="BLK3" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="430.60344829167"></Linea>
+    <Linea Producto="NFLJS521000RED2" Color="RED2" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="430.60344829167"></Linea>
+    <Linea Producto="NFLHD52206BLK2" Color="BLK2" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="473.70689654167"></Linea>
+    <Linea Producto="NFPJS500001RD2" Color="RD2" Cantidad="1" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="24" Total_Box_Qty="24" Precio="559.91379308333"></Linea>
+  </Encabezado>
+</Sagemobile>

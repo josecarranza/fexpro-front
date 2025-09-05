@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="262037" Cliente="COPPEL" Nombre="Ariana Ruiz" Fecha="01/07/2025" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="C. REPUBLICA 2855 PTE COL.REC.HIDRAULICOS," Direccion2="Mexico Sinaloa CULIACAN 80105" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Ariana Ruiz" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="RP260IQALDPV6" Color="PV6" Cantidad="1" Almacen="" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="1327.112069"></Linea>
+    <Linea Producto="LM25LDHOLD1U2" Color="1U2" Cantidad="2" Almacen="" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1421.9396551667"></Linea>
+    <Linea Producto="LM25GIHOGIA1U2" Color="1U2" Cantidad="1" Almacen="" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="1421.9396551667"></Linea>
+    <Linea Producto="LM25NKA1NK1U2" Color="1U2" Cantidad="1" Almacen="" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="1421.9396551667"></Linea>
+    <Linea Producto="LM25NKHONK1U2" Color="1U2" Cantidad="2" Almacen="" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1421.9396551667"></Linea>
+    <Linea Producto="LM25BQHOBQ1U2" Color="1U2" Cantidad="1" Almacen="" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="1421.9396551667"></Linea>
+    <Linea Producto="LM25DGHODG1U2" Color="1U2" Cantidad="1" Almacen="" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="1421.9396551667"></Linea>
+    <Linea Producto="LM25NMHONME1U2" Color="1U2" Cantidad="1" Almacen="" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="1421.9396551667"></Linea>
+    <Linea Producto="LM25PPHOPP1U2" Color="1U2" Cantidad="1" Almacen="" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="1421.9396551667"></Linea>
+    <Linea Producto="LM25PYHOPYP1U2" Color="1U2" Cantidad="1" Almacen="" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="1421.9396551667"></Linea>
+    <Linea Producto="LM25EJHOEJBMS" Color="BMS" Cantidad="1" Almacen="" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="1421.9396551667"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="46821" Cliente="0458" Nombre="Paula Molina" Fecha="26/07/2021" Tipo="1" Fecha_Entrega="26/07/2021" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES " Direccion2="Chile  SANTIAGO 7560356" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS KIDS FOOTWEAR - TIENDAS SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="Paula Molina" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBACS32201-BLK" Color="BLK" Cantidad="42" size_10="210" size_11="210" size_12="210" size_13="210" size_1="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="4.8"></Linea>
+    <Linea Producto="NBACS32201-BLK2" Color="BLK2" Cantidad="42" size_10="210" size_11="210" size_12="210" size_13="210" size_1="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="4.8"></Linea>
+    <Linea Producto="" Color="" Cantidad="42" size_10="210" size_11="210" size_12="210" size_13="210" size_1="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="4.8"></Linea>
+    <Linea Producto="NBACS32204-RED" Color="RED" Cantidad="42" size_10="210" size_11="210" size_12="210" size_13="210" size_1="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="5.15"></Linea>
+    <Linea Producto="NBACS32204-BLK" Color="BLK" Cantidad="42" size_10="210" size_11="210" size_12="210" size_13="210" size_1="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="5.15"></Linea>
+    <Linea Producto="NBACS32204-GRY" Color="GRY" Cantidad="21" size_10="105" size_11="105" size_12="105" size_13="105" size_1="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="5.15"></Linea>
+    <Linea Producto="MLBCS32201-NVY1" Color="NVY1" Cantidad="21" size_10="105" size_11="105" size_12="105" size_13="105" size_1="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="4.5"></Linea>
+  </Encabezado>
+</Sagemobile>

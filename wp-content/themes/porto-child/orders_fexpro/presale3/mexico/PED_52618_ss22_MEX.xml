@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="52618" Cliente="LAMARINA" Nombre="Veronica Cervantes" Fecha="29/07/2021" Tipo="1" Fecha_Entrega="29/07/2021" Direccion="AVENIDA JOSE MERCED CABRERA COLONIA VILLA DE ALVAREZ COLIMA " Direccion2="Mexico Colima COLIMA 28989" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Veronica Cervantes" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NIRTS52201WHT" Color="WHT" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="219.45"></Linea>
+    <Linea Producto="SOPTS52202WHT" Color="WHT" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="219.45"></Linea>
+    <Linea Producto="SOPTS52201BLK" Color="BLK" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="219.45"></Linea>
+    <Linea Producto="SOPSW52202BLU" Color="BLU" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="549.45"></Linea>
+    <Linea Producto="ACTS52202GRY" Color="GRY" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="290.95"></Linea>
+    <Linea Producto="ACSH52201GRY" Color="GRY" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="329.45"></Linea>
+    <Linea Producto="PWTS52203BLK" Color="BLK" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="202.95"></Linea>
+    <Linea Producto="PWTS52203WHT" Color="WHT" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="202.95"></Linea>
+    <Linea Producto="COCTS52207RED" Color="RED" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="202.95"></Linea>
+    <Linea Producto="COCTS52201WHT" Color="WHT" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="219.45"></Linea>
+    <Linea Producto="COCHD52201BLK" Color="BLK" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="494.45"></Linea>
+    <Linea Producto="COCTS52205GRY" Color="GRY" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="202.95"></Linea>
+    <Linea Producto="COCTS52205WHT" Color="WHT" Cantidad="9" size_S="36" size_M="72" size_L="72" size_XL="36" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="202.95"></Linea>
+    <Linea Producto="COCTS52202BLK" Color="BLK" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="202.95"></Linea>
+    <Linea Producto="COCTS52206WHT" Color="WHT" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="219.45"></Linea>
+    <Linea Producto="SMTS52201WHT" Color="WHT" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="202.95"></Linea>
+    <Linea Producto="SMTS52202BLU" Color="BLU" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="290.95"></Linea>
+    <Linea Producto="PCPT52201BLK" Color="BLK" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="329.45"></Linea>
+    <Linea Producto="PCTS5SS02BLK" Color="BLK" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="202.95"></Linea>
+    <Linea Producto="PCTS5SS02BLU" Color="BLU" Cantidad="6" size_S="24" size_M="48" size_L="48" size_XL="24" Unit_Box_Qty="24" Total_Box_Qty="144" Precio="202.95"></Linea>
+    <Linea Producto="PCTS22503GRY" Color="GRY" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="202.95"></Linea>
+    <Linea Producto="PCHD5SS01BLU" Color="BLU" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="494.45"></Linea>
+    <Linea Producto="PCHD5SS01LBL" Color="LBL" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="494.45"></Linea>
+    <Linea Producto="NASTS52203DGRY" Color="DGRY" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="219.45"></Linea>
+    <Linea Producto="NASHD52201LBL" Color="LBL" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="494.45"></Linea>
+    <Linea Producto="NASTS52202WHT" Color="WHT" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="219.45"></Linea>
+    <Linea Producto="NASTS52204PUR" Color="PUR" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="219.45"></Linea>
+    <Linea Producto="NASTS52201LBL" Color="LBL" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="219.45"></Linea>
+    <Linea Producto="NASHD52202GRY" Color="GRY" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="494.45"></Linea>
+    <Linea Producto="KISTS52201BLK" Color="BLK" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="219.45"></Linea>
+    <Linea Producto="GYTS52201BLK" Color="BLK" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="202.95"></Linea>
+    <Linea Producto="SOPTS52201NVY" Color="NVY" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="219.45"></Linea>
+    <Linea Producto="PCTS52201BLU" Color="BLU" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="202.95"></Linea>
+    <Linea Producto="PCTS52201GRY" Color="GRY" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="202.95"></Linea>
+    <Linea Producto="KISSL52201BLK" Color="BLK" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="439.45"></Linea>
+  </Encabezado>
+</Sagemobile>

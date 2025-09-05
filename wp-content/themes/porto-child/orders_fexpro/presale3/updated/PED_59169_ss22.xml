@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="59169" Cliente="0000" Nombre="Itzhel Gomez" Fecha="18/08/2021" Tipo="1" Fecha_Entrega="18/08/2021" Direccion="Pacific Center 24" Direccion2="Panama  Panama 000" Vendedor="01" AgenteEmbarcador="" Observaciones="STOCK BOXERS AND SOCKS" ResponsablePedido="" ResponsableImportacion="" Contacto="Itzhel Gomez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBBX52205-BLU" Color="BLU" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="6.2"></Linea>
+    <Linea Producto="SOUBX52201-NVY" Color="NVY" Cantidad="23" size_S="92" size_M="184" size_L="184" size_XL="92" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="6.2"></Linea>
+    <Linea Producto="COCSO52201-BLK" Color="BLK" Cantidad="2" size_OS="48" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="3"></Linea>
+    <Linea Producto="BCBX52201-NVY" Color="NVY" Cantidad="26" size_S="104" size_M="208" size_L="208" size_XL="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="6.2"></Linea>
+    <Linea Producto="COCBX52201-BLK" Color="BLK" Cantidad="27" size_S="108" size_M="216" size_L="216" size_XL="108" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="6.2"></Linea>
+    <Linea Producto="ACBX52201-BLK" Color="BLK" Cantidad="27" size_S="108" size_M="216" size_L="216" size_XL="108" Unit_Box_Qty="24" Total_Box_Qty="648" Precio="6.2"></Linea>
+    <Linea Producto="SOUSO52201-BLU" Color="BLU" Cantidad="7" size_OS="168" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="3"></Linea>
+    <Linea Producto="RMBX52201-BLK" Color="BLK" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="6.2"></Linea>
+    <Linea Producto="PCSO52201-BLK" Color="BLK" Cantidad="9" size_OS="216" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="3"></Linea>
+    <Linea Producto="NBABX52211-GRN" Color="GRN" Cantidad="33" size_S="132" size_M="264" size_L="264" size_XL="132" Unit_Box_Qty="24" Total_Box_Qty="792" Precio="6.2"></Linea>
+    <Linea Producto="PCBX52201-NVY" Color="NVY" Cantidad="33" size_S="132" size_M="264" size_L="264" size_XL="132" Unit_Box_Qty="24" Total_Box_Qty="792" Precio="6.2"></Linea>
+    <Linea Producto="NBABX52202-BLK" Color="BLK" Cantidad="34" size_S="136" size_M="272" size_L="272" size_XL="136" Unit_Box_Qty="24" Total_Box_Qty="816" Precio="6.5"></Linea>
+    <Linea Producto="NBASO52202-RED" Color="RED" Cantidad="18" size_OS="432" Unit_Box_Qty="24" Total_Box_Qty="432" Precio="3"></Linea>
+    <Linea Producto="NBASO52205-BLK" Color="BLK" Cantidad="21" size_OS="504" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="3"></Linea>
+    <Linea Producto="BABSO52201-BLK" Color="BLK" Cantidad="23" size_OS="552" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="3"></Linea>
+    <Linea Producto="ACSO52201-GRY" Color="GRY" Cantidad="24" size_OS="576" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="3"></Linea>
+    <Linea Producto="MLBBX52207-RED" Color="RED" Cantidad="47" size_S="188" size_M="376" size_L="376" size_XL="188" Unit_Box_Qty="24" Total_Box_Qty="1128" Precio="6.2"></Linea>
+    <Linea Producto="NASSO52201-BLUE" Color="BLUE" Cantidad="28" size_OS="672" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="3"></Linea>
+    <Linea Producto="NBASO52204-PUR" Color="PUR" Cantidad="30" size_OS="720" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="3"></Linea>
+    <Linea Producto="COCBX52202-RED" Color="RED" Cantidad="53" size_S="212" size_M="424" size_L="424" size_XL="212" Unit_Box_Qty="24" Total_Box_Qty="1272" Precio="6.5"></Linea>
+    <Linea Producto="BABBX52201-NVY" Color="NVY" Cantidad="53" size_S="212" size_M="424" size_L="424" size_XL="212" Unit_Box_Qty="24" Total_Box_Qty="1272" Precio="6.2"></Linea>
+    <Linea Producto="PWSO52201-BLK" Color="BLK" Cantidad="32" size_OS="768" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="3"></Linea>
+    <Linea Producto="MLBSO52201-NVY" Color="NVY" Cantidad="33" size_OS="792" Unit_Box_Qty="24" Total_Box_Qty="792" Precio="3"></Linea>
+    <Linea Producto="NBABX52205-PUR" Color="PUR" Cantidad="56" size_S="224" size_M="448" size_L="448" size_XL="224" Unit_Box_Qty="24" Total_Box_Qty="1344" Precio="6.2"></Linea>
+    <Linea Producto="BCSO52201-NVY" Color="NVY" Cantidad="37" size_OS="888" Unit_Box_Qty="24" Total_Box_Qty="888" Precio="3"></Linea>
+    <Linea Producto="MLBSO52202-NVY" Color="NVY" Cantidad="38" size_OS="912" Unit_Box_Qty="24" Total_Box_Qty="912" Precio="3"></Linea>
+    <Linea Producto="ACBX52202-BLK" Color="BLK" Cantidad="60" size_S="240" size_M="480" size_L="480" size_XL="240" Unit_Box_Qty="24" Total_Box_Qty="1440" Precio="6.5"></Linea>
+    <Linea Producto="PWBX52201-BLK" Color="BLK" Cantidad="62" size_S="248" size_M="496" size_L="496" size_XL="248" Unit_Box_Qty="24" Total_Box_Qty="1488" Precio="6.2"></Linea>
+    <Linea Producto="MLBSO52204-NVY" Color="NVY" Cantidad="42" size_OS="1008" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="3"></Linea>
+    <Linea Producto="BABSO52202-BLK" Color="BLK" Cantidad="42" size_OS="1008" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="2.5"></Linea>
+    <Linea Producto="NBABX52209-BLK" Color="BLK" Cantidad="65" size_S="260" size_M="520" size_L="520" size_XL="260" Unit_Box_Qty="24" Total_Box_Qty="1560" Precio="6.2"></Linea>
+    <Linea Producto="MTBX52201-NVY" Color="NVY" Cantidad="65" size_S="260" size_M="520" size_L="520" size_XL="260" Unit_Box_Qty="24" Total_Box_Qty="1560" Precio="6.2"></Linea>
+    <Linea Producto="SPRSO52202-GRN" Color="GRN" Cantidad="44" size_OS="1056" Unit_Box_Qty="24" Total_Box_Qty="1056" Precio="2.5"></Linea>
+    <Linea Producto="MLBBX52201-NVY" Color="NVY" Cantidad="67" size_S="268" size_M="536" size_L="536" size_XL="268" Unit_Box_Qty="24" Total_Box_Qty="1608" Precio="6.2"></Linea>
+    <Linea Producto="STFSO52201-BLK" Color="BLK" Cantidad="46" size_OS="1104" Unit_Box_Qty="24" Total_Box_Qty="1104" Precio="3"></Linea>
+    <Linea Producto="STFBX52201-GRY" Color="GRY" Cantidad="68" size_S="272" size_M="544" size_L="544" size_XL="272" Unit_Box_Qty="24" Total_Box_Qty="1632" Precio="6.2"></Linea>
+    <Linea Producto="SOUBX52202-NVY" Color="NVY" Cantidad="69" size_S="276" size_M="552" size_L="552" size_XL="276" Unit_Box_Qty="24" Total_Box_Qty="1656" Precio="6.5"></Linea>
+    <Linea Producto="FTSO52201-NVY" Color="NVY" Cantidad="48" size_OS="1152" Unit_Box_Qty="24" Total_Box_Qty="1152" Precio="3"></Linea>
+    <Linea Producto="NBABX52201-RED" Color="RED" Cantidad="71" size_S="284" size_M="568" size_L="568" size_XL="284" Unit_Box_Qty="24" Total_Box_Qty="1704" Precio="6.2"></Linea>
+    <Linea Producto="RMSO52201-BLU" Color="BLU" Cantidad="51" size_OS="1224" Unit_Box_Qty="24" Total_Box_Qty="1224" Precio="3"></Linea>
+    <Linea Producto="WWEBX52201-BLK" Color="BLK" Cantidad="72" size_S="288" size_M="576" size_L="576" size_XL="288" Unit_Box_Qty="24" Total_Box_Qty="1728" Precio="6.2"></Linea>
+    <Linea Producto="NBABX52208-BLK" Color="BLK" Cantidad="73" size_S="292" size_M="584" size_L="584" size_XL="292" Unit_Box_Qty="24" Total_Box_Qty="1752" Precio="6.5"></Linea>
+    <Linea Producto="NBASO52206-GRN" Color="GRN" Cantidad="53" size_OS="1272" Unit_Box_Qty="24" Total_Box_Qty="1272" Precio="3"></Linea>
+    <Linea Producto="MLBSO52203-BLU" Color="BLU" Cantidad="53" size_OS="1272" Unit_Box_Qty="24" Total_Box_Qty="1272" Precio="3"></Linea>
+    <Linea Producto="JVBX52201-BLK" Color="BLK" Cantidad="76" size_S="304" size_M="608" size_L="608" size_XL="304" Unit_Box_Qty="24" Total_Box_Qty="1824" Precio="6.2"></Linea>
+  </Encabezado>
+</Sagemobile>

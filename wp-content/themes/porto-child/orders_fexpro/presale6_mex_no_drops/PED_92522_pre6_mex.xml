@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="92522" Cliente="MARTI" Nombre="Francisco Mucino" Fecha="16/12/2021" Tipo="1" Fecha_Entrega="16/12/2021" Direccion="BOULEVARD BENITO JUAREZ #10 " Direccion2="Mexico Ciudad de México TULTITLAN DE MARIANO ESCOBEDO 54900" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Francisco Mucino" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBATT522220-YEL" Color="YEL" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="402.54310345833"></Linea>
+    <Linea Producto="NBATT522220-BLK1" Color="BLK1" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="402.54310345833"></Linea>
+    <Linea Producto="NBAHD522201-BLK" Color="BLK" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="521.07758620833"></Linea>
+    <Linea Producto="NBAJK522210-BLK" Color="BLK" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="687.02586204167"></Linea>
+    <Linea Producto="NBAJK522210-PUR" Color="PUR" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="687.02586204167"></Linea>
+    <Linea Producto="NBATT522202-BLK" Color="BLK" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="355.12931033333"></Linea>
+    <Linea Producto="NBATT522202-BLK1" Color="BLK1" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="355.12931033333"></Linea>
+    <Linea Producto="NBAHD522212-RED" Color="RED" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="577.97413791667"></Linea>
+    <Linea Producto="NBASH521820-RED" Color="RED" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="355.12931033333"></Linea>
+    <Linea Producto="NBASH521820-BLK" Color="BLK" Cantidad="16" size_S="64" size_M="128" size_L="128" size_XL="64" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="355.12931033333"></Linea>
+    <Linea Producto="NBASH521820-YEL" Color="YEL" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="355.12931033333"></Linea>
+    <Linea Producto="NBAJS552201-BLK3" Color="BLK3" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="355.12931033333"></Linea>
+    <Linea Producto="NBAJS552201-PUR" Color="PUR" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="355.12931033333"></Linea>
+    <Linea Producto="NBAJS552201-RED" Color="RED" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="355.12931033333"></Linea>
+    <Linea Producto="NBAJS552201-YEL" Color="YEL" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="355.12931033333"></Linea>
+    <Linea Producto="NBATS521000-RED" Color="RED" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="217.62931033333"></Linea>
+    <Linea Producto="NBATS521000-BLK2" Color="BLK2" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="217.62931033333"></Linea>
+    <Linea Producto="NBATS521000-YEL" Color="YEL" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="217.62931033333"></Linea>
+    <Linea Producto="NBAHD521001-BLK" Color="BLK" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="521.07758620833"></Linea>
+    <Linea Producto="NBAHD521001-RED" Color="RED" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="521.07758620833"></Linea>
+    <Linea Producto="NBAHD521001-BLK2" Color="BLK2" Cantidad="8" size_S="32" size_M="64" size_L="64" size_XL="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="521.07758620833"></Linea>
+  </Encabezado>
+</Sagemobile>

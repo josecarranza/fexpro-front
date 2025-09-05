@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="215276" Cliente="0459" Nombre="sebastian jimenez" Fecha="05/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Av. Kennedy #7900 of 001, Vitacura " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="sebastian jimenez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="T7GM-LDA2-LD-G23" Color="G23" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="42.5"></Linea>
+    <Linea Producto="T7GM-LDHO-LD-G23" Color="G23" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="42.5"></Linea>
+    <Linea Producto="T7GM-NKA2-NK-G23" Color="G23" Cantidad="20" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="12" Total_Box_Qty="240" Precio="42.5"></Linea>
+    <Linea Producto="T7GM-NKHO-NK-G23" Color="G23" Cantidad="20" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="12" Total_Box_Qty="240" Precio="42.5"></Linea>
+    <Linea Producto="T7GM-PYHO-PYP-G23" Color="G23" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="42.5"></Linea>
+    <Linea Producto="T7GM-RXHO-RX-G23" Color="G23" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="42.5"></Linea>
+    <Linea Producto="02JW-012N-N27-JWQ" Color="JWQ" Cantidad="15" size_S="30" size_M="60" size_L="60" size_XL="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="30"></Linea>
+    <Linea Producto="02JW-046N-CWS-JWQ" Color="JWQ" Cantidad="15" size_S="30" size_M="60" size_L="60" size_XL="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="30"></Linea>
+    <Linea Producto="034J-00A-LD-L84" Color="L84" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="19"></Linea>
+    <Linea Producto="034J-00A-RX-L84" Color="L84" Cantidad="10" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="12" Total_Box_Qty="120" Precio="19"></Linea>
+    <Linea Producto="034J-10A-NK-L84" Color="L84" Cantidad="15" size_S="30" size_M="60" size_L="60" size_XL="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="19"></Linea>
+    <Linea Producto="034J-20Q-PYP-L84" Color="L84" Cantidad="15" size_S="30" size_M="60" size_L="60" size_XL="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="19"></Linea>
+    <Linea Producto="034J-4FA-NK-L84" Color="L84" Cantidad="15" size_S="30" size_M="60" size_L="60" size_XL="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="19"></Linea>
+    <Linea Producto="N199-44B-CWS-CUE" Color="CUE" Cantidad="15" size_S="30" size_M="60" size_L="60" size_XL="30" Unit_Box_Qty="12" Total_Box_Qty="180" Precio="13.5"></Linea>
+    <Linea Producto="N199-44B-N27-CUE" Color="CUE" Cantidad="20" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="12" Total_Box_Qty="240" Precio="13.5"></Linea>
+  </Encabezado>
+</Sagemobile>

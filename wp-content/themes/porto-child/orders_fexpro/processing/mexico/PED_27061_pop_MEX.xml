@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="27061" Cliente="TYPHOON" Nombre="PATRICIA OLIVO" Fecha="16/06/2021" Tipo="1" Fecha_Entrega="16/06/2021" Direccion="CERRADA LOMA BONITA NO. 33 INT. 204 COL. LOMAS ALTAS DEL. MIGUEL HIDALGO " Direccion2="Mexico Ciudad de México DISTRITO FEDERAL 11950" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="PATRICIA OLIVO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBACS52102BLK1" Color="BLK1" Cantidad="48" size_7="240" size_8="240" size_9="240" size_10="240" size_11="192" Unit_Box_Qty="24" Total_Box_Qty="1152" Precio="160.54"></Linea>
+    <Linea Producto="NBACS52106BLK1" Color="BLK1" Cantidad="5" size_7="25" size_8="25" size_9="25" size_10="25" size_11="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="160.54"></Linea>
+    <Linea Producto="NBACS52106BLK2" Color="BLK2" Cantidad="25" size_7="125" size_8="125" size_9="125" size_10="125" size_11="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="160.54"></Linea>
+    <Linea Producto="NBACS52106BLK3" Color="BLK3" Cantidad="25" size_7="125" size_8="125" size_9="125" size_10="125" size_11="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="160.54"></Linea>
+    <Linea Producto="NBACS52104BLK1" Color="BLK1" Cantidad="25" size_7="125" size_8="125" size_9="125" size_10="125" size_11="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="160.54"></Linea>
+    <Linea Producto="NBACS52104BLK2" Color="BLK2" Cantidad="25" size_7="125" size_8="125" size_9="125" size_10="125" size_11="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="160.54"></Linea>
+    <Linea Producto="MLBCS52101NVY1" Color="NVY1" Cantidad="24" size_7="120" size_8="120" size_9="120" size_10="120" size_11="96" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="160.54"></Linea>
+    <Linea Producto="MLBCS52101BLU" Color="BLU" Cantidad="44" size_7="220" size_8="220" size_9="220" size_10="220" size_11="176" Unit_Box_Qty="24" Total_Box_Qty="1056" Precio="160.54"></Linea>
+    <Linea Producto="MLBCS52102NVY1" Color="NVY1" Cantidad="29" size_7="145" size_8="145" size_9="145" size_10="145" size_11="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="160.54"></Linea>
+    <Linea Producto="MLBCS52102NVY2" Color="NVY2" Cantidad="50" size_7="250" size_8="250" size_9="250" size_10="250" size_11="200" Unit_Box_Qty="24" Total_Box_Qty="1200" Precio="160.54"></Linea>
+    <Linea Producto="MLBCS52103NVY1" Color="NVY1" Cantidad="43" size_7="215" size_8="215" size_9="215" size_10="215" size_11="172" Unit_Box_Qty="24" Total_Box_Qty="1032" Precio="160.54"></Linea>
+    <Linea Producto="NBACS52102BLK4" Color="BLK4" Cantidad="50" size_7="250" size_8="250" size_9="250" size_10="250" size_11="200" Unit_Box_Qty="24" Total_Box_Qty="1200" Precio="160.54"></Linea>
+  </Encabezado>
+</Sagemobile>

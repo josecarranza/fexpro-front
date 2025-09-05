@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="192623" Cliente="CALZZAPA" Nombre="Juan Carlos Collantes" Fecha="06/12/2023" Tipo="1" Fecha_Entrega="06/12/2023" Direccion="AV FRAY MARCOS DE NIZA, 3510 SUR INT. A COL SAN RAFAEL, CULUIACAN DE ROSALES " Direccion2="Mexico Sinaloa CULIACAN 80150" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Juan Carlos Collantes" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBTS524214NV1" Color="NV1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="331.42241379167"></Linea>
+    <Linea Producto="MLBTS524214BL1" Color="BL1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="331.42241379167"></Linea>
+    <Linea Producto="MLBTS524215WH1" Color="WH1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="331.42241379167"></Linea>
+    <Linea Producto="MLBTS524215BK1" Color="BK1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="331.42241379167"></Linea>
+    <Linea Producto="MLBTS524215GY1" Color="GY1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="331.42241379167"></Linea>
+    <Linea Producto="MLBTS524215NV1" Color="NV1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="331.42241379167"></Linea>
+    <Linea Producto="MLBJS524202BK1" Color="BK1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="473.66379308333"></Linea>
+    <Linea Producto="MLBJS524202GY1" Color="GY1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="473.66379308333"></Linea>
+    <Linea Producto="MLBJS524202BL1" Color="BL1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="473.66379308333"></Linea>
+    <Linea Producto="MLBJS524202RD1" Color="RD1" Cantidad="4" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="24" Total_Box_Qty="96" Precio="473.66379308333"></Linea>
+    <Linea Producto="MLBJK524205BK1" Color="BK1" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="1042.6293103333"></Linea>
+    <Linea Producto="MLBJK524205BK2" Color="BK2" Cantidad="2" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="24" Total_Box_Qty="48" Precio="1042.6293103333"></Linea>
+  </Encabezado>
+</Sagemobile>

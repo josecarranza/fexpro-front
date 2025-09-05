@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="99735" Cliente="0000" Nombre="BARBARA VIDAL" Fecha="09/02/2022" Tipo="1" Fecha_Entrega="09/02/2022" Direccion="Avenida Kennedy #9001, 4° piso, Los Condes, Santiago Chile. #9001, 4° piso" Direccion2="Chile Región Metropolitana de Santiago SANTIAGO CHILE " Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="BARBARA VIDAL" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="WWESB52201-BLK" Color="BLK" Cantidad="50" size_S="200" size_M="400" size_L="400" size_XL="200" Unit_Box_Qty="24" Total_Box_Qty="1200" Precio="7"></Linea>
+    <Linea Producto="GFTS52203-WHT" Color="WHT" Cantidad="45" size_XS="180" size_S="360" size_M="360" size_L="180" Unit_Box_Qty="24" Total_Box_Qty="1080" Precio="6"></Linea>
+    <Linea Producto="NASTS62203-WHT" Color="WHT" Cantidad="45" size_S="180" size_M="360" size_L="360" size_XL="180" Unit_Box_Qty="24" Total_Box_Qty="1080" Precio="7"></Linea>
+    <Linea Producto="ACTS522204-GRY" Color="GRY" Cantidad="45" size_S="180" size_M="360" size_L="360" size_XL="180" Unit_Box_Qty="24" Total_Box_Qty="1080" Precio="7"></Linea>
+    <Linea Producto="KISTS522205-BLK" Color="BLK" Cantidad="50" size_S="200" size_M="400" size_L="400" size_XL="200" Unit_Box_Qty="24" Total_Box_Qty="1200" Precio="8.5"></Linea>
+    <Linea Producto="ROCTS522202-BLK" Color="BLK" Cantidad="50" size_XS="200" size_S="400" size_M="400" size_L="200" Unit_Box_Qty="24" Total_Box_Qty="1200" Precio="8.5"></Linea>
+    <Linea Producto="ACTS62201-BLK" Color="BLK" Cantidad="45" size_S="180" size_M="360" size_L="360" size_XL="180" Unit_Box_Qty="24" Total_Box_Qty="1080" Precio="6"></Linea>
+    <Linea Producto="NASTS52205-GRY" Color="GRY" Cantidad="50" size_XS="200" size_S="400" size_M="400" size_L="200" Unit_Box_Qty="24" Total_Box_Qty="1200" Precio="7"></Linea>
+    <Linea Producto="KISTS622202-BLK" Color="BLK" Cantidad="42" size_S="168" size_M="336" size_L="336" size_XL="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="7"></Linea>
+    <Linea Producto="NASTS522206-WHT" Color="WHT" Cantidad="45" size_XS="180" size_S="360" size_M="360" size_L="180" Unit_Box_Qty="24" Total_Box_Qty="1080" Precio="7"></Linea>
+    <Linea Producto="SOUCT622202-PNK" Color="PNK" Cantidad="45" size_S="180" size_M="360" size_L="360" size_XL="180" Unit_Box_Qty="24" Total_Box_Qty="1080" Precio="6"></Linea>
+  </Encabezado>
+</Sagemobile>

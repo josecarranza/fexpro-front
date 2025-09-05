@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="215279" Cliente="0633" Nombre="Francisco Corradini" Fecha="05/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Colectora Panamericana KM 25.600, B1611 " Direccion2="Argentina Buenos Aires Don Torcuato, 555555555" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Francisco Corradini" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="02JW-012N-N27-JWQ" Color="JWQ" Cantidad="21" size_S="42" size_M="84" size_L="84" size_XL="42" Unit_Box_Qty="12" Total_Box_Qty="252" Precio="30"></Linea>
+    <Linea Producto="02JW-153N-KB-JWQ" Color="JWQ" Cantidad="21" size_S="42" size_M="84" size_L="84" size_XL="42" Unit_Box_Qty="12" Total_Box_Qty="252" Precio="30"></Linea>
+    <Linea Producto="N199-00A-LD-0U5" Color="0U5" Cantidad="21" size_S="42" size_M="84" size_L="84" size_XL="42" Unit_Box_Qty="12" Total_Box_Qty="252" Precio="13.5"></Linea>
+    <Linea Producto="N199-00A-RX-0U5" Color="0U5" Cantidad="21" size_S="42" size_M="84" size_L="84" size_XL="42" Unit_Box_Qty="12" Total_Box_Qty="252" Precio="13.5"></Linea>
+    <Linea Producto="N199-10A-LD-0U5" Color="0U5" Cantidad="21" size_S="42" size_M="84" size_L="84" size_XL="42" Unit_Box_Qty="12" Total_Box_Qty="252" Precio="13.5"></Linea>
+    <Linea Producto="N199-10A-NK-0U5" Color="0U5" Cantidad="21" size_S="42" size_M="84" size_L="84" size_XL="42" Unit_Box_Qty="12" Total_Box_Qty="252" Precio="13.5"></Linea>
+    <Linea Producto="N199-10A-RX-0U5" Color="0U5" Cantidad="21" size_S="42" size_M="84" size_L="84" size_XL="42" Unit_Box_Qty="12" Total_Box_Qty="252" Precio="13.5"></Linea>
+    <Linea Producto="N199-44B-BQ-0U5" Color="0U5" Cantidad="21" size_S="42" size_M="84" size_L="84" size_XL="42" Unit_Box_Qty="12" Total_Box_Qty="252" Precio="13.5"></Linea>
+    <Linea Producto="N199-44B-NK-0U5" Color="0U5" Cantidad="21" size_S="42" size_M="84" size_L="84" size_XL="42" Unit_Box_Qty="12" Total_Box_Qty="252" Precio="13.5"></Linea>
+    <Linea Producto="N199-4EW-LD-0U5" Color="0U5" Cantidad="21" size_S="42" size_M="84" size_L="84" size_XL="42" Unit_Box_Qty="12" Total_Box_Qty="252" Precio="13.5"></Linea>
+    <Linea Producto="N199-62Q-BQ-0U5" Color="0U5" Cantidad="21" size_S="42" size_M="84" size_L="84" size_XL="42" Unit_Box_Qty="12" Total_Box_Qty="252" Precio="13.5"></Linea>
+    <Linea Producto="N199-00A-LD-CJP" Color="CJP" Cantidad="21" size_S="42" size_M="84" size_L="84" size_XL="42" Unit_Box_Qty="12" Total_Box_Qty="252" Precio="13.5"></Linea>
+    <Linea Producto="N199-4EW-LD-CJP" Color="CJP" Cantidad="21" size_S="42" size_M="84" size_L="84" size_XL="42" Unit_Box_Qty="12" Total_Box_Qty="252" Precio="13.5"></Linea>
+    <Linea Producto="N199-10A-NK-PA7" Color="PA7" Cantidad="21" size_S="42" size_M="84" size_L="84" size_XL="42" Unit_Box_Qty="12" Total_Box_Qty="252" Precio="13.5"></Linea>
+    <Linea Producto="NKDK-44B-NK-CKX" Color="CKX" Cantidad="21" size_S="42" size_M="84" size_L="84" size_XL="42" Unit_Box_Qty="12" Total_Box_Qty="252" Precio="28"></Linea>
+    <Linea Producto="NKDK-4EW-LD-CKX" Color="CKX" Cantidad="21" size_S="42" size_M="84" size_L="84" size_XL="42" Unit_Box_Qty="12" Total_Box_Qty="252" Precio="28"></Linea>
+    <Linea Producto="NKPU-912Z-LD-LYA" Color="LYA" Cantidad="21" size_S="42" size_M="84" size_L="84" size_XL="42" Unit_Box_Qty="12" Total_Box_Qty="252" Precio="28"></Linea>
+    <Linea Producto="NKPU-CY51-NK-LYA" Color="LYA" Cantidad="21" size_S="42" size_M="84" size_L="84" size_XL="42" Unit_Box_Qty="12" Total_Box_Qty="252" Precio="28"></Linea>
+    <Linea Producto="T7GM-BQA1-BQ-G23" Color="G23" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="42.5"></Linea>
+    <Linea Producto="T7GM-LDA2-LD-G23" Color="G23" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="42.5"></Linea>
+    <Linea Producto="T7GM-LDHO-LD-G23" Color="G23" Cantidad="6" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="42.5"></Linea>
+    <Linea Producto="T7GM-MQHO-MQM-G23" Color="G23" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="42.5"></Linea>
+    <Linea Producto="T7GM-NKA2-NK-G23" Color="G23" Cantidad="6" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="42.5"></Linea>
+    <Linea Producto="T7GM-NKHO-NK-G23" Color="G23" Cantidad="6" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="42.5"></Linea>
+  </Encabezado>
+</Sagemobile>

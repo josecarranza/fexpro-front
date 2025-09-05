@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="161310" Cliente="0418" Nombre="Daniela Coloma" Fecha="08/02/2023" Tipo="1" Direccion="KENNEDY, AVENIDO LOS CONDES 5413 PISO 6" Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 7550000" AgenteEmbarcador="" Observaciones="RIPLEY CHILE - KIDS SOCCER Q4 FW23&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="Daniela Coloma" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="BCNTS323201-GY1" Color="GY1" Cantidad="28" size_4="56" size_6="112" size_8="112" size_10="112" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="6"></Linea>
+    <Linea Producto="PSGTS323201-WH1" Color="WH1" Cantidad="28" size_4="56" size_6="112" size_8="112" size_10="112" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="6"></Linea>
+    <Linea Producto="RMDTS323201-NV1" Color="NV1" Cantidad="28" size_4="56" size_6="112" size_8="112" size_10="112" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="672" Precio="6"></Linea>
+    <Linea Producto="BCNTS323213-NV1" Color="NV1" Cantidad="16" size_4="32" size_6="64" size_8="64" size_10="64" size_12="64" size_14="64" size_16="32" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="5"></Linea>
+    <Linea Producto="RMDTS323213-WH1" Color="WH1" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="5"></Linea>
+    <Linea Producto="PSGTS323213-BL1" Color="BL1" Cantidad="16" size_4="32" size_6="64" size_8="64" size_10="64" size_12="64" size_14="64" size_16="32" Unit_Box_Qty="24" Total_Box_Qty="384" Precio="5"></Linea>
+  </Encabezado>
+</Sagemobile>

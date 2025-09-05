@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="241211" Cliente="0000" Nombre="GERMAN PEREZ" Fecha="03/01/2025" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="C.C. LAS PULGAS SOBRE EL BOULEVARD DE LOS HEROES " Direccion2="El Salvador San Salvador San Salvador 0000" AgenteEmbarcador="" Observaciones="M&amp;amp;N-Q3-2025" ResponsablePedido="" ResponsableImportacion="" Contacto="GERMAN PEREZ" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="SS12533-CBUWHITDR" Color="CBUWHITDR" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="14"></Linea>
+    <Linea Producto="BMTRINTL1074-CBUDRBLCK" Color="CBUDRBLCK" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13"></Linea>
+    <Linea Producto="BMTRINTL1074-TRAVCPURP" Color="TRAVCPURP" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13"></Linea>
+    <Linea Producto="BMTRINTL1074-P76AIBLCK" Color="P76AIBLCK" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13"></Linea>
+    <Linea Producto="BMTRINTL1074-CBUSPRED1" Color="CBUSPRED1" Cantidad="1" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13"></Linea>
+    <Linea Producto="HP12875-LALBLCK" Color="LALBLCK" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13"></Linea>
+    <Linea Producto="HP12876-CHOBLCK" Color="CHOBLCK" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13"></Linea>
+    <Linea Producto="HP12876-P76BLCK" Color="P76BLCK" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13"></Linea>
+    <Linea Producto="HP12876-TRABLCK" Color="TRABLCK" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13"></Linea>
+    <Linea Producto="HP12876-VGRBLCK" Color="VGRBLCK" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="13"></Linea>
+    <Linea Producto="HP13208-CBUBKGY" Color="CBUBKGY" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="12"></Linea>
+    <Linea Producto="HP13208-CBURDRD" Color="CBURDRD" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="12"></Linea>
+    <Linea Producto="HP13207-CBUOLBK" Color="CBUOLBK" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="12"></Linea>
+    <Linea Producto="HT8031-CBUOFWH" Color="CBUOFWH" Cantidad="1" size_OS="12" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="10.5"></Linea>
+  </Encabezado>
+</Sagemobile>

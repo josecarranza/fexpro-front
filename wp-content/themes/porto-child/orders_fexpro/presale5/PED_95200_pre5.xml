@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="95200" Cliente="0000" Nombre="Paula Mostajo" Fecha="30/12/2021" Tipo="1" Fecha_Entrega="30/12/2021" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago CHILE 0000" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS TIENDA PAULA MOSTAJO" ResponsablePedido="" ResponsableImportacion="" Contacto="Paula Mostajo" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PFLCT622201-BLK" Color="BLK" Cantidad="71" size_XS="284" size_S="568" size_M="568" size_L="284" Unit_Box_Qty="24" Total_Box_Qty="1704" Precio="8"></Linea>
+    <Linea Producto="NIRCT622202-BLK" Color="BLK" Cantidad="54" size_XS="216" size_S="432" size_M="432" size_L="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="6"></Linea>
+    <Linea Producto="KISCT622201-BLK" Color="BLK" Cantidad="71" size_XS="284" size_S="568" size_M="568" size_L="284" Unit_Box_Qty="24" Total_Box_Qty="1704" Precio="6.5"></Linea>
+    <Linea Producto="ACTS622201-PUR" Color="PUR" Cantidad="54" size_XS="216" size_S="432" size_M="432" size_L="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="8.5"></Linea>
+    <Linea Producto="KISTS622201-BLK" Color="BLK" Cantidad="71" size_XS="284" size_S="568" size_M="568" size_L="284" Unit_Box_Qty="24" Total_Box_Qty="1704" Precio="6.5"></Linea>
+    <Linea Producto="PFLTS622202-BLK" Color="BLK" Cantidad="71" size_XS="284" size_S="568" size_M="568" size_L="284" Unit_Box_Qty="24" Total_Box_Qty="1704" Precio="7"></Linea>
+    <Linea Producto="ACCT622201-BLK" Color="BLK" Cantidad="71" size_XS="284" size_S="568" size_M="568" size_L="284" Unit_Box_Qty="24" Total_Box_Qty="1704" Precio="8"></Linea>
+    <Linea Producto="PFLCT622202-BLK" Color="BLK" Cantidad="54" size_XS="216" size_S="432" size_M="432" size_L="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="6.5"></Linea>
+    <Linea Producto="KISCT622202-WHT" Color="WHT" Cantidad="71" size_XS="284" size_S="568" size_M="568" size_L="284" Unit_Box_Qty="24" Total_Box_Qty="1704" Precio="6.5"></Linea>
+    <Linea Producto="PFLCT622204-BLK" Color="BLK" Cantidad="54" size_XS="216" size_S="432" size_M="432" size_L="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="8"></Linea>
+    <Linea Producto="KISTS622203-BLK" Color="BLK" Cantidad="54" size_XS="216" size_S="432" size_M="432" size_L="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="7"></Linea>
+    <Linea Producto="KISTS622203-GRY" Color="GRY" Cantidad="54" size_XS="216" size_S="432" size_M="432" size_L="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="7"></Linea>
+    <Linea Producto="ACTT622201-BLK" Color="BLK" Cantidad="54" size_XS="216" size_S="432" size_M="432" size_L="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="6.5"></Linea>
+    <Linea Producto="ACTT622201-GRY" Color="GRY" Cantidad="54" size_XS="216" size_S="432" size_M="432" size_L="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="6.5"></Linea>
+    <Linea Producto="CNCT622201-WHT" Color="WHT" Cantidad="54" size_XS="216" size_S="432" size_M="432" size_L="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="7"></Linea>
+    <Linea Producto="CCTS622202-WHT" Color="WHT" Cantidad="54" size_XS="216" size_S="432" size_M="432" size_L="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="7"></Linea>
+    <Linea Producto="BUDTS622202-GRY" Color="GRY" Cantidad="54" size_XS="216" size_S="432" size_M="432" size_L="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="8.5"></Linea>
+    <Linea Producto="CNCT622202-LBL" Color="LBL" Cantidad="54" size_XS="216" size_S="432" size_M="432" size_L="216" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="7"></Linea>
+  </Encabezado>
+</Sagemobile>

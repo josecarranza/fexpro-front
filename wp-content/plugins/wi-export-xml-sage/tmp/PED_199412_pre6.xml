@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="199412" Cliente="0450" Nombre="CARLOS NAKAMOTO" Fecha="26/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AV. PASEO DE LA REPUBLICA 3220, SAN ISIDRO " Direccion2="Peru Lima LIMA 111111111" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="CARLOS NAKAMOTO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MSPTS724208-BK6" Color="BK6" Cantidad="13" size_10="52" size_12="104" size_14="104" size_16="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="6"></Linea>
+    <Linea Producto="MSPTS724208-PK1" Color="PK1" Cantidad="42" size_10="168" size_12="336" size_14="336" size_16="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="6"></Linea>
+    <Linea Producto="MSPSH724202-BK1" Color="BK1" Cantidad="21" size_10="84" size_12="168" size_14="168" size_16="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="8"></Linea>
+    <Linea Producto="MSPTS324208-BK6" Color="BK6" Cantidad="13" size_4="52" size_6="104" size_8="104" size_10="52" Unit_Box_Qty="24" Total_Box_Qty="312" Precio="6"></Linea>
+    <Linea Producto="MSPTS324208-PK1" Color="PK1" Cantidad="33" size_4="132" size_6="264" size_8="264" size_10="132" Unit_Box_Qty="24" Total_Box_Qty="792" Precio="6"></Linea>
+    <Linea Producto="MSPSH324202-BK1" Color="BK1" Cantidad="21" size_4="84" size_6="168" size_8="168" size_10="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="8"></Linea>
+  </Encabezado>
+</Sagemobile>

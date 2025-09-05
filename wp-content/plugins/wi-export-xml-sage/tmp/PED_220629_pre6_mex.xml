@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="220629" Cliente="0000" Nombre="Massyel Paz" Fecha="10/09/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="Bosque de Radiatas 42, int 301 " Direccion2="Mexico Ciudad de México Ciudad de México 05120" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Massyel Paz" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASB321201RED" Color="RED" Cantidad="14" size_OS="336" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="7"></Linea>
+    <Linea Producto="MLBSH525105NV1" Color="NV1" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="15"></Linea>
+    <Linea Producto="MLBSH525105BK1" Color="BK1" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="15"></Linea>
+    <Linea Producto="MLBSH525105NV2" Color="NV2" Cantidad="14" size_S="56" size_M="112" size_L="112" size_XL="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="15"></Linea>
+    <Linea Producto="NBAHD725103OW1" Color="OW1" Cantidad="14" size_10="56" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="13"></Linea>
+    <Linea Producto="NBAHD725103BK2" Color="BK2" Cantidad="14" size_10="56" size_12="112" size_14="112" size_16="56" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="13"></Linea>
+  </Encabezado>
+</Sagemobile>

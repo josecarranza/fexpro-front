@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="95293" Cliente="0458" Nombre="Franz Pieper" Fecha="30/12/2021" Tipo="1" Fecha_Entrega="30/12/2021" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO 7560356" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS TIENDA BOXER" ResponsablePedido="" ResponsableImportacion="" Contacto="Franz Pieper" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="PCBX522203-LBL" Color="LBL" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="8"></Linea>
+    <Linea Producto="NBABX522209-PUR" Color="PUR" Cantidad="36" size_S="144" size_M="288" size_L="288" size_XL="144" Unit_Box_Qty="24" Total_Box_Qty="864" Precio="8"></Linea>
+    <Linea Producto="NBABX522209-RED1" Color="RED1" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="8"></Linea>
+    <Linea Producto="NBABX522209-RED" Color="RED" Cantidad="32" size_S="128" size_M="256" size_L="256" size_XL="128" Unit_Box_Qty="24" Total_Box_Qty="768" Precio="8"></Linea>
+    <Linea Producto="MLBBX522223-NVY" Color="NVY" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="8"></Linea>
+    <Linea Producto="MLBBX522223-NVY1" Color="NVY1" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="8"></Linea>
+    <Linea Producto="BCBX522209-RED" Color="RED" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="7"></Linea>
+    <Linea Producto="ACBX522201-GRY" Color="GRY" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="7"></Linea>
+    <Linea Producto="CCBX522206-RED" Color="RED" Cantidad="29" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="7"></Linea>
+    <Linea Producto="PCBX522203-LBL" Color="LBL" Cantidad="36" size_S="144" size_M="288" size_L="288" size_XL="144" Unit_Box_Qty="24" Total_Box_Qty="864" Precio="8"></Linea>
+  </Encabezado>
+</Sagemobile>

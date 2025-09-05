@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="92576" Cliente="0000" Nombre="GONZALO RYBERTT" Fecha="18/12/2021" Tipo="1" Fecha_Entrega="18/12/2021" Direccion="KENNEDY 5413 PISO 6, LAS CONDES, SANTIAGO, CHILE " Direccion2="Chile  SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="RIPLEY CHILE - HOMBRE URBANO MLB FW22&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="GONZALO RYBERTT" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NASCS52202-BLK" Color="BLK" Cantidad="57" size_S="228" size_M="456" size_L="456" size_XL="228" Unit_Box_Qty="24" Total_Box_Qty="1368" Precio="6"></Linea>
+    <Linea Producto="MLBTS520201-GRY" Color="GRY" Cantidad="57" size_S="228" size_M="456" size_L="456" size_XL="228" Unit_Box_Qty="24" Total_Box_Qty="1368" Precio="6"></Linea>
+    <Linea Producto="MLBTS520201-WHT" Color="WHT" Cantidad="31" size_S="124" size_M="248" size_L="248" size_XL="124" Unit_Box_Qty="24" Total_Box_Qty="744" Precio="10"></Linea>
+    <Linea Producto="MLBJT520220-WHT2" Color="WHT2" Cantidad="37" size_S="148" size_M="296" size_L="296" size_XL="148" Unit_Box_Qty="24" Total_Box_Qty="888" Precio="10"></Linea>
+    <Linea Producto="MLBJT520220-NVY2" Color="NVY2" Cantidad="37" size_S="148" size_M="296" size_L="296" size_XL="148" Unit_Box_Qty="24" Total_Box_Qty="888" Precio="10"></Linea>
+    <Linea Producto="MLBJT520220-WHT" Color="WHT" Cantidad="57" size_S="228" size_M="456" size_L="456" size_XL="228" Unit_Box_Qty="24" Total_Box_Qty="1368" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522203-WHT" Color="WHT" Cantidad="57" size_S="228" size_M="456" size_L="456" size_XL="228" Unit_Box_Qty="24" Total_Box_Qty="1368" Precio="6"></Linea>
+    <Linea Producto="MLBTS520201-NVY" Color="NVY" Cantidad="57" size_S="228" size_M="456" size_L="456" size_XL="228" Unit_Box_Qty="24" Total_Box_Qty="1368" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522203-BLK1" Color="BLK1" Cantidad="46" size_S="184" size_M="368" size_L="368" size_XL="184" Unit_Box_Qty="24" Total_Box_Qty="1104" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522205-BLK" Color="BLK" Cantidad="46" size_S="184" size_M="368" size_L="368" size_XL="184" Unit_Box_Qty="24" Total_Box_Qty="1104" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522205-RED" Color="RED" Cantidad="46" size_S="184" size_M="368" size_L="368" size_XL="184" Unit_Box_Qty="24" Total_Box_Qty="1104" Precio="6.5"></Linea>
+    <Linea Producto="MLBTS522205-BLU" Color="BLU" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="14"></Linea>
+    <Linea Producto="MLBSW522202-NVY" Color="NVY" Cantidad="25" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="14"></Linea>
+  </Encabezado>
+</Sagemobile>

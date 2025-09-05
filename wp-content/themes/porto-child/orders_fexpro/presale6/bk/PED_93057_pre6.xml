@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="93057" Cliente="0000" Nombre="Virginia Coloma" Fecha="23/12/2021" Tipo="1" Fecha_Entrega="23/12/2021" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS CHILE_PIJAMAS MUJER NBA TIENDA FW22" ResponsablePedido="" ResponsableImportacion="" Contacto="Virginia Coloma" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBAPJ622261-GRY" Color="GRY" Cantidad="42" size_XS="168" size_S="336" size_M="336" size_L="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="10"></Linea>
+    <Linea Producto="NBAPJ622261-GRY1" Color="GRY1" Cantidad="42" size_XS="168" size_S="336" size_M="336" size_L="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="10"></Linea>
+    <Linea Producto="NBAPJ622261-GRY2" Color="GRY2" Cantidad="34" size_XS="136" size_S="272" size_M="272" size_L="136" Unit_Box_Qty="24" Total_Box_Qty="816" Precio="10"></Linea>
+    <Linea Producto="NBAPJ622261-GRY3" Color="GRY3" Cantidad="34" size_XS="136" size_S="272" size_M="272" size_L="136" Unit_Box_Qty="24" Total_Box_Qty="816" Precio="10"></Linea>
+    <Linea Producto="NBAPJ622264-GRY" Color="GRY" Cantidad="34" size_XS="136" size_S="272" size_M="272" size_L="136" Unit_Box_Qty="24" Total_Box_Qty="816" Precio="9"></Linea>
+    <Linea Producto="NBAPJ622264-PUR" Color="PUR" Cantidad="34" size_XS="136" size_S="272" size_M="272" size_L="136" Unit_Box_Qty="24" Total_Box_Qty="816" Precio="9"></Linea>
+    <Linea Producto="NBAPJ622264-PNK" Color="PNK" Cantidad="26" size_XS="104" size_S="208" size_M="208" size_L="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="9"></Linea>
+    <Linea Producto="NBAPJ622264-GRY1" Color="GRY1" Cantidad="26" size_XS="104" size_S="208" size_M="208" size_L="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="9"></Linea>
+    <Linea Producto="NBAPJ622267-RED" Color="RED" Cantidad="34" size_XS="136" size_S="272" size_M="272" size_L="136" Unit_Box_Qty="24" Total_Box_Qty="816" Precio="10"></Linea>
+    <Linea Producto="NBAPJ622267-PUR" Color="PUR" Cantidad="34" size_XS="136" size_S="272" size_M="272" size_L="136" Unit_Box_Qty="24" Total_Box_Qty="816" Precio="10"></Linea>
+    <Linea Producto="NBAPJ622267-RED1" Color="RED1" Cantidad="26" size_XS="104" size_S="208" size_M="208" size_L="104" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="10"></Linea>
+    <Linea Producto="NBAPJ622271-PNK" Color="PNK" Cantidad="42" size_XS="168" size_S="336" size_M="336" size_L="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="10"></Linea>
+    <Linea Producto="NBAPJ622271-LHB" Color="LHB" Cantidad="34" size_XS="136" size_S="272" size_M="272" size_L="136" Unit_Box_Qty="24" Total_Box_Qty="816" Precio="10"></Linea>
+    <Linea Producto="NBAPJ622271-PUR" Color="PUR" Cantidad="42" size_XS="168" size_S="336" size_M="336" size_L="168" Unit_Box_Qty="24" Total_Box_Qty="1008" Precio="10"></Linea>
+    <Linea Producto="NBAPJ622271-BLK" Color="BLK" Cantidad="34" size_XS="136" size_S="272" size_M="272" size_L="136" Unit_Box_Qty="24" Total_Box_Qty="816" Precio="10"></Linea>
+  </Encabezado>
+</Sagemobile>

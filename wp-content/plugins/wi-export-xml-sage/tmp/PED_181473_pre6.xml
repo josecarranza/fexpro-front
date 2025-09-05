@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="181473" Cliente="0548" Nombre="Matias Villagran" Fecha="28/08/2023" Tipo="1" Direccion="MONEDA 970 PISO 4, SANTIAGO CENTRO " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Matias Villagran" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MIAHD524105-BK1" Color="BK1" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="13"></Linea>
+    <Linea Producto="MIAHD524105-WH1" Color="WH1" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="13"></Linea>
+    <Linea Producto="RMDHD524105-BK2" Color="BK2" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="13"></Linea>
+    <Linea Producto="RMDHD524105-NV1" Color="NV1" Cantidad="21" size_S="84" size_M="168" size_L="168" size_XL="84" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="13"></Linea>
+    <Linea Producto="PSGHD524105-BK3" Color="BK3" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="13"></Linea>
+    <Linea Producto="PSGHD524105-NV2" Color="NV2" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="13"></Linea>
+    <Linea Producto="BCNHD524105-BK4" Color="BK4" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="13"></Linea>
+    <Linea Producto="BCNHD524105-NV3" Color="NV3" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="13"></Linea>
+  </Encabezado>
+</Sagemobile>

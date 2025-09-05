@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="215723" Cliente="0418" Nombre="Alfredo Reyes" Fecha="05/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="KENNEDY 5413 PISO 6, LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO CHILE 8320000" AgenteEmbarcador="" Observaciones="RIPLEY CHILE - HOMBRE NIKE SS25 Q1" ResponsablePedido="" ResponsableImportacion="" Contacto="Alfredo Reyes" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="N199-10A-NK-CJP" Color="CJP" Cantidad="31" size_S="62" size_M="124" size_L="124" size_XL="62" Unit_Box_Qty="12" Total_Box_Qty="372" Precio="13.5"></Linea>
+    <Linea Producto="N199-44B-NK-CJP" Color="CJP" Cantidad="31" size_S="62" size_M="124" size_L="124" size_XL="62" Unit_Box_Qty="12" Total_Box_Qty="372" Precio="13.5"></Linea>
+    <Linea Producto="N199-4EW-LD-CJP" Color="CJP" Cantidad="21" size_S="42" size_M="84" size_L="84" size_XL="42" Unit_Box_Qty="12" Total_Box_Qty="252" Precio="13.5"></Linea>
+    <Linea Producto="NKDK-00A-RX-CKX" Color="CKX" Cantidad="38" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="12" Total_Box_Qty="456" Precio="28"></Linea>
+    <Linea Producto="NKDK-44B-BQ-CKX" Color="CKX" Cantidad="38" size_S="76" size_M="152" size_L="152" size_XL="76" Unit_Box_Qty="12" Total_Box_Qty="456" Precio="28"></Linea>
+    <Linea Producto="NKDK-44B-NK-CKX" Color="CKX" Cantidad="50" size_S="100" size_M="200" size_L="200" size_XL="100" Unit_Box_Qty="12" Total_Box_Qty="600" Precio="28"></Linea>
+    <Linea Producto="NKDK-4EW-LD-CKX" Color="CKX" Cantidad="43" size_S="86" size_M="172" size_L="172" size_XL="86" Unit_Box_Qty="12" Total_Box_Qty="516" Precio="28"></Linea>
+    <Linea Producto="N199-00A-LD-0U5" Color="0U5" Cantidad="45" size_S="90" size_M="180" size_L="180" size_XL="90" Unit_Box_Qty="12" Total_Box_Qty="540" Precio="13.5"></Linea>
+    <Linea Producto="N199-10A-NK-0U5" Color="0U5" Cantidad="58" size_S="116" size_M="232" size_L="232" size_XL="116" Unit_Box_Qty="12" Total_Box_Qty="696" Precio="13.5"></Linea>
+    <Linea Producto="N199-00A-LD-PA7" Color="PA7" Cantidad="62" size_S="124" size_M="248" size_L="248" size_XL="124" Unit_Box_Qty="12" Total_Box_Qty="744" Precio="13.5"></Linea>
+    <Linea Producto="N199-10A-NK-PA7" Color="PA7" Cantidad="62" size_S="124" size_M="248" size_L="248" size_XL="124" Unit_Box_Qty="12" Total_Box_Qty="744" Precio="13.5"></Linea>
+    <Linea Producto="N199-10A-RX-PA7" Color="PA7" Cantidad="57" size_S="114" size_M="228" size_L="228" size_XL="114" Unit_Box_Qty="12" Total_Box_Qty="684" Precio="13.5"></Linea>
+    <Linea Producto="NKPU-912Z-RX-LYA" Color="LYA" Cantidad="33" size_S="66" size_M="132" size_L="132" size_XL="66" Unit_Box_Qty="12" Total_Box_Qty="396" Precio="28"></Linea>
+    <Linea Producto="N199-44B-NK-0U5" Color="0U5" Cantidad="69" size_S="138" size_M="276" size_L="276" size_XL="138" Unit_Box_Qty="12" Total_Box_Qty="828" Precio="13.5"></Linea>
+    <Linea Producto="NKPU-912Z-LD-LYA" Color="LYA" Cantidad="66" size_S="132" size_M="264" size_L="264" size_XL="132" Unit_Box_Qty="12" Total_Box_Qty="792" Precio="28"></Linea>
+    <Linea Producto="0343-0BOG-NK-SZN" Color="SZN" Cantidad="43" size_S="86" size_M="172" size_L="172" size_XL="86" Unit_Box_Qty="12" Total_Box_Qty="516" Precio="32"></Linea>
+    <Linea Producto="0343-0CRE-LD-SZN" Color="SZN" Cantidad="33" size_S="66" size_M="132" size_L="132" size_XL="66" Unit_Box_Qty="12" Total_Box_Qty="396" Precio="32"></Linea>
+    <Linea Producto="NKPU-CY51-NK-LYA" Color="LYA" Cantidad="66" size_S="132" size_M="264" size_L="264" size_XL="132" Unit_Box_Qty="12" Total_Box_Qty="792" Precio="28"></Linea>
+    <Linea Producto="01NC-012N-NK-F9S" Color="F9S" Cantidad="43" size_S="86" size_M="172" size_L="172" size_XL="86" Unit_Box_Qty="12" Total_Box_Qty="516" Precio="33.5"></Linea>
+    <Linea Producto="01NC-155N-LD-F9S" Color="F9S" Cantidad="33" size_S="66" size_M="132" size_L="132" size_XL="66" Unit_Box_Qty="12" Total_Box_Qty="396" Precio="33.5"></Linea>
+    <Linea Producto="T7GM-NKHO-NK-G23" Color="G23" Cantidad="9" size_S="18" size_M="36" size_L="36" size_XL="18" Unit_Box_Qty="12" Total_Box_Qty="108" Precio="42.5"></Linea>
+    <Linea Producto="T7GM-NKA2-NK-G23" Color="G23" Cantidad="9" size_S="18" size_M="36" size_L="36" size_XL="18" Unit_Box_Qty="12" Total_Box_Qty="108" Precio="42.5"></Linea>
+  </Encabezado>
+</Sagemobile>

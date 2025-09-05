@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="154971" Cliente="LIVER" Nombre="Axel Gonzalez" Fecha="12/12/2022" Tipo="1" Fecha_Entrega="12/12/2022" Direccion="AVENIDA VALLE DE LAS ALAMEDAS #7 FRACCIONAMIENTO INDUSTRIAL LECH " Direccion2="Mexico Estado de México MEXICO ESTADO DE MÉXICO TULTITLAN 54940 54940" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Axel Gonzalez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MLBCJ623204-NV1" Color="NV1" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="258.18965516667"></Linea>
+    <Linea Producto="MLBJK623201-BK1" Color="BK1" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="430.60344829167"></Linea>
+    <Linea Producto="MLBJK623201-BG1" Color="BG1" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="430.60344829167"></Linea>
+    <Linea Producto="MLBJP623202-BK1" Color="BK1" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="344.39655170833"></Linea>
+    <Linea Producto="MLBJP623202-BG1" Color="BG1" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="344.39655170833"></Linea>
+    <Linea Producto="MLBSW623202-OW1" Color="OW1" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="344.39655170833"></Linea>
+    <Linea Producto="MLBTS623205-BG1" Color="BG1" Cantidad="8" size_XS="32" size_S="64" size_M="64" size_L="32" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="171.982758625"></Linea>
+  </Encabezado>
+</Sagemobile>

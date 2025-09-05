@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="199404" Cliente="0451" Nombre="ALFONSO NAVARRO" Fecha="22/03/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="MANUEL RODRIGUEZ NORTE 730, SANTIAGO CENTRO " Direccion2="Chile Región Metropolitana de Santiago SANTIAGO " AgenteEmbarcador="" Observaciones="FALABELLA CHILE - PIJAMAS COLECCIÓN MESSI FW24 Q4&#13;&#10;" ResponsablePedido="" ResponsableImportacion="" Contacto="ALFONSO NAVARRO" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="MSPPJ524201-PK1" Color="PK1" Cantidad="50" size_S="200" size_M="400" size_L="400" size_XL="200" Unit_Box_Qty="24" Total_Box_Qty="1200" Precio="11"></Linea>
+    <Linea Producto="MSPPJ524201-BK1" Color="BK1" Cantidad="75" size_S="300" size_M="600" size_L="600" size_XL="300" Unit_Box_Qty="24" Total_Box_Qty="1800" Precio="11"></Linea>
+  </Encabezado>
+</Sagemobile>

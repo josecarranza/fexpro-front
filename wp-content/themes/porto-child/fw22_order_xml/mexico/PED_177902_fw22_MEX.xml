@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="177902" Cliente="0INN" Nombre="Angel Quezada" Fecha="28/06/2023" Tipo="1" Fecha_Entrega="28/06/2023" Direccion="Humberto Lobo 540-A, Col. Del Valle 540-A" Direccion2="Mexico Nuevo León San Pedro Garza García 66220" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Angel Quezada" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="CAABX524101NV1" Color="NV1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="215.08620691667"></Linea>
+    <Linea Producto="CAASL524101BK1" Color="BK1" Cantidad="9" size_7="36" size_8="54" size_9="72" size_10="36" size_11="18" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="202.15517241667"></Linea>
+    <Linea Producto="CAASL524102BK2" Color="BK2" Cantidad="9" size_7="36" size_8="54" size_9="72" size_10="36" size_11="18" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="202.15517241667"></Linea>
+    <Linea Producto="CAASL524103BL1" Color="BL1" Cantidad="8" size_7="32" size_8="48" size_9="64" size_10="32" size_11="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="120.25862070833"></Linea>
+    <Linea Producto="CAASL524105NV1" Color="NV1" Cantidad="9" size_7="36" size_8="54" size_9="72" size_10="36" size_11="18" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="202.15517241667"></Linea>
+    <Linea Producto="CAASL524106NV1" Color="NV1" Cantidad="8" size_7="32" size_8="48" size_9="64" size_10="32" size_11="16" Unit_Box_Qty="24" Total_Box_Qty="192" Precio="171.982758625"></Linea>
+    <Linea Producto="CAABX524103BK1" Color="BK1" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="215.08620691667"></Linea>
+  </Encabezado>
+</Sagemobile>

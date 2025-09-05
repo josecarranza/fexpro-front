@@ -1,0 +1,2952 @@
+# Copyright (C) 2021 WisdmLabs
+# This file is distributed under the same license as the Customer Specific Pricing for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Customer Specific Pricing for WooCommerce 4.6.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/customer-specific-pricing-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-28T10:59:15+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: customer-specific-pricing-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "Customer Specific Pricing for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wisdmlabs.com/woocommerce-user-specific-pricing-extension/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Allows administrator to add customer specific pricing, role specific & group specific pricing for Simple & Variable WooCommerce Products."
+msgstr ""
+
+#. Author of the plugin
+msgid "WisdmLabs"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wisdmlabs.com"
+msgstr ""
+
+#. translators: %s: Plugin Name
+#: customer-specific-pricing-for-woocommerce.php:231
+msgid "%1$s is inactive. requires PHP version 5.6 or greater"
+msgstr ""
+
+#. translators: %1$s:html %2$s:PHP Version %3$s:html
+#: customer-specific-pricing-for-woocommerce.php:237
+msgid " ( Current PHP version is %1$s %2$s %3$s)"
+msgstr ""
+
+#. translators: %1$s:html %2$s:PHP Version %3$s:html
+#: customer-specific-pricing-for-woocommerce.php:260
+msgid "%1$s %2$s is inactive.%3$s Install and activate %4$sWooCommerce%5$s for %6$s to work."
+msgstr ""
+
+#. translators: v%s:Plugin Version Installed
+#: customer-specific-pricing-for-woocommerce.php:391
+msgid "You have recently updated Customer Specific Pricing plugin to v%s. We have added some performance improvements"
+msgstr ""
+
+#: customer-specific-pricing-for-woocommerce.php:392
+msgid "Know more"
+msgstr ""
+
+#: customer-specific-pricing-for-woocommerce.php:393
+msgid "link will open in a new tab"
+msgstr ""
+
+#: customer-specific-pricing-for-woocommerce.php:394
+msgid "Dismiss"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:28
+msgid "No limit on the maximum value will be applied if the max value range in the last field is not defined"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:29
+msgid "Add [difference-amount] worth additional products to the cart and avail [percent-value] discount."
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:30
+msgid "Congratulations you have got [percent-value] discount."
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:31
+#: includes/cart-discount/class-wdm-csp-cd-application.php:718
+msgid "Continue Shopping"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:45
+#: includes/class-wdm-single-view-tabs.php:123
+#: includes/class-wdm-single-view-tabs.php:156
+msgid "Cart Discounts"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:65
+#: includes/category-pricing/category-template.php:58
+#: includes/global-discount/class-global-discount-settings.php:82
+#: templates/admin/import-page.php:8
+#: templates/rule-section.php:7
+msgid "Notes"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:68
+msgid "The Cart Discount is calculated on the total price of all the eligible products present in the cart."
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:69
+msgid "In a situation when a valid coupon code is applied to the products which are eligible for cart discount, the final price will be calculated by adding the Coupon Code discount and Cart Value Discount."
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:94
+#: includes/global-discount/class-global-discount-settings.php:110
+#: includes/global-discount/class-global-discount-settings.php:466
+#: includes/import-export/import-new/class-wdm-import.php:124
+msgid "Save All"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:119
+msgid "Guest Users"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:155
+msgid "Existing Buyers"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:186
+msgid "First Time Buyers"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:241
+msgid ""
+"Cart discount rules defined above are not applicable on excluded products or categories. \n"
+"        Cart Discounts are not applicable if a User, Role, or a Group is excluded."
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:265
+msgid "Discount Exclusions "
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:274
+#: templates/admin/import-page.php:43
+msgid "Products"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:283
+#: templates/admin/import-page.php:49
+msgid "Categories"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:298
+msgid "Users"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:307
+msgid "User Roles"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:322
+msgid "User Groups"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:343
+msgid "You can limit the maximum discount that a user can avail per order."
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:344
+msgid "This button will be shown on the cart page message & will redirect users to the url you specify in 'Shop More Button Link' below"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:345
+msgid "You can change the link to the custom product page link, default is the shop page link"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:346
+msgid "This will be the message displayed when cart total reaches close to the discount range."
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:347
+msgid "This will be the message displayed when cart total gets eligible for the discount & discount gets applied."
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:348
+msgid "This texts will be replaced by the actual values"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:389
+msgid "Maximum Discount Value Allowed "
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:401
+msgid "Shop More Button Text "
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:413
+msgid "Shop More Button Link "
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:425
+msgid "Message Before Discount Application "
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:439
+msgid "Message After Discount Application "
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:488
+msgid "Cart Value Ranges"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:489
+msgid "You can set the cart discount rules based on cart total amount inside the range"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:494
+msgid "Mimimum Cart Value"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:496
+msgid "Maximum Cart Value"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:497
+msgid "% Discount Value"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:584
+#: includes/category-pricing/category-template.php:50
+#: includes/global-discount/class-global-discount-settings.php:71
+msgid "Please Wait . . ."
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:605
+msgid "Please fill all the fields to add a new rule"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:606
+msgid "Please specify a discount value"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:607
+msgid "Please specify Max Discount"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:608
+msgid "Max. cart total should must be greater than min"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:609
+msgid "Min cart total should must be greater than prev. max cart total"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:610
+msgid "Please check max discount value entered"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:611
+msgid "Discount value cannot be empty"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:612
+msgid "Minimum value can not be empty here"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:613
+msgid "Maximum value can not be empty here"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:614
+msgid "Specify a value between 0 to 100"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:632
+#: includes/category-pricing/class-wdm-wusp-category-pricing.php:223
+#: includes/global-discount/class-global-discount-settings.php:469
+#: includes/import-export/import-new/class-wdm-import.php:130
+msgid "Are you sure to leave this page ?"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:653
+msgid "Cart Discount Settings"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:660
+msgid "Cart Discount Message Threshold "
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:665
+msgid "Set a percentage of 'Minimum Cart Value' after which  the 'Cart Discount Message' is displayed."
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:670
+msgid "(Eg- If $200 is a 'Minimum Cart Value' and 90% is set as a threshold percentage, then 'Cart Discount Message' will be displayed if total cart value is equal to or above $180.)"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:686
+msgid "Discount Rule to apply"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:691
+msgid "This is to select wether to apply the rule giving max. discount or a rule giving min discount on a Order"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:708
+msgid "Minimum"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:709
+msgid "Maximum"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:716
+msgid "Settings Saved"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:720
+msgid "Save Settings"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:749
+msgid "Select Products To Exclude"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:753
+msgid "Selected Products"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:790
+msgid "Select Product Categories To Exclude"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:795
+msgid "Selected Product Categories"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:831
+msgid "Select users to exclude from getting discounts"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:836
+msgid "Selected Users"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:871
+msgid "Select user roles to exclude from getting discounts"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:876
+msgid "Selected User Roles"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:911
+msgid "Select user groups to exclude from getting discounts"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:916
+msgid "Selected User Groups"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:965
+msgid "Search"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:975
+msgid "Save & close"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cart-discount.php:976
+msgid "Cancel"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cd-application.php:139
+#: includes/cart-discount/class-wdm-csp-cd-application.php:173
+msgid "See More"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cd-application.php:208
+msgid "Offer Details"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cd-application.php:215
+msgid "to "
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cd-application.php:215
+msgid "and more"
+msgstr ""
+
+#. translators: %1$s%%: value of applicable % discount %2$s:minimum cart total required %3$s:Max. cart total text
+#: includes/cart-discount/class-wdm-csp-cd-application.php:217
+msgid "Get %1$s%% discount on a cart value %2$s %3$s"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cd-application.php:228
+msgid "Maximum applicable discount : "
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cd-application.php:238
+msgid "Discount will be applicable on the total of eligible products. following products & categories are <strong>not applicabe</strong> for the discounts<br>"
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cd-application.php:241
+msgid "Products : "
+msgstr ""
+
+#: includes/cart-discount/class-wdm-csp-cd-application.php:247
+msgid "Product Categories : "
+msgstr ""
+
+#: includes/cart-discount/data-store/cart-discount-rules.php:58
+msgid "Start date is later than end date"
+msgstr ""
+
+#: includes/cart-discount/data-store/cart-discount-rules.php:77
+msgid "Minimum price must be greater than 0"
+msgstr ""
+
+#: includes/cart-discount/data-store/cart-discount-rules.php:81
+msgid "Minimum cart total is required"
+msgstr ""
+
+#: includes/cart-discount/data-store/cart-discount-rules.php:86
+msgid "Min cart total is greater than max cart total"
+msgstr ""
+
+#: includes/cart-discount/data-store/cart-discount-rules.php:104
+msgid "Selecting Discount type & value is required"
+msgstr ""
+
+#: includes/cart-discount/data-store/cart-discount-rules.php:107
+msgid "Discount value must be greater than 0"
+msgstr ""
+
+#: includes/cart-discount/data-store/cart-discount-rules.php:110
+msgid "Select % discount value between 0 to 100"
+msgstr ""
+
+#: includes/cart-discount/data-store/cart-discount-rules.php:118
+msgid "Rule Title Is Empty"
+msgstr ""
+
+#: includes/category-pricing/category-template.php:37
+msgid "Category Specific Pricing"
+msgstr ""
+
+#: includes/category-pricing/category-template.php:62
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:87
+#: templates/rule-section.php:9
+msgid "If a customer is added more than once, the customer-price combination first in the list will be saved, and other combinations will be removed."
+msgstr ""
+
+#: includes/category-pricing/category-template.php:63
+msgid "When a price field is left blank, the regular price will be displayed for that product."
+msgstr ""
+
+#: includes/category-pricing/category-template.php:64
+msgid "Make sure the minimum quantity is set before saving the prices; adding the minimum quantity will ensure the prices are saved and displayed accordingly."
+msgstr ""
+
+#: includes/category-pricing/category-template.php:65
+msgid "The least price will be applicable to a customer belonging to multiple groups/roles with specific prices."
+msgstr ""
+
+#: includes/category-pricing/category-template.php:66
+msgid "The least price will be applicable for a product belonging to multiple categories with specific prices."
+msgstr ""
+
+#: includes/category-pricing/category-template.php:67
+msgid "The priorities for prices applied to products are as follows"
+msgstr ""
+
+#: includes/category-pricing/category-template.php:69
+msgid "Customer Specific Product Pricing."
+msgstr ""
+
+#: includes/category-pricing/category-template.php:70
+msgid "Role Specific Product Pricing."
+msgstr ""
+
+#: includes/category-pricing/category-template.php:71
+msgid "Group Specific Product Pricing."
+msgstr ""
+
+#: includes/category-pricing/category-template.php:72
+msgid "Customer Specific Category Pricing."
+msgstr ""
+
+#: includes/category-pricing/category-template.php:73
+msgid "Role Specific Category Pricing."
+msgstr ""
+
+#: includes/category-pricing/category-template.php:74
+msgid "Group Specific Category Pricing."
+msgstr ""
+
+#: includes/category-pricing/category-template.php:75
+msgid "Global Disscounts"
+msgstr ""
+
+#: includes/category-pricing/category-template.php:76
+msgid "Sale price (if any)"
+msgstr ""
+
+#: includes/category-pricing/category-template.php:77
+#: includes/class-wdm-wusp-ajax.php:836
+#: includes/single-view/settings/search_setting.php:69
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:96
+#: templates/rule-section.php:18
+msgid "Regular Price"
+msgstr ""
+
+#: includes/category-pricing/category-template.php:107
+msgid "User based category pricing"
+msgstr ""
+
+#: includes/category-pricing/category-template.php:129
+msgid "Role based category pricing"
+msgstr ""
+
+#: includes/category-pricing/category-template.php:151
+msgid "Group based category pricing"
+msgstr ""
+
+#: includes/category-pricing/category-template.php:174
+msgid "Save Pricing"
+msgstr ""
+
+#: includes/category-pricing/class-wdm-wusp-category-pricing.php:36
+#: includes/group-specific-pricing/class-wdm-wusp-simple-products-gsp.php:61
+#: includes/group-specific-pricing/class-wdm-wusp-variable-products-gsp.php:120
+#: includes/role-specific-pricing/class-wdm-wusp-simple-products-rsp.php:65
+#: includes/role-specific-pricing/class-wdm-wusp-variable-products-rsp.php:126
+#: includes/user-specific-pricing/class-wdm-wusp-simple-products-usp.php:113
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:141
+msgid "Discount Type"
+msgstr ""
+
+#: includes/category-pricing/class-wdm-wusp-category-pricing.php:36
+#: includes/class-wdm-wusp-ajax.php:742
+#: includes/global-discount/class-global-discount-settings.php:277
+#: includes/global-discount/class-global-discount-settings.php:304
+#: includes/group-specific-pricing/class-wdm-wusp-variable-products-gsp.php:77
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:76
+#: includes/role-specific-pricing/class-wdm-wusp-variable-products-rsp.php:56
+#: includes/role-specific-pricing/class-wdm-wusp-variable-products-rsp.php:87
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:65
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:284
+#: templates/print_group_specific_pricing_tab_content.php:26
+#: templates/print_role_specific_pricing_tab_content.php:7
+#: templates/print_user_specific_pricing_tab_content.php:43
+msgid "Flat"
+msgstr ""
+
+#: includes/category-pricing/class-wdm-wusp-category-pricing.php:523
+#: includes/global-discount/class-global-discount-settings.php:396
+msgid "Select Role"
+msgstr ""
+
+#: includes/category-pricing/class-wdm-wusp-category-pricing.php:557
+#: includes/global-discount/class-global-discount-settings.php:429
+msgid "Select Group"
+msgstr ""
+
+#: includes/class-wdm-apply-usp-product-price.php:105
+msgid "Minimum purchasable quantity for this product is  "
+msgstr ""
+
+#: includes/class-wdm-apply-usp-product-price.php:119
+msgid "Minimum purchasable quantity for this product is "
+msgstr ""
+
+#. translators: %1$s :Product Name, %2$d: minimum purchase quantity
+#: includes/class-wdm-apply-usp-product-price.php:182
+msgid "Minimum purchase quantity for %1$s is %2$d"
+msgstr ""
+
+#: includes/class-wdm-apply-usp-product-price.php:322
+msgid "Show Special Pricing"
+msgstr ""
+
+#: includes/class-wdm-apply-usp-product-price.php:457
+msgid "Minimum purchase quantity for following product/products is changed : "
+msgstr ""
+
+#: includes/class-wdm-apply-usp-product-price.php:520
+#: includes/class-wdm-apply-usp-product-price.php:536
+#: includes/user-specific-pricing/class-wdm-wusp-simple-products-usp.php:60
+msgid "Product Total:"
+msgstr ""
+
+#: includes/class-wdm-apply-usp-product-price.php:641
+#: includes/class-wdm-apply-usp-product-price.php:646
+#: includes/class-wdm-apply-usp-product-price.php:1522
+msgid "Quantity Discount"
+msgstr ""
+
+#: includes/class-wdm-apply-usp-product-price.php:781
+msgid " and more :"
+msgstr ""
+
+#: includes/class-wdm-apply-usp-product-price.php:1523
+msgid "and more :"
+msgstr ""
+
+#: includes/class-wdm-plugin-links.php:44
+msgid "Docs"
+msgstr ""
+
+#: includes/class-wdm-plugin-links.php:45
+msgid "Support"
+msgstr ""
+
+#: includes/class-wdm-plugin-links.php:46
+msgid "Changelog"
+msgstr ""
+
+#: includes/class-wdm-product-tables.php:143
+msgid "Quantity Based Special Pricing Options"
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:80
+#: templates/admin/import-page.php:2
+msgid "Import Pricing Rules"
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:82
+msgid "Importing . .(Please do not close this window until the  import is finished)"
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:83
+msgid "File Imported Successfully"
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:84
+msgid "Total number of rows found "
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:85
+msgid ". Total number of rows inserted "
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:86
+msgid ", total number of rows updated "
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:87
+msgid ", and total number of rows skipped "
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:90
+msgid "User Specific Sample"
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:91
+msgid "Role Specific Sample"
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:92
+msgid "Group Specific Sample"
+msgstr ""
+
+#. translators: HelpContext
+#: includes/class-wdm-single-view-tabs.php:94
+msgid "%1$sRecords in a Batch%2$s : specifies number of records to process at a time. %3$s %4$sSimultaneous Batches%5$s : specifies number of such batches to process at the same time."
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:114
+msgid "CSP Administration"
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:120
+#: includes/class-wdm-single-view-tabs.php:153
+#: includes/single-view/class-wdm-single-view.php:73
+msgid "Product Pricing"
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:121
+#: includes/class-wdm-single-view-tabs.php:154
+#: templates/admin/search-by-page.php:2
+msgid "Search By & Delete"
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:122
+#: includes/class-wdm-single-view-tabs.php:155
+msgid "Category Pricing"
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:124
+#: includes/class-wdm-single-view-tabs.php:157
+#: includes/global-discount/class-global-discount-settings.php:43
+#: templates/admin/import-page.php:55
+msgid "Global Discounts"
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:125
+#: includes/class-wdm-single-view-tabs.php:158
+#: templates/admin/import-page.php:101
+msgid "Import"
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:126
+#: includes/class-wdm-single-view-tabs.php:159
+#: includes/import-export/export/class-wdm-wusp-export.php:49
+#: templates/admin/export-page.php:52
+#: templates/admin/export-page.php:84
+#: templates/admin/export-page.php:126
+msgid "Export"
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:127
+#: includes/class-wdm-single-view-tabs.php:160
+msgid "Settings"
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:128
+#: includes/class-wdm-single-view-tabs.php:161
+msgid "What's New"
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:129
+msgid "Feedback"
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:249
+msgid "1-Question Feedback"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:235
+#: includes/class-wdm-wusp-ajax.php:276
+msgid "There is some error in option selection."
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:315
+msgid "Set Prices"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:318
+msgid "Edit this rule"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:319
+msgid "Back"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:362
+msgid "customer"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:365
+msgid "role"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:368
+msgid "group"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:401
+msgid "Selection List empty."
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:462
+msgid "--Select--"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:466
+msgid "Select"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:501
+msgid "Select Product"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:522
+msgid "Please add Products."
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:542
+#: includes/class-wdm-wusp-functions.php:1471
+msgid "Activate the 'Groups' Plugin to enjoy the benefits of Group Specific Pricing."
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:553
+#: includes/class-wdm-wusp-ajax.php:830
+#: includes/single-view/settings/query_log_setting.php:58
+#: includes/single-view/settings/search_setting.php:25
+msgid "Customer"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:563
+#: includes/class-wdm-wusp-ajax.php:828
+#: includes/single-view/settings/query_log_setting.php:60
+msgid "Role"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:577
+msgid "Groups"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:691
+msgid "Some details are not found."
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:829
+#: includes/single-view/settings/query_log_setting.php:62
+msgid "Group"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:833
+msgid "Product ID"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:834
+#: includes/single-view/settings/search_setting.php:68
+msgid "Product Name"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:837
+msgid "Sale Price"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:838
+msgid "Flat or Discounts"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:839
+#: includes/group-specific-pricing/class-wdm-wusp-simple-products-gsp.php:64
+#: includes/group-specific-pricing/class-wdm-wusp-variable-products-gsp.php:123
+#: includes/role-specific-pricing/class-wdm-wusp-simple-products-rsp.php:68
+#: includes/role-specific-pricing/class-wdm-wusp-variable-products-rsp.php:128
+#: includes/single-view/settings/search_setting.php:70
+#: includes/user-specific-pricing/class-wdm-wusp-simple-products-usp.php:116
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:144
+msgid "Min Qty"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:840
+#: includes/group-specific-pricing/class-wdm-wusp-simple-products-gsp.php:67
+#: includes/group-specific-pricing/class-wdm-wusp-variable-products-gsp.php:126
+#: includes/role-specific-pricing/class-wdm-wusp-simple-products-rsp.php:71
+#: includes/role-specific-pricing/class-wdm-wusp-variable-products-rsp.php:130
+#: includes/user-specific-pricing/class-wdm-wusp-simple-products-usp.php:119
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:147
+msgid "Value"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:862
+#: includes/single-view/settings/query_log_setting.php:71
+msgid "Rule Title"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:869
+msgid "Rule title will help identify the rules generated for Users/Roles/Groups."
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:881
+#: includes/single-view/settings/general.php:110
+msgid "Update Rule"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:881
+msgid "Save Rule"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:1187
+msgid "Unable to delete this product rule as it was assigned to a category-based product rule. Please make changes in the category pricing tab."
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:1198
+msgid "No details saved."
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:1277
+#: includes/class-wdm-wusp-ajax.php:1317
+#: includes/class-wdm-wusp-ajax.php:1380
+#: includes/class-wdm-wusp-ajax.php:1572
+#: includes/single-view/class-wdm-subrule-management.php:703
+msgid "Direct"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:1575
+msgid "Flat Price"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:1626
+msgid "Rule Deleted."
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:1628
+msgid "Please select some Log"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:1811
+#: includes/class-wdm-wusp-ajax.php:1890
+#: includes/class-wdm-wusp-ajax.php:2093
+#: includes/class-wdm-wusp-ajax.php:2306
+#: includes/class-wdm-wusp-ajax.php:2417
+#: includes/class-wdm-wusp-ajax.php:2439
+#: includes/class-wdm-wusp-ajax.php:2468
+#: includes/class-wdm-wusp-ajax.php:2571
+#: includes/class-wdm-wusp-ajax.php:2587
+msgid "Security Check"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:1835
+#: includes/class-wdm-wusp-ajax.php:1912
+msgid "You are not allowed to export"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:1846
+msgid "Sorry, Rule type selection is invalid"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:1849
+msgid "Sorry, Trying to export the rules for unspecified feature"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:2104
+msgid "Unable to create backup of all the rules or no CSP rules were found."
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:2141
+#: includes/class-wdm-wusp-ajax.php:2200
+#: includes/class-wdm-wusp-ajax.php:2232
+msgid "Security Error, Nonce verification failed"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:2141
+#: includes/class-wdm-wusp-ajax.php:2200
+#: includes/class-wdm-wusp-ajax.php:2232
+msgid "Please check if the user has permission to import the CSV files"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:2147
+msgid "Unable to get the upload directory"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:2160
+msgid "Only csv files are supported for the CSP rule imports please check if you have selected the correct file"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:2166
+msgid "Failed to create upload directory"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:2454
+msgid "The requested file not found or already deleated."
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:2491
+msgid "Unable to connect using the FTP details provided, please verify the same."
+msgstr ""
+
+#: includes/class-wdm-wusp-functions.php:340
+msgid "Rule could not be created"
+msgstr ""
+
+#: includes/class-wdm-wusp-functions.php:537
+msgid "Processing Product ID "
+msgstr ""
+
+#. translators:
+#: includes/class-wdm-wusp-functions.php:1020
+msgid "Rule created successfully. Click %1$s here %2$s to add new rule."
+msgstr ""
+
+#. translators:
+#: includes/class-wdm-wusp-functions.php:1023
+msgid "Rule updated successfully. Click %1$s here %2$s to add new rule."
+msgstr ""
+
+#: includes/class-wdm-wusp-functions.php:1030
+msgid "Values may be improper."
+msgstr ""
+
+#: includes/class-wdm-wusp-functions.php:1044
+msgid "Initializing"
+msgstr ""
+
+#: includes/class-wdm-wusp-functions.php:1474
+msgid " the 'Groups' Plugin to enjoy the benefits of Group Specific Pricing."
+msgstr ""
+
+#: includes/class-wdm-wusp-install.php:423
+msgid "Please try to deactivate and then activate the plugin again."
+msgstr ""
+
+#: includes/csp-api/csp-api.php:112
+msgid "WooCommerce plugin is not active. In order to make the CSP API plugin work, you need to install and activate WooCommerce first."
+msgstr ""
+
+#: includes/csp-api/csp-api.php:127
+msgid "Customer Specific Pricing plugin is not active. In order to make the CSP API plugin work, you need to install and activate Customer Specific Pricing first."
+msgstr ""
+
+#: includes/csp-api/includes/api/class-abstract-csp-mappings.php:71
+msgid "Sorry, you are not allowed to create/ add customer specific pricing."
+msgstr ""
+
+#: includes/csp-api/includes/api/class-abstract-csp-mappings.php:87
+#: includes/csp-api/includes/api/class-abstract-csp-mappings.php:103
+msgid "Sorry, you cannot list resources."
+msgstr ""
+
+#: includes/csp-api/includes/api/class-abstract-csp-mappings.php:118
+#: includes/csp-api/includes/api/class-abstract-csp-mappings.php:141
+msgid "Sorry, you are not allowed to delete these resources."
+msgstr ""
+
+#: includes/csp-api/includes/api/class-abstract-csp-mappings.php:157
+#: includes/csp-api/includes/api/class-abstract-csp-mappings.php:182
+msgid "Sorry, you are not allowed to delete this resource."
+msgstr ""
+
+#: includes/csp-api/includes/api/class-abstract-csp-mappings.php:173
+msgid "Hash is not valid."
+msgstr ""
+
+#: includes/csp-api/includes/api/class-abstract-csp-mappings.php:174
+msgid "Customer mapping already exists."
+msgstr ""
+
+#: includes/csp-api/includes/api/class-abstract-csp-mappings.php:175
+msgid "Group mapping already exists."
+msgstr ""
+
+#: includes/csp-api/includes/api/class-abstract-csp-mappings.php:176
+msgid "Role mapping already exists."
+msgstr ""
+
+#: includes/csp-api/includes/api/class-abstract-csp-mappings.php:177
+msgid "Not a valid user."
+msgstr ""
+
+#: includes/csp-api/includes/api/class-abstract-csp-mappings.php:178
+msgid "Not a valid group."
+msgstr ""
+
+#: includes/csp-api/includes/api/class-abstract-csp-mappings.php:179
+msgid "Not a valid Role."
+msgstr ""
+
+#: includes/csp-api/includes/api/class-abstract-csp-mappings.php:180
+msgid "Not a valid product."
+msgstr ""
+
+#: includes/csp-api/includes/api/class-abstract-csp-mappings.php:181
+msgid "Pairing doesn't exists."
+msgstr ""
+
+#: includes/csp-api/includes/api/class-abstract-csp-mappings.php:183
+msgid "Sorry, you are not allowed to view this resource."
+msgstr ""
+
+#: includes/csp-api/includes/api/class-abstract-csp-mappings.php:184
+msgid "Not a valid set of data."
+msgstr ""
+
+#: includes/csp-api/includes/api/class-abstract-csp-mappings.php:185
+msgid "Invalid Discount Value"
+msgstr ""
+
+#: includes/csp-api/includes/api/class-abstract-csp-mappings.php:208
+msgid "Record updated."
+msgstr ""
+
+#: includes/csp-api/includes/api/class-abstract-csp-mappings.php:209
+msgid "Record added."
+msgstr ""
+
+#: includes/global-discount/class-global-discount-settings.php:85
+msgid "Global discounts will be applied on all the products listed on the site."
+msgstr ""
+
+#: includes/global-discount/class-global-discount-settings.php:86
+msgid "If the category discounts feature is enabled, then the product level discounts will be prioratized over the global discounts."
+msgstr ""
+
+#: includes/global-discount/class-global-discount-settings.php:134
+msgid "User Specific Rules"
+msgstr ""
+
+#: includes/global-discount/class-global-discount-settings.php:162
+msgid "Role Specific Rules"
+msgstr ""
+
+#: includes/global-discount/class-global-discount-settings.php:193
+msgid "Group Specific Rules"
+msgstr ""
+
+#: includes/global-discount/class-global-discount-settings.php:276
+#: includes/global-discount/class-global-discount-settings.php:303
+msgid "Select Pricing Type"
+msgstr ""
+
+#: includes/global-discount/class-global-discount-settings.php:278
+#: includes/global-discount/class-global-discount-settings.php:305
+msgid "% Discount"
+msgstr ""
+
+#: includes/global-discount/class-global-discount-settings.php:280
+#: includes/global-discount/class-global-discount-settings.php:307
+msgid "Minimum Quantity"
+msgstr ""
+
+#: includes/global-discount/class-global-discount-settings.php:281
+msgid "Flat Price / % Discount"
+msgstr ""
+
+#: includes/global-discount/class-global-discount-settings.php:308
+msgid "Flat Price/% Discount"
+msgstr ""
+
+#: includes/global-discount/class-global-discount-settings.php:458
+#: includes/import-export/import-new/class-wdm-import.php:91
+msgid "No valid rules found to save, do you want to remove all the existing global discount rules"
+msgstr ""
+
+#: includes/global-discount/class-global-discount-settings.php:459
+#: includes/import-export/import-new/class-wdm-import.php:92
+msgid "Failed to save the rules please try again"
+msgstr ""
+
+#: includes/global-discount/class-global-discount-settings.php:460
+#: includes/import-export/import-new/class-wdm-import.php:93
+msgid "Request timeout occured"
+msgstr ""
+
+#: includes/global-discount/class-global-discount-settings.php:467
+#: includes/import-export/import-new/class-wdm-import.php:125
+msgid "Saving"
+msgstr ""
+
+#: includes/global-discount/class-global-discount-settings.php:468
+#: includes/import-export/import-new/class-wdm-import.php:126
+msgid "Successfully Updated The Rules"
+msgstr ""
+
+#: includes/group-specific-pricing/class-wdm-wusp-simple-products-gsp.php:50
+#: includes/group-specific-pricing/class-wdm-wusp-simple-products-gsp.php:78
+#: includes/group-specific-pricing/class-wdm-wusp-variable-products-gsp.php:96
+#: includes/group-specific-pricing/class-wdm-wusp-variable-products-gsp.php:218
+msgid "Group Based Pricing"
+msgstr ""
+
+#: includes/group-specific-pricing/class-wdm-wusp-simple-products-gsp.php:58
+#: includes/group-specific-pricing/class-wdm-wusp-variable-products-gsp.php:117
+msgid "Group Name"
+msgstr ""
+
+#: includes/import-export/class-wdm-wusp-import-export.php:53
+#: includes/import-export/class-wdm-wusp-import-export.php:87
+msgid "User Specific Pricing"
+msgstr ""
+
+#: includes/import-export/class-wdm-wusp-import-export.php:54
+#: includes/import-export/class-wdm-wusp-import-export.php:88
+#: includes/single-view/settings/general.php:47
+msgid "Role Specific Pricing"
+msgstr ""
+
+#: includes/import-export/class-wdm-wusp-import-export.php:55
+#: includes/import-export/class-wdm-wusp-import-export.php:89
+#: includes/single-view/settings/general.php:48
+msgid "Group Specific Pricing"
+msgstr ""
+
+#: includes/import-export/export/class-wdm-wusp-export.php:44
+msgid "Please Assign User Specific Prices to export the CSV file successfully."
+msgstr ""
+
+#: includes/import-export/export/class-wdm-wusp-export.php:45
+msgid "Please Assign Role Specific Prices to export the CSV file successfully."
+msgstr ""
+
+#: includes/import-export/export/class-wdm-wusp-export.php:46
+msgid "Please Assign Group Specific Prices to export the CSV file successfully."
+msgstr ""
+
+#: includes/import-export/export/class-wdm-wusp-export.php:47
+msgid "Please Wait"
+msgstr ""
+
+#: includes/import-export/export/class-wdm-wusp-export.php:48
+msgid "The export request you made is timed out, please try again"
+msgstr ""
+
+#: includes/import-export/export/class-wdm-wusp-export.php:50
+#: templates/admin/export-page.php:55
+msgid "Get Product List"
+msgstr ""
+
+#: includes/import-export/export/class-wdm-wusp-export.php:51
+msgid "Error generating the product list"
+msgstr ""
+
+#: includes/import-export/export/class-wdm-wusp-export.php:52
+msgid "Please wait, Generation of the CSP rule backup is in progress."
+msgstr ""
+
+#: includes/import-export/export/class-wdm-wusp-export.php:53
+msgid "The backup is successfuly scheduled as per your request"
+msgstr ""
+
+#: includes/import-export/export/class-wdm-wusp-export.php:94
+msgid "Backup/Export CSP Rules"
+msgstr ""
+
+#: includes/import-export/export/class-wdm-wusp-export.php:108
+#: includes/import-export/export/class-wdm-wusp-export.php:115
+msgid "Export Rules"
+msgstr ""
+
+#: includes/import-export/export/class-wdm-wusp-export.php:110
+#: includes/import-export/export/class-wdm-wusp-export.php:117
+msgid "Schedule Backups"
+msgstr ""
+
+#: includes/import-export/import-new/class-import-commons.php:38
+msgid "Empty or Invalid File Headers"
+msgstr ""
+
+#: includes/import-export/import-new/class-import-commons.php:52
+msgid "File headers did not matched any CSP rule type for Import"
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:58
+msgid "Invalid schedule details."
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:87
+msgid "Unable to connect using the FTP/SFTP credentials provided"
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:95
+msgid "Failed to schedule import action."
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:100
+msgid "Succesfully added & scheduled the import"
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:108
+msgid "Date and time is required to set import schedule for once."
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:115
+msgid "Cannot schedule the import for the past time/date"
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:122
+msgid "Please select the time in HH:MM(24Hr) format"
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:142
+msgid "Please select the correct weekday & time in HH:MM(24Hr) format"
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:170
+msgid "Invalid schedule type"
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:177
+msgid "The file URL is invalid"
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:181
+msgid "The file is not found on the url shared."
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:189
+#: includes/import-export/import-new/class-scheduled-imports.php:196
+msgid "Fields FTP URL, Username, File Path are required."
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:204
+msgid "Please select correct file type"
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:212
+msgid "Deleted the selected scheduled import action"
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:214
+msgid "Failed to delete the scheduled action or action does not exists"
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:220
+msgid "Details not found for the scheduled import."
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:235
+msgid "The file specified in invalid"
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:268
+#: includes/import-export/import-new/class-scheduled-imports.php:349
+msgid "Unable to create the directory to store the file fetched"
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:276
+msgid "Unable to download the file specified by the link"
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:311
+#: includes/import-export/import-new/class-scheduled-imports.php:337
+msgid "Unable to get the file from FTP"
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:317
+msgid "Unable to use SFTP connection, libssh2 might be missing please contact your host."
+msgstr ""
+
+#: includes/import-export/import-new/class-scheduled-imports.php:342
+msgid "Invalid connection type"
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:50
+msgid "Import CSP Rules"
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:62
+#: includes/import-export/import-new/class-wdm-import.php:69
+msgid "Import Rules"
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:64
+#: includes/import-export/import-new/class-wdm-import.php:71
+msgid "Schedule Imports"
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:94
+msgid "The date selected seems invalid please check again."
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:95
+msgid "The time selected seems invalid please check again."
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:96
+msgid "The weekday selected seems invalid please check again."
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:97
+msgid "Please select by which method you want to import the file."
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:98
+msgid "The file URL entered seems invalid please check again."
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:99
+msgid "The FTP/SFTP URL entered seems invalid please check again."
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:100
+msgid "The file path entered is invalid or empty"
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:105
+msgid "Importing, User Specific Rules For Products Based On Product Id's"
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:106
+msgid "Importing, Role Specific Rules For Products Based On Product Id's"
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:107
+msgid "Importing, Group Specific Rules For Products Based On Product Id's"
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:108
+msgid "Importing, User Specific Rules For Products Based On SKU"
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:109
+msgid "Importing, Role Specific Rules For Products Based On SKU"
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:110
+msgid "Importing, Group Specific Rules For Products Based On SKU"
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:111
+msgid "Importing, User Specific Rules For Categories"
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:112
+msgid "Importing, Role Specific Rules For Categories"
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:113
+msgid "Importing, Group Specific Rules For Categories"
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:114
+msgid "Importing, User Specific Sitewide(global) Rules"
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:115
+msgid "Importing, Role Specific Sitewide(global) Rules "
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:116
+msgid "Importing, Group Specific Sitewide(global) Rules "
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:127
+msgid "Please Wait, File upload is in progress"
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:128
+msgid "The CSV file is uploaded successfully, Starting Import."
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:129
+#: includes/import-export/import-new/import-page-template.php:138
+msgid "Select a file & import"
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:131
+msgid "CSP Import Notification"
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:132
+msgid "Preparing the file for import"
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:134
+msgid "Success, connection using the credentials specified is working as expected."
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:135
+#: includes/import-export/import-new/scheduled-imports-template.php:330
+msgid "Test Connection"
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:136
+#: includes/import-export/import-new/scheduled-imports-template.php:329
+msgid "Schedule File For Import"
+msgstr ""
+
+#: includes/import-export/import-new/class-wdm-import.php:137
+msgid "Are you sure you want to delete the schedule ?"
+msgstr ""
+
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-category.php:38
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-global.php:38
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-product-sku.php:40
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-product.php:37
+#: includes/import-export/import-new/file-type-imports/class-import-rsp-category.php:38
+#: includes/import-export/import-new/file-type-imports/class-import-rsp-global.php:38
+#: includes/import-export/import-new/file-type-imports/class-import-rsp-product-sku.php:33
+#: includes/import-export/import-new/file-type-imports/class-import-rsp-product.php:30
+#: includes/import-export/import-new/file-type-imports/class-import-usp-category.php:38
+#: includes/import-export/import-new/file-type-imports/class-import-usp-global.php:38
+#: includes/import-export/import-new/file-type-imports/class-import-usp-product-sku.php:33
+#: includes/import-export/import-new/file-type-imports/class-import-usp-product.php:38
+msgid "Already Exists"
+msgstr ""
+
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-category.php:90
+#: includes/import-export/import-new/file-type-imports/class-import-rsp-category.php:90
+#: includes/import-export/import-new/file-type-imports/class-import-usp-category.php:90
+msgid "Category not found"
+msgstr ""
+
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-category.php:113
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-global.php:86
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-product.php:115
+msgid "User group not found"
+msgstr ""
+
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-category.php:222
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-global.php:188
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-product.php:225
+#: includes/import-export/import-new/file-type-imports/class-import-rsp-category.php:196
+#: includes/import-export/import-new/file-type-imports/class-import-rsp-global.php:188
+#: includes/import-export/import-new/file-type-imports/class-import-rsp-product.php:190
+#: includes/import-export/import-new/file-type-imports/class-import-usp-category.php:222
+#: includes/import-export/import-new/file-type-imports/class-import-usp-global.php:188
+#: includes/import-export/import-new/file-type-imports/class-import-usp-product.php:222
+#: includes/import-export/import/class-category-rule-import.php:275
+#: includes/import-export/import/class-category-rule-import.php:337
+#: includes/import-export/import/class-category-rule-import.php:399
+#: includes/import-export/import/class-global-rule-import.php:274
+#: includes/import-export/import/class-global-rule-import.php:336
+#: includes/import-export/import/class-global-rule-import.php:398
+msgid "Inserted"
+msgstr ""
+
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-category.php:224
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-global.php:190
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-product.php:227
+#: includes/import-export/import-new/file-type-imports/class-import-rsp-category.php:198
+#: includes/import-export/import-new/file-type-imports/class-import-rsp-global.php:190
+#: includes/import-export/import-new/file-type-imports/class-import-rsp-product.php:192
+#: includes/import-export/import-new/file-type-imports/class-import-usp-category.php:224
+#: includes/import-export/import-new/file-type-imports/class-import-usp-global.php:190
+#: includes/import-export/import-new/file-type-imports/class-import-usp-product.php:224
+msgid "Failed inserting the rule"
+msgstr ""
+
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-category.php:256
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-global.php:222
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-product.php:259
+#: includes/import-export/import-new/file-type-imports/class-import-rsp-category.php:230
+#: includes/import-export/import-new/file-type-imports/class-import-rsp-global.php:222
+#: includes/import-export/import-new/file-type-imports/class-import-rsp-product.php:224
+#: includes/import-export/import-new/file-type-imports/class-import-usp-category.php:256
+#: includes/import-export/import-new/file-type-imports/class-import-usp-global.php:222
+#: includes/import-export/import-new/file-type-imports/class-import-usp-product.php:256
+msgid "Failed updating the rule"
+msgstr ""
+
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-category.php:258
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-global.php:224
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-product.php:261
+#: includes/import-export/import-new/file-type-imports/class-import-rsp-category.php:232
+#: includes/import-export/import-new/file-type-imports/class-import-rsp-global.php:224
+#: includes/import-export/import-new/file-type-imports/class-import-rsp-product.php:226
+#: includes/import-export/import-new/file-type-imports/class-import-usp-category.php:258
+#: includes/import-export/import-new/file-type-imports/class-import-usp-global.php:224
+#: includes/import-export/import-new/file-type-imports/class-import-usp-product.php:258
+#: includes/import-export/import/class-category-rule-import.php:278
+#: includes/import-export/import/class-category-rule-import.php:340
+#: includes/import-export/import/class-category-rule-import.php:402
+#: includes/import-export/import/class-global-rule-import.php:277
+#: includes/import-export/import/class-global-rule-import.php:339
+#: includes/import-export/import/class-global-rule-import.php:401
+msgid "Updated"
+msgstr ""
+
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-product-sku.php:89
+#: includes/import-export/import-new/file-type-imports/class-import-rsp-product-sku.php:82
+#: includes/import-export/import-new/file-type-imports/class-import-usp-product-sku.php:82
+msgid "SKU not found"
+msgstr ""
+
+#: includes/import-export/import-new/file-type-imports/class-import-gsp-product.php:91
+#: includes/import-export/import-new/file-type-imports/class-import-usp-product.php:184
+msgid "Product Id does not exists or the product is not supported"
+msgstr ""
+
+#: includes/import-export/import-new/file-type-imports/class-import-rsp-category.php:86
+#: includes/import-export/import-new/file-type-imports/class-import-rsp-global.php:89
+#: includes/import-export/import-new/file-type-imports/class-import-rsp-product.php:83
+msgid "User role not found"
+msgstr ""
+
+#: includes/import-export/import-new/file-type-imports/class-import-usp-category.php:113
+#: includes/import-export/import-new/file-type-imports/class-import-usp-global.php:86
+#: includes/import-export/import-new/file-type-imports/class-import-usp-product.php:152
+msgid "User not found"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:2
+msgid "Choose Rule CSV file"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:3
+msgid "Start Import"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:41
+#: includes/import-export/import/class-wdm-wusp-import.php:530
+msgid "Processed :"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:65
+#: includes/import-export/import/class-wdm-wusp-import.php:562
+msgid "Inserted:"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:69
+#: includes/import-export/import/class-wdm-wusp-import.php:566
+msgid "Updated:"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:73
+#: includes/import-export/import/class-wdm-wusp-import.php:570
+msgid "Skipped:"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:81
+#: includes/import-export/import-new/scheduled-imports-template.php:154
+#: includes/import-export/import/class-wdm-wusp-import.php:555
+msgid "Download Report"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:98
+#: includes/single-view/settings/general.php:126
+#: includes/single-view/settings/query_log_setting.php:92
+#: includes/single-view/settings/search_setting.php:87
+msgid "Loading..."
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:155
+msgid "CSP Import Update"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:156
+msgid "Update"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:161
+msgid "CSP import related updates will be displayed here"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:175
+#: includes/import-export/import-new/scheduled-imports-template.php:362
+msgid "Instructions"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:184
+msgid "The import file should be formatted as a comma seperated CSV file according to the formats specified in the headers below."
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:185
+msgid "You can simply download the sample files & import the same file by adding data to the rows(CSP rules)."
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:186
+#: includes/import-export/import-new/scheduled-imports-template.php:373
+msgid "Please make sure to not to include the same column multiple times the import functionality will automatically select the file type based on the headers."
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:187
+msgid "You can also enable the older version of import feature from CSP settings"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:191
+#: includes/import-export/import-new/scheduled-imports-template.php:379
+msgid "Product Id Based User Specific Product Level Rules"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:192
+#: includes/import-export/import-new/scheduled-imports-template.php:380
+msgid "File Headers: [user<user_name>,  product_id, min_quantity, %_discount, flat_price]"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:194
+#: includes/import-export/import-new/import-page-template.php:201
+#: includes/import-export/import-new/import-page-template.php:208
+#: includes/import-export/import-new/import-page-template.php:216
+#: includes/import-export/import-new/import-page-template.php:223
+#: includes/import-export/import-new/import-page-template.php:230
+#: includes/import-export/import-new/import-page-template.php:238
+#: includes/import-export/import-new/import-page-template.php:245
+#: includes/import-export/import-new/import-page-template.php:252
+#: includes/import-export/import-new/import-page-template.php:260
+#: includes/import-export/import-new/import-page-template.php:267
+#: includes/import-export/import-new/import-page-template.php:274
+#: includes/import-export/import-new/scheduled-imports-template.php:382
+#: includes/import-export/import-new/scheduled-imports-template.php:389
+#: includes/import-export/import-new/scheduled-imports-template.php:396
+#: includes/import-export/import-new/scheduled-imports-template.php:404
+#: includes/import-export/import-new/scheduled-imports-template.php:411
+#: includes/import-export/import-new/scheduled-imports-template.php:418
+#: includes/import-export/import-new/scheduled-imports-template.php:426
+#: includes/import-export/import-new/scheduled-imports-template.php:433
+#: includes/import-export/import-new/scheduled-imports-template.php:440
+#: includes/import-export/import-new/scheduled-imports-template.php:448
+#: includes/import-export/import-new/scheduled-imports-template.php:455
+#: includes/import-export/import-new/scheduled-imports-template.php:462
+msgid "Download Sample File"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:198
+#: includes/import-export/import-new/scheduled-imports-template.php:386
+msgid "Product Id Based Role Specific Product Level Rules"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:199
+#: includes/import-export/import-new/scheduled-imports-template.php:387
+msgid "File Headers: [role<role_slug>,  product_id, min_quantity, %_discount, flat_price]"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:205
+#: includes/import-export/import-new/scheduled-imports-template.php:393
+msgid "Product Id Based Group Specific Product Level Rules"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:206
+#: includes/import-export/import-new/scheduled-imports-template.php:394
+msgid "File Headers: [group<group_name>,  product_id, min_quantity, %_discount, flat_price]"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:213
+#: includes/import-export/import-new/scheduled-imports-template.php:401
+msgid "Product SKU Based User Specific Product Level Rules"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:214
+#: includes/import-export/import-new/scheduled-imports-template.php:402
+msgid "File Headers: [user<user_name>,  product_sku, min_quantity, %_discount, flat_price]"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:220
+#: includes/import-export/import-new/scheduled-imports-template.php:408
+msgid "Product SKU Based Role Specific Product Level Rules"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:221
+#: includes/import-export/import-new/scheduled-imports-template.php:409
+msgid "File Headers: [role<role_slug>,  product_sku, min_quantity, %_discount, flat_price]"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:227
+#: includes/import-export/import-new/scheduled-imports-template.php:415
+msgid "Product SKU Based Group Specific Product Level Rules"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:228
+#: includes/import-export/import-new/scheduled-imports-template.php:416
+msgid "File Headers: [group<group_name>,  product_sku, min_quantity, %_discount, flat_price]"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:235
+#: includes/import-export/import-new/scheduled-imports-template.php:423
+msgid "User Specific Category Level Rules"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:236
+#: includes/import-export/import-new/import-page-template.php:258
+#: includes/import-export/import-new/scheduled-imports-template.php:424
+#: includes/import-export/import-new/scheduled-imports-template.php:446
+msgid "File Headers: [user<user_name>,  category_slug, min_quantity, %_discount, flat_price]"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:242
+#: includes/import-export/import-new/scheduled-imports-template.php:430
+msgid "Role Specific Category Level Rules"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:243
+#: includes/import-export/import-new/import-page-template.php:265
+#: includes/import-export/import-new/scheduled-imports-template.php:431
+#: includes/import-export/import-new/scheduled-imports-template.php:453
+msgid "File Headers: [role<role_slug>,  category_slug, min_quantity, %_discount, flat_price]"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:249
+#: includes/import-export/import-new/scheduled-imports-template.php:437
+msgid "Group Specific Category Level Rules"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:250
+#: includes/import-export/import-new/import-page-template.php:272
+#: includes/import-export/import-new/scheduled-imports-template.php:438
+#: includes/import-export/import-new/scheduled-imports-template.php:460
+msgid "File Headers: [group<group_name>,  category_slug, min_quantity, %_discount, flat_price]"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:257
+#: includes/import-export/import-new/scheduled-imports-template.php:445
+msgid "User Specific Global(Sitewide) Rules"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:264
+#: includes/import-export/import-new/scheduled-imports-template.php:452
+msgid "Role Specific Global(Sitewide) Rules"
+msgstr ""
+
+#: includes/import-export/import-new/import-page-template.php:271
+#: includes/import-export/import-new/scheduled-imports-template.php:459
+msgid "Group Specific Global(Sitewide) Rules"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:8
+msgid "Scheduled Imports"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:11
+msgid "Add New Schedule"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:20
+#: includes/import-export/import-new/scheduled-imports-template.php:235
+#: templates/admin/backups-page.php:28
+msgid "Sunday"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:21
+#: includes/import-export/import-new/scheduled-imports-template.php:229
+#: templates/admin/backups-page.php:22
+msgid "Monday"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:22
+#: includes/import-export/import-new/scheduled-imports-template.php:230
+#: templates/admin/backups-page.php:23
+msgid "Tuesday"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:23
+#: includes/import-export/import-new/scheduled-imports-template.php:231
+#: templates/admin/backups-page.php:24
+msgid "Wednesday"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:24
+#: includes/import-export/import-new/scheduled-imports-template.php:232
+#: templates/admin/backups-page.php:25
+msgid "Thursday"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:25
+#: includes/import-export/import-new/scheduled-imports-template.php:233
+#: templates/admin/backups-page.php:26
+msgid "Friday"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:26
+#: includes/import-export/import-new/scheduled-imports-template.php:234
+#: templates/admin/backups-page.php:27
+msgid "Saturday"
+msgstr ""
+
+#. translators: v%1s:Time
+#: includes/import-export/import-new/scheduled-imports-template.php:38
+msgid "Daily at %1$s"
+msgstr ""
+
+#. translators: v%1s:Date v%2s:Time
+#: includes/import-export/import-new/scheduled-imports-template.php:42
+msgid "Weekly on every %1$s at %2$s"
+msgstr ""
+
+#. translators: v%1s:Date v%2s:Time
+#: includes/import-export/import-new/scheduled-imports-template.php:46
+msgid "Once on %1$s at %2$s"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:72
+msgid "File Url"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:82
+msgid "FTP Host/Url"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:86
+msgid "FTP Port"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:90
+msgid "FTP Username"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:96
+msgid "FTP Password"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:102
+#: includes/import-export/import-new/scheduled-imports-template.php:132
+msgid "File path"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:112
+msgid "SFTP Host/Url"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:116
+msgid "SFTP Port"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:120
+msgid "SFTP Username"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:126
+msgid "SFTP Password"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:149
+msgid "Last Imported : "
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:172
+msgid "No Scheduled Imports Found"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:190
+msgid "Scheduled CSP Rule Imports"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:197
+msgid "Schedule Title"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:200
+msgid "Ex. Weekly changing prices for reseller role"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:205
+#: templates/admin/backups-page.php:9
+msgid "Frequency"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:209
+msgid "Once"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:210
+#: templates/admin/backups-page.php:13
+msgid "Every Day"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:211
+#: templates/admin/backups-page.php:14
+msgid "Every Week"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:217
+msgid "Date"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:225
+msgid "Week Day"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:241
+#: templates/admin/backups-page.php:33
+msgid "At"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:251
+msgid "Get File Using"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:255
+#: includes/import-export/import-new/scheduled-imports-template.php:277
+msgid "File URL"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:257
+msgid "FTP"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:263
+msgid "SSH2 extension might be disabled on your server, please consult hosting provider."
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:263
+#: includes/import-export/import-new/scheduled-imports-template.php:268
+msgid "SFTP"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:280
+msgid "URL of the file to be imported."
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:286
+msgid "URL"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:292
+msgid "Port"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:301
+msgid "User Name"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:304
+msgid "Username for the SFTP/FTP server"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:309
+msgid "Password"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:312
+msgid "Password of the SFTP/FTP Server"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:317
+msgid "File Path"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:320
+msgid "path/to/the/file/on/a/server.csv"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:331
+msgid "Reset"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:343
+msgid "List Of Scheduled Imports"
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:371
+msgid "The import file should be formatted as a comma seperated CSV file according to the format specified in the headers below."
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:372
+msgid "The scheduled import functionality works with action scheduler, please try to use system crons in case of failure."
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:374
+msgid "Try to keep healthy time duration & file size to avoid timeouts."
+msgstr ""
+
+#: includes/import-export/import-new/scheduled-imports-template.php:375
+msgid "It is recomended to create dedicated FTP/SFTP user with readonly access for scheduled import operation on the remote servers."
+msgstr ""
+
+#: includes/import-export/import/class-category-rule-import.php:267
+#: includes/import-export/import/class-global-rule-import.php:266
+msgid "Invalid User"
+msgstr ""
+
+#: includes/import-export/import/class-category-rule-import.php:281
+#: includes/import-export/import/class-category-rule-import.php:343
+#: includes/import-export/import/class-category-rule-import.php:405
+#: includes/import-export/import/class-global-rule-import.php:280
+#: includes/import-export/import/class-global-rule-import.php:342
+#: includes/import-export/import/class-global-rule-import.php:404
+msgid "Rule already exists"
+msgstr ""
+
+#: includes/import-export/import/class-category-rule-import.php:281
+#: includes/import-export/import/class-category-rule-import.php:343
+#: includes/import-export/import/class-category-rule-import.php:405
+#: includes/import-export/import/class-global-rule-import.php:280
+#: includes/import-export/import/class-global-rule-import.php:342
+#: includes/import-export/import/class-global-rule-import.php:404
+msgid "Filed to add a rule"
+msgstr ""
+
+#: includes/import-export/import/class-category-rule-import.php:329
+#: includes/import-export/import/class-global-rule-import.php:328
+msgid "Invalid User Role"
+msgstr ""
+
+#: includes/import-export/import/class-category-rule-import.php:391
+#: includes/import-export/import/class-global-rule-import.php:390
+msgid "Invalid User Group"
+msgstr ""
+
+#: includes/import-export/import/class-category-rule-import.php:456
+#: includes/import-export/import/class-global-rule-import.php:491
+msgid "Invalid or empty rule values"
+msgstr ""
+
+#: includes/import-export/import/class-category-rule-import.php:460
+msgid "Category does not exists"
+msgstr ""
+
+#: includes/import-export/import/class-category-rule-import.php:464
+#: includes/import-export/import/class-global-rule-import.php:495
+msgid "Minimum quantity should be greater than 0."
+msgstr ""
+
+#: includes/import-export/import/class-category-rule-import.php:469
+#: includes/import-export/import/class-global-rule-import.php:500
+msgid "% discount value should be between 0-100"
+msgstr ""
+
+#: includes/import-export/import/class-category-rule-import.php:473
+#: includes/import-export/import/class-global-rule-import.php:504
+msgid "Price should be greater than or equals to 0"
+msgstr ""
+
+#: includes/import-export/import/class-wdm-wusp-import.php:78
+msgid "Remove"
+msgstr ""
+
+#: includes/import-export/import/class-wdm-wusp-import.php:79
+msgid "Clear selected files"
+msgstr ""
+
+#. translators: browsLabel
+#: includes/import-export/import/class-wdm-wusp-import.php:81
+msgid "Browse %s"
+msgstr ""
+
+#: includes/import-export/import/class-wdm-wusp-import.php:82
+msgid "Upload"
+msgstr ""
+
+#: includes/import-export/import/class-wdm-wusp-import.php:83
+msgid "Upload selected files"
+msgstr ""
+
+#. translators: msgSizeTooLarge
+#: includes/import-export/import/class-wdm-wusp-import.php:85
+msgid "File \"%1$s\" %2$s exceeds maximum allowed upload size of %3$s. Please retry your upload!"
+msgstr ""
+
+#. translators: msgFilesTooLess
+#: includes/import-export/import/class-wdm-wusp-import.php:87
+msgid "You must select at least %s to upload. Please retry your upload!"
+msgstr ""
+
+#. translators: msgFileNotFound
+#: includes/import-export/import/class-wdm-wusp-import.php:89
+msgid "File \"%s\" not found!"
+msgstr ""
+
+#. translators: msgFileSecured
+#: includes/import-export/import/class-wdm-wusp-import.php:91
+msgid "Security restrictions prevent reading the file \"%s\"."
+msgstr ""
+
+#. translators: msgFileNotReadable
+#: includes/import-export/import/class-wdm-wusp-import.php:93
+msgid "File \"%s\" is not readable."
+msgstr ""
+
+#. translators: msgInvalidFileType
+#: includes/import-export/import/class-wdm-wusp-import.php:95
+msgid "Invalid type for file \"%1$s\". Only \"%2$s\" files are supported."
+msgstr ""
+
+#. translators: msgInvalidFileExtension
+#: includes/import-export/import/class-wdm-wusp-import.php:97
+msgid "Invalid extension for file \"%1$s\". Only \"%2$s\" files are supported."
+msgstr ""
+
+#. translators: msgValidationError
+#: includes/import-export/import/class-wdm-wusp-import.php:99
+msgid "File Upload Error"
+msgstr ""
+
+#. translators: dropZoneTitle
+#: includes/import-export/import/class-wdm-wusp-import.php:101
+msgid "Drag & drop files here %s"
+msgstr ""
+
+#. translators: msgSelected
+#: includes/import-export/import/class-wdm-wusp-import.php:103
+msgid "%s selected"
+msgstr ""
+
+#: includes/import-export/import/class-wdm-wusp-import.php:408
+msgid "Please Select valid file type"
+msgstr ""
+
+#: includes/import-export/import/class-wdm-wusp-import.php:626
+msgid "Please Activate the Groups Plugin "
+msgstr ""
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:81
+msgid "Flat Price or % or Min Qty Invalid"
+msgstr ""
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:82
+msgid "Invalid SKU"
+msgstr ""
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:82
+msgid "Invalid Product Id"
+msgstr ""
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:83
+msgid "Record could not be inserted"
+msgstr ""
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:84
+msgid "Record Inserted"
+msgstr ""
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:85
+msgid "Record Updated"
+msgstr ""
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:86
+msgid "Record already exists"
+msgstr ""
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:87
+msgid "User does not exist"
+msgstr ""
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:88
+msgid "Record Skipped"
+msgstr ""
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:89
+msgid "Role does not exist"
+msgstr ""
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:90
+msgid "Group does not exist"
+msgstr ""
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:91
+msgid "% Discount not allowed"
+msgstr ""
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:328
+msgid "Nonce verification failed"
+msgstr ""
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:344
+msgid "Sorry, please check if you have right permissions to proceed with this operation"
+msgstr ""
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:365
+msgid "Please check the csv file"
+msgstr ""
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:371
+msgid "Invalid batch number"
+msgstr ""
+
+#: includes/products-archive/class-product-archive.php:57
+#: includes/settings/class-wdm-csp-general-settings.php:115
+msgid "Please log in to see the Special Offers for you"
+msgstr ""
+
+#: includes/products-archive/class-product-archive.php:95
+#: includes/settings/class-wdm-csp-general-settings.php:128
+msgid "Oops! No special offers available currently"
+msgstr ""
+
+#: includes/role-specific-pricing/class-wdm-wusp-simple-products-rsp.php:55
+#: includes/role-specific-pricing/class-wdm-wusp-variable-products-rsp.php:105
+msgid "Role Based Pricing"
+msgstr ""
+
+#: includes/role-specific-pricing/class-wdm-wusp-simple-products-rsp.php:62
+#: includes/role-specific-pricing/class-wdm-wusp-variable-products-rsp.php:123
+#: includes/single-view/settings/search_setting.php:26
+msgid "User Role"
+msgstr ""
+
+#: includes/role-specific-pricing/class-wdm-wusp-variable-products-rsp.php:114
+msgid "Set minimum quantity"
+msgstr ""
+
+#: includes/role-specific-pricing/class-wdm-wusp-variable-products-rsp.php:115
+msgid "Price will be applicable for min quantity and above."
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:50
+msgid "General Settings"
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:70
+msgid "Check this option to display Strike-through Prices (valid for CSP Plugin prices only)."
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:71
+msgid "Check this option to hide Price Total on the product page."
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:72
+msgid "Check this option to apply CSP Plugin discounts on default product Sale Price."
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:73
+msgid "Add custom text (for eg, Read More) for the products that cannot be purchased as a single quantity."
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:74
+msgid "Check this option to display Regular Price on product page along with CSP prices."
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:75
+msgid "A text to be shown in front of the regular price eg. Regular Price : $500"
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:76
+msgid "A text to be shown on the product page describing the pricing options."
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:77
+msgid "Enabling CSP API allows you to manage the CSP pricing rules using Woocommerce Rest API"
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:78
+msgid "A text to be shown on the CSP product archive page if the user is not signed in."
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:79
+msgid "A text to be shown on the CSP product archive page if no CSP priced products are available for the user"
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:80
+msgid "Enabling this option will let the pricing for parent categories apply on all of its child categories"
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:81
+msgid "Enabling will start showing old import feature settings on the import admin page "
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:95
+msgid "Save changes"
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:106
+msgid "Special Shop Page Settings"
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:107
+msgid "How to create special shop page"
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:112
+msgid "A Message For The Non Logged In User"
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:125
+msgid "No Special Pricing Text"
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:152
+msgid "Show Special Pricing Button Text"
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:178
+msgid "Enable % Discount On Sale Price"
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:207
+msgid "Hide Price Total"
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:237
+msgid "Enable strikethrough"
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:271
+msgid "Show Regular Price"
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:284
+msgid "Regular Price Display Text"
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:312
+msgid "Price Description Text"
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:338
+msgid "Enable API"
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:364
+msgid "Use Old Import Feature"
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:392
+msgid "Category Pricing Settings"
+msgstr ""
+
+#: includes/settings/class-wdm-csp-general-settings.php:396
+msgid "Discounts On Parent Categories"
+msgstr ""
+
+#: includes/single-view/class-wdm-rule-management.php:92
+msgid "Could not insert rule in the database"
+msgstr ""
+
+#: includes/single-view/class-wdm-rule-management.php:133
+msgid "Could not update rule in the database. Please check if correct data is added in the form."
+msgstr ""
+
+#: includes/single-view/class-wdm-single-view.php:61
+msgid "Set Rules"
+msgstr ""
+
+#: includes/single-view/class-wdm-single-view.php:62
+#: includes/single-view/settings/query_log_setting.php:109
+msgid "Rule Log"
+msgstr ""
+
+#. translators: %s productID
+#. translators: %s Product Id
+#: includes/single-view/class-wdm-subrule-management.php:72
+#: includes/single-view/class-wdm-subrule-management.php:138
+msgid "Price is not valid for Product Id: %s"
+msgstr ""
+
+#: includes/single-view/class-wdm-subrule-management.php:114
+msgid "Could not add subrule in the database. Please check if correct data is added in the form."
+msgstr ""
+
+#: includes/single-view/class-wdm-subrule-management.php:165
+msgid "Could not update subrule in the database. Please check if correct data is added in the form."
+msgstr ""
+
+#: includes/single-view/class-wdm-subrule-management.php:401
+msgid "Could not deactivate pre-existing subrules"
+msgstr ""
+
+#: includes/single-view/class-wdm-subrule-management.php:412
+msgid "There was an error while deactivating subrules."
+msgstr ""
+
+#: includes/single-view/settings/general.php:46
+#: includes/user-specific-pricing/class-wdm-wusp-simple-products-usp.php:78
+msgid "Customer Specific Pricing"
+msgstr ""
+
+#: includes/single-view/settings/general.php:56
+#: includes/single-view/settings/query_log_setting.php:72
+msgid "Rule Type"
+msgstr ""
+
+#: includes/single-view/settings/general.php:63
+msgid "--"
+msgstr ""
+
+#: includes/single-view/settings/general.php:86
+msgid " selection empty."
+msgstr ""
+
+#: includes/single-view/settings/general.php:87
+msgid "product selection empty."
+msgstr ""
+
+#: includes/single-view/settings/general.php:88
+msgid "Hide / Show Columns"
+msgstr ""
+
+#: includes/single-view/settings/general.php:89
+msgid "Invalid Quantity Value"
+msgstr ""
+
+#: includes/single-view/settings/general.php:90
+msgid "Please fill Rule Title."
+msgstr ""
+
+#: includes/single-view/settings/general.php:91
+msgid "Please fill some values, all fields are empty."
+msgstr ""
+
+#: includes/single-view/settings/general.php:92
+msgid "All values should be numeric."
+msgstr ""
+
+#: includes/single-view/settings/general.php:94
+msgid "Values should not be less than or equal to zero."
+msgstr ""
+
+#: includes/single-view/settings/general.php:95
+msgid "There are some errors, do you still want to proceed? This will override all other values."
+msgstr ""
+
+#: includes/single-view/settings/general.php:96
+msgid "Some fields are empty, do you still want to proceed? Empty fields will be ignored."
+msgstr ""
+
+#: includes/single-view/settings/general.php:97
+msgid "Some fields have invalid values, do you still want to proceed? Empty fields will be ignored."
+msgstr ""
+
+#: includes/single-view/settings/general.php:98
+msgid "This will override all values. Do you still want to proceed?"
+msgstr ""
+
+#: includes/single-view/settings/general.php:100
+msgid "Loading.."
+msgstr ""
+
+#: includes/single-view/settings/general.php:101
+msgid "Completed"
+msgstr ""
+
+#: includes/single-view/settings/general.php:107
+msgid " or products selection"
+msgstr ""
+
+#: includes/single-view/settings/general.php:108
+msgid "Change "
+msgstr ""
+
+#: includes/single-view/settings/general.php:111
+msgid "Show all"
+msgstr ""
+
+#: includes/single-view/settings/general.php:112
+msgid "Showing all {0}"
+msgstr ""
+
+#: includes/single-view/settings/general.php:113
+msgid "Empty list"
+msgstr ""
+
+#: includes/single-view/settings/general.php:114
+msgid "filter"
+msgstr ""
+
+#: includes/single-view/settings/general.php:115
+msgid "filtered"
+msgstr ""
+
+#: includes/single-view/settings/general.php:116
+msgid "Move selected"
+msgstr ""
+
+#: includes/single-view/settings/general.php:117
+msgid "Move all"
+msgstr ""
+
+#: includes/single-view/settings/general.php:118
+msgid "Remove all"
+msgstr ""
+
+#: includes/single-view/settings/general.php:119
+msgid "Remove selected"
+msgstr ""
+
+#: includes/single-view/settings/general.php:120
+#: includes/single-view/settings/query_log_setting.php:86
+#: includes/single-view/settings/search_setting.php:81
+msgid "Show _MENU_ entries"
+msgstr ""
+
+#: includes/single-view/settings/general.php:121
+#: includes/single-view/settings/query_log_setting.php:87
+#: includes/single-view/settings/search_setting.php:82
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+#: includes/single-view/settings/general.php:122
+#: includes/single-view/settings/query_log_setting.php:88
+#: includes/single-view/settings/search_setting.php:83
+msgid "No data available in table"
+msgstr ""
+
+#: includes/single-view/settings/general.php:123
+#: includes/single-view/settings/query_log_setting.php:89
+#: includes/single-view/settings/search_setting.php:84
+msgid "Showing 0 to 0 of 0 entries"
+msgstr ""
+
+#: includes/single-view/settings/general.php:124
+#: includes/single-view/settings/query_log_setting.php:90
+#: includes/single-view/settings/search_setting.php:85
+msgid "(filtered from _MAX_ total entries)"
+msgstr ""
+
+#: includes/single-view/settings/general.php:125
+#: includes/single-view/settings/query_log_setting.php:91
+#: includes/single-view/settings/search_setting.php:86
+msgid "No matching records found"
+msgstr ""
+
+#: includes/single-view/settings/general.php:127
+msgid "% discount cannot be applied to the product having no price or price 0"
+msgstr ""
+
+#: includes/single-view/settings/general.php:128
+#: includes/single-view/settings/query_log_setting.php:93
+#: includes/single-view/settings/search_setting.php:88
+msgid "Processing..."
+msgstr ""
+
+#: includes/single-view/settings/general.php:129
+#: includes/single-view/settings/query_log_setting.php:94
+#: includes/single-view/settings/search_setting.php:89
+msgid "Search:"
+msgstr ""
+
+#: includes/single-view/settings/general.php:130
+#: includes/single-view/settings/query_log_setting.php:95
+#: includes/single-view/settings/search_setting.php:90
+msgid "First"
+msgstr ""
+
+#: includes/single-view/settings/general.php:131
+#: includes/single-view/settings/query_log_setting.php:96
+#: includes/single-view/settings/search_setting.php:91
+msgid "Previous"
+msgstr ""
+
+#: includes/single-view/settings/general.php:132
+#: includes/single-view/settings/query_log_setting.php:97
+#: includes/single-view/settings/search_setting.php:92
+msgid "Next"
+msgstr ""
+
+#: includes/single-view/settings/general.php:133
+#: includes/single-view/settings/query_log_setting.php:98
+#: includes/single-view/settings/search_setting.php:93
+msgid "Last"
+msgstr ""
+
+#: includes/single-view/settings/general.php:244
+msgid "Edit"
+msgstr ""
+
+#: includes/single-view/settings/general.php:245
+msgid "Clear"
+msgstr ""
+
+#: includes/single-view/settings/query_log_setting.php:42
+#: includes/single-view/settings/query_log_setting.php:75
+msgid "Active"
+msgstr ""
+
+#: includes/single-view/settings/query_log_setting.php:45
+msgid "Inactive"
+msgstr ""
+
+#: includes/single-view/settings/query_log_setting.php:70
+#: includes/single-view/settings/search_setting.php:73
+msgid "Rule No."
+msgstr ""
+
+#: includes/single-view/settings/query_log_setting.php:73
+msgid "Rule Creation Time"
+msgstr ""
+
+#: includes/single-view/settings/query_log_setting.php:74
+msgid "Rule Modification Time"
+msgstr ""
+
+#: includes/single-view/settings/query_log_setting.php:83
+msgid "Please, select some log."
+msgstr ""
+
+#: includes/single-view/settings/query_log_setting.php:84
+msgid "Please, Save some Rule log. Rule log list empty."
+msgstr ""
+
+#: includes/single-view/settings/query_log_setting.php:85
+msgid "Are you sure, You want to delete this rule?"
+msgstr ""
+
+#: includes/single-view/settings/query_log_setting.php:115
+#: templates/admin/search-by-page.php:78
+msgid "Delete"
+msgstr ""
+
+#: includes/single-view/settings/query_log_setting.php:125
+msgid "No inactive rules found."
+msgstr ""
+
+#: includes/single-view/settings/query_log_setting.php:127
+msgid "No active rules found."
+msgstr ""
+
+#: includes/single-view/settings/search_setting.php:30
+msgid "User Group"
+msgstr ""
+
+#: includes/single-view/settings/search_setting.php:71
+msgid "Discounted Price"
+msgstr ""
+
+#: includes/single-view/settings/search_setting.php:72
+msgid "Discount"
+msgstr ""
+
+#: includes/single-view/settings/search_setting.php:74
+msgid "Source"
+msgstr ""
+
+#: includes/single-view/settings/search_setting.php:75
+msgid "Action"
+msgstr ""
+
+#: includes/single-view/settings/search_setting.php:94
+msgid "Do you want to remove this CSP price?"
+msgstr ""
+
+#: includes/single-view/settings/search_setting.php:95
+msgid "When 'Role' specific pricing is removed, then pricing is removed for all the users belonging to that particular 'Role'. Do you want to remove this CSP price?"
+msgstr ""
+
+#: includes/single-view/settings/search_setting.php:96
+msgid "When 'Group' specific pricing is removed, then pricing is removed for all the users belonging to that particular 'Group'. Do you want to remove this CSP price?"
+msgstr ""
+
+#: includes/single-view/settings/search_setting.php:97
+msgid "When 'Role' or 'Group' specific pricing is removed, then pricing is removed for all the users belonging to that particular 'Role' or 'Group'. Do you want to remove this CSP price?"
+msgstr ""
+
+#: includes/single-view/settings/search_setting.php:98
+msgid "Do you want to remove the selected CSP records?"
+msgstr ""
+
+#: includes/single-view/settings/search_setting.php:99
+msgid "When 'Role' or 'Group' specific pricing is removed, then pricing is removed for all the users belonging to that particular 'Role' or 'Group'. Do you want to remove the selected CSP records?"
+msgstr ""
+
+#: includes/single-view/settings/search_setting.php:100
+msgid "Please, select some records to be removed."
+msgstr ""
+
+#: includes/user-specific-pricing/class-wdm-wusp-simple-products-usp.php:102
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:105
+msgid "Customer Based Pricing"
+msgstr ""
+
+#: includes/user-specific-pricing/class-wdm-wusp-simple-products-usp.php:110
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:138
+msgid "Customer Name"
+msgstr ""
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:83
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:93
+#: templates/rule-section.php:15
+msgid "Customer Specific Price"
+msgstr ""
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:85
+msgid "Notes:"
+msgstr ""
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:88
+#: templates/rule-section.php:10
+msgid "If the price field is left blank, then default product price will be shown."
+msgstr ""
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:89
+#: templates/rule-section.php:11
+msgid "Please set the min qty before saving. Only then, the discounted amount will be saved and will reflect to the logged in user, role or group."
+msgstr ""
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:90
+#: templates/rule-section.php:12
+msgid "If a customer belongs to multiple groups (or roles), the least price set for the group (or role) will be applied"
+msgstr ""
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:91
+msgid "The priorities are as follows -"
+msgstr ""
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:94
+#: templates/rule-section.php:16
+msgid "Role Specific Price"
+msgstr ""
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:95
+#: templates/rule-section.php:17
+msgid "Group Specific Price"
+msgstr ""
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:272
+msgid "It seems regular price is not set for variation id(s) : "
+msgstr ""
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:273
+msgid ". Please set regular price for specified variation(s)"
+msgstr ""
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:274
+msgid "It seems that price/quantity mapped to users, roles or groups are not valid. Please verify it again for variation id : "
+msgstr ""
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:282
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:297
+msgid "It seems that price/quantity mapped to users, roles or groups are not valid. Please verify it again."
+msgstr ""
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:283
+#: templates/print_user_specific_pricing_tab_content.php:193
+msgid "Add New Customer-Price Pair"
+msgstr ""
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:296
+msgid "It seems regular price is not set for the product. Please set the regular price."
+msgstr ""
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:298
+msgid "One of your CSP rule include % discount for which entering a regular price is required."
+msgstr ""
+
+#: templates/admin/backups-page.php:19
+msgid "On"
+msgstr ""
+
+#: templates/admin/backups-page.php:40
+msgid "Max. Backups To Store"
+msgstr ""
+
+#: templates/admin/backups-page.php:47
+msgid "Save Schedule"
+msgstr ""
+
+#: templates/admin/backups-page.php:48
+msgid "Remove Schedule"
+msgstr ""
+
+#: templates/admin/backups-page.php:60
+msgid "Recently Created Backups"
+msgstr ""
+
+#: templates/admin/backups-page.php:70
+msgid "Delete backup file : "
+msgstr ""
+
+#: templates/admin/backups-page.php:77
+msgid "No Backups Found"
+msgstr ""
+
+#: templates/admin/export-page.php:5
+msgid "Product Specific Rules"
+msgstr ""
+
+#: templates/admin/export-page.php:10
+msgid "Export Using"
+msgstr ""
+
+#: templates/admin/export-page.php:23
+#: templates/admin/import-page.php:75
+msgid "Product Id"
+msgstr ""
+
+#: templates/admin/export-page.php:29
+#: templates/admin/import-page.php:81
+msgid "SKU"
+msgstr ""
+
+#: templates/admin/export-page.php:38
+#: templates/admin/export-page.php:112
+msgid "Export Type :"
+msgstr ""
+
+#: templates/admin/export-page.php:55
+msgid "Get a CSV file with product Ids & titles for a referance"
+msgstr ""
+
+#: templates/admin/export-page.php:66
+msgid "While exporting using SKU, Please make sure all products have SKUs."
+msgstr ""
+
+#: templates/admin/export-page.php:70
+msgid "The products which do not have an associated SKU will be skipped during the export operation"
+msgstr ""
+
+#: templates/admin/export-page.php:79
+msgid "Bulk Pricing Rules"
+msgstr ""
+
+#: templates/admin/export-page.php:97
+msgid "Category Rules"
+msgstr ""
+
+#: templates/admin/export-page.php:103
+msgid "Global Discount Rules"
+msgstr ""
+
+#: templates/admin/export-page.php:138
+msgid "Select the export type & click the export button to download the CSV file."
+msgstr ""
+
+#: templates/admin/export-page.php:142
+msgid "You can export category specific pricing rules & global discount rules using this feature."
+msgstr ""
+
+#: templates/admin/export-page.php:151
+msgid "Prepare and export all the CSP rules as a ZIP Archive"
+msgstr ""
+
+#: templates/admin/export-page.php:151
+msgid "Export All CSP Rules"
+msgstr ""
+
+#: templates/admin/import-csv-error.php:2
+msgid "Please check the csv file you are trying to upload"
+msgstr ""
+
+#: templates/admin/import-csv-error.php:4
+msgid "Required Headers : "
+msgstr ""
+
+#: templates/admin/import-csv-error.php:8
+msgid "Headers of the uploaded file : "
+msgstr ""
+
+#: templates/admin/import-page.php:11
+msgid "A comma separeted CSV file required for import hence the comma cannot be used as the decimal separetor in CSVs"
+msgstr ""
+
+#: templates/admin/import-page.php:12
+msgid "Please confirm the required CSV file headers before creating the CSV files."
+msgstr ""
+
+#: templates/admin/import-page.php:32
+msgid "Import Rules For"
+msgstr ""
+
+#: templates/admin/import-page.php:64
+msgid "Import Using"
+msgstr ""
+
+#: templates/admin/import-page.php:99
+msgid "Select File"
+msgstr ""
+
+#: templates/admin/import-page.php:106
+msgid "If the customer specific price already exists, the existing values will be overwritten by the new values. While importing using SKU please make sure that all products have SKUs before import"
+msgstr ""
+
+#: templates/admin/import-page.php:114
+msgid "Recommended Settings for Importing Large Files"
+msgstr ""
+
+#: templates/admin/import-page.php:114
+msgid "Help ?"
+msgstr ""
+
+#: templates/admin/import-page.php:118
+msgid "Note:"
+msgstr ""
+
+#: templates/admin/import-page.php:121
+msgid "For a large CSV file, kindly consider splitting the entries by deciding the number of splits (simultaneous batches) and capacity of each split (records in a batch)."
+msgstr ""
+
+#: templates/admin/import-page.php:126
+msgid "Records In a Batch "
+msgstr ""
+
+#: templates/admin/import-page.php:129
+msgid "Simultaneous Batches "
+msgstr ""
+
+#: templates/admin/search-by-page.php:8
+msgid "Search price being applied for a"
+msgstr ""
+
+#: templates/admin/search-by-page.php:29
+msgid "Select a customer"
+msgstr ""
+
+#: templates/admin/search-by-page.php:40
+msgid "Select a user role"
+msgstr ""
+
+#: templates/admin/search-by-page.php:58
+msgid "Select a user group"
+msgstr ""
+
+#: templates/print_group_specific_pricing_tab_content.php:160
+#: templates/print_user_specific_pricing_tab_content.php:191
+msgid "Add New Pair"
+msgstr ""
+
+#: templates/print_group_specific_pricing_tab_content.php:161
+msgid "Add New Group-Price Pair"
+msgstr ""
+
+#: templates/print_role_specific_pricing_tab_content.php:117
+msgid "Add New Role-Price Pair"
+msgstr ""
+
+#: templates/print_user_specific_pricing_tab_content.php:192
+msgid "It seems that some values mapped to users, roles or groups are not valid. Please verify it again."
+msgstr ""
+
+#: templates/rule-section.php:13
+msgid "The priorities are as follows"
+msgstr ""
+
+#: templates/rule-section.php:47
+msgid "Remember to Publish/Update the product to save any changes made."
+msgstr ""

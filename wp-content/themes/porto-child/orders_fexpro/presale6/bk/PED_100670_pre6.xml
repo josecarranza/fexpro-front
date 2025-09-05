@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="100670" Cliente="0000" Nombre="Paula Mostajo" Fecha="16/02/2022" Tipo="1" Fecha_Entrega="16/02/2022" Direccion="AV. KENNEDY 9001, PISO 4, LAS CONDES " Direccion2="Chile Región Metropolitana de Santiago CHILE 0000" Vendedor="01" AgenteEmbarcador="" Observaciones="PARIS CHILE – GORRAS UNIVERSIDADES MUJER FW22" ResponsablePedido="" ResponsableImportacion="" Contacto="Paula Mostajo" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="UNHVSB622201-RED" Color="RED" Cantidad="26" size_OS="624" Unit_Box_Qty="24" Total_Box_Qty="624" Precio="8"></Linea>
+    <Linea Producto="UNYLSB622201-NVY" Color="NVY" Cantidad="34" size_OS="816" Unit_Box_Qty="24" Total_Box_Qty="816" Precio="8"></Linea>
+    <Linea Producto="UNHVSB622203-DEN" Color="DEN" Cantidad="34" size_OS="816" Unit_Box_Qty="24" Total_Box_Qty="816" Precio="8"></Linea>
+    <Linea Producto="UNLASB622201-LHB" Color="LHB" Cantidad="21" size_OS="504" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="8"></Linea>
+    <Linea Producto="UNLSSB622201-YEL" Color="YEL" Cantidad="21" size_OS="504" Unit_Box_Qty="24" Total_Box_Qty="504" Precio="8"></Linea>
+  </Encabezado>
+</Sagemobile>

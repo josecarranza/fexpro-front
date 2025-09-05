@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="64549" Cliente="0459" Nombre="Rodrigo Sepulveda" Fecha="27/09/2021" Tipo="1" Fecha_Entrega="27/09/2021" Direccion="AMÉRICO VESPUCIO SUR N° 866 " Direccion2="Panama  LAS CONDES - SANTIAGO 7550000" Vendedor="01" AgenteEmbarcador="" Observaciones="BELSPORT NBA HOMBRE Y NIÑOS SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="Rodrigo Sepulveda" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="" Color="" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="50" size_OS="1200" Unit_Box_Qty="24" Total_Box_Qty="1200" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52251-RED" Color="RED" Cantidad="23" size_OS="552" Unit_Box_Qty="24" Total_Box_Qty="552" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52244-BLK2" Color="BLK2" Cantidad="29" size_OS="696" Unit_Box_Qty="24" Total_Box_Qty="696" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52244-BLK4" Color="BLK4" Cantidad="30" size_OS="720" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="6"></Linea>
+    <Linea Producto="NBABN52217-BLK" Color="BLK" Cantidad="30" size_OS="720" Unit_Box_Qty="24" Total_Box_Qty="720" Precio="6"></Linea>
+    <Linea Producto="NBABN52217-BLK1" Color="BLK1" Cantidad="24" size_OS="576" Unit_Box_Qty="24" Total_Box_Qty="576" Precio="6"></Linea>
+    <Linea Producto="NBABN52217-BLK4" Color="BLK4" Cantidad="45" size_OS="1080" Unit_Box_Qty="24" Total_Box_Qty="1080" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52254-RED" Color="RED" Cantidad="49" size_OS="1176" Unit_Box_Qty="24" Total_Box_Qty="1176" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52254-BLK" Color="BLK" Cantidad="5" size_OS="120" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52254-BLK1" Color="BLK1" Cantidad="54" size_OS="1296" Unit_Box_Qty="24" Total_Box_Qty="1296" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52236-BLK" Color="BLK" Cantidad="49" size_OS="1176" Unit_Box_Qty="24" Total_Box_Qty="1176" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52236-BLK1" Color="BLK1" Cantidad="49" size_OS="1176" Unit_Box_Qty="24" Total_Box_Qty="1176" Precio="8.5"></Linea>
+    <Linea Producto="NBASB52236-BLK3" Color="BLK3" Cantidad="14" size_4="28" size_6="56" size_8="56" size_10="56" size_12="56" size_14="56" size_16="28" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="8"></Linea>
+    <Linea Producto="" Color="" Cantidad="14" size_4="28" size_6="56" size_8="56" size_10="56" size_12="56" size_14="56" size_16="28" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="8"></Linea>
+    <Linea Producto="" Color="" Cantidad="15" size_4="30" size_6="60" size_8="60" size_10="60" size_12="60" size_14="60" size_16="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="5"></Linea>
+    <Linea Producto="" Color="" Cantidad="7" size_4="14" size_6="28" size_8="28" size_10="28" size_12="28" size_14="28" size_16="14" Unit_Box_Qty="24" Total_Box_Qty="168" Precio="5"></Linea>
+    <Linea Producto="" Color="" Cantidad="10" size_4="20" size_6="40" size_8="40" size_10="40" size_12="40" size_14="40" size_16="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="5"></Linea>
+    <Linea Producto="" Color="" Cantidad="25" size_10="125" size_11="125" size_12="125" size_13="125" size_1="100" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="5.15"></Linea>
+    <Linea Producto="NBACS32204-RED" Color="RED" Cantidad="20" size_10="100" size_11="100" size_12="100" size_13="100" size_1="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="5.15"></Linea>
+    <Linea Producto="NBACS32204-BLK" Color="BLK" Cantidad="14" size_4="28" size_6="56" size_8="56" size_10="56" size_12="56" size_14="56" size_16="28" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="12"></Linea>
+    <Linea Producto="" Color="" Cantidad="14" size_4="28" size_6="56" size_8="56" size_10="56" size_12="56" size_14="56" size_16="28" Unit_Box_Qty="24" Total_Box_Qty="336" Precio="12"></Linea>
+    <Linea Producto="" Color="" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="10.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="10.5"></Linea>
+    <Linea Producto="" Color="" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="8"></Linea>
+    <Linea Producto="" Color="" Cantidad="3" size_4="6" size_6="12" size_8="12" size_10="12" size_12="12" size_14="12" size_16="6" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="8"></Linea>
+    <Linea Producto="" Color="" Cantidad="22" size_S="88" size_M="176" size_L="176" size_XL="88" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="10"></Linea>
+    <Linea Producto="NBAPT521001-BLK" Color="BLK" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="10"></Linea>
+    <Linea Producto="NBAPT521001-BLK3" Color="BLK3" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="10"></Linea>
+    <Linea Producto="NBAPT521001-BLK2" Color="BLK2" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="12"></Linea>
+    <Linea Producto="" Color="" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="12"></Linea>
+    <Linea Producto="" Color="" Cantidad="10" size_S="40" size_M="80" size_L="80" size_XL="40" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="12" size_S="48" size_M="96" size_L="96" size_XL="48" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="6"></Linea>
+    <Linea Producto="" Color="" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="25" size_7="100" size_8="150" size_9="200" size_10="100" size_11="50" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="5.7"></Linea>
+    <Linea Producto="NBACS52204-RED" Color="RED" Cantidad="25" size_7="100" size_8="150" size_9="200" size_10="100" size_11="50" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="5.7"></Linea>
+    <Linea Producto="NBACS52204-BLK" Color="BLK" Cantidad="20" size_7="80" size_8="120" size_9="160" size_10="80" size_11="40" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="5.25"></Linea>
+    <Linea Producto="" Color="" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="3" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="24" Total_Box_Qty="72" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="20" size_S="80" size_M="160" size_L="160" size_XL="80" Unit_Box_Qty="24" Total_Box_Qty="480" Precio="14"></Linea>
+    <Linea Producto="" Color="" Cantidad="17" size_S="68" size_M="136" size_L="136" size_XL="68" Unit_Box_Qty="24" Total_Box_Qty="408" Precio="14"></Linea>
+    <Linea Producto="" Color="" Cantidad="15" size_S="60" size_M="120" size_L="120" size_XL="60" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="10"></Linea>
+    <Linea Producto="" Color="" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="15"></Linea>
+    <Linea Producto="" Color="" Cantidad="22" size_S="88" size_M="176" size_L="176" size_XL="88" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="15"></Linea>
+    <Linea Producto="" Color="" Cantidad="5" size_S="20" size_M="40" size_L="40" size_XL="20" Unit_Box_Qty="24" Total_Box_Qty="120" Precio="15"></Linea>
+    <Linea Producto="" Color="" Cantidad="22" size_S="88" size_M="176" size_L="176" size_XL="88" Unit_Box_Qty="24" Total_Box_Qty="528" Precio="15"></Linea>
+    <Linea Producto="" Color="" Cantidad="12" size_4="24" size_6="48" size_8="48" size_10="48" size_12="48" size_14="48" size_16="24" Unit_Box_Qty="24" Total_Box_Qty="288" Precio="5"></Linea>
+  </Encabezado>
+</Sagemobile>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="161271" Cliente="0000" Nombre="Maria Fernanda Sanchez" Fecha="03/02/2023" Tipo="1" Fecha_Entrega="03/02/2023" Direccion="AV. PASEO DE LA REPUBLICA 3220, SAN ISIDRO " Direccion2="Peru Lima LIMA 001122121" Vendedor="01" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Maria Fernanda Sanchez" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASL523201-BK2" Color="BK2" Cantidad="9" size_7="36" size_8="54" size_9="72" size_10="36" size_11="18" Unit_Box_Qty="24" Total_Box_Qty="216" Precio="7"></Linea>
+    <Linea Producto="MLBSL523203-GY1" Color="GY1" Cantidad="25" size_7="100" size_8="150" size_9="200" size_10="100" size_11="50" Unit_Box_Qty="24" Total_Box_Qty="600" Precio="7"></Linea>
+    <Linea Producto="MLBSL523202-BL1" Color="BL1" Cantidad="10" size_7="40" size_8="60" size_9="80" size_10="40" size_11="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.5"></Linea>
+    <Linea Producto="MLBSL523202-RD1" Color="RD1" Cantidad="10" size_7="40" size_8="60" size_9="80" size_10="40" size_11="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.5"></Linea>
+    <Linea Producto="NBASL523203-BK2" Color="BK2" Cantidad="10" size_7="40" size_8="60" size_9="80" size_10="40" size_11="20" Unit_Box_Qty="24" Total_Box_Qty="240" Precio="6.5"></Linea>
+    <Linea Producto="NBASL523205-BK1" Color="BK1" Cantidad="15" size_7="60" size_8="90" size_9="120" size_10="60" size_11="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7"></Linea>
+    <Linea Producto="NBASL523205-BK2" Color="BK2" Cantidad="15" size_7="60" size_8="90" size_9="120" size_10="60" size_11="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7"></Linea>
+    <Linea Producto="PSGSL523201-NV1" Color="NV1" Cantidad="15" size_7="60" size_8="90" size_9="120" size_10="60" size_11="30" Unit_Box_Qty="24" Total_Box_Qty="360" Precio="7"></Linea>
+  </Encabezado>
+</Sagemobile>

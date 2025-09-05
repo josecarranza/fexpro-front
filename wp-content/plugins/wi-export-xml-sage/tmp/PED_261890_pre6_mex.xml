@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="261890" Cliente="CIMACO" Nombre="Christian Ayup" Fecha="19/06/2025" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="HIDALGO,399 PONIENTE CENTRO " Direccion2="Mexico Ciudad de México TORREON, COAHUILA 27000" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Christian Ayup" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="RE260GZSWBXUFA" Color="UFA" Cantidad="3" Almacen="" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1421.9396551667"></Linea>
+    <Linea Producto="RE260HDWWBXUFA" Color="UFA" Cantidad="2" Almacen="" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="1421.9396551667"></Linea>
+    <Linea Producto="N19910AWBXEBT" Color="EBT" Cantidad="2" Almacen="" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="473.66379308333"></Linea>
+    <Linea Producto="N19910AWBXNDZ" Color="NDZ" Cantidad="2" Almacen="" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="473.66379308333"></Linea>
+    <Linea Producto="N19962QWBXVAW" Color="VAW" Cantidad="1" Almacen="" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="473.66379308333"></Linea>
+    <Linea Producto="NJFDEX51WBX4QB" Color="4QB" Cantidad="2" Almacen="" size_S="4" size_M="8" size_L="8" size_XL="4" Unit_Box_Qty="12" Total_Box_Qty="24" Precio="521.07758616667"></Linea>
+    <Linea Producto="NKDK62QWBXH4G" Color="H4G" Cantidad="1" Almacen="" size_S="2" size_M="4" size_L="4" size_XL="2" Unit_Box_Qty="12" Total_Box_Qty="12" Precio="947.80172416667"></Linea>
+  </Encabezado>
+</Sagemobile>

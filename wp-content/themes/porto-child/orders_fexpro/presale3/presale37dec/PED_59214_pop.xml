@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="02" Otra_Cia="02" Pedido="59214" Cliente="0000" Nombre="Thomas Samsing" Fecha="20/08/2021" Tipo="1" Fecha_Entrega="20/08/2021" Direccion="CALLE 99 #11A32 BOGOTA" Direccion2="Colombia  BOGOTA " Vendedor="01" AgenteEmbarcador="" Observaciones="FALABELLA CHILE - PANTUFLAS SS22" ResponsablePedido="" ResponsableImportacion="" Contacto="Thomas Samsing" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="NBASS52202-PUR" Color="PUR" Cantidad="68" size_40="272" size_41="408" size_43="544" size_44="272" size_45="136" Unit_Box_Qty="24" Total_Box_Qty="1632" Precio="6.5"></Linea>
+    <Linea Producto="NBASS52202-BLK" Color="BLK" Cantidad="68" size_40="272" size_41="408" size_43="544" size_44="272" size_45="136" Unit_Box_Qty="24" Total_Box_Qty="1632" Precio="6.5"></Linea>
+    <Linea Producto="NBASS52203-GRY" Color="GRY" Cantidad="63" size_40="252" size_41="378" size_43="504" size_44="252" size_45="126" Unit_Box_Qty="24" Total_Box_Qty="1512" Precio="5.5"></Linea>
+  </Encabezado>
+</Sagemobile>

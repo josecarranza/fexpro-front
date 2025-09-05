@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sagemobile>
+  <Encabezado Cia="08" Otra_Cia="08" Pedido="217469" Cliente="CALZZAPA" Nombre="Juan Carlos Collantes" Fecha="27/06/2024" Tipo="1" Fecha_Entrega="15/01/2024" Direccion="AV FRAY MARCOS DE NIZA, 3510 SUR INT. A COL SAN RAFAEL, CULUIACAN DE ROSALES " Direccion2="Mexico Sinaloa CULIACAN 80150" AgenteEmbarcador="" Observaciones="" ResponsablePedido="" ResponsableImportacion="" Contacto="Juan Carlos Collantes" OtrasInstrucciones="" Noordencompra="" TipoEntrega="1" Sustitucion="" Courrier="" Seguro="" Empaque="" Marca1="" Marca2="" Marca3="" Marca4="">
+    <Linea Producto="CO2300CBKBUCT" Color="UCT" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1327.112069"></Linea>
+    <Linea Producto="CO2300CJKBUCT" Color="UCT" Cantidad="7" size_S="14" size_M="28" size_L="28" size_XL="14" Unit_Box_Qty="12" Total_Box_Qty="84" Precio="1327.112069"></Linea>
+    <Linea Producto="CO23KBC4KBUCT" Color="UCT" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMBQA1BQL23" Color="L23" Cantidad="6" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMBQA2BQL23" Color="L23" Cantidad="6" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMBQHOBQL23" Color="L23" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMHUHOHUSL23" Color="L23" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMHURDHUSL23" Color="L23" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMPYC1PYPL23" Color="L23" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="1516.7672414167"></Linea>
+    <Linea Producto="T7LMLDA1LDL23" Color="L23" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMLDA2LDL23" Color="L23" Cantidad="6" size_S="12" size_M="24" size_L="24" size_XL="12" Unit_Box_Qty="12" Total_Box_Qty="72" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMLDHOLDL23" Color="L23" Cantidad="7" size_S="14" size_M="28" size_L="28" size_XL="14" Unit_Box_Qty="12" Total_Box_Qty="84" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMNKA1NKL23" Color="L23" Cantidad="7" size_S="14" size_M="28" size_L="28" size_XL="14" Unit_Box_Qty="12" Total_Box_Qty="84" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMNKA2NKL23" Color="L23" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMNKHONKL23" Color="L23" Cantidad="8" size_S="16" size_M="32" size_L="32" size_XL="16" Unit_Box_Qty="12" Total_Box_Qty="96" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMNKRDNKL23" Color="L23" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMPYHOPYPL23" Color="L23" Cantidad="4" size_S="8" size_M="16" size_L="16" size_XL="8" Unit_Box_Qty="12" Total_Box_Qty="48" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMRXA2RXL23" Color="L23" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMRXHORXL23" Color="L23" Cantidad="5" size_S="10" size_M="20" size_L="20" size_XL="10" Unit_Box_Qty="12" Total_Box_Qty="60" Precio="1327.112069"></Linea>
+    <Linea Producto="T7LMSCHOSCNL23" Color="L23" Cantidad="3" size_S="6" size_M="12" size_L="12" size_XL="6" Unit_Box_Qty="12" Total_Box_Qty="36" Precio="1327.112069"></Linea>
+  </Encabezado>
+</Sagemobile>
